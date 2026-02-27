@@ -13,6 +13,13 @@
     .navbar { 
       background-color: #007bff; 
     }
+    /* Narrow body content only */
+    .narrow-body {
+      max-width: 600px;
+      margin: 0 auto;
+      padding-left: 15px;
+      padding-right: 15px;
+    }
     .video-wrapper { 
       position: relative; 
       padding-bottom: 56.25%; 
@@ -41,12 +48,11 @@
     .alert-info {
       border-radius: 8px;
     }
-    /* Removed the narrow max-width so page uses full Bootstrap container width like home/results */
   </style>
 </head>
 <body>
 
-  <!-- Standardized Navbar (matches home page) -->
+  <!-- Full-width Navbar (matches home page) -->
   <nav class="navbar navbar-expand-lg navbar-dark">
     <div class="container">
       <a class="navbar-brand" href="/">How Many Left?</a>
@@ -69,10 +75,10 @@
     </div>
   </nav>
 
-  <!-- Main Content -->
+  <!-- Narrow Body Content (600px max-width) -->
   <section class="py-5">
-    <div class="container">
-      <!-- Intro text (same size/style as examples) -->
+    <div class="narrow-body">
+      <!-- Intro text -->
       <p class="text-center mb-5">
         This site shows real-time registration counts for light passenger vehicles in New Zealand, based on public NZTA (Waka Kotahi) data. 
         Find out exactly how many of a specific make, model, or variant are still on the road — perfect for spotting rare classics, 
@@ -158,7 +164,7 @@
     </div>
   </section>
 
-  <!-- Footer - identical to home -->
+  <!-- Full-width Footer (matches home page) -->
   <footer class="bg-secondary text-white py-5">
     <div class="container">
       <div class="row text-center text-md-start">
