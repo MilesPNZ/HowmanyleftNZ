@@ -70,7 +70,7 @@
   <!-- Hero & Search -->
   <section class="py-5 text-center">
     <div class="container">
-      <img src="https://i.postimg.cc/DfX4sXHy/Homepage-1.jpg" alt="Classic car Parked in the Souther Alps" class="hero-img">
+      <img src="{{ url_for('static', filename='images/Homepage-1.jpg') }}" alt="Classic car Parked in the Souther Alps" class="hero-img">
       <div class="search-container">
         <form action="/search" method="GET" class="search-bar position-relative">
           <input type="text" id="query" name="query" class="form-control form-control-lg" 
