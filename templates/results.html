@@ -12,16 +12,10 @@
     .table th, .table td { vertical-align: middle; }
     .table .text-end { text-align: right !important; }
 
-    /* NEW: Constrain main results content to 800px max-width */
-    .results-container {
-      max-width: 800px;
-      margin: 0 auto;
-    }
-
     /* Centered Results Header + Rarity Scale */
     .results-header {
       text-align: center;
-      width: 100%;
+      max-width: 720px;
       margin: 0 auto 3rem auto;
       display: flex;
       flex-direction: column;
@@ -40,6 +34,7 @@
     /* Rarity Scale Container */
     .rarity-scale-container {
       width: 100%;
+      max-width: 720px;
       margin: 0 auto;
       padding-top: 90px;
       position: relative;
@@ -162,8 +157,8 @@
     </div>
   </nav>
 
-  <!-- Main content - constrained to 800px max-width -->
-  <div class="results-container container mt-5 mb-5">
+  <div class="container mt-5 mb-5">
+
     <div class="results-header">
       <h2>Results For - {{ search_summary }}</h2>
 
@@ -298,7 +293,7 @@
 
   </div>
 
-  <!-- Footer - identical to home page -->
+  <!-- Footer - copied verbatim from home page -->
   <footer class="bg-secondary text-white py-5">
     <div class="container">
       <div class="row text-center text-md-start">
