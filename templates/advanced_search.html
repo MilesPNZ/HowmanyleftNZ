@@ -13,25 +13,27 @@
     .navbar { background-color: #007bff; }
     .form-section { max-width: 800px; margin: 0 auto; }
 
-    /* Force navbar to match home page exactly - overrides any Tom Select or inheritance issues */
-    .navbar-brand {
-      font-size: 1.25rem !important;
-      font-weight: 500 !important;
-      line-height: 1.5 !important;
-    }
-    .nav-link {
-      font-size: 1rem !important;
-      font-weight: 400 !important;
-      padding: 0.5rem 1rem !important;
-      line-height: 1.5 !important;
-    }
-    .nav-link.active {
-      font-weight: 700 !important;
-    }
-    .navbar {
-      padding: 0.5rem 1rem !important; /* Consistent height */
-    }
+    /* Force Advanced Search navbar to match Home exactly */
+.navbar-brand {
+  font-size: 1.25rem !important; /* 20px */
+  font-weight: 500 !important;
+}
+.nav-link {
+  font-size: 1rem !important; /* 16px */
+  font-weight: 400 !important;
+  padding: 0.5rem 1rem !important;
+}
+.nav-link.active {
+  font-weight: 700 !important;
+}
+.navbar {
+  padding: 0.5rem 1rem !important; /* Consistent height */
+}
 
+/* Reduce top spacing so form sits closer to navbar like home */
+.form-section {
+  margin-top: 1.5rem !important; /* ~24px instead of 48px from mt-5 */
+}
     /* Your Tom Select overrides - kept intact */
     .ts-dropdown,
     .ts-wrapper .ts-dropdown,
