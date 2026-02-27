@@ -13,9 +13,6 @@
     .navbar { 
       background-color: #007bff; 
     }
-    .container { 
-      max-width: 600px; 
-    }
     .video-wrapper { 
       position: relative; 
       padding-bottom: 56.25%; 
@@ -47,33 +44,34 @@
   </style>
 </head>
 <body>
-  <!-- Nav -->
-<nav class="navbar navbar-expand-lg navbar-dark">
-  <div class="container">
-    <a class="navbar-brand" href="/">How Many Left?</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ms-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="/">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/advanced-search">Advanced Search</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active" href="/how-to-use">How To Use</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</nav>
 
-  <!-- Main Content - No top header -->
+  <!-- Standardized Navbar (matches home page) -->
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <div class="container">
+      <a class="navbar-brand" href="/">How Many Left?</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/advanced-search">Advanced Search</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="/how-to-use">How To Use</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main Content -->
   <section class="py-5">
     <div class="container">
-      <!-- Intro text now same size/style as example paragraphs -->
+      <!-- Intro text (same size/style as examples) -->
       <p class="text-center mb-5">
         This site shows real-time registration counts for light passenger vehicles in New Zealand, based on public NZTA (Waka Kotahi) data. 
         Find out exactly how many of a specific make, model, or variant are still on the road — perfect for spotting rare classics, 
@@ -159,7 +157,7 @@
     </div>
   </section>
 
-  <!-- Footer - identical to index.html -->
+  <!-- Footer - identical to home -->
   <footer class="bg-secondary text-white py-5">
     <div class="container">
       <div class="row text-center text-md-start">
