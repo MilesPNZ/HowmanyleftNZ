@@ -6,11 +6,11 @@ from dotenv import load_dotenv
 import json
 import logging
 
-# Set up logging (critical for Vercel — print() often gets swallowed)
+# Set up logging (shows in Vercel function logs)
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Only load .env in local dev (Vercel uses real env vars)
+# Only load .env in local development (Vercel uses real env vars)
 if os.getenv('VERCEL') is None:
     load_dotenv()
 
@@ -41,30 +41,33 @@ except Exception as e:
     logger.error("Error loading total fleet: %s", str(e))
     total_fleet = 3603554  # fallback
 
-@app.route('/')
-def home():
+def load_makes_models():
+    """Helper to load JSON safely - used by home and advanced-search"""
+    json_path = os.path.join(os.path.dirname(__file__), 'nzta_makes_models_filtered.json')
+    if not os.path.exists(json_path):
+        logger.error("JSON file not found: %s", json_path)
+        return [], {}
     try:
-        with open('nzta_makes_models_filtered.json', 'r', encoding='utf-8') as f:
+        with open(json_path, 'r', encoding='utf-8') as f:
             makes_models = json.load(f)
         makes = sorted(makes_models.keys())
+        logger.info("Loaded %d makes from JSON", len(makes))
+        return makes, makes_models
+    except json.JSONDecodeError as e:
+        logger.error("JSON decode error: %s", str(e))
+        return [], {}
     except Exception as e:
-        logger.error("Error loading makes/models JSON: %s", str(e))
-        makes = []
-        makes_models = {}
+        logger.error("Error loading JSON: %s", str(e))
+        return [], {}
 
+@app.route('/')
+def home():
+    makes, makes_models = load_makes_models()
     return render_template('index.html', makes=makes, makes_models=makes_models)
 
 @app.route('/advanced-search')
 def advanced_search():
-    try:
-        with open('nzta_makes_models_filtered.json', 'r', encoding='utf-8') as f:
-            makes_models = json.load(f)
-        makes = sorted(makes_models.keys())
-    except Exception as e:
-        logger.error("Error loading makes/models JSON: %s", str(e))
-        makes = []
-        makes_models = {}
-
+    makes, _ = load_makes_models()  # We only need makes here
     return render_template('advanced_search.html', makes=makes)
 
 @app.route('/how-to-use')
@@ -379,7 +382,7 @@ def test_db():
         logger.error("DB test connection failed: %s", str(e))
         return f"Connection failed: {str(e)}", 500
 
-# This is the key line for Vercel/gunicorn serverless
+# Required for Vercel/gunicorn serverless deployment
 application = app
 
 if __name__ == '__main__':
