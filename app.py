@@ -4,33 +4,41 @@ import pandas as pd
 import os
 from dotenv import load_dotenv
 import json
+import logging
 
-load_dotenv()
+# Set up logging (critical for Vercel — print() often gets swallowed)
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+# Only load .env in local dev (Vercel uses real env vars)
+if os.getenv('VERCEL') is None:
+    load_dotenv()
 
 app = Flask(__name__)
 app.jinja_env.auto_reload = True
 app.config['TEMPLATES_AUTO_RELOAD'] = True
 
+# Database setup
 DATABASE_URL = os.getenv('DATABASE_URL')
 if not DATABASE_URL:
-    print("No DATABASE_URL in env - falling back to local SQLite.")
+    logger.warning("No DATABASE_URL in env - falling back to local SQLite.")
     DATABASE_URL = 'sqlite:///nz_full_vehicles.db'
 else:
     if 'supabase.co' in DATABASE_URL and 'sslmode' not in DATABASE_URL:
         DATABASE_URL += '?sslmode=require'
-    print("Using Supabase:", DATABASE_URL.split('://')[0] + "://...")
+    logger.info("Using Supabase: %s://...", DATABASE_URL.split('://')[0])
 
 engine = create_engine(DATABASE_URL, pool_pre_ping=True, pool_size=10, max_overflow=20)
 
-# Load current total light passenger fleet from Supabase counts_current
+# Load total fleet
 total_fleet = 0
 try:
     with engine.connect() as conn:
         result = conn.execute(text("SELECT SUM(count) FROM counts_current"))
         total_fleet = result.scalar() or 0
-    print(f"Light passenger fleet loaded from Supabase: {total_fleet:,}")
+    logger.info("Light passenger fleet loaded: %s", f"{total_fleet:,}")
 except Exception as e:
-    print(f"Error loading total fleet: {e}")
+    logger.error("Error loading total fleet: %s", str(e))
     total_fleet = 3603554  # fallback
 
 @app.route('/')
@@ -40,7 +48,7 @@ def home():
             makes_models = json.load(f)
         makes = sorted(makes_models.keys())
     except Exception as e:
-        print(f"Error loading makes/models JSON: {e}")
+        logger.error("Error loading makes/models JSON: %s", str(e))
         makes = []
         makes_models = {}
 
@@ -53,7 +61,7 @@ def advanced_search():
             makes_models = json.load(f)
         makes = sorted(makes_models.keys())
     except Exception as e:
-        print(f"Error loading makes/models JSON: {e}")
+        logger.error("Error loading makes/models JSON: %s", str(e))
         makes = []
         makes_models = {}
 
@@ -69,7 +77,7 @@ def get_models():
     if not make:
         return jsonify([])
 
-    print(f"Fetching models for make: {make}")
+    logger.info("Fetching models for make: %s", make)
     sql = text("""
         SELECT model
         FROM counts_current
@@ -85,21 +93,21 @@ def get_models():
         result = conn.execute(sql, {"make": make})
         models = [row[0].strip() for row in result if row[0] and row[0].strip()]
 
-    print(f"Returning {len(models)} models for {make}")
+    logger.info("Returning %d models for %s", len(models), make)
     return jsonify(models)
 
 @app.route('/submodels')
 def get_submodels():
     make = request.args.get('make', '').strip().upper()
     models_list = request.args.getlist('models') or request.args.getlist('model[]') or request.args.getlist('models[]')
-    print(f"DEBUG /submodels called with raw args: {request.args}")
-    print(f"DEBUG make: '{make}', models_list: {models_list}")
+    logger.info("DEBUG /submodels called with raw args: %s", dict(request.args))
+    logger.info("DEBUG make: '%s', models_list: %s", make, models_list)
 
     if not make or not models_list:
-        print("DEBUG /submodels early return: missing make or models")
+        logger.info("DEBUG /submodels early return: missing make or models")
         return jsonify([])
 
-    print(f"DEBUG Fetching submodels for make: {make}, models: {models_list}")
+    logger.info("Fetching submodels for make: %s, models: %s", make, models_list)
 
     sql = text("""
         SELECT COALESCE(submodel, '') AS submodel
@@ -117,18 +125,18 @@ def get_submodels():
     """)
     params = {"make": make, "models": tuple(models_list)}
 
-    print(f"DEBUG executing SQL: {sql} with params: {params}")
+    logger.info("Executing SQL with params: %s", params)
 
     with engine.connect() as conn:
         try:
             result = conn.execute(sql, params)
             submodels = [row[0] for row in result]
-            print(f"DEBUG query returned {len(submodels)} submodels")
+            logger.info("Query returned %d submodels", len(submodels))
         except Exception as e:
-            print(f"DEBUG SQL error: {str(e)}")
+            logger.error("SQL error in /submodels: %s", str(e))
             submodels = []
 
-    print(f"Returning {len(submodels)} submodels (including blanks)")
+    logger.info("Returning %d submodels (including blanks)", len(submodels))
     return jsonify(submodels)
 
 @app.route('/search', methods=['GET', 'POST'])
@@ -152,21 +160,22 @@ def search():
         keywords = request.args.get('keywords', '').strip().upper()
         fuel_types = request.args.getlist('fuel_type') or request.args.getlist('fuel_type[]')
 
-    print(f"DEBUG search params: query='{query}', make='{make}', models={models}, submodels={submodels}, year_from='{year_from}', year_to='{year_to}', keywords='{keywords}', fuel_types={fuel_types}")
+    logger.info("DEBUG search params: query='%s', make='%s', models=%s, submodels=%s, year_from='%s', year_to='%s', keywords='%s', fuel_types=%s",
+                query, make, models, submodels, year_from, year_to, keywords, fuel_types)
 
     use_advanced = make or models or submodels or year_from or year_to or keywords or fuel_types
     if use_advanced:
-        print("DEBUG: Advanced params detected → using advanced filtering")
+        logger.info("DEBUG: Advanced params detected → using advanced filtering")
         query = ''
     else:
-        print("DEBUG: No advanced params → using single-box fallback")
+        logger.info("DEBUG: No advanced params → using single-box fallback")
 
     where_clauses = []
     params = {}
 
     if query and not use_advanced:
         query_upper = query.upper().strip()
-        words = query_upper.split()  # split into words
+        words = query_upper.split()
         if words:
             clauses = []
             for i, word in enumerate(words):
@@ -213,10 +222,10 @@ def search():
             params['fuel_types'] = tuple(fuel_types)
 
     where_sql = " AND ".join(where_clauses) if where_clauses else "TRUE"
-    print(f"DEBUG WHERE clause: {where_sql}")
-    print(f"DEBUG params: {params}")
+    logger.info("DEBUG WHERE clause: %s", where_sql)
+    logger.info("DEBUG params: %s", params)
 
-    # Build human-readable search summary – no quotes for home page search
+    # Build human-readable search summary
     search_summary_parts = []
     if query and not use_advanced:
         search_summary_parts.append(query.strip())
@@ -283,13 +292,13 @@ def search():
                 try:
                     return json.loads(val)
                 except json.JSONDecodeError as e:
-                    print(f"JSON decode failed: {e} on value: {val}")
+                    logger.error("JSON decode failed: %s on value: %s", e, val)
                     return []
             if isinstance(val, list):
                 return val
             if isinstance(val, dict):
                 return [val]
-            print(f"Unexpected type in JSON parse: {type(val)} - value: {val}")
+            logger.warning("Unexpected type in JSON parse: %s - value: %s", type(val), val)
             return []
 
         yearly_list = safe_json_parse(yearly_json)
@@ -298,10 +307,9 @@ def search():
         if total == 0:
             return render_template('results.html', search_summary=search_summary, total=0, rarity='N/A', error="No matching vehicles found")
 
-        # Rarity calculation: relative to current total fleet
+        # Rarity calculation
         rarity = total_fleet // total if total > 0 else 'N/A'
 
-        # Tail-heavy thresholds focused on rare/classic cars
         rarity_level = {'quality': 'N/A', 'hex': '#6c757d'}
         if rarity != 'N/A':
             if rarity < 500:
@@ -358,7 +366,7 @@ def search():
         )
 
     except Exception as e:
-        print(f"Search error: {str(e)}")
+        logger.error("Search error: %s", str(e))
         return render_template('results.html', search_summary="Search Error", total=0, rarity='N/A', error="Database error – please try again")
 
 @app.route('/test-db')
@@ -368,7 +376,12 @@ def test_db():
             result = conn.execute(text("SELECT 1")).scalar()
         return f"Database connected! Test query returned: {result}"
     except Exception as e:
+        logger.error("DB test connection failed: %s", str(e))
         return f"Connection failed: {str(e)}", 500
 
+# This is the key line for Vercel/gunicorn serverless
+application = app
+
 if __name__ == '__main__':
-    app.run(debug=True)
+    # Local development only
+    app.run(debug=True, host='0.0.0.0', port=5000)
