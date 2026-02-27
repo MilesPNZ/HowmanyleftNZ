@@ -1,6 +1,6 @@
-flask
-sqlalchemy
-psycopg2-binary   # or just psycopg2 if you prefer
-python-dotenv
-pandas            # if used
-gunicorn          # important for Vercel production
+flask==3.0.3
+sqlalchemy==2.0.35
+psycopg2-binary==2.9.10
+python-dotenv==1.0.1
+pandas==2.2.3
+gunicorn==23.0.0
