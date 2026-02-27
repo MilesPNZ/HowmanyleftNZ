@@ -57,30 +57,31 @@
 </head>
 <body>
 
-  <!-- Navbar -->
-<nav class="navbar navbar-expand-lg navbar-dark">
-  <div class="container">
-    <a class="navbar-brand" href="/">How Many Left?</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ms-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="/">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active" href="/advanced-search">Advanced Search</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/how-to-use">How To Use</a>
-        </li>
-      </ul>
+  <!-- Navbar – exact match to home page -->
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <div class="container">
+      <a class="navbar-brand" href="/">How Many Left?</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="/advanced-search">Advanced Search</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/how-to-use">How To Use</a>
+          </li>
+        </ul>
+      </div>
     </div>
-  </div>
-</nav>
+  </nav>
 
-  <div class="container mt-5 mb-5 form-section">
+  <!-- Content – no extra top/bottom margin on container to match home spacing feel -->
+  <div class="container mt-4 mb-5 form-section">
     <h2 class="mb-4">Advanced Search</h2>
 
     <form action="/search" method="GET" id="advancedSearchForm">
@@ -151,7 +152,7 @@
     </form>
   </div>
 
-  <!-- Footer -->
+  <!-- Footer (same as home) -->
   <footer class="bg-secondary text-white py-5">
     <div class="container">
       <div class="row text-center text-md-start">
@@ -179,7 +180,7 @@
           <h5 class="text-uppercase mb-3">About the author</h5>
           <p class="small">
             This is a passion project built by a New Zealand car enthusiast to make NZ vehicle registration data more accessible and fun to explore.<br><br>
-    Running the site (hosting, database, domain, and ongoing updates) costs real money every month. If you find it useful and would like to help keep it online and improving, any support is hugely appreciated:
+            Running the site (hosting, database, domain, and ongoing updates) costs real money every month. If you find it useful and would like to help keep it online and improving, any support is hugely appreciated:
           </p>
           <form action="https://www.paypal.com/donate" method="post" target="_top">
             <input type="hidden" name="hosted_button_id" value="YOUR_BUTTON_ID" />
@@ -202,110 +203,108 @@
   <!-- Tom Select JS -->
   <script src="https://cdn.jsdelivr.net/npm/tom-select@2.3.1/dist/js/tom-select.complete.min.js"></script>
 
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
 
-    // Make select (single)
-    const makeSelect = document.getElementById('make');
+      // Make select (single)
+      const makeSelect = document.getElementById('make');
 
-    // Model multi-select (Tom Select)
-    const modelTom = new TomSelect('#model', {
-      plugins: ['remove_button'],
-      persist: false,
-      create: false,
-      maxOptions: null,
-      placeholder: 'Select Model(s) (multiple allowed)',
-      searchField: ['text']
-    });
-
-    // Sub-model / Variant - Tom Select
-    const submodelTom = new TomSelect('#submodel', {
-      plugins: ['remove_button'],
-      persist: false,
-      create: false,
-      maxOptions: null,
-      maxItems: null,
-      placeholder: 'Select Variant(s) (multiple allowed)',
-      searchField: ['text'],
-      preload: false
-    });
-
-    // Preserve scroll position on re-render
-    submodelTom.on('item_add', function(value, item) {
-      console.log('DEBUG: item_add fired for:', value);
-      const dropdown = submodelTom.dropdown;
-      const currentScroll = dropdown.scrollTop;
-      console.log('DEBUG: captured scroll:', currentScroll);
-
-      // Observer to watch for re-render changes
-      const observer = new MutationObserver(() => {
-        console.log('DEBUG: Mutation detected - restoring scroll');
-        dropdown.scrollTop = currentScroll;
-        observer.disconnect();  // Stop observing after restore
+      // Model multi-select (Tom Select)
+      const modelTom = new TomSelect('#model', {
+        plugins: ['remove_button'],
+        persist: false,
+        create: false,
+        maxOptions: null,
+        placeholder: 'Select Model(s) (multiple allowed)',
+        searchField: ['text']
       });
 
-      observer.observe(dropdown, { childList: true, subtree: true });
+      // Sub-model / Variant - Tom Select
+      const submodelTom = new TomSelect('#submodel', {
+        plugins: ['remove_button'],
+        persist: false,
+        create: false,
+        maxOptions: null,
+        maxItems: null,
+        placeholder: 'Select Variant(s) (multiple allowed)',
+        searchField: ['text'],
+        preload: false
+      });
 
-      // Fallback timeout in case observer misses
-      setTimeout(() => {
-        dropdown.scrollTop = currentScroll;
-        console.log('DEBUG: fallback restore to:', dropdown.scrollTop);
-        observer.disconnect();
-      }, 300);
-    });
+      // Preserve scroll position on re-render
+      submodelTom.on('item_add', function(value, item) {
+        console.log('DEBUG: item_add fired for:', value);
+        const dropdown = submodelTom.dropdown;
+        const currentScroll = dropdown.scrollTop;
+        console.log('DEBUG: captured scroll:', currentScroll);
 
-    // Fuel Type multi-select (Tom Select)
-    const fuelTom = new TomSelect('#fuel_type', {
-      plugins: ['remove_button'],
-      persist: false,
-      create: false,
-      maxOptions: 50,
-      placeholder: 'Select Fuel Type(s) (multiple allowed)',
-      searchField: ['text']
-    });
+        const observer = new MutationObserver(() => {
+          console.log('DEBUG: Mutation detected - restoring scroll');
+          dropdown.scrollTop = currentScroll;
+          observer.disconnect();
+        });
 
-    // Load models when make changes
-    makeSelect.addEventListener('change', function() {
-      const make = this.value;
-      if (!make) {
-        modelTom.clearOptions();
-        modelTom.disable();
-        submodelTom.clearOptions();
-        submodelTom.disable();
-        return;
-      }
+        observer.observe(dropdown, { childList: true, subtree: true });
 
-      $.get('/models', { make: make }, function(data) {
-        modelTom.clearOptions();
-        const options = data.map(m => ({ value: m, text: m }));
-        modelTom.addOptions(options);
-        modelTom.refreshOptions(false);
-        modelTom.enable();
+        setTimeout(() => {
+          dropdown.scrollTop = currentScroll;
+          console.log('DEBUG: fallback restore to:', dropdown.scrollTop);
+          observer.disconnect();
+        }, 300);
+      });
+
+      // Fuel Type multi-select (Tom Select)
+      const fuelTom = new TomSelect('#fuel_type', {
+        plugins: ['remove_button'],
+        persist: false,
+        create: false,
+        maxOptions: 50,
+        placeholder: 'Select Fuel Type(s) (multiple allowed)',
+        searchField: ['text']
+      });
+
+      // Load models when make changes
+      makeSelect.addEventListener('change', function() {
+        const make = this.value;
+        if (!make) {
+          modelTom.clearOptions();
+          modelTom.disable();
+          submodelTom.clearOptions();
+          submodelTom.disable();
+          return;
+        }
+
+        $.get('/models', { make: make }, function(data) {
+          modelTom.clearOptions();
+          const options = data.map(m => ({ value: m, text: m }));
+          modelTom.addOptions(options);
+          modelTom.refreshOptions(false);
+          modelTom.enable();
+        });
+      });
+
+      // Load submodels when model changes
+      modelTom.on('change', function() {
+        const make = makeSelect.value;
+        const models = modelTom.getValue();
+        if (!make || !models.length) {
+          submodelTom.clearOptions();
+          submodelTom.disable();
+          return;
+        }
+
+        $.get('/submodels', { make: make, models: models }, function(data) {
+          submodelTom.clearOptions();
+          const options = data.map(item => ({
+            value: item || '',
+            text: item || 'Base / Standard Model'
+          }));
+          submodelTom.addOptions(options);
+          submodelTom.refreshOptions(false);
+          submodelTom.enable();
+        });
       });
     });
-
-    // Load submodels when model changes
-    modelTom.on('change', function() {
-      const make = makeSelect.value;
-      const models = modelTom.getValue();
-      if (!make || !models.length) {
-        submodelTom.clearOptions();
-        submodelTom.disable();
-        return;
-      }
-
-      $.get('/submodels', { make: make, models: models }, function(data) {
-        submodelTom.clearOptions();
-        const options = data.map(item => ({
-          value: item || '',
-          text: item || 'Base / Standard Model'
-        }));
-        submodelTom.addOptions(options);
-        submodelTom.refreshOptions(false);
-        submodelTom.enable();
-      });
-    });
-  });
-</script>
+  </script>
 </body>
 </html>
