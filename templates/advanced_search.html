@@ -13,7 +13,26 @@
     .navbar { background-color: #007bff; }
     .form-section { max-width: 800px; margin: 0 auto; }
 
-    /* STRONG override for Tom Select dropdown height */
+    /* Force navbar to match home page exactly - overrides any Tom Select or inheritance issues */
+    .navbar-brand {
+      font-size: 1.25rem !important;
+      font-weight: 500 !important;
+      line-height: 1.5 !important;
+    }
+    .nav-link {
+      font-size: 1rem !important;
+      font-weight: 400 !important;
+      padding: 0.5rem 1rem !important;
+      line-height: 1.5 !important;
+    }
+    .nav-link.active {
+      font-weight: 700 !important;
+    }
+    .navbar {
+      padding: 0.5rem 1rem !important; /* Consistent height */
+    }
+
+    /* Your Tom Select overrides - kept intact */
     .ts-dropdown,
     .ts-wrapper .ts-dropdown,
     .ts-wrapper.multi .ts-dropdown {
@@ -30,14 +49,12 @@
       overflow-y: auto !important;
     }
 
-    /* Responsive */
     @media (max-height: 800px) {
       .ts-dropdown-content {
         max-height: 60vh !important;
       }
     }
 
-    /* Larger items */
     .ts-dropdown .option {
       padding: .6rem .9rem !important;
       font-size: 1rem !important;
@@ -49,7 +66,6 @@
       background-color: #e9ecef !important;
     }
 
-    /* Selected tags */
     .ts-wrapper.multi .ts-control { border: 1px solid #ced4da; border-radius: .375rem; }
     .ts-wrapper.multi .ts-control > div { background: #007bff; color: white; border-radius: .375rem; margin: .2rem .2rem .2rem 0; padding: .35em .65em; }
     .ts-wrapper.multi .ts-control > div .remove { color: white; }
@@ -57,7 +73,7 @@
 </head>
 <body>
 
-  <!-- Navbar – exact match to home page -->
+  <!-- Navbar - exact match to home page -->
   <nav class="navbar navbar-expand-lg navbar-dark">
     <div class="container">
       <a class="navbar-brand" href="/">How Many Left?</a>
@@ -80,8 +96,8 @@
     </div>
   </nav>
 
-  <!-- Content – no extra top/bottom margin on container to match home spacing feel -->
-  <div class="container mt-4 mb-5 form-section">
+  <!-- Content - reduced top margin to match home spacing feel -->
+  <div class="container mt-4 mb-5 form-section"> <!-- mt-4 instead of mt-5 -->
     <h2 class="mb-4">Advanced Search</h2>
 
     <form action="/search" method="GET" id="advancedSearchForm">
@@ -152,7 +168,7 @@
     </form>
   </div>
 
-  <!-- Footer (same as home) -->
+  <!-- Footer -->
   <footer class="bg-secondary text-white py-5">
     <div class="container">
       <div class="row text-center text-md-start">
