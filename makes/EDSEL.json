@@ -1,0 +1,12 @@
+[
+  {
+    "model": "RANGER",
+    "total_vehicles": 10,
+    "keep": true
+  },
+  {
+    "model": "VILLAGER",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

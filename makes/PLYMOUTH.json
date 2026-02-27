@@ -1,0 +1,97 @@
+[
+  {
+    "model": "FURY",
+    "total_vehicles": 94,
+    "keep": true
+  },
+  {
+    "model": "ROAD RUNNER",
+    "total_vehicles": 82,
+    "keep": true
+  },
+  {
+    "model": "BARRACUDA",
+    "total_vehicles": 79,
+    "keep": true
+  },
+  {
+    "model": "SATELLITE",
+    "total_vehicles": 63,
+    "keep": true
+  },
+  {
+    "model": "BELVEDERE",
+    "total_vehicles": 44,
+    "keep": true
+  },
+  {
+    "model": "CUDA",
+    "total_vehicles": 38,
+    "keep": true
+  },
+  {
+    "model": "COUPE",
+    "total_vehicles": 34,
+    "keep": true
+  },
+  {
+    "model": "GTX",
+    "total_vehicles": 27,
+    "keep": true
+  },
+  {
+    "model": "DUSTER",
+    "total_vehicles": 25,
+    "keep": true
+  },
+  {
+    "model": "SPORT FURY",
+    "total_vehicles": 17,
+    "keep": true
+  },
+  {
+    "model": "SAVOY",
+    "total_vehicles": 15,
+    "keep": true
+  },
+  {
+    "model": "4",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "6",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "VALIANT",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "DELUXE",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "SCAMP",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "PROWLER",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "CRANBROOK",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "2 DOOR HARDTOP",
+    "total_vehicles": 6,
+    "keep": true
+  }
+]

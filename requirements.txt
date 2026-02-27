@@ -1,4 +1,6 @@
 flask
-gunicorn
 sqlalchemy
-pandas
+psycopg2-binary   # or just psycopg2 if you prefer
+python-dotenv
+pandas            # if used
+gunicorn          # important for Vercel production

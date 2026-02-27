@@ -1,0 +1,552 @@
+[
+  {
+    "model": "ELF",
+    "total_vehicles": 8694,
+    "keep": true
+  },
+  {
+    "model": "N SERIES",
+    "total_vehicles": 7479,
+    "keep": true
+  },
+  {
+    "model": "BIGHORN",
+    "total_vehicles": 4268,
+    "keep": true
+  },
+  {
+    "model": "FORWARD",
+    "total_vehicles": 3073,
+    "keep": true
+  },
+  {
+    "model": "F SERIES",
+    "total_vehicles": 3020,
+    "keep": true
+  },
+  {
+    "model": "MU-X",
+    "total_vehicles": 2932,
+    "keep": true
+  },
+  {
+    "model": "NPR",
+    "total_vehicles": 1305,
+    "keep": true
+  },
+  {
+    "model": "MU",
+    "total_vehicles": 1162,
+    "keep": true
+  },
+  {
+    "model": "JOURNEY",
+    "total_vehicles": 826,
+    "keep": true
+  },
+  {
+    "model": "WIZARD",
+    "total_vehicles": 792,
+    "keep": true
+  },
+  {
+    "model": "N SERIES 100P",
+    "total_vehicles": 649,
+    "keep": true
+  },
+  {
+    "model": "NQR",
+    "total_vehicles": 297,
+    "keep": true
+  },
+  {
+    "model": "NKR",
+    "total_vehicles": 234,
+    "keep": true
+  },
+  {
+    "model": "FRR",
+    "total_vehicles": 193,
+    "keep": true
+  },
+  {
+    "model": "NPS",
+    "total_vehicles": 102,
+    "keep": true
+  },
+  {
+    "model": "KS32",
+    "total_vehicles": 70,
+    "keep": true
+  },
+  {
+    "model": "FSR",
+    "total_vehicles": 70,
+    "keep": true
+  },
+  {
+    "model": "NPR400 4X2",
+    "total_vehicles": 60,
+    "keep": true
+  },
+  {
+    "model": "LT",
+    "total_vehicles": 45,
+    "keep": true
+  },
+  {
+    "model": "NPR350",
+    "total_vehicles": 44,
+    "keep": true
+  },
+  {
+    "model": "NPR450",
+    "total_vehicles": 43,
+    "keep": true
+  },
+  {
+    "model": "FSR500",
+    "total_vehicles": 43,
+    "keep": true
+  },
+  {
+    "model": "VEHICROSS",
+    "total_vehicles": 42,
+    "keep": true
+  },
+  {
+    "model": "NPR300 4X2",
+    "total_vehicles": 37,
+    "keep": true
+  },
+  {
+    "model": "SBR422",
+    "total_vehicles": 34,
+    "keep": true
+  },
+  {
+    "model": "NKR150",
+    "total_vehicles": 34,
+    "keep": true
+  },
+  {
+    "model": "JUSTON",
+    "total_vehicles": 34,
+    "keep": true
+  },
+  {
+    "model": "KT26",
+    "total_vehicles": 32,
+    "keep": true
+  },
+  {
+    "model": "NKR552",
+    "total_vehicles": 31,
+    "keep": true
+  },
+  {
+    "model": "NKR55EY",
+    "total_vehicles": 30,
+    "keep": true
+  },
+  {
+    "model": "LR",
+    "total_vehicles": 29,
+    "keep": true
+  },
+  {
+    "model": "JCS420",
+    "total_vehicles": 27,
+    "keep": true
+  },
+  {
+    "model": "NPR575",
+    "total_vehicles": 26,
+    "keep": true
+  },
+  {
+    "model": "FSR12HXR",
+    "total_vehicles": 26,
+    "keep": true
+  },
+  {
+    "model": "NPR57LX",
+    "total_vehicles": 25,
+    "keep": true
+  },
+  {
+    "model": "NPR200",
+    "total_vehicles": 25,
+    "keep": true
+  },
+  {
+    "model": "NKR250S",
+    "total_vehicles": 23,
+    "keep": true
+  },
+  {
+    "model": "GEMINI",
+    "total_vehicles": 23,
+    "keep": true
+  },
+  {
+    "model": "NPR596",
+    "total_vehicles": 22,
+    "keep": true
+  },
+  {
+    "model": "MR1113",
+    "total_vehicles": 22,
+    "keep": true
+  },
+  {
+    "model": "FSR600",
+    "total_vehicles": 22,
+    "keep": true
+  },
+  {
+    "model": "FSR113N",
+    "total_vehicles": 22,
+    "keep": true
+  },
+  {
+    "model": "R SERIES",
+    "total_vehicles": 21,
+    "keep": true
+  },
+  {
+    "model": "NKR57LY",
+    "total_vehicles": 21,
+    "keep": true
+  },
+  {
+    "model": "FSR11H",
+    "total_vehicles": 21,
+    "keep": true
+  },
+  {
+    "model": "NPR59PX",
+    "total_vehicles": 19,
+    "keep": true
+  },
+  {
+    "model": "FSR11HX 4X2",
+    "total_vehicles": 19,
+    "keep": true
+  },
+  {
+    "model": "NRR",
+    "total_vehicles": 18,
+    "keep": true
+  },
+  {
+    "model": "NKR200",
+    "total_vehicles": 18,
+    "keep": true
+  },
+  {
+    "model": "LV",
+    "total_vehicles": 18,
+    "keep": true
+  },
+  {
+    "model": "TROOPER",
+    "total_vehicles": 17,
+    "keep": true
+  },
+  {
+    "model": "ELF 250",
+    "total_vehicles": 17,
+    "keep": true
+  },
+  {
+    "model": "FSR11HX",
+    "total_vehicles": 16,
+    "keep": true
+  },
+  {
+    "model": "TLD24",
+    "total_vehicles": 15,
+    "keep": true
+  },
+  {
+    "model": "NKR575",
+    "total_vehicles": 15,
+    "keep": true
+  },
+  {
+    "model": "NPR59PX 4X2",
+    "total_vehicles": 14,
+    "keep": true
+  },
+  {
+    "model": "TLD56",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "SBR422B",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "NKR300",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "IRMSCHER",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "ASKA",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "NPR400",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "KT25",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "GALA MIO",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "NPR58LX",
+    "total_vehicles": 11,
+    "keep": true
+  },
+  {
+    "model": "FSR11HXR",
+    "total_vehicles": 11,
+    "keep": true
+  },
+  {
+    "model": "FARGO",
+    "total_vehicles": 11,
+    "keep": true
+  },
+  {
+    "model": "COMO",
+    "total_vehicles": 11,
+    "keep": true
+  },
+  {
+    "model": "NKR575W",
+    "total_vehicles": 10,
+    "keep": true
+  },
+  {
+    "model": "FSR11HG",
+    "total_vehicles": 10,
+    "keep": true
+  },
+  {
+    "model": "V CROSS",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "SBR",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "JCR500ZZ",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "FSR113X",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "FSR 11 HG",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "NPR300",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "NNR",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "NKR55E",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "FSR113F",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "FILLY",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "ERGA MIO",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "D-MAX",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "NPR57L",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "NPR 596",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "NPR 300",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "KS32UXY",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "FSR 11HG",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "FSR 113N",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "FSR 11 HX",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "ELF NKR",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "TLD",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "NPR58",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "NKS",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "KS32UJY",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "KS",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "FSR 11HX",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "FORWARD FRR12",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "ECR570",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "NPR59PJ",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "NKR57E2",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "NKR200C",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "NKR 575",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "MR 1113",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "KT",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "KS21",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "FTR",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "FSS",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "FSR11HX4X2",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "FSR 500",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "FSD",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

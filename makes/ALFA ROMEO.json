@@ -1,0 +1,132 @@
+[
+  {
+    "model": "GIULIETTA",
+    "total_vehicles": 946,
+    "keep": true
+  },
+  {
+    "model": "147",
+    "total_vehicles": 454,
+    "keep": true
+  },
+  {
+    "model": "GIULIA",
+    "total_vehicles": 403,
+    "keep": true
+  },
+  {
+    "model": "159",
+    "total_vehicles": 371,
+    "keep": true
+  },
+  {
+    "model": "STELVIO",
+    "total_vehicles": 367,
+    "keep": true
+  },
+  {
+    "model": "156",
+    "total_vehicles": 355,
+    "keep": true
+  },
+  {
+    "model": "MITO",
+    "total_vehicles": 174,
+    "keep": true
+  },
+  {
+    "model": "TONALE",
+    "total_vehicles": 144,
+    "keep": true
+  },
+  {
+    "model": "SPIDER",
+    "total_vehicles": 142,
+    "keep": true
+  },
+  {
+    "model": "GT",
+    "total_vehicles": 116,
+    "keep": true
+  },
+  {
+    "model": "GTV",
+    "total_vehicles": 82,
+    "keep": true
+  },
+  {
+    "model": "BRERA",
+    "total_vehicles": 64,
+    "keep": true
+  },
+  {
+    "model": "166",
+    "total_vehicles": 45,
+    "keep": true
+  },
+  {
+    "model": "4C",
+    "total_vehicles": 28,
+    "keep": true
+  },
+  {
+    "model": "2000",
+    "total_vehicles": 16,
+    "keep": true
+  },
+  {
+    "model": "164",
+    "total_vehicles": 15,
+    "keep": true
+  },
+  {
+    "model": "SPYDER",
+    "total_vehicles": 10,
+    "keep": true
+  },
+  {
+    "model": "SPRINT",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "ALFASUD",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "75",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "33",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "BERLINA",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "SZ",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "GTV2000",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "ALFETTA",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "145",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

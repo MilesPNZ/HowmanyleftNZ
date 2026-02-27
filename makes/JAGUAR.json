@@ -1,0 +1,232 @@
+[
+  {
+    "model": "XF",
+    "total_vehicles": 2123,
+    "keep": true
+  },
+  {
+    "model": "F-PACE",
+    "total_vehicles": 1589,
+    "keep": true
+  },
+  {
+    "model": "E-PACE",
+    "total_vehicles": 987,
+    "keep": true
+  },
+  {
+    "model": "X-TYPE",
+    "total_vehicles": 965,
+    "keep": true
+  },
+  {
+    "model": "S-TYPE",
+    "total_vehicles": 914,
+    "keep": true
+  },
+  {
+    "model": "XJ",
+    "total_vehicles": 697,
+    "keep": true
+  },
+  {
+    "model": "XK",
+    "total_vehicles": 565,
+    "keep": true
+  },
+  {
+    "model": "XE",
+    "total_vehicles": 543,
+    "keep": true
+  },
+  {
+    "model": "F-TYPE",
+    "total_vehicles": 463,
+    "keep": true
+  },
+  {
+    "model": "XJ6",
+    "total_vehicles": 431,
+    "keep": true
+  },
+  {
+    "model": "XJ8",
+    "total_vehicles": 415,
+    "keep": true
+  },
+  {
+    "model": "XKR",
+    "total_vehicles": 344,
+    "keep": true
+  },
+  {
+    "model": "I-PACE",
+    "total_vehicles": 340,
+    "keep": true
+  },
+  {
+    "model": "XK8",
+    "total_vehicles": 293,
+    "keep": true
+  },
+  {
+    "model": "XJS",
+    "total_vehicles": 233,
+    "keep": true
+  },
+  {
+    "model": "SOVEREIGN",
+    "total_vehicles": 214,
+    "keep": true
+  },
+  {
+    "model": "E TYPE",
+    "total_vehicles": 211,
+    "keep": true
+  },
+  {
+    "model": "XJR",
+    "total_vehicles": 129,
+    "keep": true
+  },
+  {
+    "model": "3.4",
+    "total_vehicles": 49,
+    "keep": true
+  },
+  {
+    "model": "3.8",
+    "total_vehicles": 47,
+    "keep": true
+  },
+  {
+    "model": "MARK II",
+    "total_vehicles": 45,
+    "keep": true
+  },
+  {
+    "model": "MK",
+    "total_vehicles": 30,
+    "keep": true
+  },
+  {
+    "model": "DAIMLER",
+    "total_vehicles": 26,
+    "keep": true
+  },
+  {
+    "model": "XJR8",
+    "total_vehicles": 25,
+    "keep": true
+  },
+  {
+    "model": "XFR",
+    "total_vehicles": 22,
+    "keep": true
+  },
+  {
+    "model": "S TYPE",
+    "total_vehicles": 22,
+    "keep": true
+  },
+  {
+    "model": "XJ12",
+    "total_vehicles": 20,
+    "keep": true
+  },
+  {
+    "model": "XKR8",
+    "total_vehicles": 18,
+    "keep": true
+  },
+  {
+    "model": "420",
+    "total_vehicles": 17,
+    "keep": true
+  },
+  {
+    "model": "XK 150",
+    "total_vehicles": 15,
+    "keep": true
+  },
+  {
+    "model": "XK 120",
+    "total_vehicles": 14,
+    "keep": true
+  },
+  {
+    "model": "2.4",
+    "total_vehicles": 14,
+    "keep": true
+  },
+  {
+    "model": "XK 140",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "X-TYPE 2.1 V6",
+    "total_vehicles": 11,
+    "keep": true
+  },
+  {
+    "model": "MK 10",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "MARK IX",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "SS",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "MK5",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "MARK VII",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "MARK V",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "4.2",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "XJR575",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "MK7",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "MK2",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "MARK 1",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "340",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

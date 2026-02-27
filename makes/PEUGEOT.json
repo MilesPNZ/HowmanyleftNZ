@@ -1,0 +1,147 @@
+[
+  {
+    "model": "3008",
+    "total_vehicles": 3605,
+    "keep": true
+  },
+  {
+    "model": "308",
+    "total_vehicles": 2919,
+    "keep": true
+  },
+  {
+    "model": "208",
+    "total_vehicles": 2107,
+    "keep": true
+  },
+  {
+    "model": "2008",
+    "total_vehicles": 2005,
+    "keep": true
+  },
+  {
+    "model": "307",
+    "total_vehicles": 1780,
+    "keep": true
+  },
+  {
+    "model": "207",
+    "total_vehicles": 1282,
+    "keep": true
+  },
+  {
+    "model": "206",
+    "total_vehicles": 994,
+    "keep": true
+  },
+  {
+    "model": "4008",
+    "total_vehicles": 805,
+    "keep": true
+  },
+  {
+    "model": "407",
+    "total_vehicles": 755,
+    "keep": true
+  },
+  {
+    "model": "508",
+    "total_vehicles": 707,
+    "keep": true
+  },
+  {
+    "model": "5008",
+    "total_vehicles": 677,
+    "keep": true
+  },
+  {
+    "model": "406",
+    "total_vehicles": 273,
+    "keep": true
+  },
+  {
+    "model": "306",
+    "total_vehicles": 222,
+    "keep": true
+  },
+  {
+    "model": "4007",
+    "total_vehicles": 198,
+    "keep": true
+  },
+  {
+    "model": "RCZ",
+    "total_vehicles": 149,
+    "keep": true
+  },
+  {
+    "model": "BOXER",
+    "total_vehicles": 149,
+    "keep": true
+  },
+  {
+    "model": "205",
+    "total_vehicles": 83,
+    "keep": true
+  },
+  {
+    "model": "E-208",
+    "total_vehicles": 69,
+    "keep": true
+  },
+  {
+    "model": "E-2008",
+    "total_vehicles": 51,
+    "keep": true
+  },
+  {
+    "model": "607",
+    "total_vehicles": 35,
+    "keep": true
+  },
+  {
+    "model": "408",
+    "total_vehicles": 30,
+    "keep": true
+  },
+  {
+    "model": "106",
+    "total_vehicles": 22,
+    "keep": true
+  },
+  {
+    "model": "405",
+    "total_vehicles": 20,
+    "keep": true
+  },
+  {
+    "model": "404",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "505",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "504",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "107",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "PARTNER",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "309",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "model": "JEEP",
+    "total_vehicles": 97,
+    "keep": true
+  },
+  {
+    "model": "OVERLAND",
+    "total_vehicles": 23,
+    "keep": true
+  },
+  {
+    "model": "WHIPPET",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "KNIGHT",
+    "total_vehicles": 8,
+    "keep": true
+  }
+]

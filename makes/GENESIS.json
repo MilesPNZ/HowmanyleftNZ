@@ -1,0 +1,17 @@
+[
+  {
+    "model": "G70",
+    "total_vehicles": 25,
+    "keep": true
+  },
+  {
+    "model": "GV70",
+    "total_vehicles": 11,
+    "keep": true
+  },
+  {
+    "model": "G80",
+    "total_vehicles": 8,
+    "keep": true
+  }
+]

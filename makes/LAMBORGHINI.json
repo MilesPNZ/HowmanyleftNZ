@@ -1,0 +1,42 @@
+[
+  {
+    "model": "URUS",
+    "total_vehicles": 129,
+    "keep": true
+  },
+  {
+    "model": "HURACAN",
+    "total_vehicles": 113,
+    "keep": true
+  },
+  {
+    "model": "GALLARDO",
+    "total_vehicles": 74,
+    "keep": true
+  },
+  {
+    "model": "AVENTADOR",
+    "total_vehicles": 55,
+    "keep": true
+  },
+  {
+    "model": "DIABLO",
+    "total_vehicles": 14,
+    "keep": true
+  },
+  {
+    "model": "REVUELTO",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "MURCIELAGO",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "COUNTACH",
+    "total_vehicles": 6,
+    "keep": true
+  }
+]

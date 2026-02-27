@@ -1,0 +1,37 @@
+[
+  {
+    "model": "PLUS 4",
+    "total_vehicles": 41,
+    "keep": true
+  },
+  {
+    "model": "4/4",
+    "total_vehicles": 40,
+    "keep": true
+  },
+  {
+    "model": "PLUS 8",
+    "total_vehicles": 36,
+    "keep": true
+  },
+  {
+    "model": "ROADSTER",
+    "total_vehicles": 25,
+    "keep": true
+  },
+  {
+    "model": "AERO",
+    "total_vehicles": 15,
+    "keep": true
+  },
+  {
+    "model": "PLUS 6",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "PLUS FOUR",
+    "total_vehicles": 8,
+    "keep": true
+  }
+]

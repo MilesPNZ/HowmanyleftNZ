@@ -1,0 +1,17 @@
+[
+  {
+    "model": "CLUBSPRINT",
+    "total_vehicles": 10,
+    "keep": true
+  },
+  {
+    "model": "COBRA",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "427",
+    "total_vehicles": 7,
+    "keep": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "model": "CHIMAERA",
+    "total_vehicles": 70,
+    "keep": true
+  },
+  {
+    "model": "CERBERA",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "GRIFFITH",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "TUSCAN",
+    "total_vehicles": 10,
+    "keep": true
+  },
+  {
+    "model": "GRIFFITH 500",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "TASMIN",
+    "total_vehicles": 6,
+    "keep": true
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "model": "FIT",
+    "total_vehicles": 47489,
+    "keep": true
+  },
+  {
+    "model": "CRV",
+    "total_vehicles": 32439,
+    "keep": true
+  },
+  {
+    "model": "JAZZ",
+    "total_vehicles": 29247,
+    "keep": true
+  },
+  {
+    "model": "CIVIC",
+    "total_vehicles": 23049,
+    "keep": true
+  },
+  {
+    "model": "ACCORD",
+    "total_vehicles": 22002,
+    "keep": true
+  },
+  {
+    "model": "ODYSSEY",
+    "total_vehicles": 16579,
+    "keep": true
+  },
+  {
+    "model": "HR-V",
+    "total_vehicles": 9581,
+    "keep": true
+  },
+  {
+    "model": "STREAM",
+    "total_vehicles": 9265,
+    "keep": true
+  },
+  {
+    "model": "VEZEL",
+    "total_vehicles": 5306,
+    "keep": true
+  },
+  {
+    "model": "INSIGHT",
+    "total_vehicles": 4164,
+    "keep": true
+  },
+  {
+    "model": "AIRWAVE",
+    "total_vehicles": 2501,
+    "keep": true
+  },
+  {
+    "model": "ZRV",
+    "total_vehicles": 2359,
+    "keep": true
+  },
+  {
+    "model": "INTEGRA",
+    "total_vehicles": 2358,
+    "keep": true
+  },
+  {
+    "model": "EDIX",
+    "total_vehicles": 2045,
+    "keep": true
+  },
+  {
+    "model": "CR-Z",
+    "total_vehicles": 1944,
+    "keep": true
+  },
+  {
+    "model": "CROSSROAD",
+    "total_vehicles": 1912,
+    "keep": true
+  },
+  {
+    "model": "INSPIRE",
+    "total_vehicles": 1782,
+    "keep": true
+  },
+  {
+    "model": "GRACE",
+    "total_vehicles": 1704,
+    "keep": true
+  },
+  {
+    "model": "STEPWAGON",
+    "total_vehicles": 1467,
+    "keep": true
+  },
+  {
+    "model": "LOGO",
+    "total_vehicles": 1445,
+    "keep": true
+  },
+  {
+    "model": "ELYSION",
+    "total_vehicles": 1419,
+    "keep": true
+  },
+  {
+    "model": "SHUTTLE",
+    "total_vehicles": 1394,
+    "keep": true
+  },
+  {
+    "model": "FREED",
+    "total_vehicles": 1070,
+    "keep": true
+  },
+  {
+    "model": "TORNEO",
+    "total_vehicles": 729,
+    "keep": true
+  },
+  {
+    "model": "CR-V",
+    "total_vehicles": 723,
+    "keep": true
+  },
+  {
+    "model": "CITY",
+    "total_vehicles": 593,
+    "keep": true
+  },
+  {
+    "model": "STEPWGN",
+    "total_vehicles": 560,
+    "keep": true
+  },
+  {
+    "model": "PRELUDE",
+    "total_vehicles": 507,
+    "keep": true
+  },
+  {
+    "model": "LEGEND",
+    "total_vehicles": 427,
+    "keep": true
+  },
+  {
+    "model": "ORTHIA",
+    "total_vehicles": 364,
+    "keep": true
+  },
+  {
+    "model": "S2000",
+    "total_vehicles": 289,
+    "keep": true
+  },
+  {
+    "model": "JADE",
+    "total_vehicles": 269,
+    "keep": true
+  },
+  {
+    "model": "SPIKE",
+    "total_vehicles": 235,
+    "keep": true
+  },
+  {
+    "model": "MOBILIO",
+    "total_vehicles": 226,
+    "keep": true
+  },
+  {
+    "model": "AVANCIER",
+    "total_vehicles": 215,
+    "keep": true
+  },
+  {
+    "model": "E:N1",
+    "total_vehicles": 191,
+    "keep": true
+  },
+  {
+    "model": "CRZ",
+    "total_vehicles": 162,
+    "keep": true
+  },
+  {
+    "model": "CRX",
+    "total_vehicles": 154,
+    "keep": true
+  },
+  {
+    "model": "DOMANI",
+    "total_vehicles": 153,
+    "keep": true
+  },
+  {
+    "model": "ASCOT",
+    "total_vehicles": 119,
+    "keep": true
+  },
+  {
+    "model": "CR-X",
+    "total_vehicles": 99,
+    "keep": true
+  },
+  {
+    "model": "HORIZON",
+    "total_vehicles": 94,
+    "keep": true
+  },
+  {
+    "model": "CAPA",
+    "total_vehicles": 79,
+    "keep": true
+  },
+  {
+    "model": "RAFAGA",
+    "total_vehicles": 66,
+    "keep": true
+  },
+  {
+    "model": "SABER",
+    "total_vehicles": 55,
+    "keep": true
+  },
+  {
+    "model": "NSX",
+    "total_vehicles": 55,
+    "keep": true
+  },
+  {
+    "model": "PARTNER",
+    "total_vehicles": 52,
+    "keep": true
+  },
+  {
+    "model": "S-MX",
+    "total_vehicles": 51,
+    "keep": true
+  },
+  {
+    "model": "S660",
+    "total_vehicles": 43,
+    "keep": true
+  },
+  {
+    "model": "MDX",
+    "total_vehicles": 39,
+    "keep": true
+  },
+  {
+    "model": "SPADA",
+    "total_vehicles": 28,
+    "keep": true
+  },
+  {
+    "model": "BEAT",
+    "total_vehicles": 27,
+    "keep": true
+  },
+  {
+    "model": "FERIO",
+    "total_vehicles": 22,
+    "keep": true
+  },
+  {
+    "model": "N-BOX",
+    "total_vehicles": 21,
+    "keep": true
+  },
+  {
+    "model": "CONCERTO",
+    "total_vehicles": 19,
+    "keep": true
+  },
+  {
+    "model": "N-ONE",
+    "total_vehicles": 17,
+    "keep": true
+  },
+  {
+    "model": "CR",
+    "total_vehicles": 15,
+    "keep": true
+  },
+  {
+    "model": "N-WGN",
+    "total_vehicles": 14,
+    "keep": true
+  },
+  {
+    "model": "LAGREAT",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "VIGOR",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "E ADVANCE",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "ACURA",
+    "total_vehicles": 11,
+    "keep": true
+  },
+  {
+    "model": "N-VAN",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "S",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "ELEMENT",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "WR-V",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "VAMOS",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

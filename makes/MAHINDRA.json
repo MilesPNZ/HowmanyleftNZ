@@ -1,0 +1,17 @@
+[
+  {
+    "model": "XUV",
+    "total_vehicles": 1602,
+    "keep": true
+  },
+  {
+    "model": "SCORPIO N",
+    "total_vehicles": 176,
+    "keep": true
+  },
+  {
+    "model": "JEEP",
+    "total_vehicles": 6,
+    "keep": true
+  }
+]

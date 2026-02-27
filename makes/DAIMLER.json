@@ -1,0 +1,102 @@
+[
+  {
+    "model": "SOVEREIGN",
+    "total_vehicles": 69,
+    "keep": true
+  },
+  {
+    "model": "V8",
+    "total_vehicles": 59,
+    "keep": true
+  },
+  {
+    "model": "DOUBLE-SIX",
+    "total_vehicles": 32,
+    "keep": true
+  },
+  {
+    "model": "SP250",
+    "total_vehicles": 21,
+    "keep": true
+  },
+  {
+    "model": "DOUBLE 6",
+    "total_vehicles": 20,
+    "keep": true
+  },
+  {
+    "model": "2.5",
+    "total_vehicles": 17,
+    "keep": true
+  },
+  {
+    "model": "CONQUEST",
+    "total_vehicles": 15,
+    "keep": true
+  },
+  {
+    "model": "4.0 AUTO",
+    "total_vehicles": 14,
+    "keep": true
+  },
+  {
+    "model": "SIX",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "SUPER V8",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "MAJESTIC",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "DART",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "CONSORT",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "LIMOUSINE",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "DB18",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "CENTURY",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "XJ6",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "SUPER EIGHT",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "3.6A",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

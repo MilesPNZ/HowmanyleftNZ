@@ -1,0 +1,17 @@
+[
+  {
+    "model": "HFC1061K",
+    "total_vehicles": 29,
+    "keep": true
+  },
+  {
+    "model": "N60EV",
+    "total_vehicles": 11,
+    "keep": true
+  },
+  {
+    "model": "HFC1048K",
+    "total_vehicles": 6,
+    "keep": true
+  }
+]

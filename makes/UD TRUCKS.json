@@ -1,0 +1,37 @@
+[
+  {
+    "model": "MK11250",
+    "total_vehicles": 338,
+    "keep": true
+  },
+  {
+    "model": "MK11280",
+    "total_vehicles": 75,
+    "keep": true
+  },
+  {
+    "model": "CONDOR",
+    "total_vehicles": 66,
+    "keep": true
+  },
+  {
+    "model": "PK18280",
+    "total_vehicles": 38,
+    "keep": true
+  },
+  {
+    "model": "MKB245",
+    "total_vehicles": 37,
+    "keep": true
+  },
+  {
+    "model": "PK17280",
+    "total_vehicles": 25,
+    "keep": true
+  },
+  {
+    "model": "MKB280",
+    "total_vehicles": 8,
+    "keep": true
+  }
+]

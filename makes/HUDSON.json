@@ -1,0 +1,17 @@
+[
+  {
+    "model": "SUPER",
+    "total_vehicles": 22,
+    "keep": true
+  },
+  {
+    "model": "TERRAPLANE",
+    "total_vehicles": 14,
+    "keep": true
+  },
+  {
+    "model": "HORNET",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

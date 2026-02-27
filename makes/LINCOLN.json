@@ -1,0 +1,27 @@
+[
+  {
+    "model": "CONTINENTAL",
+    "total_vehicles": 195,
+    "keep": true
+  },
+  {
+    "model": "TOWNCAR",
+    "total_vehicles": 54,
+    "keep": true
+  },
+  {
+    "model": "NAVIGATOR",
+    "total_vehicles": 11,
+    "keep": true
+  },
+  {
+    "model": "PREMIERE",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "CAPRI",
+    "total_vehicles": 6,
+    "keep": true
+  }
+]

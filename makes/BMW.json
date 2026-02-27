@@ -1,0 +1,682 @@
+[
+  {
+    "model": "320",
+    "total_vehicles": 12132,
+    "keep": true
+  },
+  {
+    "model": "X5",
+    "total_vehicles": 9626,
+    "keep": true
+  },
+  {
+    "model": "116I",
+    "total_vehicles": 7539,
+    "keep": true
+  },
+  {
+    "model": "MINI",
+    "total_vehicles": 6444,
+    "keep": true
+  },
+  {
+    "model": "X3",
+    "total_vehicles": 5603,
+    "keep": true
+  },
+  {
+    "model": "X1",
+    "total_vehicles": 5146,
+    "keep": true
+  },
+  {
+    "model": "325I",
+    "total_vehicles": 2953,
+    "keep": true
+  },
+  {
+    "model": "120I",
+    "total_vehicles": 2745,
+    "keep": true
+  },
+  {
+    "model": "318",
+    "total_vehicles": 2739,
+    "keep": true
+  },
+  {
+    "model": "3 SERIES",
+    "total_vehicles": 2353,
+    "keep": true
+  },
+  {
+    "model": "335I",
+    "total_vehicles": 2007,
+    "keep": true
+  },
+  {
+    "model": "323",
+    "total_vehicles": 1991,
+    "keep": true
+  },
+  {
+    "model": "1 SERIES",
+    "total_vehicles": 1940,
+    "keep": true
+  },
+  {
+    "model": "118I",
+    "total_vehicles": 1793,
+    "keep": true
+  },
+  {
+    "model": "330I",
+    "total_vehicles": 1616,
+    "keep": true
+  },
+  {
+    "model": "525I",
+    "total_vehicles": 1486,
+    "keep": true
+  },
+  {
+    "model": "2 SERIES",
+    "total_vehicles": 1405,
+    "keep": true
+  },
+  {
+    "model": "530I",
+    "total_vehicles": 1329,
+    "keep": true
+  },
+  {
+    "model": "I",
+    "total_vehicles": 1305,
+    "keep": true
+  },
+  {
+    "model": "328I",
+    "total_vehicles": 1189,
+    "keep": true
+  },
+  {
+    "model": "Z3",
+    "total_vehicles": 1167,
+    "keep": true
+  },
+  {
+    "model": "4 SERIES",
+    "total_vehicles": 1148,
+    "keep": true
+  },
+  {
+    "model": "Z4",
+    "total_vehicles": 1136,
+    "keep": true
+  },
+  {
+    "model": "X7",
+    "total_vehicles": 1072,
+    "keep": true
+  },
+  {
+    "model": "X2",
+    "total_vehicles": 901,
+    "keep": true
+  },
+  {
+    "model": "M3",
+    "total_vehicles": 834,
+    "keep": true
+  },
+  {
+    "model": "135I",
+    "total_vehicles": 751,
+    "keep": true
+  },
+  {
+    "model": "5 SERIES",
+    "total_vehicles": 674,
+    "keep": true
+  },
+  {
+    "model": "528I",
+    "total_vehicles": 636,
+    "keep": true
+  },
+  {
+    "model": "523I",
+    "total_vehicles": 620,
+    "keep": true
+  },
+  {
+    "model": "130I",
+    "total_vehicles": 600,
+    "keep": true
+  },
+  {
+    "model": "X4",
+    "total_vehicles": 586,
+    "keep": true
+  },
+  {
+    "model": "I3",
+    "total_vehicles": 585,
+    "keep": true
+  },
+  {
+    "model": "X6",
+    "total_vehicles": 540,
+    "keep": true
+  },
+  {
+    "model": "540I",
+    "total_vehicles": 487,
+    "keep": true
+  },
+  {
+    "model": "550I",
+    "total_vehicles": 441,
+    "keep": true
+  },
+  {
+    "model": "M5",
+    "total_vehicles": 400,
+    "keep": true
+  },
+  {
+    "model": "535I",
+    "total_vehicles": 387,
+    "keep": true
+  },
+  {
+    "model": "118D",
+    "total_vehicles": 381,
+    "keep": true
+  },
+  {
+    "model": "530D",
+    "total_vehicles": 367,
+    "keep": true
+  },
+  {
+    "model": "650I",
+    "total_vehicles": 345,
+    "keep": true
+  },
+  {
+    "model": "COMPACT",
+    "total_vehicles": 330,
+    "keep": true
+  },
+  {
+    "model": "330E",
+    "total_vehicles": 301,
+    "keep": true
+  },
+  {
+    "model": "420I",
+    "total_vehicles": 285,
+    "keep": true
+  },
+  {
+    "model": "750I",
+    "total_vehicles": 273,
+    "keep": true
+  },
+  {
+    "model": "740I",
+    "total_vehicles": 269,
+    "keep": true
+  },
+  {
+    "model": "ACTIVEHYBRID",
+    "total_vehicles": 232,
+    "keep": true
+  },
+  {
+    "model": "316",
+    "total_vehicles": 231,
+    "keep": true
+  },
+  {
+    "model": "120D",
+    "total_vehicles": 223,
+    "keep": true
+  },
+  {
+    "model": "M135I",
+    "total_vehicles": 192,
+    "keep": true
+  },
+  {
+    "model": "330D",
+    "total_vehicles": 177,
+    "keep": true
+  },
+  {
+    "model": "520I",
+    "total_vehicles": 164,
+    "keep": true
+  },
+  {
+    "model": "7 SERIES",
+    "total_vehicles": 163,
+    "keep": true
+  },
+  {
+    "model": "523D",
+    "total_vehicles": 163,
+    "keep": true
+  },
+  {
+    "model": "545I",
+    "total_vehicles": 162,
+    "keep": true
+  },
+  {
+    "model": "335D",
+    "total_vehicles": 152,
+    "keep": true
+  },
+  {
+    "model": "520D",
+    "total_vehicles": 144,
+    "keep": true
+  },
+  {
+    "model": "M235I",
+    "total_vehicles": 143,
+    "keep": true
+  },
+  {
+    "model": "645CI",
+    "total_vehicles": 143,
+    "keep": true
+  },
+  {
+    "model": "745I",
+    "total_vehicles": 142,
+    "keep": true
+  },
+  {
+    "model": "535D",
+    "total_vehicles": 139,
+    "keep": true
+  },
+  {
+    "model": "220I",
+    "total_vehicles": 134,
+    "keep": true
+  },
+  {
+    "model": "218I",
+    "total_vehicles": 127,
+    "keep": true
+  },
+  {
+    "model": "123D",
+    "total_vehicles": 125,
+    "keep": true
+  },
+  {
+    "model": "M6",
+    "total_vehicles": 122,
+    "keep": true
+  },
+  {
+    "model": "435I",
+    "total_vehicles": 120,
+    "keep": true
+  },
+  {
+    "model": "640I",
+    "total_vehicles": 118,
+    "keep": true
+  },
+  {
+    "model": "530E",
+    "total_vehicles": 113,
+    "keep": true
+  },
+  {
+    "model": "730I",
+    "total_vehicles": 108,
+    "keep": true
+  },
+  {
+    "model": "M SERIES",
+    "total_vehicles": 107,
+    "keep": true
+  },
+  {
+    "model": "M2",
+    "total_vehicles": 99,
+    "keep": true
+  },
+  {
+    "model": "735I",
+    "total_vehicles": 96,
+    "keep": true
+  },
+  {
+    "model": "M4",
+    "total_vehicles": 92,
+    "keep": true
+  },
+  {
+    "model": "330",
+    "total_vehicles": 86,
+    "keep": true
+  },
+  {
+    "model": "328",
+    "total_vehicles": 86,
+    "keep": true
+  },
+  {
+    "model": "730D",
+    "total_vehicles": 85,
+    "keep": true
+  },
+  {
+    "model": "325D",
+    "total_vehicles": 85,
+    "keep": true
+  },
+  {
+    "model": "125I",
+    "total_vehicles": 83,
+    "keep": true
+  },
+  {
+    "model": "730LD",
+    "total_vehicles": 73,
+    "keep": true
+  },
+  {
+    "model": "218D",
+    "total_vehicles": 73,
+    "keep": true
+  },
+  {
+    "model": "728I",
+    "total_vehicles": 69,
+    "keep": true
+  },
+  {
+    "model": "X6 XDRIVE35D",
+    "total_vehicles": 66,
+    "keep": true
+  },
+  {
+    "model": "640D",
+    "total_vehicles": 62,
+    "keep": true
+  },
+  {
+    "model": "630I",
+    "total_vehicles": 59,
+    "keep": true
+  },
+  {
+    "model": "428I",
+    "total_vehicles": 59,
+    "keep": true
+  },
+  {
+    "model": "8 SERIES",
+    "total_vehicles": 54,
+    "keep": true
+  },
+  {
+    "model": "225XE",
+    "total_vehicles": 54,
+    "keep": true
+  },
+  {
+    "model": "X6 XDRIVE40D",
+    "total_vehicles": 52,
+    "keep": true
+  },
+  {
+    "model": "750LI",
+    "total_vehicles": 49,
+    "keep": true
+  },
+  {
+    "model": "525D",
+    "total_vehicles": 48,
+    "keep": true
+  },
+  {
+    "model": "1M COUPE",
+    "total_vehicles": 48,
+    "keep": true
+  },
+  {
+    "model": "740E",
+    "total_vehicles": 46,
+    "keep": true
+  },
+  {
+    "model": "525",
+    "total_vehicles": 46,
+    "keep": true
+  },
+  {
+    "model": "M",
+    "total_vehicles": 44,
+    "keep": true
+  },
+  {
+    "model": "2002",
+    "total_vehicles": 44,
+    "keep": true
+  },
+  {
+    "model": "760LI",
+    "total_vehicles": 40,
+    "keep": true
+  },
+  {
+    "model": "6 SERIES",
+    "total_vehicles": 40,
+    "keep": true
+  },
+  {
+    "model": "M240I",
+    "total_vehicles": 38,
+    "keep": true
+  },
+  {
+    "model": "340I",
+    "total_vehicles": 38,
+    "keep": true
+  },
+  {
+    "model": "520",
+    "total_vehicles": 36,
+    "keep": true
+  },
+  {
+    "model": "535",
+    "total_vehicles": 34,
+    "keep": true
+  },
+  {
+    "model": "750IL",
+    "total_vehicles": 32,
+    "keep": true
+  },
+  {
+    "model": "X6 XDRIVE 30D",
+    "total_vehicles": 31,
+    "keep": true
+  },
+  {
+    "model": "ALPINA",
+    "total_vehicles": 30,
+    "keep": true
+  },
+  {
+    "model": "728",
+    "total_vehicles": 30,
+    "keep": true
+  },
+  {
+    "model": "630",
+    "total_vehicles": 30,
+    "keep": true
+  },
+  {
+    "model": "M140I",
+    "total_vehicles": 27,
+    "keep": true
+  },
+  {
+    "model": "I8",
+    "total_vehicles": 27,
+    "keep": true
+  },
+  {
+    "model": "XM",
+    "total_vehicles": 26,
+    "keep": true
+  },
+  {
+    "model": "850I",
+    "total_vehicles": 25,
+    "keep": true
+  },
+  {
+    "model": "650CI",
+    "total_vehicles": 25,
+    "keep": true
+  },
+  {
+    "model": "440I",
+    "total_vehicles": 23,
+    "keep": true
+  },
+  {
+    "model": "635",
+    "total_vehicles": 22,
+    "keep": true
+  },
+  {
+    "model": "X6 XDRIVE50I",
+    "total_vehicles": 21,
+    "keep": true
+  },
+  {
+    "model": "ISETTA",
+    "total_vehicles": 21,
+    "keep": true
+  },
+  {
+    "model": "X6 M",
+    "total_vehicles": 18,
+    "keep": true
+  },
+  {
+    "model": "430I",
+    "total_vehicles": 18,
+    "keep": true
+  },
+  {
+    "model": "435D",
+    "total_vehicles": 17,
+    "keep": true
+  },
+  {
+    "model": "420D",
+    "total_vehicles": 17,
+    "keep": true
+  },
+  {
+    "model": "740D",
+    "total_vehicles": 14,
+    "keep": true
+  },
+  {
+    "model": "850",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "840CI",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "728IA",
+    "total_vehicles": 11,
+    "keep": true
+  },
+  {
+    "model": "430D",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "X6 M50D",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "M635",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "840I",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "3.0 CSI",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "225I",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "750IAL",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "740LD",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "425D",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "3.0 CS",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "325",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "X6 XDRIVE35I",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "1.9",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

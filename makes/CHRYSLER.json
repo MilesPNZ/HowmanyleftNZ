@@ -1,0 +1,187 @@
+[
+  {
+    "model": "300",
+    "total_vehicles": 1284,
+    "keep": true
+  },
+  {
+    "model": "PT CRUISER",
+    "total_vehicles": 896,
+    "keep": true
+  },
+  {
+    "model": "JEEP",
+    "total_vehicles": 705,
+    "keep": true
+  },
+  {
+    "model": "300C",
+    "total_vehicles": 667,
+    "keep": true
+  },
+  {
+    "model": "VALIANT",
+    "total_vehicles": 603,
+    "keep": true
+  },
+  {
+    "model": "VOYAGER",
+    "total_vehicles": 202,
+    "keep": true
+  },
+  {
+    "model": "CROSSFIRE",
+    "total_vehicles": 170,
+    "keep": true
+  },
+  {
+    "model": "GRAND VOYAGER",
+    "total_vehicles": 165,
+    "keep": true
+  },
+  {
+    "model": "GRAND CHEROKEE",
+    "total_vehicles": 139,
+    "keep": true
+  },
+  {
+    "model": "CHARGER",
+    "total_vehicles": 82,
+    "keep": true
+  },
+  {
+    "model": "NEW YORKER",
+    "total_vehicles": 51,
+    "keep": true
+  },
+  {
+    "model": "IMPERIAL",
+    "total_vehicles": 50,
+    "keep": true
+  },
+  {
+    "model": "REGAL",
+    "total_vehicles": 36,
+    "keep": true
+  },
+  {
+    "model": "SEBRING",
+    "total_vehicles": 35,
+    "keep": true
+  },
+  {
+    "model": "NEWPORT",
+    "total_vehicles": 35,
+    "keep": true
+  },
+  {
+    "model": "PLYMOUTH",
+    "total_vehicles": 27,
+    "keep": true
+  },
+  {
+    "model": "CHEROKEE",
+    "total_vehicles": 22,
+    "keep": true
+  },
+  {
+    "model": "DODGE",
+    "total_vehicles": 21,
+    "keep": true
+  },
+  {
+    "model": "WINDSOR",
+    "total_vehicles": 18,
+    "keep": true
+  },
+  {
+    "model": "NEON",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "70",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "ROADSTER",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "CJ",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "ROYAL",
+    "total_vehicles": 11,
+    "keep": true
+  },
+  {
+    "model": "SEDAN",
+    "total_vehicles": 10,
+    "keep": true
+  },
+  {
+    "model": "COUPE",
+    "total_vehicles": 10,
+    "keep": true
+  },
+  {
+    "model": "CORDOBA",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "77",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "66",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "TOWN & COUNTRY",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "RANGER",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "LE BARON",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "HUNTER",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "PROWLER",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "FIFTH AVENUE",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "CONVERTIBLE",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "AVENGER",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

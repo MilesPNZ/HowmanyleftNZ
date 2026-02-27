@@ -1,0 +1,12 @@
+[
+  {
+    "model": "KLQ",
+    "total_vehicles": 29,
+    "keep": true
+  },
+  {
+    "model": "KLQ6860G",
+    "total_vehicles": 9,
+    "keep": true
+  }
+]

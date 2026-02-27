@@ -1,0 +1,62 @@
+[
+  {
+    "model": "Q50",
+    "total_vehicles": 64,
+    "keep": true
+  },
+  {
+    "model": "QX70",
+    "total_vehicles": 34,
+    "keep": true
+  },
+  {
+    "model": "Q30",
+    "total_vehicles": 26,
+    "keep": true
+  },
+  {
+    "model": "QX80",
+    "total_vehicles": 21,
+    "keep": true
+  },
+  {
+    "model": "QX30",
+    "total_vehicles": 20,
+    "keep": true
+  },
+  {
+    "model": "Q60",
+    "total_vehicles": 10,
+    "keep": true
+  },
+  {
+    "model": "M35H",
+    "total_vehicles": 10,
+    "keep": true
+  },
+  {
+    "model": "M37",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "G37",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "G35",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "FX37",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "FX30",
+    "total_vehicles": 8,
+    "keep": true
+  }
+]

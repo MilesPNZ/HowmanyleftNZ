@@ -1,0 +1,17 @@
+[
+  {
+    "model": "DAILY",
+    "total_vehicles": 2615,
+    "keep": true
+  },
+  {
+    "model": "EUROCARGO",
+    "total_vehicles": 294,
+    "keep": true
+  },
+  {
+    "model": "TURBO DAILY",
+    "total_vehicles": 48,
+    "keep": true
+  }
+]

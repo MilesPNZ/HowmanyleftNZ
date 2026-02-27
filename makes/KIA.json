@@ -1,0 +1,127 @@
+[
+  {
+    "model": "SPORTAGE",
+    "total_vehicles": 31504,
+    "keep": true
+  },
+  {
+    "model": "SELTOS",
+    "total_vehicles": 15051,
+    "keep": true
+  },
+  {
+    "model": "SORENTO",
+    "total_vehicles": 10448,
+    "keep": true
+  },
+  {
+    "model": "RIO",
+    "total_vehicles": 9684,
+    "keep": true
+  },
+  {
+    "model": "STONIC",
+    "total_vehicles": 9440,
+    "keep": true
+  },
+  {
+    "model": "CERATO",
+    "total_vehicles": 6927,
+    "keep": true
+  },
+  {
+    "model": "NIRO",
+    "total_vehicles": 5988,
+    "keep": true
+  },
+  {
+    "model": "CARNIVAL",
+    "total_vehicles": 5094,
+    "keep": true
+  },
+  {
+    "model": "PICANTO",
+    "total_vehicles": 3404,
+    "keep": true
+  },
+  {
+    "model": "EV6",
+    "total_vehicles": 1759,
+    "keep": true
+  },
+  {
+    "model": "STINGER",
+    "total_vehicles": 1105,
+    "keep": true
+  },
+  {
+    "model": "SOUL",
+    "total_vehicles": 963,
+    "keep": true
+  },
+  {
+    "model": "OPTIMA",
+    "total_vehicles": 830,
+    "keep": true
+  },
+  {
+    "model": "KOUP",
+    "total_vehicles": 381,
+    "keep": true
+  },
+  {
+    "model": "EV5",
+    "total_vehicles": 370,
+    "keep": true
+  },
+  {
+    "model": "MAGENTIS",
+    "total_vehicles": 343,
+    "keep": true
+  },
+  {
+    "model": "EV9",
+    "total_vehicles": 294,
+    "keep": true
+  },
+  {
+    "model": "EV3",
+    "total_vehicles": 287,
+    "keep": true
+  },
+  {
+    "model": "CARENS",
+    "total_vehicles": 210,
+    "keep": true
+  },
+  {
+    "model": "CEED",
+    "total_vehicles": 49,
+    "keep": true
+  },
+  {
+    "model": "EV4",
+    "total_vehicles": 18,
+    "keep": true
+  },
+  {
+    "model": "SPECTRA",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "MENTOR",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "FORTE",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "RONDO",
+    "total_vehicles": 6,
+    "keep": true
+  }
+]

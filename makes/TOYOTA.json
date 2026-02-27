@@ -1,0 +1,712 @@
+[
+  {
+    "model": "COROLLA",
+    "total_vehicles": 158896,
+    "keep": true
+  },
+  {
+    "model": "RAV4",
+    "total_vehicles": 107385,
+    "keep": true
+  },
+  {
+    "model": "AQUA",
+    "total_vehicles": 65603,
+    "keep": true
+  },
+  {
+    "model": "PRIUS",
+    "total_vehicles": 57928,
+    "keep": true
+  },
+  {
+    "model": "LANDCRUISER",
+    "total_vehicles": 47467,
+    "keep": true
+  },
+  {
+    "model": "YARIS",
+    "total_vehicles": 33744,
+    "keep": true
+  },
+  {
+    "model": "VITZ",
+    "total_vehicles": 31508,
+    "keep": true
+  },
+  {
+    "model": "CAMRY",
+    "total_vehicles": 31165,
+    "keep": true
+  },
+  {
+    "model": "HIGHLANDER",
+    "total_vehicles": 27805,
+    "keep": true
+  },
+  {
+    "model": "WISH",
+    "total_vehicles": 23082,
+    "keep": true
+  },
+  {
+    "model": "C-HR",
+    "total_vehicles": 18141,
+    "keep": true
+  },
+  {
+    "model": "ESTIMA",
+    "total_vehicles": 17469,
+    "keep": true
+  },
+  {
+    "model": "AURIS",
+    "total_vehicles": 14485,
+    "keep": true
+  },
+  {
+    "model": "HILUX",
+    "total_vehicles": 14200,
+    "keep": true
+  },
+  {
+    "model": "BLADE",
+    "total_vehicles": 12357,
+    "keep": true
+  },
+  {
+    "model": "CALDINA",
+    "total_vehicles": 11059,
+    "keep": true
+  },
+  {
+    "model": "MARKX",
+    "total_vehicles": 10442,
+    "keep": true
+  },
+  {
+    "model": "YARIS CROSS",
+    "total_vehicles": 10156,
+    "keep": true
+  },
+  {
+    "model": "IST",
+    "total_vehicles": 10058,
+    "keep": true
+  },
+  {
+    "model": "VANGUARD",
+    "total_vehicles": 9112,
+    "keep": true
+  },
+  {
+    "model": "AVENSIS",
+    "total_vehicles": 8491,
+    "keep": true
+  },
+  {
+    "model": "RACTIS",
+    "total_vehicles": 7644,
+    "keep": true
+  },
+  {
+    "model": "HIACE",
+    "total_vehicles": 7411,
+    "keep": true
+  },
+  {
+    "model": "ALPHARD",
+    "total_vehicles": 7273,
+    "keep": true
+  },
+  {
+    "model": "ALTEZZA",
+    "total_vehicles": 5822,
+    "keep": true
+  },
+  {
+    "model": "DYNA",
+    "total_vehicles": 5307,
+    "keep": true
+  },
+  {
+    "model": "IPSUM",
+    "total_vehicles": 5259,
+    "keep": true
+  },
+  {
+    "model": "VELLFIRE",
+    "total_vehicles": 5161,
+    "keep": true
+  },
+  {
+    "model": "STARLET",
+    "total_vehicles": 4784,
+    "keep": true
+  },
+  {
+    "model": "SAI",
+    "total_vehicles": 4373,
+    "keep": true
+  },
+  {
+    "model": "AURION",
+    "total_vehicles": 4195,
+    "keep": true
+  },
+  {
+    "model": "ECHO",
+    "total_vehicles": 4072,
+    "keep": true
+  },
+  {
+    "model": "FORTUNER",
+    "total_vehicles": 4055,
+    "keep": true
+  },
+  {
+    "model": "HARRIER",
+    "total_vehicles": 3751,
+    "keep": true
+  },
+  {
+    "model": "SPACIO",
+    "total_vehicles": 3577,
+    "keep": true
+  },
+  {
+    "model": "ALLEX",
+    "total_vehicles": 3575,
+    "keep": true
+  },
+  {
+    "model": "FUNCARGO",
+    "total_vehicles": 3307,
+    "keep": true
+  },
+  {
+    "model": "PASSO",
+    "total_vehicles": 3142,
+    "keep": true
+  },
+  {
+    "model": "VOXY",
+    "total_vehicles": 3034,
+    "keep": true
+  },
+  {
+    "model": "86",
+    "total_vehicles": 2930,
+    "keep": true
+  },
+  {
+    "model": "CROWN",
+    "total_vehicles": 2852,
+    "keep": true
+  },
+  {
+    "model": "RAUM",
+    "total_vehicles": 2791,
+    "keep": true
+  },
+  {
+    "model": "SIENTA",
+    "total_vehicles": 2721,
+    "keep": true
+  },
+  {
+    "model": "PLATZ",
+    "total_vehicles": 2595,
+    "keep": true
+  },
+  {
+    "model": "CELICA",
+    "total_vehicles": 2510,
+    "keep": true
+  },
+  {
+    "model": "SPADE",
+    "total_vehicles": 2374,
+    "keep": true
+  },
+  {
+    "model": "NOAH",
+    "total_vehicles": 2361,
+    "keep": true
+  },
+  {
+    "model": "PREVIA",
+    "total_vehicles": 2311,
+    "keep": true
+  },
+  {
+    "model": "ALLION",
+    "total_vehicles": 2278,
+    "keep": true
+  },
+  {
+    "model": "TOYOACE",
+    "total_vehicles": 2205,
+    "keep": true
+  },
+  {
+    "model": "FIELDER",
+    "total_vehicles": 2100,
+    "keep": true
+  },
+  {
+    "model": "COASTER",
+    "total_vehicles": 1776,
+    "keep": true
+  },
+  {
+    "model": "ISIS",
+    "total_vehicles": 1767,
+    "keep": true
+  },
+  {
+    "model": "BB",
+    "total_vehicles": 1636,
+    "keep": true
+  },
+  {
+    "model": "KLUGER",
+    "total_vehicles": 1544,
+    "keep": true
+  },
+  {
+    "model": "GRANVIA",
+    "total_vehicles": 1488,
+    "keep": true
+  },
+  {
+    "model": "PORTE",
+    "total_vehicles": 1414,
+    "keep": true
+  },
+  {
+    "model": "SPRINTER",
+    "total_vehicles": 1386,
+    "keep": true
+  },
+  {
+    "model": "CORONA",
+    "total_vehicles": 1353,
+    "keep": true
+  },
+  {
+    "model": "RUSH",
+    "total_vehicles": 1280,
+    "keep": true
+  },
+  {
+    "model": "CARIB",
+    "total_vehicles": 1250,
+    "keep": true
+  },
+  {
+    "model": "RUNX",
+    "total_vehicles": 1175,
+    "keep": true
+  },
+  {
+    "model": "MR2",
+    "total_vehicles": 965,
+    "keep": true
+  },
+  {
+    "model": "WILL",
+    "total_vehicles": 873,
+    "keep": true
+  },
+  {
+    "model": "PREMIO",
+    "total_vehicles": 862,
+    "keep": true
+  },
+  {
+    "model": "SUPRA",
+    "total_vehicles": 832,
+    "keep": true
+  },
+  {
+    "model": "LEVIN",
+    "total_vehicles": 790,
+    "keep": true
+  },
+  {
+    "model": "OPA",
+    "total_vehicles": 769,
+    "keep": true
+  },
+  {
+    "model": "MARK II",
+    "total_vehicles": 766,
+    "keep": true
+  },
+  {
+    "model": "CORSA",
+    "total_vehicles": 633,
+    "keep": true
+  },
+  {
+    "model": "LUCIDA",
+    "total_vehicles": 632,
+    "keep": true
+  },
+  {
+    "model": "CHASER",
+    "total_vehicles": 596,
+    "keep": true
+  },
+  {
+    "model": "FJ",
+    "total_vehicles": 583,
+    "keep": true
+  },
+  {
+    "model": "SOARER",
+    "total_vehicles": 553,
+    "keep": true
+  },
+  {
+    "model": "REGIUS",
+    "total_vehicles": 533,
+    "keep": true
+  },
+  {
+    "model": "TOWNACE",
+    "total_vehicles": 517,
+    "keep": true
+  },
+  {
+    "model": "PROBOX",
+    "total_vehicles": 506,
+    "keep": true
+  },
+  {
+    "model": "IQ",
+    "total_vehicles": 493,
+    "keep": true
+  },
+  {
+    "model": "CYNOS",
+    "total_vehicles": 447,
+    "keep": true
+  },
+  {
+    "model": "ARISTO",
+    "total_vehicles": 441,
+    "keep": true
+  },
+  {
+    "model": "MR-S",
+    "total_vehicles": 427,
+    "keep": true
+  },
+  {
+    "model": "CELSIOR",
+    "total_vehicles": 422,
+    "keep": true
+  },
+  {
+    "model": "LEXUS",
+    "total_vehicles": 416,
+    "keep": true
+  },
+  {
+    "model": "TRUENO",
+    "total_vehicles": 403,
+    "keep": true
+  },
+  {
+    "model": "ESQUIRE",
+    "total_vehicles": 386,
+    "keep": true
+  },
+  {
+    "model": "AXIO",
+    "total_vehicles": 379,
+    "keep": true
+  },
+  {
+    "model": "WINDOM",
+    "total_vehicles": 370,
+    "keep": true
+  },
+  {
+    "model": "BZ4X",
+    "total_vehicles": 368,
+    "keep": true
+  },
+  {
+    "model": "LITEACE",
+    "total_vehicles": 356,
+    "keep": true
+  },
+  {
+    "model": "CURREN",
+    "total_vehicles": 340,
+    "keep": true
+  },
+  {
+    "model": "BELTA",
+    "total_vehicles": 340,
+    "keep": true
+  },
+  {
+    "model": "GR YARIS",
+    "total_vehicles": 330,
+    "keep": true
+  },
+  {
+    "model": "EMINA",
+    "total_vehicles": 323,
+    "keep": true
+  },
+  {
+    "model": "VISTA",
+    "total_vehicles": 320,
+    "keep": true
+  },
+  {
+    "model": "AVALON",
+    "total_vehicles": 288,
+    "keep": true
+  },
+  {
+    "model": "CARINA",
+    "total_vehicles": 268,
+    "keep": true
+  },
+  {
+    "model": "DUET",
+    "total_vehicles": 257,
+    "keep": true
+  },
+  {
+    "model": "TERCEL",
+    "total_vehicles": 249,
+    "keep": true
+  },
+  {
+    "model": "VOLTZ",
+    "total_vehicles": 230,
+    "keep": true
+  },
+  {
+    "model": "GAIA",
+    "total_vehicles": 199,
+    "keep": true
+  },
+  {
+    "model": "FJ CRUISER",
+    "total_vehicles": 169,
+    "keep": true
+  },
+  {
+    "model": "NADIA",
+    "total_vehicles": 150,
+    "keep": true
+  },
+  {
+    "model": "CENTURY",
+    "total_vehicles": 132,
+    "keep": true
+  },
+  {
+    "model": "GR86",
+    "total_vehicles": 125,
+    "keep": true
+  },
+  {
+    "model": "RAIZE",
+    "total_vehicles": 114,
+    "keep": true
+  },
+  {
+    "model": "CRESTA",
+    "total_vehicles": 106,
+    "keep": true
+  },
+  {
+    "model": "GRACIA",
+    "total_vehicles": 95,
+    "keep": true
+  },
+  {
+    "model": "SUCCEED",
+    "total_vehicles": 88,
+    "keep": true
+  },
+  {
+    "model": "CAVALIER",
+    "total_vehicles": 86,
+    "keep": true
+  },
+  {
+    "model": "SCEPTER",
+    "total_vehicles": 85,
+    "keep": true
+  },
+  {
+    "model": "VEROSSA",
+    "total_vehicles": 74,
+    "keep": true
+  },
+  {
+    "model": "MARINO",
+    "total_vehicles": 73,
+    "keep": true
+  },
+  {
+    "model": "PROGRES",
+    "total_vehicles": 71,
+    "keep": true
+  },
+  {
+    "model": "QUALIS",
+    "total_vehicles": 56,
+    "keep": true
+  },
+  {
+    "model": "RUMION",
+    "total_vehicles": 55,
+    "keep": true
+  },
+  {
+    "model": "GRANDE",
+    "total_vehicles": 55,
+    "keep": true
+  },
+  {
+    "model": "CERES",
+    "total_vehicles": 44,
+    "keep": true
+  },
+  {
+    "model": "TANK",
+    "total_vehicles": 34,
+    "keep": true
+  },
+  {
+    "model": "MIRAI",
+    "total_vehicles": 34,
+    "keep": true
+  },
+  {
+    "model": "GRAND",
+    "total_vehicles": 32,
+    "keep": true
+  },
+  {
+    "model": "EXIV",
+    "total_vehicles": 29,
+    "keep": true
+  },
+  {
+    "model": "ROOMY",
+    "total_vehicles": 28,
+    "keep": true
+  },
+  {
+    "model": "ED",
+    "total_vehicles": 28,
+    "keep": true
+  },
+  {
+    "model": "SERA",
+    "total_vehicles": 27,
+    "keep": true
+  },
+  {
+    "model": "CRESSIDA",
+    "total_vehicles": 27,
+    "keep": true
+  },
+  {
+    "model": "CAMI",
+    "total_vehicles": 26,
+    "keep": true
+  },
+  {
+    "model": "BREVIS",
+    "total_vehicles": 21,
+    "keep": true
+  },
+  {
+    "model": "GT86",
+    "total_vehicles": 16,
+    "keep": true
+  },
+  {
+    "model": "4RUNNER",
+    "total_vehicles": 16,
+    "keep": true
+  },
+  {
+    "model": "BLIZZARD",
+    "total_vehicles": 15,
+    "keep": true
+  },
+  {
+    "model": "MASTERACE",
+    "total_vehicles": 14,
+    "keep": true
+  },
+  {
+    "model": "TARAGO",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "GLANZA",
+    "total_vehicles": 11,
+    "keep": true
+  },
+  {
+    "model": "AYGO",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "ESTIMA LUCIDA",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "CIELO",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "GROIRE",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "TUNDRA",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "RUKUS",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "GT",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "ALTIS",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "2.8 DIESEL VAN",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

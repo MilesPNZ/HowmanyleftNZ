@@ -1,0 +1,17 @@
+[
+  {
+    "model": "X",
+    "total_vehicles": 32,
+    "keep": true
+  },
+  {
+    "model": "7X",
+    "total_vehicles": 26,
+    "keep": true
+  },
+  {
+    "model": "009",
+    "total_vehicles": 16,
+    "keep": true
+  }
+]

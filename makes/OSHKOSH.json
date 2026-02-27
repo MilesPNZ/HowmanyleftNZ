@@ -1,0 +1,12 @@
+[
+  {
+    "model": "MOTORHOME",
+    "total_vehicles": 10,
+    "keep": true
+  },
+  {
+    "model": "FLEETWOOD",
+    "total_vehicles": 9,
+    "keep": true
+  }
+]

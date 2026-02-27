@@ -1,0 +1,22 @@
+[
+  {
+    "model": "H6",
+    "total_vehicles": 3599,
+    "keep": true
+  },
+  {
+    "model": "JOLION",
+    "total_vehicles": 2938,
+    "keep": true
+  },
+  {
+    "model": "H2",
+    "total_vehicles": 1790,
+    "keep": true
+  },
+  {
+    "model": "H9",
+    "total_vehicles": 252,
+    "keep": true
+  }
+]

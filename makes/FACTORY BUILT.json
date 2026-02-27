@@ -1,0 +1,232 @@
+[
+  {
+    "model": "PINZGAUER",
+    "total_vehicles": 243,
+    "keep": true
+  },
+  {
+    "model": "YUTONG",
+    "total_vehicles": 79,
+    "keep": true
+  },
+  {
+    "model": "GEELY",
+    "total_vehicles": 69,
+    "keep": true
+  },
+  {
+    "model": "ZHONGTONG",
+    "total_vehicles": 68,
+    "keep": true
+  },
+  {
+    "model": "KINGLONG",
+    "total_vehicles": 32,
+    "keep": true
+  },
+  {
+    "model": "WINNEBAGO",
+    "total_vehicles": 22,
+    "keep": true
+  },
+  {
+    "model": "YANGZHOU YAXING",
+    "total_vehicles": 20,
+    "keep": true
+  },
+  {
+    "model": "SUNLONG",
+    "total_vehicles": 20,
+    "keep": true
+  },
+  {
+    "model": "GOLDEN DRAGON",
+    "total_vehicles": 19,
+    "keep": true
+  },
+  {
+    "model": "PK6120",
+    "total_vehicles": 16,
+    "keep": true
+  },
+  {
+    "model": "FLEETWOOD",
+    "total_vehicles": 16,
+    "keep": true
+  },
+  {
+    "model": "WRIGHTBUS",
+    "total_vehicles": 14,
+    "keep": true
+  },
+  {
+    "model": "CRRC",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "ANKAI",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "SERRANO",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "ZHONG TONG",
+    "total_vehicles": 11,
+    "keep": true
+  },
+  {
+    "model": "TEG HUNAN",
+    "total_vehicles": 11,
+    "keep": true
+  },
+  {
+    "model": "TIFFIN",
+    "total_vehicles": 10,
+    "keep": true
+  },
+  {
+    "model": "COBUS",
+    "total_vehicles": 10,
+    "keep": true
+  },
+  {
+    "model": "ZHONGTONG BUS",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "YOUNGMAN",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "WINNEBAGO VECTRA",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "ANHUI ANKAI",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "VAN HOOL",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "NATIONAL",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "ZONDA",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "SMART",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "OPTARE M880",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "KING LONG",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "HOLIDAY RAMBLER",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "ENTERPRISE BUSES",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "ZHONG TONG BUS",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "YAXING",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "VECTRA",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "OPTARE EXCEL BUS",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "MCC",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "CARBODIES",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "SHACMAN",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "SEA ELECTRIC",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "OSHKOSH",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "HIGER",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "GLOBAL BUS VENTURES",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "FORD",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "COACHMEN",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "COACHMAN MIRADA",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "COACHMAN",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

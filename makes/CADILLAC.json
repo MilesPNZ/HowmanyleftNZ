@@ -1,0 +1,97 @@
+[
+  {
+    "model": "DE VILLE",
+    "total_vehicles": 256,
+    "keep": true
+  },
+  {
+    "model": "CTS",
+    "total_vehicles": 226,
+    "keep": true
+  },
+  {
+    "model": "COUPE",
+    "total_vehicles": 174,
+    "keep": true
+  },
+  {
+    "model": "FLEETWOOD",
+    "total_vehicles": 150,
+    "keep": true
+  },
+  {
+    "model": "ELDORADO",
+    "total_vehicles": 107,
+    "keep": true
+  },
+  {
+    "model": "SEVILLE",
+    "total_vehicles": 85,
+    "keep": true
+  },
+  {
+    "model": "ESCALADE",
+    "total_vehicles": 51,
+    "keep": true
+  },
+  {
+    "model": "BROUGHAM",
+    "total_vehicles": 37,
+    "keep": true
+  },
+  {
+    "model": "SERIES 62",
+    "total_vehicles": 36,
+    "keep": true
+  },
+  {
+    "model": "SEDAN DE VILLE",
+    "total_vehicles": 28,
+    "keep": true
+  },
+  {
+    "model": "CONVERTIBLE",
+    "total_vehicles": 15,
+    "keep": true
+  },
+  {
+    "model": "LYRIQ",
+    "total_vehicles": 14,
+    "keep": true
+  },
+  {
+    "model": "SRX",
+    "total_vehicles": 11,
+    "keep": true
+  },
+  {
+    "model": "CALAIS",
+    "total_vehicles": 10,
+    "keep": true
+  },
+  {
+    "model": "K",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "TOURER",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "STS",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "PHAETON",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "HEARSE",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

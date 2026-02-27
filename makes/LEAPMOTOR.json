@@ -1,0 +1,12 @@
+[
+  {
+    "model": "C10",
+    "total_vehicles": 304,
+    "keep": true
+  },
+  {
+    "model": "B10",
+    "total_vehicles": 27,
+    "keep": true
+  }
+]

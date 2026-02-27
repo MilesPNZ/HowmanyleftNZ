@@ -1,25 +1,419 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <title>Results for {{ query }}</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/css/bootstrap.min.css" rel="stylesheet">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>How Many Left? - Results</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    .chart-container { position: relative; height: 320px; width: 100%; }
+    .card-header { font-weight: 500; }
+    .bar-chart-note { font-size: 0.9rem; color: #6c757d; margin-top: 8px; text-align: center; }
+    .table th, .table td { vertical-align: middle; }
+    .table .text-end { text-align: right !important; }
+
+    /* Centered Results Header + Rarity Scale */
+    .results-header {
+      text-align: center;
+      max-width: 720px;
+      margin: 0 auto 3rem auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .results-header h2 {
+      font-size: 2.25rem;
+      font-weight: 900;
+      letter-spacing: -0.6px;
+      margin-bottom: 2.5rem;
+      color: #111827;
+      line-height: 1.1;
+    }
+
+    /* Rarity Scale Container */
+    .rarity-scale-container {
+      width: 100%;
+      max-width: 720px;
+      margin: 0 auto;
+      padding-top: 90px;
+      position: relative;
+    }
+
+    /* Wrapper for marker positioning */
+    .rarity-scale-wrapper {
+      position: relative;
+      height: 40px;
+    }
+
+    .rarity-scale {
+      height: 40px;
+      border-radius: 20px;
+      overflow: hidden;
+      border: 3px solid #9ca3af;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+      background: linear-gradient(180deg, #f9fafb, #f3f4f6);
+      position: relative;
+    }
+
+    .rarity-block {
+      height: 100%;
+      float: left;
+      position: relative;
+    }
+    .rarity-block:last-child {
+      border-top-right-radius: 17px;
+      border-bottom-right-radius: 17px;
+    }
+    .rarity-block:after {
+      content: '';
+      position: absolute;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      width: 1px;
+      background: rgba(255,255,255,0.4);
+      z-index: 1;
+    }
+    .rarity-block:last-child:after { display: none; }
+
+    .rarity-block.very-common  { width: 20%; background: #60a5fa; }
+    .rarity-block.common       { width: 20%; background: #4ade80; }
+    .rarity-block.uncommon     { width: 20%; background: #fbbf24; }
+    .rarity-block.rare         { width: 20%; background: #fb923c; }
+    .rarity-block.very-rare    { width: 20%; background: #f87171; }
+
+    /* Lollipop Marker – rounded rectangle with text inside */
+    .rarity-marker {
+      position: absolute;
+      top: -70px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 10;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      pointer-events: none;
+    }
+
+    .rarity-marker .head {
+      padding: 6px 12px;
+      border-radius: 12px;
+      border: 3px solid #9ca3af;
+      background: {{ marker_color | default('#60a5fa') }};
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 1.1rem;
+      white-space: nowrap;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      text-align: center;
+      line-height: 1.2;
+    }
+
+    .rarity-marker .stem {
+      width: 4px;
+      height: 50px;
+      background: #9ca3af;
+      border-radius: 2px 2px 0 0;
+    }
+
+    /* Total line and 1-in line – ~50% bigger than lollipop head */
+    .total-line,
+    .rarity-label {
+      font-size: 1.65rem;
+      font-weight: 600;
+      color: #111827;
+      margin: 0.75rem 0;
+      line-height: 1.3;
+    }
+
+    .rarity-label {
+      margin-top: 1rem;
+    }
+  </style>
 </head>
-<body>
-  <div class="container mt-5">
-    <h1>Results for {{ query }}</h1>
-    {% if error %}
-      <div class="alert alert-danger">{{ error }}</div>
+<body class="bg-light">
+
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container">
+      <a class="navbar-brand" href="/">How Many Left?</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="/advanced-search">Advanced Search</a></li>
+          <li class="nav-item"><a class="nav-link" href="/how-to-use">How To Use</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container mt-5 mb-5">
+
+    <div class="results-header">
+      <h2>Results For - {{ search_summary }}</h2>
+
+      {% if error %}
+        <div class="alert alert-danger">{{ error }}</div>
+      {% else %}
+        {% if total > 0 %}
+          <p class="total-line"><strong>Total matching vehicles:</strong> {{ "{:,}".format(total) }}</p>
+
+          <!-- Rarity Scale with Colored Lollipop Marker (text inside head) -->
+          <div class="rarity-scale-container">
+            <div class="rarity-scale-wrapper">
+              <div class="rarity-scale">
+                {% if rarity != 'N/A' %}
+                  <!-- Solid blocks -->
+                  <div class="rarity-block very-common"></div>
+                  <div class="rarity-block common"></div>
+                  <div class="rarity-block uncommon"></div>
+                  <div class="rarity-block rare"></div>
+                  <div class="rarity-block very-rare"></div>
+                {% endif %}
+              </div>
+
+              <!-- Lollipop marker with rarity text inside head -->
+              {% if rarity != 'N/A' %}
+                {% set position = 10 %}
+                {% set marker_color = '#60a5fa' %}
+                {% set rarity_text = rarity_level.quality %}
+                {% if rarity_level.quality == 'Very Common' %}
+                  {% set position = 10 %}
+                  {% set marker_color = '#60a5fa' %}
+                {% elif rarity_level.quality == 'Common' %}
+                  {% set position = 30 %}
+                  {% set marker_color = '#4ade80' %}
+                {% elif rarity_level.quality == 'Uncommon' %}
+                  {% set position = 50 %}
+                  {% set marker_color = '#fbbf24' %}
+                {% elif rarity_level.quality == 'Rare' %}
+                  {% set position = 70 %}
+                  {% set marker_color = '#fb923c' %}
+                {% elif rarity_level.quality == 'Very Rare' %}
+                  {% set position = 90 %}
+                  {% set marker_color = '#f87171' %}
+                {% endif %}
+
+                <div class="rarity-marker" style="left: {{ position }}%;">
+                  <div class="head" style="background: {{ marker_color }};">
+                    {{ rarity_text }}
+                  </div>
+                  <div class="stem"></div>
+                </div>
+              {% endif %}
+            </div>
+
+            <!-- 1 in X – matches updated size/weight -->
+            <div class="rarity-label">
+              {% if rarity != 'N/A' %}
+                1 in {{ "{:,}".format(rarity) }}
+              {% else %}
+                Rarity: N/A
+              {% endif %}
+            </div>
+          </div>
+        {% else %}
+          <p class="text-muted lead">No matching vehicles found.</p>
+        {% endif %}
+      {% endif %}
+    </div>
+
+    <!-- Bar chart -->
+    <div class="card mb-5 shadow-sm">
+      <div class="card-header bg-primary text-white">
+        <h5 class="mb-0">Surviving vehicles by year of manufacture</h5>
+      </div>
+      <div class="card-body">
+        <div class="chart-container">
+          <canvas id="yearChart"></canvas>
+        </div>
+        <div class="bar-chart-note">
+          Shows how many vehicles from each model year are currently registered.<br>
+          Lower numbers in older years typically indicate natural attrition over time.
+        </div>
+      </div>
+    </div>
+
+    <!-- Fuel pie -->
+    <div class="row mb-5 justify-content-center">
+      <div class="col-lg-6 col-md-8">
+        <div class="card shadow-sm">
+          <div class="card-header bg-info text-white">
+            <h5 class="mb-0">Fuel Type Breakdown</h5>
+          </div>
+          <div class="card-body">
+            <div class="chart-container" style="height: 280px;">
+              <canvas id="fuelChart"></canvas>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Variants table -->
+    {% if results %}
+      <h4 class="mt-5">Top matching variants (showing {{ results|length }})</h4>
+      <div class="table-responsive">
+        <table class="table table-striped table-hover">
+          <thead class="table-light">
+            <tr>
+              <th>Make</th>
+              <th>Model</th>
+              <th>Submodel</th>
+              <th>Year</th>
+              <th>Fuel Type</th>
+              <th class="text-end">Count</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for row in results %}
+              <tr>
+                <td>{{ row['make'] }}</td>
+                <td>{{ row['model'] }}</td>
+                <td>{{ row['submodel'] | default('—') }}</td>
+                <td>{{ row['vehicle_year'] }}</td>
+                <td>{{ row['fuel_type'] | default('Unknown') }}</td>
+                <td class="text-end">{{ "{:,}".format(row['count']) }}</td>
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
     {% endif %}
-    <p>Total registered: {{ total }}</p>
-    <p>Rarity: 1 in ~{{ rarity }} NZ vehicles (based on {{ total_fleet|default('unknown') }} total fleet)</p>
-    <h2>By Generation</h2>
-    <table class="table">
-      <tr><th>Generation</th><th>Count</th></tr>
-      {% for gen, count in by_gen.items() %}
-      <tr><td>{{ gen }}</td><td>{{ count }}</td></tr>
-      {% endfor %}
-    </table>
-    <a href="/" class="btn btn-secondary">New Search</a>
+
   </div>
+
+  <!-- Footer -->
+  <footer class="bg-secondary text-white py-5">
+    <div class="container">
+      <div class="row text-center text-md-start">
+        <div class="col-md-4 mb-4">
+          <h5 class="text-uppercase mb-3">Disclaimer</h5>
+          <p class="small">
+            This website is a hobby project and all statistics are provided for entertainment purposes.<br><br>
+            Don't use any information presented here to make legal or financial decisions.
+          </p>
+        </div>
+
+        <div class="col-md-4 mb-4">
+          <h5 class="text-uppercase mb-3">About the data</h5>
+          <p class="small">
+            All the data on this site is derived from vehicle statistics published by the<br>
+            NZ Transport Agency Waka Kotahi.<br><br>
+            <a href="https://www.nzta.govt.nz/resources/new-zealand-motor-vehicle-register-statistics/" class="text-secondary text-decoration-underline">
+              Read more about the data
+            </a><br>
+            Contains public sector information licensed under the <strong>Open Government Licence v3.0</strong>.
+          </p>
+        </div>
+
+        <div class="col-md-4 mb-4">
+          <h5 class="text-uppercase mb-3">About the author</h5>
+          <p class="small">
+            This is a passion project built by a New Zealand car enthusiast to make NZ vehicle registration data more accessible and fun to explore.<br><br>
+    Running the site (hosting, database, domain, and ongoing updates) costs real money every month. If you find it useful and would like to help keep it online and improving, any support is hugely appreciated:
+          </p>
+          <form action="https://www.paypal.com/donate" method="post" target="_top">
+            <input type="hidden" name="hosted_button_id" value="YOUR_BUTTON_ID" />
+            <button type="submit" class="btn btn-warning btn-sm">
+              ☕ Buy me a coffee
+            </button>
+          </form>
+        </div>
+      </div>
+
+      <hr class="my-4 border-secondary">
+      <div class="text-center small">
+        © 2026 How Many Left? NZ. All rights reserved.
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  {% if total > 0 %}
+  <script>
+    // Bar chart
+    const ctxYear = document.getElementById('yearChart')?.getContext('2d');
+    if (ctxYear) {
+      new Chart(ctxYear, {
+        type: 'bar',
+        data: {
+          labels: {{ years | tojson | safe }},
+          datasets: [{
+            label: 'Currently Registered',
+            data: {{ counts_per_year | tojson | safe }},
+            backgroundColor: 'rgba(13, 110, 253, 0.75)',
+            borderColor: '#0d6efd',
+            borderWidth: 1,
+            borderRadius: 4
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          scales: {
+            y: {
+              beginAtZero: true,
+              title: { display: true, text: 'Number Registered' },
+              ticks: { stepSize: 1 }
+            },
+            x: {
+              title: { display: true, text: 'Year of Manufacture' }
+            }
+          },
+          plugins: {
+            legend: { display: false },
+            tooltip: {
+              mode: 'index',
+              intersect: false,
+              callbacks: {
+                label: (context) => `${context.dataset.label}: ${context.raw.toLocaleString()}`
+              }
+            }
+          }
+        }
+      });
+    }
+
+    // Fuel pie
+    const ctxFuel = document.getElementById('fuelChart')?.getContext('2d');
+    if (ctxFuel) {
+      new Chart(ctxFuel, {
+        type: 'pie',
+        data: {
+          labels: {{ fuel_labels | tojson | safe }},
+          datasets: [{
+            data: {{ fuel_data | tojson | safe }},
+            backgroundColor: [
+              '#0d6efd', '#198754', '#dc3545', '#ffc107',
+              '#6f42c1', '#fd7e14', '#20c997', '#adb5bd'
+            ],
+            borderWidth: 1
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { position: 'bottom' },
+            tooltip: {
+              callbacks: {
+                label: (ctx) => `${ctx.label}: ${ctx.raw.toLocaleString()}`
+              }
+            }
+          }
+        }
+      });
+    }
+  </script>
+  {% endif %}
+
 </body>
 </html>

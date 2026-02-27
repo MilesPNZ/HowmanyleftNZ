@@ -1,0 +1,32 @@
+[
+  {
+    "model": "VOGUE",
+    "total_vehicles": 20,
+    "keep": true
+  },
+  {
+    "model": "GAZELLE",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "ROADSTER",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "SM",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "JUNIOR",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "HUNTER",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "model": "REBEL",
+    "total_vehicles": 35,
+    "keep": true
+  },
+  {
+    "model": "CLASSIC",
+    "total_vehicles": 35,
+    "keep": true
+  },
+  {
+    "model": "AMBASSADOR",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

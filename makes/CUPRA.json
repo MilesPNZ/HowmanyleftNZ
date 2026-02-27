@@ -1,0 +1,32 @@
+[
+  {
+    "model": "FORMENTOR",
+    "total_vehicles": 858,
+    "keep": true
+  },
+  {
+    "model": "LEON",
+    "total_vehicles": 412,
+    "keep": true
+  },
+  {
+    "model": "TERRAMAR",
+    "total_vehicles": 177,
+    "keep": true
+  },
+  {
+    "model": "BORN",
+    "total_vehicles": 159,
+    "keep": true
+  },
+  {
+    "model": "ATECA",
+    "total_vehicles": 122,
+    "keep": true
+  },
+  {
+    "model": "TAVASCAN",
+    "total_vehicles": 11,
+    "keep": true
+  }
+]

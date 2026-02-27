@@ -1,0 +1,87 @@
+[
+  {
+    "model": "COOPER",
+    "total_vehicles": 5456,
+    "keep": true
+  },
+  {
+    "model": "HATCH",
+    "total_vehicles": 3591,
+    "keep": true
+  },
+  {
+    "model": "COUNTRYMAN",
+    "total_vehicles": 3274,
+    "keep": true
+  },
+  {
+    "model": "COOPER S",
+    "total_vehicles": 1028,
+    "keep": true
+  },
+  {
+    "model": "ONE",
+    "total_vehicles": 723,
+    "keep": true
+  },
+  {
+    "model": "CLUBMAN",
+    "total_vehicles": 527,
+    "keep": true
+  },
+  {
+    "model": "COOPER S COUNTRYMAN",
+    "total_vehicles": 509,
+    "keep": true
+  },
+  {
+    "model": "COOPER COUNTRYMAN",
+    "total_vehicles": 358,
+    "keep": true
+  },
+  {
+    "model": "CONVERTIBLE",
+    "total_vehicles": 201,
+    "keep": true
+  },
+  {
+    "model": "ACEMAN",
+    "total_vehicles": 150,
+    "keep": true
+  },
+  {
+    "model": "JOHN COOPER WORKS",
+    "total_vehicles": 72,
+    "keep": true
+  },
+  {
+    "model": "PACEMAN",
+    "total_vehicles": 54,
+    "keep": true
+  },
+  {
+    "model": "COOPER D",
+    "total_vehicles": 43,
+    "keep": true
+  },
+  {
+    "model": "MINI ONE",
+    "total_vehicles": 18,
+    "keep": true
+  },
+  {
+    "model": "COOPER D COUNTRYMAN",
+    "total_vehicles": 18,
+    "keep": true
+  },
+  {
+    "model": "COOPER D ALL 4",
+    "total_vehicles": 16,
+    "keep": true
+  },
+  {
+    "model": "MAYFAIR",
+    "total_vehicles": 6,
+    "keep": true
+  }
+]

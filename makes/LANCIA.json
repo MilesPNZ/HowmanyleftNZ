@@ -1,0 +1,37 @@
+[
+  {
+    "model": "DELTA",
+    "total_vehicles": 53,
+    "keep": true
+  },
+  {
+    "model": "FULVIA",
+    "total_vehicles": 30,
+    "keep": true
+  },
+  {
+    "model": "COUPE",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "BETA",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "THEMA",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "FLAVIA",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "MONTECARLO",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

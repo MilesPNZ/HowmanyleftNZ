@@ -1,0 +1,772 @@
+[
+  {
+    "model": "FALCON",
+    "total_vehicles": 29253,
+    "keep": true
+  },
+  {
+    "model": "FOCUS",
+    "total_vehicles": 23440,
+    "keep": true
+  },
+  {
+    "model": "MONDEO",
+    "total_vehicles": 13405,
+    "keep": true
+  },
+  {
+    "model": "EVEREST",
+    "total_vehicles": 13135,
+    "keep": true
+  },
+  {
+    "model": "ESCAPE",
+    "total_vehicles": 11822,
+    "keep": true
+  },
+  {
+    "model": "TERRITORY",
+    "total_vehicles": 10931,
+    "keep": true
+  },
+  {
+    "model": "MUSTANG",
+    "total_vehicles": 9879,
+    "keep": true
+  },
+  {
+    "model": "FIESTA",
+    "total_vehicles": 9421,
+    "keep": true
+  },
+  {
+    "model": "KUGA",
+    "total_vehicles": 5997,
+    "keep": true
+  },
+  {
+    "model": "TRANSIT",
+    "total_vehicles": 3771,
+    "keep": true
+  },
+  {
+    "model": "PUMA",
+    "total_vehicles": 3421,
+    "keep": true
+  },
+  {
+    "model": "ECOSPORT",
+    "total_vehicles": 2516,
+    "keep": true
+  },
+  {
+    "model": "EXPLORER",
+    "total_vehicles": 1960,
+    "keep": true
+  },
+  {
+    "model": "LASER",
+    "total_vehicles": 1556,
+    "keep": true
+  },
+  {
+    "model": "FAIRLANE",
+    "total_vehicles": 971,
+    "keep": true
+  },
+  {
+    "model": "ENDURA",
+    "total_vehicles": 959,
+    "keep": true
+  },
+  {
+    "model": "GALAXIE",
+    "total_vehicles": 706,
+    "keep": true
+  },
+  {
+    "model": "THUNDERBIRD",
+    "total_vehicles": 588,
+    "keep": true
+  },
+  {
+    "model": "FAIRMONT",
+    "total_vehicles": 564,
+    "keep": true
+  },
+  {
+    "model": "TRADER",
+    "total_vehicles": 477,
+    "keep": true
+  },
+  {
+    "model": "ESCORT",
+    "total_vehicles": 453,
+    "keep": true
+  },
+  {
+    "model": "MODEL A",
+    "total_vehicles": 411,
+    "keep": true
+  },
+  {
+    "model": "CORTINA",
+    "total_vehicles": 405,
+    "keep": true
+  },
+  {
+    "model": "ZEPHYR",
+    "total_vehicles": 312,
+    "keep": true
+  },
+  {
+    "model": "FESTIVA",
+    "total_vehicles": 312,
+    "keep": true
+  },
+  {
+    "model": "COUPE",
+    "total_vehicles": 269,
+    "keep": true
+  },
+  {
+    "model": "V8",
+    "total_vehicles": 224,
+    "keep": true
+  },
+  {
+    "model": "CAPRI",
+    "total_vehicles": 215,
+    "keep": true
+  },
+  {
+    "model": "TRADER 2.0T SWB",
+    "total_vehicles": 211,
+    "keep": true
+  },
+  {
+    "model": "F250",
+    "total_vehicles": 191,
+    "keep": true
+  },
+  {
+    "model": "KA",
+    "total_vehicles": 190,
+    "keep": true
+  },
+  {
+    "model": "TRADER 3.0T LWB",
+    "total_vehicles": 164,
+    "keep": true
+  },
+  {
+    "model": "F-SERIES",
+    "total_vehicles": 158,
+    "keep": true
+  },
+  {
+    "model": "ZODIAC",
+    "total_vehicles": 143,
+    "keep": true
+  },
+  {
+    "model": "LTD",
+    "total_vehicles": 141,
+    "keep": true
+  },
+  {
+    "model": "MODEL T",
+    "total_vehicles": 134,
+    "keep": true
+  },
+  {
+    "model": "TELSTAR",
+    "total_vehicles": 132,
+    "keep": true
+  },
+  {
+    "model": "ANGLIA",
+    "total_vehicles": 120,
+    "keep": true
+  },
+  {
+    "model": "F150",
+    "total_vehicles": 113,
+    "keep": true
+  },
+  {
+    "model": "RANGER",
+    "total_vehicles": 111,
+    "keep": true
+  },
+  {
+    "model": "A",
+    "total_vehicles": 111,
+    "keep": true
+  },
+  {
+    "model": "CUSTOM",
+    "total_vehicles": 101,
+    "keep": true
+  },
+  {
+    "model": "MERCURY",
+    "total_vehicles": 89,
+    "keep": true
+  },
+  {
+    "model": "F350",
+    "total_vehicles": 89,
+    "keep": true
+  },
+  {
+    "model": "PREFECT",
+    "total_vehicles": 88,
+    "keep": true
+  },
+  {
+    "model": "DELUXE",
+    "total_vehicles": 82,
+    "keep": true
+  },
+  {
+    "model": "T",
+    "total_vehicles": 78,
+    "keep": true
+  },
+  {
+    "model": "N1017",
+    "total_vehicles": 74,
+    "keep": true
+  },
+  {
+    "model": "TORINO",
+    "total_vehicles": 73,
+    "keep": true
+  },
+  {
+    "model": "SHELBY",
+    "total_vehicles": 72,
+    "keep": true
+  },
+  {
+    "model": "TRADER 0510",
+    "total_vehicles": 71,
+    "keep": true
+  },
+  {
+    "model": "TUDOR",
+    "total_vehicles": 70,
+    "keep": true
+  },
+  {
+    "model": "CUSTOMLINE",
+    "total_vehicles": 67,
+    "keep": true
+  },
+  {
+    "model": "R1114",
+    "total_vehicles": 66,
+    "keep": true
+  },
+  {
+    "model": "ROADSTER",
+    "total_vehicles": 61,
+    "keep": true
+  },
+  {
+    "model": "BRONCO",
+    "total_vehicles": 53,
+    "keep": true
+  },
+  {
+    "model": "SIERRA",
+    "total_vehicles": 51,
+    "keep": true
+  },
+  {
+    "model": "TRADER 0410",
+    "total_vehicles": 49,
+    "keep": true
+  },
+  {
+    "model": "TOURNEO",
+    "total_vehicles": 45,
+    "keep": true
+  },
+  {
+    "model": "TRADER 4.0T EXLWB",
+    "total_vehicles": 44,
+    "keep": true
+  },
+  {
+    "model": "TRADER 0712",
+    "total_vehicles": 44,
+    "keep": true
+  },
+  {
+    "model": "TRADER 0409",
+    "total_vehicles": 44,
+    "keep": true
+  },
+  {
+    "model": "SEDAN",
+    "total_vehicles": 44,
+    "keep": true
+  },
+  {
+    "model": "CONSUL",
+    "total_vehicles": 44,
+    "keep": true
+  },
+  {
+    "model": "TAURUS",
+    "total_vehicles": 43,
+    "keep": true
+  },
+  {
+    "model": "NO915",
+    "total_vehicles": 43,
+    "keep": true
+  },
+  {
+    "model": "GALAXY",
+    "total_vehicles": 41,
+    "keep": true
+  },
+  {
+    "model": "N0915",
+    "total_vehicles": 39,
+    "keep": true
+  },
+  {
+    "model": "COUNTRY",
+    "total_vehicles": 36,
+    "keep": true
+  },
+  {
+    "model": "POPULAR",
+    "total_vehicles": 35,
+    "keep": true
+  },
+  {
+    "model": "N1117",
+    "total_vehicles": 31,
+    "keep": true
+  },
+  {
+    "model": "JEEP",
+    "total_vehicles": 31,
+    "keep": true
+  },
+  {
+    "model": "PROBE",
+    "total_vehicles": 30,
+    "keep": true
+  },
+  {
+    "model": "",
+    "total_vehicles": 26,
+    "keep": true
+  },
+  {
+    "model": "LINCOLN",
+    "total_vehicles": 25,
+    "keep": true
+  },
+  {
+    "model": "FREDA",
+    "total_vehicles": 25,
+    "keep": true
+  },
+  {
+    "model": "ECONOLINE",
+    "total_vehicles": 25,
+    "keep": true
+  },
+  {
+    "model": "RANCH WAGON",
+    "total_vehicles": 24,
+    "keep": true
+  },
+  {
+    "model": "TRADER 3.OT LWB",
+    "total_vehicles": 23,
+    "keep": true
+  },
+  {
+    "model": "S-MAX",
+    "total_vehicles": 23,
+    "keep": true
+  },
+  {
+    "model": "IXION",
+    "total_vehicles": 23,
+    "keep": true
+  },
+  {
+    "model": "ECONOVAN",
+    "total_vehicles": 22,
+    "keep": true
+  },
+  {
+    "model": "COURIER",
+    "total_vehicles": 22,
+    "keep": true
+  },
+  {
+    "model": "CABRIOLET",
+    "total_vehicles": 21,
+    "keep": true
+  },
+  {
+    "model": "SUPER DELUXE",
+    "total_vehicles": 19,
+    "keep": true
+  },
+  {
+    "model": "N1015",
+    "total_vehicles": 19,
+    "keep": true
+  },
+  {
+    "model": "CROWN",
+    "total_vehicles": 19,
+    "keep": true
+  },
+  {
+    "model": "10",
+    "total_vehicles": 19,
+    "keep": true
+  },
+  {
+    "model": "DO910",
+    "total_vehicles": 18,
+    "keep": true
+  },
+  {
+    "model": "D300",
+    "total_vehicles": 18,
+    "keep": true
+  },
+  {
+    "model": "SPECTRON",
+    "total_vehicles": 17,
+    "keep": true
+  },
+  {
+    "model": "N SERIES 1017 MWB",
+    "total_vehicles": 17,
+    "keep": true
+  },
+  {
+    "model": "N SERIES",
+    "total_vehicles": 17,
+    "keep": true
+  },
+  {
+    "model": "F",
+    "total_vehicles": 17,
+    "keep": true
+  },
+  {
+    "model": "EDSEL",
+    "total_vehicles": 17,
+    "keep": true
+  },
+  {
+    "model": "TRADER 510",
+    "total_vehicles": 16,
+    "keep": true
+  },
+  {
+    "model": "EXPEDITION",
+    "total_vehicles": 16,
+    "keep": true
+  },
+  {
+    "model": "THAMES",
+    "total_vehicles": 15,
+    "keep": true
+  },
+  {
+    "model": "STARLINER",
+    "total_vehicles": 15,
+    "keep": true
+  },
+  {
+    "model": "GPW",
+    "total_vehicles": 15,
+    "keep": true
+  },
+  {
+    "model": "FUTURA",
+    "total_vehicles": 15,
+    "keep": true
+  },
+  {
+    "model": "TRADER 0711",
+    "total_vehicles": 14,
+    "keep": true
+  },
+  {
+    "model": "R226",
+    "total_vehicles": 14,
+    "keep": true
+  },
+  {
+    "model": "MAVERICK",
+    "total_vehicles": 14,
+    "keep": true
+  },
+  {
+    "model": "VICTORIA",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "D",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "COACHMAN",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "0712 TRADER",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "TRADER 1.5T SWB",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "R1014",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "MODEL Y",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "GRAN TORINO",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "E350",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "TRADER 0509",
+    "total_vehicles": 11,
+    "keep": true
+  },
+  {
+    "model": "F450",
+    "total_vehicles": 10,
+    "keep": true
+  },
+  {
+    "model": "D SERIES",
+    "total_vehicles": 10,
+    "keep": true
+  },
+  {
+    "model": "RANCHERO",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "R192",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "JAILBAR",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "GT",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "F550",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "B4",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "N SERIES 1219 MWB",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "EXCURSION",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "DO707",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "D600",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "D0910",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "CRESTLINE",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "0510 TRADER",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "TRADER 3 TONNE",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "LANDAU",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "GRANADA",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "D500",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "8",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "TRADER 1.5 TONNE",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "PILOT",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "OMNIBUS",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "D200",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "D1010",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "D0707",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "CORSAIR",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "C-MAX",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "0510",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "TRUCK",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "TRADER 410",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "TRADER 2.0 SWB",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "TRADER 1.5",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "MO509",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "LOTUS",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "DO710",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "D750",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "COUNTRY SQUIRE",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "C",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "BUS",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

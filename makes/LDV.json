@@ -1,0 +1,42 @@
+[
+  {
+    "model": "DELIVER 9",
+    "total_vehicles": 792,
+    "keep": true
+  },
+  {
+    "model": "D90",
+    "total_vehicles": 619,
+    "keep": true
+  },
+  {
+    "model": "G10",
+    "total_vehicles": 246,
+    "keep": true
+  },
+  {
+    "model": "EV80",
+    "total_vehicles": 48,
+    "keep": true
+  },
+  {
+    "model": "V80",
+    "total_vehicles": 20,
+    "keep": true
+  },
+  {
+    "model": "MAXUS",
+    "total_vehicles": 16,
+    "keep": true
+  },
+  {
+    "model": "MIFA",
+    "total_vehicles": 13,
+    "keep": true
+  },
+  {
+    "model": "EDELIVER 9",
+    "total_vehicles": 7,
+    "keep": true
+  }
+]

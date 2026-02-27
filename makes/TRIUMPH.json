@@ -1,0 +1,92 @@
+[
+  {
+    "model": "HERALD",
+    "total_vehicles": 134,
+    "keep": true
+  },
+  {
+    "model": "SPITFIRE",
+    "total_vehicles": 121,
+    "keep": true
+  },
+  {
+    "model": "TR6",
+    "total_vehicles": 75,
+    "keep": true
+  },
+  {
+    "model": "STAG",
+    "total_vehicles": 60,
+    "keep": true
+  },
+  {
+    "model": "2500",
+    "total_vehicles": 41,
+    "keep": true
+  },
+  {
+    "model": "TR4",
+    "total_vehicles": 33,
+    "keep": true
+  },
+  {
+    "model": "TR3",
+    "total_vehicles": 29,
+    "keep": true
+  },
+  {
+    "model": "TR7",
+    "total_vehicles": 27,
+    "keep": true
+  },
+  {
+    "model": "GT6",
+    "total_vehicles": 27,
+    "keep": true
+  },
+  {
+    "model": "VITESSE",
+    "total_vehicles": 25,
+    "keep": true
+  },
+  {
+    "model": "TR2",
+    "total_vehicles": 19,
+    "keep": true
+  },
+  {
+    "model": "2000",
+    "total_vehicles": 19,
+    "keep": true
+  },
+  {
+    "model": "TR5",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "TOLEDO",
+    "total_vehicles": 10,
+    "keep": true
+  },
+  {
+    "model": "DOLOMITE",
+    "total_vehicles": 10,
+    "keep": true
+  },
+  {
+    "model": "TR",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "TR8",
+    "total_vehicles": 5,
+    "keep": true
+  },
+  {
+    "model": "TR3A",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "model": "DIPLOMAT",
+    "total_vehicles": 17,
+    "keep": true
+  },
+  {
+    "model": "K",
+    "total_vehicles": 11,
+    "keep": true
+  },
+  {
+    "model": "FIREFLITE",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "FIREDOME",
+    "total_vehicles": 8,
+    "keep": true
+  }
+]

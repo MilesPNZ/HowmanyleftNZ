@@ -1,0 +1,37 @@
+[
+  {
+    "model": "KALOS",
+    "total_vehicles": 97,
+    "keep": true
+  },
+  {
+    "model": "MATIZ",
+    "total_vehicles": 56,
+    "keep": true
+  },
+  {
+    "model": "NUBIRA",
+    "total_vehicles": 37,
+    "keep": true
+  },
+  {
+    "model": "LACETTI",
+    "total_vehicles": 23,
+    "keep": true
+  },
+  {
+    "model": "TACUMA",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "LANOS",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "LEGANZA",
+    "total_vehicles": 6,
+    "keep": true
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "model": "HESS",
+    "total_vehicles": 27,
+    "keep": true
+  },
+  {
+    "model": "VRT",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

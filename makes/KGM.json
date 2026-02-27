@@ -1,0 +1,17 @@
+[
+  {
+    "model": "TORRES",
+    "total_vehicles": 373,
+    "keep": true
+  },
+  {
+    "model": "REXTON",
+    "total_vehicles": 135,
+    "keep": true
+  },
+  {
+    "model": "KR23",
+    "total_vehicles": 70,
+    "keep": true
+  }
+]

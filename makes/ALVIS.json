@@ -1,0 +1,17 @@
+[
+  {
+    "model": "TA21",
+    "total_vehicles": 9,
+    "keep": true
+  },
+  {
+    "model": "TC21",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "12/50",
+    "total_vehicles": 6,
+    "keep": true
+  }
+]

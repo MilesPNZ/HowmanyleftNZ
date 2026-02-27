@@ -1,0 +1,127 @@
+[
+  {
+    "model": "LEGACY",
+    "total_vehicles": 38193,
+    "keep": true
+  },
+  {
+    "model": "IMPREZA",
+    "total_vehicles": 36667,
+    "keep": true
+  },
+  {
+    "model": "OUTBACK",
+    "total_vehicles": 24278,
+    "keep": true
+  },
+  {
+    "model": "FORESTER",
+    "total_vehicles": 19991,
+    "keep": true
+  },
+  {
+    "model": "XV",
+    "total_vehicles": 15560,
+    "keep": true
+  },
+  {
+    "model": "EXIGA",
+    "total_vehicles": 3118,
+    "keep": true
+  },
+  {
+    "model": "LEVORG",
+    "total_vehicles": 1969,
+    "keep": true
+  },
+  {
+    "model": "WRX",
+    "total_vehicles": 1721,
+    "keep": true
+  },
+  {
+    "model": "CROSSTREK",
+    "total_vehicles": 1333,
+    "keep": true
+  },
+  {
+    "model": "BRZ",
+    "total_vehicles": 966,
+    "keep": true
+  },
+  {
+    "model": "TRIBECA",
+    "total_vehicles": 338,
+    "keep": true
+  },
+  {
+    "model": "TREZIA",
+    "total_vehicles": 227,
+    "keep": true
+  },
+  {
+    "model": "LIBERTY",
+    "total_vehicles": 89,
+    "keep": true
+  },
+  {
+    "model": "SOLTERRA",
+    "total_vehicles": 69,
+    "keep": true
+  },
+  {
+    "model": "SVX",
+    "total_vehicles": 58,
+    "keep": true
+  },
+  {
+    "model": "ALCYONE",
+    "total_vehicles": 24,
+    "keep": true
+  },
+  {
+    "model": "LANCASTER",
+    "total_vehicles": 19,
+    "keep": true
+  },
+  {
+    "model": "LEONE",
+    "total_vehicles": 15,
+    "keep": true
+  },
+  {
+    "model": "TRAVIQ",
+    "total_vehicles": 14,
+    "keep": true
+  },
+  {
+    "model": "R2",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "JUSTY",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "DEX",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "OMEGA",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "BIGHORN",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "ACE",
+    "total_vehicles": 6,
+    "keep": true
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "model": "CHAMPION",
+    "total_vehicles": 24,
+    "keep": true
+  },
+  {
+    "model": "HAWK",
+    "total_vehicles": 22,
+    "keep": true
+  },
+  {
+    "model": "LARK",
+    "total_vehicles": 20,
+    "keep": true
+  },
+  {
+    "model": "COMMANDER",
+    "total_vehicles": 17,
+    "keep": true
+  },
+  {
+    "model": "PRESIDENT",
+    "total_vehicles": 14,
+    "keep": true
+  },
+  {
+    "model": "AVANTI",
+    "total_vehicles": 12,
+    "keep": true
+  },
+  {
+    "model": "DICTATOR",
+    "total_vehicles": 8,
+    "keep": true
+  },
+  {
+    "model": "CRUISER",
+    "total_vehicles": 6,
+    "keep": true
+  }
+]

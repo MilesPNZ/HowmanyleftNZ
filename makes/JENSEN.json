@@ -1,0 +1,12 @@
+[
+  {
+    "model": "INTERCEPTOR",
+    "total_vehicles": 29,
+    "keep": true
+  },
+  {
+    "model": "HEALEY",
+    "total_vehicles": 16,
+    "keep": true
+  }
+]

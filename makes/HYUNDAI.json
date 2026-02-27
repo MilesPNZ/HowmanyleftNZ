@@ -1,0 +1,217 @@
+[
+  {
+    "model": "SANTA FE",
+    "total_vehicles": 24740,
+    "keep": true
+  },
+  {
+    "model": "TUCSON",
+    "total_vehicles": 21728,
+    "keep": true
+  },
+  {
+    "model": "I30",
+    "total_vehicles": 15184,
+    "keep": true
+  },
+  {
+    "model": "KONA",
+    "total_vehicles": 14489,
+    "keep": true
+  },
+  {
+    "model": "IX35",
+    "total_vehicles": 7654,
+    "keep": true
+  },
+  {
+    "model": "GETZ",
+    "total_vehicles": 5699,
+    "keep": true
+  },
+  {
+    "model": "ACCENT",
+    "total_vehicles": 4830,
+    "keep": true
+  },
+  {
+    "model": "I20",
+    "total_vehicles": 3933,
+    "keep": true
+  },
+  {
+    "model": "IONIQ",
+    "total_vehicles": 3768,
+    "keep": true
+  },
+  {
+    "model": "LANTRA",
+    "total_vehicles": 3332,
+    "keep": true
+  },
+  {
+    "model": "SONATA",
+    "total_vehicles": 2443,
+    "keep": true
+  },
+  {
+    "model": "IMAX",
+    "total_vehicles": 1748,
+    "keep": true
+  },
+  {
+    "model": "I40",
+    "total_vehicles": 1539,
+    "keep": true
+  },
+  {
+    "model": "I45",
+    "total_vehicles": 1510,
+    "keep": true
+  },
+  {
+    "model": "VENUE",
+    "total_vehicles": 1477,
+    "keep": true
+  },
+  {
+    "model": "IONIQ 5",
+    "total_vehicles": 1307,
+    "keep": true
+  },
+  {
+    "model": "TB",
+    "total_vehicles": 904,
+    "keep": true
+  },
+  {
+    "model": "VELOSTER",
+    "total_vehicles": 682,
+    "keep": true
+  },
+  {
+    "model": "MIGHTY",
+    "total_vehicles": 543,
+    "keep": true
+  },
+  {
+    "model": "TERRACAN",
+    "total_vehicles": 526,
+    "keep": true
+  },
+  {
+    "model": "STARIA",
+    "total_vehicles": 503,
+    "keep": true
+  },
+  {
+    "model": "PALISADE",
+    "total_vehicles": 480,
+    "keep": true
+  },
+  {
+    "model": "H1",
+    "total_vehicles": 233,
+    "keep": true
+  },
+  {
+    "model": "GRANDEUR",
+    "total_vehicles": 221,
+    "keep": true
+  },
+  {
+    "model": "LAVITA",
+    "total_vehicles": 205,
+    "keep": true
+  },
+  {
+    "model": "IONIQ 6",
+    "total_vehicles": 192,
+    "keep": true
+  },
+  {
+    "model": "TIBURON",
+    "total_vehicles": 125,
+    "keep": true
+  },
+  {
+    "model": "COUPE",
+    "total_vehicles": 112,
+    "keep": true
+  },
+  {
+    "model": "HD75",
+    "total_vehicles": 104,
+    "keep": true
+  },
+  {
+    "model": "GENESIS",
+    "total_vehicles": 68,
+    "keep": true
+  },
+  {
+    "model": "JM",
+    "total_vehicles": 58,
+    "keep": true
+  },
+  {
+    "model": "STARIA LOAD",
+    "total_vehicles": 54,
+    "keep": true
+  },
+  {
+    "model": "ILOAD",
+    "total_vehicles": 46,
+    "keep": true
+  },
+  {
+    "model": "MATRIX",
+    "total_vehicles": 35,
+    "keep": true
+  },
+  {
+    "model": "TRAJET",
+    "total_vehicles": 34,
+    "keep": true
+  },
+  {
+    "model": "XG",
+    "total_vehicles": 29,
+    "keep": true
+  },
+  {
+    "model": "HD60",
+    "total_vehicles": 29,
+    "keep": true
+  },
+  {
+    "model": "HD65",
+    "total_vehicles": 26,
+    "keep": true
+  },
+  {
+    "model": "FX",
+    "total_vehicles": 23,
+    "keep": true
+  },
+  {
+    "model": "HD45",
+    "total_vehicles": 17,
+    "keep": true
+  },
+  {
+    "model": "I10",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "ATOZ",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "EXCEL",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "model": "GRAND CHEROKEE",
+    "total_vehicles": 8365,
+    "keep": true
+  },
+  {
+    "model": "WRANGLER",
+    "total_vehicles": 3356,
+    "keep": true
+  },
+  {
+    "model": "CHEROKEE",
+    "total_vehicles": 2774,
+    "keep": true
+  },
+  {
+    "model": "COMPASS",
+    "total_vehicles": 2537,
+    "keep": true
+  },
+  {
+    "model": "RENEGADE",
+    "total_vehicles": 807,
+    "keep": true
+  },
+  {
+    "model": "PATRIOT",
+    "total_vehicles": 457,
+    "keep": true
+  },
+  {
+    "model": "GLADIATOR",
+    "total_vehicles": 234,
+    "keep": true
+  },
+  {
+    "model": "COMMANDER",
+    "total_vehicles": 152,
+    "keep": true
+  },
+  {
+    "model": "AVENGER",
+    "total_vehicles": 58,
+    "keep": true
+  },
+  {
+    "model": "J20",
+    "total_vehicles": 33,
+    "keep": true
+  },
+  {
+    "model": "CJ7",
+    "total_vehicles": 16,
+    "keep": true
+  },
+  {
+    "model": "CJ",
+    "total_vehicles": 10,
+    "keep": true
+  },
+  {
+    "model": "WAGONEER",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "LAREDO",
+    "total_vehicles": 7,
+    "keep": true
+  },
+  {
+    "model": "CJ5",
+    "total_vehicles": 6,
+    "keep": true
+  },
+  {
+    "model": "4X4",
+    "total_vehicles": 5,
+    "keep": true
+  }
+]
