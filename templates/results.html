@@ -18,6 +18,12 @@
       margin: 0 auto;
     }
 
+    /* === Added to match home page navbar exactly === */
+    .navbar {
+      background-color: #007bff;
+    }
+    /* ============================================== */
+
     /* Centered Results Header + Rarity Scale */
     .results-header {
       text-align: center;
@@ -135,12 +141,17 @@
     .rarity-label {
       margin-top: 1rem;
     }
+
+    /* Optional: match home page body background exactly (recommended) */
+    body {
+      background-color: #f8f9fa;
+    }
   </style>
 </head>
-<body class="bg-light">
+<body class="bg-light">  <!-- you can keep this or remove it now that we set it in CSS -->
 
-  <!-- Header/Navbar - identical to home page -->
-  <nav class="navbar navbar-expand-lg navbar-primary">
+  <!-- Header/Navbar - now matches home page styling -->
+  <nav class="navbar navbar-expand-lg navbar-dark">
     <div class="container">
       <a class="navbar-brand" href="/">How Many Left?</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
