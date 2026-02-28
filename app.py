@@ -383,7 +383,7 @@ def search():
         if total == 0:
             return render_template('results.html', search_summary=search_summary, total=0, rarity='N/A', error="No matching vehicles found")
 
-        # Rarity calculation - NEW 8-level scale based on total surviving vehicles
+        # Rarity calculation - 8-level scale based on total surviving vehicles
         rarity = total_fleet // total if total > 0 else 'N/A'
 
         rarity_level = {'quality': 'N/A', 'hex': '#6c757d'}
@@ -404,6 +404,18 @@ def search():
                 rarity_level = {'quality': 'Very Rare', 'hex': '#f87171'}          # red
             else:
                 rarity_level = {'quality': 'Extremely Rare', 'hex': '#dc3545'}     # deep red
+
+        # Define the exact same 8 Miami Vice neon colors as used in results.html CSS
+        rarity_colors = [
+            '#00FF7F',  # Extremely Common
+            '#00FA9A',  # Very Common
+            '#00BFFF',  # Common
+            '#FFD700',  # Fairly Uncommon
+            '#FF8C00',  # Uncommon
+            '#FF6347',  # Rare
+            '#FF3366',  # Very Rare
+            '#C71585'   # Extremely Rare
+        ]
 
         years = [str(item.get('year', '')) for item in yearly_list if isinstance(item, dict)]
         counts_per_year = [item.get('count', 0) for item in yearly_list if isinstance(item, dict)]
@@ -441,7 +453,8 @@ def search():
             fuel_labels=fuel_labels,
             fuel_data=fuel_data,
             table_data=table_data,
-            results=variants_df.to_dict('records')
+            results=variants_df.to_dict('records'),
+            rarity_colors=rarity_colors  # ← added here
         )
 
     except Exception as e:

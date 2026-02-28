@@ -85,16 +85,6 @@
     }
     .rarity-block:last-child:after { display: none; }
 
-    /* Miami Vice neon colors - 8 distinct blocks */
-    .rarity-block.extremely-common   { width: 12.5%; background: #00FF7F; }  /* spring green */
-    .rarity-block.very-common        { width: 12.5%; background: #00FA9A; }  /* medium spring green */
-    .rarity-block.common             { width: 12.5%; background: #00BFFF; }  /* deep sky blue */
-    .rarity-block.fairly-uncommon    { width: 12.5%; background: #FFD700; }  /* gold */
-    .rarity-block.uncommon           { width: 12.5%; background: #FF8C00; }  /* dark orange */
-    .rarity-block.rare               { width: 12.5%; background: #FF6347; }  /* tomato red-orange */
-    .rarity-block.very-rare          { width: 12.5%; background: #FF3366; }  /* hot pink */
-    .rarity-block.extremely-rare     { width: 12.5%; background: #C71585; }  /* medium violet red */
-
     /* Lollipop Marker – no glow */
     .rarity-marker {
       position: absolute;
@@ -112,7 +102,7 @@
       padding: 6px 12px;
       border-radius: 12px;
       border: 3px solid #9ca3af;
-      background: {{ marker_color | default('#00BFFF') }};
+      background: {{ slider_color | default('#00BFFF') }};
       color: #ffffff;
       font-weight: 600;
       font-size: 1.1rem;
@@ -192,45 +182,52 @@
             <div class="rarity-scale-wrapper">
               <div class="rarity-scale">
                 {% if rarity != 'N/A' %}
-                  <!-- 8 distinct blocks -->
-                  <div class="rarity-block extremely-common"></div>
-                  <div class="rarity-block very-common"></div>
-                  <div class="rarity-block common"></div>
-                  <div class="rarity-block fairly-uncommon"></div>
-                  <div class="rarity-block uncommon"></div>
-                  <div class="rarity-block rare"></div>
-                  <div class="rarity-block very-rare"></div>
-                  <div class="rarity-block extremely-rare"></div>
+                  <!-- 8 distinct blocks with inline colors from backend list -->
+                  <div class="rarity-block" style="background: {{ rarity_colors[0] }};"></div> <!-- Extremely Common -->
+                  <div class="rarity-block" style="background: {{ rarity_colors[1] }};"></div> <!-- Very Common -->
+                  <div class="rarity-block" style="background: {{ rarity_colors[2] }};"></div> <!-- Common -->
+                  <div class="rarity-block" style="background: {{ rarity_colors[3] }};"></div> <!-- Fairly Uncommon -->
+                  <div class="rarity-block" style="background: {{ rarity_colors[4] }};"></div> <!-- Uncommon -->
+                  <div class="rarity-block" style="background: {{ rarity_colors[5] }};"></div> <!-- Rare -->
+                  <div class="rarity-block" style="background: {{ rarity_colors[6] }};"></div> <!-- Very Rare -->
+                  <div class="rarity-block" style="background: {{ rarity_colors[7] }};"></div> <!-- Extremely Rare -->
                 {% endif %}
               </div>
 
-              <!-- Lollipop marker – color matches slider block -->
+              <!-- Lollipop marker – color matches the slider block -->
               {% if rarity != 'N/A' %}
                 {% set position = 10 %}
-                {% set marker_color = rarity_level.hex %}
                 {% set rarity_text = rarity_level.quality %}
 
-                <!-- Position lollipop based on rarity level -->
+                {# Set slider_color to match the block color #}
                 {% if rarity_level.quality == 'Extremely Common' %}
+                  {% set slider_color = rarity_colors[0] %}
                   {% set position = 6 %}
                 {% elif rarity_level.quality == 'Very Common' %}
+                  {% set slider_color = rarity_colors[1] %}
                   {% set position = 19 %}
                 {% elif rarity_level.quality == 'Common' %}
+                  {% set slider_color = rarity_colors[2] %}
                   {% set position = 31 %}
                 {% elif rarity_level.quality == 'Fairly Uncommon' %}
+                  {% set slider_color = rarity_colors[3] %}
                   {% set position = 44 %}
                 {% elif rarity_level.quality == 'Uncommon' %}
+                  {% set slider_color = rarity_colors[4] %}
                   {% set position = 56 %}
                 {% elif rarity_level.quality == 'Rare' %}
+                  {% set slider_color = rarity_colors[5] %}
                   {% set position = 69 %}
                 {% elif rarity_level.quality == 'Very Rare' %}
+                  {% set slider_color = rarity_colors[6] %}
                   {% set position = 81 %}
                 {% else %}
+                  {% set slider_color = rarity_colors[7] %}
                   {% set position = 94 %}
                 {% endif %}
 
                 <div class="rarity-marker" style="left: {{ position }}%;">
-                  <div class="head" style="background: {{ marker_color }};">
+                  <div class="head" style="background: {{ slider_color }};">
                     {{ rarity_text }}
                   </div>
                   <div class="stem"></div>
