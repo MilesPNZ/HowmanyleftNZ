@@ -85,17 +85,6 @@
     }
     .rarity-block:last-child:after { display: none; }
 
-    /* 8 distinct blocks - each 12.5% width */
-/* 8 distinct neon-Miami blocks - each 12.5% width */
-.rarity-block.extremely-common   { width: 12.5%; background: #00FF7F; }  /* spring green */
-.rarity-block.very-common        { width: 12.5%; background: #00FA9A; }  /* medium spring green */
-.rarity-block.common             { width: 12.5%; background: #00BFFF; }  /* deep sky blue */
-.rarity-block.fairly-uncommon    { width: 12.5%; background: #FFD700; }  /* gold */
-.rarity-block.uncommon           { width: 12.5%; background: #FF8C00; }  /* dark orange */
-.rarity-block.rare               { width: 12.5%; background: #FF6347; }  /* tomato red-orange */
-.rarity-block.very-rare          { width: 12.5%; background: #FF3366; }  /* hot pink */
-.rarity-block.extremely-rare     { width: 12.5%; background: #C71585; }  /* medium violet red */
-
     /* Lollipop Marker – unchanged shape/size */
     .rarity-marker {
       position: absolute;
@@ -113,7 +102,7 @@
       padding: 6px 12px;
       border-radius: 12px;
       border: 3px solid #9ca3af;
-      background: {{ marker_color | default('#0d6efd') }};
+      background: {{ marker_color | default('#00BFFF') }};
       color: #ffffff;
       font-weight: 600;
       font-size: 1.1rem;
@@ -193,15 +182,15 @@
             <div class="rarity-scale-wrapper">
               <div class="rarity-scale">
                 {% if rarity != 'N/A' %}
-                  <!-- 8 distinct blocks -->
-                  <div class="rarity-block extremely-common"></div>
-                  <div class="rarity-block very-common"></div>
-                  <div class="rarity-block common"></div>
-                  <div class="rarity-block fairly-uncommon"></div>
-                  <div class="rarity-block uncommon"></div>
-                  <div class="rarity-block rare"></div>
-                  <div class="rarity-block very-rare"></div>
-                  <div class="rarity-block extremely-rare"></div>
+                  <!-- 8 distinct blocks with inline colors matching backend -->
+                  <div class="rarity-block" style="background: #00FF7F;"></div> <!-- Extremely Common -->
+                  <div class="rarity-block" style="background: #00FA9A;"></div> <!-- Very Common -->
+                  <div class="rarity-block" style="background: #00BFFF;"></div> <!-- Common -->
+                  <div class="rarity-block" style="background: #FFD700;"></div> <!-- Fairly Uncommon -->
+                  <div class="rarity-block" style="background: #FF8C00;"></div> <!-- Uncommon -->
+                  <div class="rarity-block" style="background: #FF6347;"></div> <!-- Rare -->
+                  <div class="rarity-block" style="background: #FF3366;"></div> <!-- Very Rare -->
+                  <div class="rarity-block" style="background: #C71585;"></div> <!-- Extremely Rare -->
                 {% endif %}
               </div>
 
