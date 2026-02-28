@@ -59,7 +59,7 @@
       border-radius: 20px;
       overflow: hidden;
       border: 3px solid #9ca3af;
-      box-shadow: 0 0 20px rgba(0, 255, 255, 0.4), inset 0 0 15px rgba(0, 0, 0, 0.2);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
       background: linear-gradient(180deg, #f9fafb, #f3f4f6);
       position: relative;
     }
@@ -85,7 +85,7 @@
     }
     .rarity-block:last-child:after { display: none; }
 
-    /* Miami Vice neon colors - kept exactly as your last working version */
+    /* Miami Vice neon colors - 8 distinct blocks */
     .rarity-block.extremely-common   { width: 12.5%; background: #00FF7F; }  /* spring green */
     .rarity-block.very-common        { width: 12.5%; background: #00FA9A; }  /* medium spring green */
     .rarity-block.common             { width: 12.5%; background: #00BFFF; }  /* deep sky blue */
@@ -95,7 +95,7 @@
     .rarity-block.very-rare          { width: 12.5%; background: #FF3366; }  /* hot pink */
     .rarity-block.extremely-rare     { width: 12.5%; background: #C71585; }  /* medium violet red */
 
-    /* Lollipop Marker – with neon glow */
+    /* Lollipop Marker – no glow */
     .rarity-marker {
       position: absolute;
       top: -70px;
@@ -117,9 +117,7 @@
       font-weight: 600;
       font-size: 1.1rem;
       white-space: nowrap;
-      box-shadow: 
-        0 0 12px {{ marker_color | default('#00BFFF') }},
-        0 0 25px {{ marker_color | default('#00BFFF') }}80;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
       text-align: center;
       line-height: 1.2;
     }
@@ -206,13 +204,13 @@
                 {% endif %}
               </div>
 
-              <!-- Lollipop marker with precise color and neon glow -->
+              <!-- Lollipop marker – color matches slider block -->
               {% if rarity != 'N/A' %}
                 {% set position = 10 %}
                 {% set marker_color = rarity_level.hex %}
                 {% set rarity_text = rarity_level.quality %}
 
-                <!-- Position the lollipop based on rarity level (0–100% scale) -->
+                <!-- Position lollipop based on rarity level -->
                 {% if rarity_level.quality == 'Extremely Common' %}
                   {% set position = 6 %}
                 {% elif rarity_level.quality == 'Very Common' %}
