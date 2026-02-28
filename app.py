@@ -5,6 +5,7 @@ import os
 from dotenv import load_dotenv
 import json
 import logging
+from collections import defaultdict
 
 # Set up logging (shows in Vercel function logs)
 logging.basicConfig(level=logging.INFO)
@@ -64,6 +65,46 @@ def load_makes_models():
 def home():
     makes, makes_models = load_makes_models()
     return render_template('home.html', makes=makes, makes_models=makes_models)
+
+@app.route('/browse')
+def browse():
+    """A-Z browse page for makes"""
+    try:
+        sql = text("""
+            SELECT DISTINCT make
+            FROM counts_current
+            WHERE make IS NOT NULL AND make != ''
+            ORDER BY make ASC
+        """)
+        with engine.connect() as conn:
+            result = conn.execute(sql)
+            all_makes = [row[0].strip() for row in result if row[0] and row[0].strip()]
+
+        # Group by first letter
+        grouped = defaultdict(list)
+        for make in all_makes:
+            first_char = make[0].upper()
+            group_key = '0-9' if first_char.isdigit() else first_char
+            grouped[group_key].append(make)
+
+        # Sort makes within each group
+        for key in grouped:
+            grouped[key].sort()
+
+        # Prepare sorted letter keys (A-Z first, then 0-9 if present)
+        letters = sorted([k for k in grouped if k != '0-9'])
+        if '0-9' in grouped:
+            letters.append('0-9')
+
+        grouped_makes = {letter: grouped[letter] for letter in letters}
+
+        logger.info("Browse page: loaded %d makes across %d groups", len(all_makes), len(letters))
+
+        return render_template('browse.html', grouped_makes=grouped_makes)
+
+    except Exception as e:
+        logger.error("Error in /browse: %s", str(e))
+        return render_template('browse.html', grouped_makes={}, error="Could not load makes – try again later"), 500
 
 @app.route('/advanced-search')
 def advanced_search():
