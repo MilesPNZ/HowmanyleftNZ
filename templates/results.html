@@ -85,19 +85,14 @@
     }
     .rarity-block:last-child:after { display: none; }
 
-    /* NEW 8-level colors - still 5 visual blocks (rightmost covers Rare/Very Rare/Extremely Rare) */
-    .rarity-block.extremely-common   { width: 20%; background: #28a745; }  /* bright green */
-    .rarity-block.very-common        { width: 20%; background: #198754; }  /* forest green */
-    .rarity-block.common             { width: 20%; background: #0d6efd; }  /* blue */
-    .rarity-block.fairly-uncommon    { width: 20%; background: #ffc107; }  /* yellow */
-    .rarity-block.uncommon           { width: 20%; background: #fd7e14; }  /* orange */
+    /* 5 visual blocks with new color mapping */
+    .rarity-block.extremely-common   { width: 20%; background: #28a745; }  /* bright green - Extremely Common */
+    .rarity-block.very-common        { width: 20%; background: #198754; }  /* forest green - Very Common */
+    .rarity-block.common             { width: 20%; background: #0d6efd; }  /* blue - Common */
+    .rarity-block.fairly-uncommon    { width: 20%; background: #ffc107; }  /* yellow - Fairly Uncommon */
+    .rarity-block.rare-to-extreme    { width: 20%; background: #fb923c; }  /* orange-red → deep red gradient feel for Rare/Very Rare/Extremely Rare */
 
-    /* Rightmost block now covers Rare → Extremely Rare (deeper red gradient feel) */
-    .rarity-block.rare               { width: 20%; background: #fb923c; }  /* orange-red */
-    .rarity-block.very-rare          { width: 20%; background: #f87171; }  /* red */
-    .rarity-block.extremely-rare     { width: 20%; background: #dc3545; }  /* deep red */
-
-    /* Lollipop Marker – unchanged design, uses precise hex from rarity_level */
+    /* Lollipop Marker – unchanged design */
     .rarity-marker {
       position: absolute;
       top: -70px;
@@ -194,14 +189,13 @@
             <div class="rarity-scale-wrapper">
               <div class="rarity-scale">
                 {% if rarity != 'N/A' %}
-                  <!-- 5 visual blocks using new colors -->
+                  <!-- 5 visual blocks with new colors -->
                   <div class="rarity-block extremely-common"></div>
                   <div class="rarity-block very-common"></div>
                   <div class="rarity-block common"></div>
                   <div class="rarity-block fairly-uncommon"></div>
-                  <div class="rarity-block uncommon"></div>
-                  <!-- Rightmost block covers Rare / Very Rare / Extremely Rare -->
-                  <div class="rarity-block rare"></div>
+                  <!-- Rightmost block now covers Rare → Extremely Rare -->
+                  <div class="rarity-block rare-to-extreme"></div>
                 {% endif %}
               </div>
 
@@ -211,7 +205,7 @@
                 {% set marker_color = rarity_level.hex %}
                 {% set rarity_text = rarity_level.quality %}
 
-                <!-- Optional: fine-tune position based on rarity (closer to right = rarer) -->
+                <!-- Fine-tune lollipop position so rarer items are further right -->
                 {% if total > 100000 %}
                   {% set position = 5 %}
                 {% elif total >= 30000 %}
