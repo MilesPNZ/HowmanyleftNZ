@@ -383,24 +383,27 @@ def search():
         if total == 0:
             return render_template('results.html', search_summary=search_summary, total=0, rarity='N/A', error="No matching vehicles found")
 
-        # Rarity calculation
+        # Rarity calculation - NEW 8-level scale based on total surviving vehicles
         rarity = total_fleet // total if total > 0 else 'N/A'
 
         rarity_level = {'quality': 'N/A', 'hex': '#6c757d'}
         if rarity != 'N/A':
-            if rarity < 500:
-                rarity_level = {'quality': 'Very Common', 'hex': '#0d6efd'}
-            elif rarity < 2000:
-                rarity_level = {'quality': 'Common', 'hex': '#28a745'}
-            elif rarity < 10000:
-                rarity_level = {'quality': 'Uncommon', 'hex': '#ffc107'}
-            elif rarity < 40000:
-                rarity_level = {'quality': 'Rare', 'hex': '#fd7e14'}
+            if total > 100000:
+                rarity_level = {'quality': 'Extremely Common', 'hex': '#28a745'}   # bright green
+            elif total >= 30000:
+                rarity_level = {'quality': 'Very Common', 'hex': '#198754'}        # forest green
+            elif total >= 10000:
+                rarity_level = {'quality': 'Common', 'hex': '#0d6efd'}             # blue
+            elif total >= 3000:
+                rarity_level = {'quality': 'Fairly Uncommon', 'hex': '#ffc107'}    # yellow
+            elif total >= 1000:
+                rarity_level = {'quality': 'Uncommon', 'hex': '#fd7e14'}           # orange
+            elif total >= 300:
+                rarity_level = {'quality': 'Rare', 'hex': '#fb923c'}               # orange-red
+            elif total >= 100:
+                rarity_level = {'quality': 'Very Rare', 'hex': '#f87171'}          # red
             else:
-                rarity_level = {'quality': 'Very Rare', 'hex': '#dc3545'}
-
-            if total < 1000 and rarity > 20000:
-                rarity_level = {'quality': 'Very Rare', 'hex': '#dc3545'}
+                rarity_level = {'quality': 'Extremely Rare', 'hex': '#dc3545'}     # deep red
 
         years = [str(item.get('year', '')) for item in yearly_list if isinstance(item, dict)]
         counts_per_year = [item.get('count', 0) for item in yearly_list if isinstance(item, dict)]
