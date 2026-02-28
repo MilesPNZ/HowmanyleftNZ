@@ -70,41 +70,64 @@ def home():
 def browse():
     """A-Z browse page for makes"""
     try:
+        # Robust query: trim, upper, exclude empty/null
         sql = text("""
-            SELECT DISTINCT make
-            FROM counts_current
-            WHERE make IS NOT NULL AND make != ''
-            ORDER BY make ASC
+            SELECT DISTINCT TRIM(UPPER(make)) AS clean_make
+            FROM public.counts_current
+            WHERE make IS NOT NULL 
+              AND TRIM(make) != ''
+            ORDER BY clean_make ASC
         """)
+        
         with engine.connect() as conn:
             result = conn.execute(sql)
-            all_makes = [row[0].strip() for row in result if row[0] and row[0].strip()]
+            all_makes = [row[0] for row in result if row[0]]
+            
+            # Debug: log first 5 and total count
+            logger.info(f"Browse query returned {len(all_makes)} makes")
+            if all_makes:
+                logger.info(f"Sample makes: {all_makes[:5]} ... {all_makes[-5:]}")
+            else:
+                # Extra debug: check if table has rows at all
+                row_count = conn.execute(text("SELECT COUNT(*) FROM public.counts_current")).scalar()
+                sample_make = conn.execute(text("SELECT make FROM public.counts_current LIMIT 1")).scalar()
+                logger.warning(f"counts_current has {row_count} rows | Sample make value: {sample_make}")
+                
+                # One more check: any non-null make?
+                non_null_count = conn.execute(text("SELECT COUNT(*) FROM public.counts_current WHERE make IS NOT NULL")).scalar()
+                logger.warning(f"Non-null make rows: {non_null_count}")
 
-        # Group by first letter
+        if not all_makes:
+            # TEMP fallback for testing display (comment out once fixed)
+            logger.warning("No makes found - using temporary fallback list")
+            all_makes = [
+                "TOYOTA", "FORD", "HONDA", "HOLDEN", "MAZDA", "NISSAN", "SUZUKI", 
+                "MITSUBISHI", "VOLKSWAGEN", "BMW", "MERCEDES-BENZ", "SUBARU", "HYUNDAI"
+            ]  # ← replace with your real list slice if wanted
+
+        # Group by first letter (using cleaned upper case)
         grouped = defaultdict(list)
         for make in all_makes:
-            first_char = make[0].upper()
+            first_char = make[0] if make else '?'
             group_key = '0-9' if first_char.isdigit() else first_char
             grouped[group_key].append(make)
 
-        # Sort makes within each group
+        # Sort within groups
         for key in grouped:
-            grouped[key].sort()
+            grouped[key] = sorted(set(grouped[key]))  # dedupe just in case
 
-        # Prepare sorted letter keys (A-Z first, then 0-9 if present)
+        # Sorted keys: A-Z then 0-9
         letters = sorted([k for k in grouped if k != '0-9'])
         if '0-9' in grouped:
             letters.append('0-9')
 
         grouped_makes = {letter: grouped[letter] for letter in letters}
 
-        logger.info("Browse page: loaded %d makes across %d groups", len(all_makes), len(letters))
-
         return render_template('browse.html', grouped_makes=grouped_makes)
 
     except Exception as e:
-        logger.error("Error in /browse: %s", str(e))
-        return render_template('browse.html', grouped_makes={}, error="Could not load makes – try again later"), 500
+        logger.error(f"Error in /browse route: {str(e)}", exc_info=True)
+        return render_template('browse.html', grouped_makes={}, error=f"Database issue: {str(e)}"), 500
 
 @app.route('/advanced-search')
 def advanced_search():
