@@ -63,7 +63,7 @@ def load_makes_models():
 @app.route('/')
 def home():
     makes, makes_models = load_makes_models()
-    return render_template('index.html', makes=makes, makes_models=makes_models)
+    return render_template('home.html', makes=makes, makes_models=makes_models)
 
 @app.route('/advanced-search')
 def advanced_search():
