@@ -241,50 +241,49 @@
       searchField: ['text']
     });
 
-    // --- Super robust scroll preservation for Tom Select multi-dropdowns ---
-    function preserveScrollOnChange(tomSelectInstance, name) {
-      let desiredScroll = 0;
+    // --- Fix scroll reset for multi-select dropdowns ---
+    function fixMultiScroll(tomSelectInstance, name) {
+      let lastUserScroll = 0;
 
-      // Capture scroll on every dropdown open
+      // Capture user scroll whenever the dropdown is open
       tomSelectInstance.on('dropdown_open', () => {
-        desiredScroll = tomSelectInstance.dropdown_content.scrollTop;
-        console.log(`[${name}] Dropdown opened - captured desired scroll:`, desiredScroll);
+        // Give Tom Select time to do its initial reset, then capture
+        requestAnimationFrame(() => {
+          lastUserScroll = tomSelectInstance.dropdown_content.scrollTop;
+          console.log(`[${name}] Dropdown open (post-reset) - captured user scroll:`, lastUserScroll);
+        });
       });
 
-      // Double RAF restore (runs after browser paint, catches Tom Select resets)
-      const doubleRafRestore = () => {
+      // On add/remove/change: restore to last known user scroll
+      const restoreUserScroll = () => {
         requestAnimationFrame(() => {
-          requestAnimationFrame(() => {
-            tomSelectInstance.dropdown_content.scrollTop = desiredScroll;
-            console.log(`[${name}] Double RAF restore to:`, desiredScroll, 'actual:', tomSelectInstance.dropdown_content.scrollTop);
-          });
+          tomSelectInstance.dropdown_content.scrollTop = lastUserScroll;
+          console.log(`[${name}] Restore to user scroll:`, lastUserScroll, 'actual:', tomSelectInstance.dropdown_content.scrollTop);
         });
+        // Extra fallback
+        setTimeout(() => {
+          tomSelectInstance.dropdown_content.scrollTop = lastUserScroll;
+          console.log(`[${name}] Timeout fallback to:`, lastUserScroll, 'actual:', tomSelectInstance.dropdown_content.scrollTop);
+        }, 0);
       };
 
-      // Restore on key events that trigger DOM updates
-      tomSelectInstance.on('change', doubleRafRestore);
-      tomSelectInstance.on('item_add', doubleRafRestore);
-      tomSelectInstance.on('item_remove', doubleRafRestore);
-      tomSelectInstance.on('option_add', doubleRafRestore); // catches option DOM changes
+      tomSelectInstance.on('change', restoreUserScroll);
+      tomSelectInstance.on('item_add', restoreUserScroll);
+      tomSelectInstance.on('item_remove', restoreUserScroll);
+      tomSelectInstance.on('option_add', restoreUserScroll);
 
-      // Restore on open/close to prevent snap on reopen
-      tomSelectInstance.on('dropdown_open', doubleRafRestore);
-      tomSelectInstance.on('dropdown_close', doubleRafRestore);
+      // Also restore on every open (prevents reset on reopen)
+      tomSelectInstance.on('dropdown_open', restoreUserScroll);
 
-      // Final fallback: poll once after 100ms if still reset
-      tomSelectInstance.on('item_add', function () {
-        setTimeout(() => {
-          if (tomSelectInstance.dropdown_content.scrollTop !== desiredScroll) {
-            tomSelectInstance.dropdown_content.scrollTop = desiredScroll;
-            console.log(`[${name}] Final 100ms fallback restore to:`, desiredScroll, 'actual:', tomSelectInstance.dropdown_content.scrollTop);
-          }
-        }, 100);
+      // Disable Tom Select's auto-scroll to new item (common cause of reset)
+      tomSelectInstance.control_input.addEventListener('focus', () => {
+        tomSelectInstance.dropdown_content.scrollTop = lastUserScroll;
       });
     }
 
-    // Apply to both dropdowns
-    preserveScrollOnChange(modelTom, 'MODEL');
-    preserveScrollOnChange(submodelTom, 'SUBMODEL');
+    // Apply fix to both dropdowns
+    fixMultiScroll(modelTom, 'MODEL');
+    fixMultiScroll(submodelTom, 'SUBMODEL');
 
     // Load models when make changes
     makeSelect.addEventListener('change', function () {
