@@ -204,107 +204,115 @@
   <script src="https://cdn.jsdelivr.net/npm/tom-select@2.3.1/dist/js/tom-select.complete.min.js"></script>
 
   <script>
-    document.addEventListener('DOMContentLoaded', function () {
+  document.addEventListener('DOMContentLoaded', function () {
 
-      // Make select (single)
-      const makeSelect = document.getElementById('make');
+    // Make select (single)
+    const makeSelect = document.getElementById('make');
 
-      // Model multi-select (Tom Select)
-      const modelTom = new TomSelect('#model', {
-        plugins: ['remove_button'],
-        persist: false,
-        create: false,
-        maxOptions: null,
-        placeholder: 'Select Model(s) (multiple allowed)',
-        searchField: ['text']
+    // Model multi-select (Tom Select)
+    const modelTom = new TomSelect('#model', {
+      plugins: ['remove_button'],
+      persist: false,
+      create: false,
+      maxOptions: null,
+      placeholder: 'Select Model(s) (multiple allowed)',
+      searchField: ['text']
+    });
+
+    // Sub-model / Variant - Tom Select
+    const submodelTom = new TomSelect('#submodel', {
+      plugins: ['remove_button'],
+      persist: false,
+      create: false,
+      maxOptions: null,
+      maxItems: null,
+      placeholder: 'Select Variant(s) (multiple allowed)',
+      searchField: ['text'],
+      preload: false
+    });
+
+    // Fuel Type multi-select (Tom Select)
+    const fuelTom = new TomSelect('#fuel_type', {
+      plugins: ['remove_button'],
+      persist: false,
+      create: false,
+      maxOptions: 50,
+      placeholder: 'Select Fuel Type(s) (multiple allowed)',
+      searchField: ['text']
+    });
+
+    // --- Preserve dropdown scroll position on item add/remove for model and submodel ---
+    function preserveScrollOnChange(tomSelectInstance) {
+      let lastScrollTop = 0;
+
+      // Capture scroll position when dropdown opens
+      tomSelectInstance.on('dropdown_open', function () {
+        lastScrollTop = tomSelectInstance.dropdown_content.scrollTop;
       });
 
-      // Sub-model / Variant - Tom Select
-      const submodelTom = new TomSelect('#submodel', {
-        plugins: ['remove_button'],
-        persist: false,
-        create: false,
-        maxOptions: null,
-        maxItems: null,
-        placeholder: 'Select Variant(s) (multiple allowed)',
-        searchField: ['text'],
-        preload: false
+      // Restore scroll after item add or remove (these events fire after DOM update)
+      const restoreScroll = () => {
+        tomSelectInstance.dropdown_content.scrollTop = lastScrollTop;
+      };
+
+      tomSelectInstance.on('item_add', restoreScroll);
+      tomSelectInstance.on('item_remove', restoreScroll);
+
+      // Fallback: force restore after a short delay (covers any missed DOM mutations)
+      tomSelectInstance.on('item_add', function () {
+        setTimeout(restoreScroll, 50);
       });
-
-      // Preserve scroll position on re-render
-      submodelTom.on('item_add', function(value, item) {
-        console.log('DEBUG: item_add fired for:', value);
-        const dropdown = submodelTom.dropdown;
-        const currentScroll = dropdown.scrollTop;
-        console.log('DEBUG: captured scroll:', currentScroll);
-
-        const observer = new MutationObserver(() => {
-          console.log('DEBUG: Mutation detected - restoring scroll');
-          dropdown.scrollTop = currentScroll;
-          observer.disconnect();
-        });
-
-        observer.observe(dropdown, { childList: true, subtree: true });
-
-        setTimeout(() => {
-          dropdown.scrollTop = currentScroll;
-          console.log('DEBUG: fallback restore to:', dropdown.scrollTop);
-          observer.disconnect();
-        }, 300);
+      tomSelectInstance.on('item_remove', function () {
+        setTimeout(restoreScroll, 50);
       });
+    }
 
-      // Fuel Type multi-select (Tom Select)
-      const fuelTom = new TomSelect('#fuel_type', {
-        plugins: ['remove_button'],
-        persist: false,
-        create: false,
-        maxOptions: 50,
-        placeholder: 'Select Fuel Type(s) (multiple allowed)',
-        searchField: ['text']
-      });
+    // Apply scroll preservation to model and submodel dropdowns
+    preserveScrollOnChange(modelTom);
+    preserveScrollOnChange(submodelTom);
 
-      // Load models when make changes
-      makeSelect.addEventListener('change', function() {
-        const make = this.value;
-        if (!make) {
-          modelTom.clearOptions();
-          modelTom.disable();
-          submodelTom.clearOptions();
-          submodelTom.disable();
-          return;
-        }
+    // Load models when make changes
+    makeSelect.addEventListener('change', function () {
+      const make = this.value;
+      if (!make) {
+        modelTom.clearOptions();
+        modelTom.disable();
+        submodelTom.clearOptions();
+        submodelTom.disable();
+        return;
+      }
 
-        $.get('/models', { make: make }, function(data) {
-          modelTom.clearOptions();
-          const options = data.map(m => ({ value: m, text: m }));
-          modelTom.addOptions(options);
-          modelTom.refreshOptions(false);
-          modelTom.enable();
-        });
-      });
-
-      // Load submodels when model changes
-      modelTom.on('change', function() {
-        const make = makeSelect.value;
-        const models = modelTom.getValue();
-        if (!make || !models.length) {
-          submodelTom.clearOptions();
-          submodelTom.disable();
-          return;
-        }
-
-        $.get('/submodels', { make: make, models: models }, function(data) {
-          submodelTom.clearOptions();
-          const options = data.map(item => ({
-            value: item || '',
-            text: item || 'Base / Standard Model'
-          }));
-          submodelTom.addOptions(options);
-          submodelTom.refreshOptions(false);
-          submodelTom.enable();
-        });
+      $.get('/models', { make: make }, function (data) {
+        modelTom.clearOptions();
+        const options = data.map(m => ({ value: m, text: m }));
+        modelTom.addOptions(options);
+        modelTom.refreshOptions(false);
+        modelTom.enable();
       });
     });
-  </script>
+
+    // Load submodels when model changes
+    modelTom.on('change', function () {
+      const make = makeSelect.value;
+      const models = modelTom.getValue();
+      if (!make || !models.length) {
+        submodelTom.clearOptions();
+        submodelTom.disable();
+        return;
+      }
+
+      $.get('/submodels', { make: make, models: models }, function (data) {
+        submodelTom.clearOptions();
+        const options = data.map(item => ({
+          value: item || '',
+          text: item || 'Base / Standard Model'
+        }));
+        submodelTom.addOptions(options);
+        submodelTom.refreshOptions(false);
+        submodelTom.enable();
+      });
+    });
+  });
+</script>
 </body>
 </html>
