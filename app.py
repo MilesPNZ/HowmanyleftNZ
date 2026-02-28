@@ -68,55 +68,72 @@ def home():
 
 @app.route('/browse')
 def browse():
-    """A-Z browse page for makes"""
+    """A-Z browse page for makes - with aggressive debugging"""
     try:
-        # Robust query: trim, upper, exclude empty/null
-        sql = text("""
-            SELECT DISTINCT TRIM(UPPER(make)) AS clean_make
-            FROM public.counts_current
-            WHERE make IS NOT NULL 
-              AND TRIM(make) != ''
-            ORDER BY clean_make ASC
-        """)
-        
         with engine.connect() as conn:
-            result = conn.execute(sql)
-            all_makes = [row[0] for row in result if row[0]]
-            
-            # Debug: log first 5 and total count
-            logger.info(f"Browse query returned {len(all_makes)} makes")
+            # 1. Basic table health check
+            row_count = conn.execute(text("SELECT COUNT(*) FROM counts_current")).scalar()
+            logger.info(f"counts_current total rows: {row_count}")
+
+            non_null_make_count = conn.execute(text("SELECT COUNT(*) FROM counts_current WHERE make IS NOT NULL AND make != ''")).scalar()
+            logger.info(f"Rows with non-null/non-empty make: {non_null_make_count}")
+
+            # 2. Simple raw sample (exact query that worked in Supabase #4)
+            sample_raw = conn.execute(text("""
+                SELECT make 
+                FROM counts_current 
+                WHERE make IS NOT NULL AND make != ''
+                LIMIT 5
+            """)).fetchall()
+            logger.info(f"Raw sample makes (LIMIT 5): {[row[0] for row in sample_raw]}")
+
+            # 3. The actual distinct query - keep simple first
+            distinct_raw = conn.execute(text("""
+                SELECT DISTINCT make
+                FROM counts_current
+                WHERE make IS NOT NULL AND make != ''
+                ORDER BY make ASC
+            """)).fetchall()
+            all_makes = [row[0].strip() for row in distinct_raw if row[0] and row[0].strip()]
+
+            logger.info(f"Distinct makes fetched: {len(all_makes)}")
             if all_makes:
-                logger.info(f"Sample makes: {all_makes[:5]} ... {all_makes[-5:]}")
+                logger.info(f"First 5 distinct: {all_makes[:5]}")
+                logger.info(f"Last 5 distinct: {all_makes[-5:]}")
             else:
-                # Extra debug: check if table has rows at all
-                row_count = conn.execute(text("SELECT COUNT(*) FROM public.counts_current")).scalar()
-                sample_make = conn.execute(text("SELECT make FROM public.counts_current LIMIT 1")).scalar()
-                logger.warning(f"counts_current has {row_count} rows | Sample make value: {sample_make}")
-                
-                # One more check: any non-null make?
-                non_null_count = conn.execute(text("SELECT COUNT(*) FROM public.counts_current WHERE make IS NOT NULL")).scalar()
-                logger.warning(f"Non-null make rows: {non_null_count}")
+                logger.warning("Distinct query returned empty list - trying trimmed version")
 
-        if not all_makes:
-            # TEMP fallback for testing display (comment out once fixed)
-            logger.warning("No makes found - using temporary fallback list")
-            all_makes = [
-                "TOYOTA", "FORD", "HONDA", "HOLDEN", "MAZDA", "NISSAN", "SUZUKI", 
-                "MITSUBISHI", "VOLKSWAGEN", "BMW", "MERCEDES-BENZ", "SUBARU", "HYUNDAI"
-            ]  # ← replace with your real list slice if wanted
+                # 4. Fallback: trimmed/upper version (what worked in Supabase #2)
+                distinct_trim = conn.execute(text("""
+                    SELECT DISTINCT TRIM(UPPER(make)) AS clean_make
+                    FROM counts_current
+                    WHERE make IS NOT NULL AND TRIM(make) != ''
+                    ORDER BY clean_make ASC
+                """)).fetchall()
+                all_makes_trim = [row[0] for row in distinct_trim if row[0]]
+                logger.info(f"Trimmed/Upper distinct count: {len(all_makes_trim)}")
+                if all_makes_trim:
+                    logger.info(f"Trimmed sample: {all_makes_trim[:5]}")
+                all_makes = all_makes_trim
 
-        # Group by first letter (using cleaned upper case)
+            # If STILL empty after both attempts → fallback for visual test
+            if not all_makes:
+                logger.warning("No makes after both queries - using fallback list")
+                all_makes = [
+                    "TOYOTA", "FORD", "HONDA", "HOLDEN", "MAZDA", "NISSAN", "SUZUKI",
+                    "MITSUBISHI", "VOLKSWAGEN", "BMW", "MERCEDES-BENZ", "SUBARU", "HYUNDAI"
+                ]
+
+        # --- Grouping logic (unchanged) ---
         grouped = defaultdict(list)
         for make in all_makes:
-            first_char = make[0] if make else '?'
+            first_char = make[0].upper() if make else '?'
             group_key = '0-9' if first_char.isdigit() else first_char
             grouped[group_key].append(make)
 
-        # Sort within groups
         for key in grouped:
-            grouped[key] = sorted(set(grouped[key]))  # dedupe just in case
+            grouped[key] = sorted(set(grouped[key]))  # dedupe + sort
 
-        # Sorted keys: A-Z then 0-9
         letters = sorted([k for k in grouped if k != '0-9'])
         if '0-9' in grouped:
             letters.append('0-9')
@@ -126,8 +143,8 @@ def browse():
         return render_template('browse.html', grouped_makes=grouped_makes)
 
     except Exception as e:
-        logger.error(f"Error in /browse route: {str(e)}", exc_info=True)
-        return render_template('browse.html', grouped_makes={}, error=f"Database issue: {str(e)}"), 500
+        logger.exception("Critical error in browse route")
+        return render_template('browse.html', grouped_makes={}, error=f"Database error: {str(e)}"), 500
 
 @app.route('/advanced-search')
 def advanced_search():
