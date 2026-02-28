@@ -41,7 +41,7 @@
       line-height: 1.1;
     }
 
-    /* Rarity Scale Container */
+    /* Rarity Scale Container - now wider to fit 8 blocks */
     .rarity-scale-container {
       width: 100%;
       margin: 0 auto;
@@ -85,14 +85,17 @@
     }
     .rarity-block:last-child:after { display: none; }
 
-    /* 5 visual blocks with new color mapping */
-    .rarity-block.extremely-common   { width: 20%; background: #28a745; }  /* bright green - Extremely Common */
-    .rarity-block.very-common        { width: 20%; background: #198754; }  /* forest green - Very Common */
-    .rarity-block.common             { width: 20%; background: #0d6efd; }  /* blue - Common */
-    .rarity-block.fairly-uncommon    { width: 20%; background: #ffc107; }  /* yellow - Fairly Uncommon */
-    .rarity-block.rare-to-extreme    { width: 20%; background: #fb923c; }  /* orange-red → deep red gradient feel for Rare/Very Rare/Extremely Rare */
+    /* 8 distinct blocks - each 12.5% width */
+    .rarity-block.extremely-common   { width: 12.5%; background: #28a745; }  /* bright green */
+    .rarity-block.very-common        { width: 12.5%; background: #198754; }  /* forest green */
+    .rarity-block.common             { width: 12.5%; background: #0d6efd; }  /* blue */
+    .rarity-block.fairly-uncommon    { width: 12.5%; background: #ffc107; }  /* yellow */
+    .rarity-block.uncommon           { width: 12.5%; background: #fd7e14; }  /* orange */
+    .rarity-block.rare               { width: 12.5%; background: #fb923c; }  /* orange-red */
+    .rarity-block.very-rare          { width: 12.5%; background: #f87171; }  /* red */
+    .rarity-block.extremely-rare     { width: 12.5%; background: #dc3545; }  /* deep red */
 
-    /* Lollipop Marker – unchanged design */
+    /* Lollipop Marker – unchanged shape/size */
     .rarity-marker {
       position: absolute;
       top: -70px;
@@ -184,18 +187,20 @@
         {% if total > 0 %}
           <p class="total-line"><strong>Total matching vehicles:</strong> {{ "{:,}".format(total) }}</p>
 
-          <!-- Rarity Scale with Colored Lollipop Marker -->
+          <!-- Rarity Scale with 8 colored blocks -->
           <div class="rarity-scale-container">
             <div class="rarity-scale-wrapper">
               <div class="rarity-scale">
                 {% if rarity != 'N/A' %}
-                  <!-- 5 visual blocks with new colors -->
+                  <!-- 8 distinct blocks -->
                   <div class="rarity-block extremely-common"></div>
                   <div class="rarity-block very-common"></div>
                   <div class="rarity-block common"></div>
                   <div class="rarity-block fairly-uncommon"></div>
-                  <!-- Rightmost block now covers Rare → Extremely Rare -->
-                  <div class="rarity-block rare-to-extreme"></div>
+                  <div class="rarity-block uncommon"></div>
+                  <div class="rarity-block rare"></div>
+                  <div class="rarity-block very-rare"></div>
+                  <div class="rarity-block extremely-rare"></div>
                 {% endif %}
               </div>
 
@@ -205,23 +210,23 @@
                 {% set marker_color = rarity_level.hex %}
                 {% set rarity_text = rarity_level.quality %}
 
-                <!-- Fine-tune lollipop position so rarer items are further right -->
-                {% if total > 100000 %}
-                  {% set position = 5 %}
-                {% elif total >= 30000 %}
-                  {% set position = 15 %}
-                {% elif total >= 10000 %}
-                  {% set position = 30 %}
-                {% elif total >= 3000 %}
-                  {% set position = 45 %}
-                {% elif total >= 1000 %}
-                  {% set position = 60 %}
-                {% elif total >= 300 %}
-                  {% set position = 75 %}
-                {% elif total >= 100 %}
-                  {% set position = 85 %}
+                <!-- Position the lollipop based on rarity level (0–100% scale) -->
+                {% if rarity_level.quality == 'Extremely Common' %}
+                  {% set position = 6 %}
+                {% elif rarity_level.quality == 'Very Common' %}
+                  {% set position = 19 %}
+                {% elif rarity_level.quality == 'Common' %}
+                  {% set position = 31 %}
+                {% elif rarity_level.quality == 'Fairly Uncommon' %}
+                  {% set position = 44 %}
+                {% elif rarity_level.quality == 'Uncommon' %}
+                  {% set position = 56 %}
+                {% elif rarity_level.quality == 'Rare' %}
+                  {% set position = 69 %}
+                {% elif rarity_level.quality == 'Very Rare' %}
+                  {% set position = 81 %}
                 {% else %}
-                  {% set position = 95 %}
+                  {% set position = 94 %}
                 {% endif %}
 
                 <div class="rarity-marker" style="left: {{ position }}%;">
