@@ -59,7 +59,7 @@
       border-radius: 20px;
       overflow: hidden;
       border: 3px solid #9ca3af;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+      box-shadow: 0 0 20px rgba(0, 255, 255, 0.4), inset 0 0 15px rgba(0, 0, 0, 0.2);
       background: linear-gradient(180deg, #f9fafb, #f3f4f6);
       position: relative;
     }
@@ -85,7 +85,7 @@
     }
     .rarity-block:last-child:after { display: none; }
 
-    /* Lollipop Marker – unchanged shape/size */
+    /* Lollipop Marker – with neon glow */
     .rarity-marker {
       position: absolute;
       top: -70px;
@@ -107,7 +107,9 @@
       font-weight: 600;
       font-size: 1.1rem;
       white-space: nowrap;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      box-shadow: 
+        0 0 12px {{ marker_color | default('#00BFFF') }},
+        0 0 25px {{ marker_color | default('#00BFFF') }}80;
       text-align: center;
       line-height: 1.2;
     }
@@ -177,12 +179,12 @@
         {% if total > 0 %}
           <p class="total-line"><strong>Total matching vehicles:</strong> {{ "{:,}".format(total) }}</p>
 
-          <!-- Rarity Scale with 8 colored blocks -->
+          <!-- Rarity Scale with 8 Miami Vice neon blocks -->
           <div class="rarity-scale-container">
             <div class="rarity-scale-wrapper">
               <div class="rarity-scale">
                 {% if rarity != 'N/A' %}
-                  <!-- 8 distinct blocks with inline Miami Vice neon colors -->
+                  <!-- 8 distinct blocks with inline Miami Vice colors -->
                   <div class="rarity-block" style="background: #00FF7F;"></div> <!-- Extremely Common -->
                   <div class="rarity-block" style="background: #00FA9A;"></div> <!-- Very Common -->
                   <div class="rarity-block" style="background: #00BFFF;"></div> <!-- Common -->
@@ -194,7 +196,7 @@
                 {% endif %}
               </div>
 
-              <!-- Lollipop marker with precise color and name -->
+              <!-- Lollipop marker with precise color and neon glow -->
               {% if rarity != 'N/A' %}
                 {% set position = 10 %}
                 {% set marker_color = rarity_level.hex %}
