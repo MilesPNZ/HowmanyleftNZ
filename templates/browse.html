@@ -16,20 +16,20 @@
       background-color: #007bff; 
     }
     .browse-container {
-      max-width: 960px;          /* similar to UK site's readable width */
+      max-width: 960px;
       margin: 0 auto;
       padding: 40px 20px;
     }
     .jump-nav {
       text-align: center;
-      margin-bottom: 2.5rem;
-      font-size: 1.1rem;
+      margin-bottom: 3rem;
+      font-size: 1.25rem;
+      font-weight: 500;
     }
     .jump-nav a {
-      margin: 0 4px;
+      margin: 0 6px;
       color: #007bff;
       text-decoration: none;
-      font-weight: 500;
     }
     .jump-nav a:hover {
       text-decoration: underline;
@@ -38,20 +38,21 @@
       font-size: 2.5rem;
       font-weight: bold;
       color: #333;
-      margin: 2.5rem 0 1rem;
-      padding-bottom: 0.5rem;
+      margin: 3rem 0 1.5rem;
+      padding-bottom: 0.75rem;
       border-bottom: 2px solid #dee2e6;
     }
     .make-list {
-      column-count: 3;           /* 3 columns on desktop - matches common UK feel */
-      column-gap: 2rem;
+      column-count: 3;
+      column-gap: 2.5rem;
+      margin-bottom: 2rem;
     }
     .make-list a {
       display: block;
-      margin-bottom: 0.75rem;
+      margin-bottom: 0.9rem;
       color: #007bff;
       text-decoration: none;
-      font-size: 1.1rem;
+      font-size: 1.15rem;
     }
     .make-list a:hover {
       text-decoration: underline;
@@ -67,14 +68,17 @@
         column-count: 1;
       }
       .letter-heading {
-        font-size: 2rem;
+        font-size: 2.1rem;
+      }
+      .jump-nav {
+        font-size: 1.1rem;
       }
     }
   </style>
 </head>
 <body>
 
-  <!-- Navbar - copied from your home page -->
+  <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark">
     <div class="container">
       <a class="navbar-brand" href="/">How Many Left?</a>
@@ -111,26 +115,26 @@
       {% for letter in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' %}
         <a href="#{{ letter }}">{{ letter }}</a>
       {% endfor %}
-      <a href="#09">0–9</a>
+      <a href="#0-9">0–9</a>
     </nav>
 
-    {% if makes %}
+    {% if grouped_makes %}
       {% for letter, letter_makes in grouped_makes.items() %}
         <h2 id="{{ letter }}" class="letter-heading">
-          {{ letter if letter != '09' else '0–9' }}
+          {{ letter if letter != '0-9' else '0–9' }}
         </h2>
         <div class="make-list">
           {% for make in letter_makes %}
-            <a href="{{ url_for('results', make=make) }}">{{ make }}</a>  <!-- adjust route/params as needed -->
+            <a href="{{ url_for('search', make=make) }}">{{ make }}</a>
           {% endfor %}
         </div>
       {% endfor %}
     {% else %}
-      <p class="text-center text-muted">No makes found in the database.</p>
+      <p class="text-center text-muted lead">No makes found in the database.</p>
     {% endif %}
   </div>
 
-  <!-- Footer - identical to home -->
+  <!-- Footer -->
   <footer class="bg-secondary text-white py-5">
     <div class="container">
       <div class="row text-center text-md-start">
@@ -141,6 +145,7 @@
             Don't use any information presented here to make legal or financial decisions.
           </p>
         </div>
+
         <div class="col-md-4 mb-4">
           <h5 class="text-uppercase mb-3">About the data</h5>
           <p class="small">
@@ -152,13 +157,14 @@
             Contains public sector information licensed under the <strong>Open Government Licence v3.0</strong>.
           </p>
         </div>
+
         <div class="col-md-4 mb-4">
           <h5 class="text-uppercase mb-3">About the author</h5>
           <p class="small">
             This is a passion project built by a New Zealand car enthusiast to make NZ vehicle registration data more accessible and fun to explore.<br><br>
             Running the site (hosting, database, domain, and ongoing updates) costs real money every month. If you find it useful and would like to help keep it online and improving, any support is hugely appreciated:
           </p>
-          <form action="https://www.paypal.com/donate" method="post" target="_top">
+          <form action="https://www.paypal.com/donate" method="post" target="_top" rel="nofollow">
             <input type="hidden" name="hosted_button_id" value="YOUR_BUTTON_ID" />
             <button type="submit" class="btn btn-warning btn-sm">
               ☕ Buy me a coffee
@@ -166,6 +172,7 @@
           </form>
         </div>
       </div>
+
       <hr class="my-4 border-secondary">
       <div class="text-center small">
         © 2026 How Many Left? NZ. All rights reserved.
