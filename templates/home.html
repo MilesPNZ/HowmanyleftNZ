@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>How Many Left?</title>
+  <title>How Many Left? NZ</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   
-  <!-- Add this line if cover.css is in static/css/cover.css -->
-  <link rel="stylesheet" href="{{ url_for('static', filename='css/cover.css') }}">
+  <!-- Tom Select CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/tom-select@2.3.1/dist/css/tom-select.bootstrap5.min.css" rel="stylesheet">
 
   <style>
     body { 
@@ -17,120 +17,214 @@
     .navbar { 
       background-color: #007bff; 
     }
-    .hero-img { 
-      max-width: 600px;          /* cap on large screens */
-      width: 100%;               /* ← key for mobile scaling */
-      height: auto; 
-      display: block; 
-      margin: 0 auto 20px; 
-      border-radius: 10px; 
+    .hero-container {
+      position: relative;
+      max-width: 1000px;
+      margin: 2rem auto;
+      text-align: center;
+      padding: 0 1rem;                /* subtle side padding on all screens */
     }
-    .search-container { 
-      max-width: 600px; 
-      margin: 0 auto; 
-      position: relative; 
-    }
-    .blurb { 
-      max-width: 600px; 
-      margin: 40px auto; 
-      text-align: center; 
-    }
-    .blurb h2 { 
-      color: #0056b3; 
-    }
-    .search-bar .form-control {
-      border-radius: 50px;
-      padding-right: 120px;
-    }
-    .search-bar .btn {
-      border-radius: 50px;
-      min-width: 100px;
-    }
-    #suggestions {
-      position: absolute;
-      top: 100%;
-      left: 0;
+    .hero-img {
       width: 100%;
-      max-height: 300px;
-      overflow-y: auto;
-      background: white;
-      border: 1px solid #ced4da;
-      border-radius: 0 0 10px 10px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-      z-index: 1000;
-      display: none;
+      height: auto;
+      border-radius: 12px;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+      display: block;
     }
-    #suggestions div {
-      padding: 10px 15px;
-      cursor: pointer;
+    .search-overlay {
+      background: rgba(255, 255, 255, 0.65);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border-radius: 16px;
+      border: 1px solid rgba(255,255,255,0.6);
+      box-shadow: 0 8px 30px rgba(0,0,0,0.22);
+      padding: 1.8rem 1.6rem;
+      width: 88%;
+      max-width: 680px;
     }
-    #suggestions div:hover {
-      background: #f0f0f0;
+    .search-overlay h1 {
+      color: #0d47a1;
+      font-weight: bold;
+      font-size: 2.1rem;
+      margin-bottom: 0.6rem;
+    }
+    .search-overlay .lead {
+      font-size: 1.05rem;
+      color: #444;
+      margin-bottom: 1.4rem;
+      line-height: 1.4;
+    }
+    .search-overlay .form-label {
+      font-weight: 600;
+      font-size: 0.95rem;
+      margin-bottom: 0.4rem;
+      color: #222;
+    }
+    .search-overlay .form-control,
+    .search-overlay .form-select {
+      font-size: 1rem;
+      padding: 0.55rem 0.8rem;
+      background: rgba(255,255,255,0.92);
+      border-color: #c0c0c0;
+    }
+    .search-overlay .btn-primary {
+      font-size: 1.15rem;
+      padding: 0.7rem;
+      background-color: #0d6efd;
+      border: none;
+    }
+    .advanced-link {
+      font-size: 0.9rem;
+      color: #0d6efd;
+      text-decoration: underline;
+    }
+    .blurb {
+      max-width: 720px;
+      margin: 2.5rem auto;
+      text-align: center;
+    }
+    .blurb h2 {
+      color: #0056b3;
+      font-size: 1.8rem;
+      margin-bottom: 1rem;
+    }
+
+    /* Desktop: overlay on image */
+    @media (min-width: 769px) {
+      .search-overlay {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 2;
+      }
+    }
+
+    /* Mobile: search box below image + side gaps on image */
+    @media (max-width: 768px) {
+      .hero-container {
+        margin: 1.5rem auto;
+        padding: 0 1rem;               /* container side padding */
+      }
+      .hero-img {
+        width: 98%;                    /* ← creates left/right gaps matching search box */
+        max-width: 94%;
+        margin: 0 auto 0 auto;         /* centered */
+        border-radius: 10px;
+      }
+      .search-overlay {
+        position: relative;
+        top: auto;
+        left: auto;
+        transform: none;
+        margin: 1.5rem auto 2.5rem auto;
+        width: 94%;
+        padding: 1.6rem 1.3rem;
+        box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+      }
+      .search-overlay h1 {
+        font-size: 1.9rem;
+      }
+      .search-overlay .lead {
+        font-size: 1rem;
+      }
+      .blurb {
+        margin-top: 1rem;
+        padding: 0 1rem;
+      }
     }
   </style>
 </head>
 <body>
 
-  <!-- Nav - now includes Browse -->
+  <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark">
     <div class="container">
-      <a class="navbar-brand" href="/">How Many Left?</a>
+      <a class="navbar-brand" href="/">How Many Left? NZ</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
-          <li class="nav-item">
-            <a class="nav-link active" href="/">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/browse">Browse</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/advanced-search">Advanced Search</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/how-to-use">How To Use</a>
-          </li>
+          <li class="nav-item"><a class="nav-link active" href="/">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="/browse">Browse</a></li>
+          <li class="nav-item"><a class="nav-link" href="/advanced-search">Advanced Search</a></li>
+          <li class="nav-item"><a class="nav-link" href="/how-to-use">How To Use</a></li>
         </ul>
       </div>
     </div>
   </nav>
 
-  <!-- Hero & Search -->
-  <section class="py-5 text-center">
-    <div class="container">
-      <!-- Improved: added img-fluid + better alt -->
-      <img src="{{ url_for('static', filename='images/Homepage1.jpg') }}" 
-           alt="Classic cars parked in the Southern Alps, New Zealand" 
-           class="hero-img img-fluid">
+  <!-- Hero image + search -->
+  <div class="hero-container">
+    <img src="{{ url_for('static', filename='images/Homepage1.jpg') }}" 
+         alt="Classic cars parked in the Southern Alps, New Zealand" 
+         class="hero-img img-fluid" loading="lazy">
 
-      <div class="search-container">
-        <form action="/search" method="GET" class="search-bar position-relative">
-          <input type="text" id="query" name="query" class="form-control form-control-lg" 
-                 placeholder="Make / Model (e.g. Ford Cortina)" aria-label="Search"
-                 autocomplete="off">
-          <button type="submit" class="btn btn-primary position-absolute top-50 end-0 translate-middle-y me-2 px-4">
-            Search
-          </button>
-        </form>
-        <div id="suggestions" class="list-group"></div>
-      </div>
+    <div class="search-overlay">
+      <h1>How Many Left? NZ</h1>
+      <p class="lead">Real-time registration counts for vehicles on New Zealand roads</p>
 
-      <!-- Blurb -->
-      <div class="blurb mt-5">
-        <h2>What is this?</h2>
-        <p>How Many Left is a tool to show how rare a specific make/model of vehicle is. The database can search cars, motorcycles and commercial vehicles registered on New Zealand Roads.</p>
-        <p class="mb-4">You can use this website to see how rare a particular vehicle may be and see a rarity score for your search. If you have any feedback or suggestions, or if you spot any issues or errors, please reach out using the contact form on this website.</p>
-        <h2>How do I get started?</h2>
-        <p>Start by searching a make or model that you are interested in using the search bar on this page or for a more refined search, visit the <a href="/advanced-search">Advanced Search page</a></p>
-        <p>You can also search by keywords or specifics for example: "Cosworth".</p>
+      <form action="/search" method="GET" id="homeSearchForm">
+        <div class="row g-3 mb-3">
+          <div class="col-md-6">
+            <label for="make_home" class="form-label">Make</label>
+            <select name="make" id="make_home" class="form-select">
+              <option value="">Any Make</option>
+              {% for make in makes %}
+                <option value="{{ make }}">{{ make }}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div class="col-md-6">
+            <label for="model_home" class="form-label">Model</label>
+            <select name="model[]" id="model_home" class="form-select" multiple disabled>
+              <option value="">Any Model (multiple allowed)</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="row g-3 mb-3">
+          <div class="col-md-6">
+            <label for="year_from_home" class="form-label">Year From</label>
+            <input type="number" name="year_from" id="year_from_home" class="form-control" 
+                   min="1900" max="2026" placeholder="e.g. 1980">
+          </div>
+          <div class="col-md-6">
+            <label for="year_to_home" class="form-label">Year To</label>
+            <input type="number" name="year_to" id="year_to_home" class="form-control" 
+                   min="1900" max="2026" placeholder="e.g. 2025">
+          </div>
+        </div>
+
+        <div class="mb-3">
+          <label for="keywords_home" class="form-label">Keywords / Variant</label>
+          <input type="text" name="keywords" id="keywords_home" class="form-control" 
+                 placeholder="e.g. AE86, Cosworth, Turbo, GTI, PHEV">
+        </div>
+
+        <button type="submit" class="btn btn-primary w-100">Search Now</button>
+      </form>
+
+      <div class="mt-3 text-center">
+        <a href="/advanced-search" class="advanced-link">Advanced filters (fuel type, sub-model, etc.) →</a>
       </div>
     </div>
-  </section>
+  </div>
 
-  <!-- Footer remains unchanged -->
-  <footer class="bg-secondary text-white py-5">
+  <!-- Blurb -->
+  <div class="blurb container">
+    <h2>What is this?</h2>
+    <p>How Many Left is a tool to show how rare a specific make/model of vehicle is. The database searches cars currently registered on New Zealand Roads.</p>
+    <p class="mb-4">You can use this website to see how rare a particular vehicle may be and see a rarity score for your search. If you have any feedback or suggestions, or if you spot any issues or errors, please reach out using the contact form on this website.</p>
+    
+    <h2>How do I get started?</h2>
+    <p>Start by searching a make or model that you are interested in using the form above or for a more refined search, visit the <a href="/advanced-search">Advanced Search page</a>.</p>
+    <p>You can also search by keywords or specifics for example: "Cosworth".</p>
+  </div>
+
+  <!-- Footer -->
+  <footer class="bg-secondary text-white py-5 mt-auto">
     <div class="container">
       <div class="row text-center text-md-start">
         <div class="col-md-4 mb-4">
@@ -173,59 +267,46 @@
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/tom-select@2.3.1/dist/js/tom-select.complete.min.js"></script>
 
-  <!-- Your suggestions script remains unchanged -->
   <script>
-  const makesModels = {{ makes_models | tojson | safe }};
+    document.addEventListener('DOMContentLoaded', function () {
+      const makeSelect = document.getElementById('make_home');
+      const modelSelect = document.getElementById('model_home');
 
-  const queryInput = document.getElementById('query');
-  const suggestionsDiv = document.getElementById('suggestions');
-  const searchForm = document.querySelector('form.search-bar');
-
-  queryInput.addEventListener('input', function() {
-    const term = this.value.trim().toUpperCase();
-    suggestionsDiv.innerHTML = '';
-    suggestionsDiv.style.display = 'none';
-
-    if (term.length < 2) return;
-
-    const suggestions = [];
-    for (const [make, models] of Object.entries(makesModels)) {
-      if (make.includes(term)) {
-        suggestions.push(make);
-      }
-      for (const model of models) {
-        if ((make + ' ' + model).includes(term)) {
-          suggestions.push(make + ' ' + model);
-        }
-      }
-    }
-
-    if (suggestions.length > 0) {
-      suggestions.slice(0, 10).forEach(sugg => {
-        const div = document.createElement('div');
-        div.classList.add('list-group-item', 'list-group-item-action');
-        div.textContent = sugg;
-
-        div.addEventListener('click', () => {
-          queryInput.value = sugg;
-          suggestionsDiv.style.display = 'none';
-          if (searchForm) {
-            searchForm.submit();
-          }
-        });
-
-        suggestionsDiv.appendChild(div);
+      const modelTom = new TomSelect(modelSelect, {
+        plugins: ['remove_button'],
+        persist: false,
+        create: false,
+        maxItems: null,
+        placeholder: 'Any Model (multiple allowed)',
+        searchField: ['text']
       });
-      suggestionsDiv.style.display = 'block';
-    }
-  });
 
-  document.addEventListener('click', function(e) {
-    if (!queryInput.contains(e.target) && !suggestionsDiv.contains(e.target)) {
-      suggestionsDiv.style.display = 'none';
-    }
-  });
+      makeSelect.addEventListener('change', function () {
+        const make = this.value.trim().toUpperCase();
+        if (!make) {
+          modelTom.clearOptions();
+          modelTom.disable();
+          modelTom.setTextboxValue('');
+          return;
+        }
+
+        fetch(`/models?make=${encodeURIComponent(make)}`)
+          .then(response => response.json())
+          .then(data => {
+            modelTom.clearOptions();
+            const options = data.map(m => ({ value: m, text: m }));
+            modelTom.addOptions(options);
+            modelTom.refreshOptions(false);
+            modelTom.enable();
+          })
+          .catch(err => {
+            console.error('Error loading models:', err);
+            modelTom.disable();
+          });
+      });
+    });
   </script>
 </body>
 </html>
