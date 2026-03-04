@@ -147,7 +147,7 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item"><a class="nav-link active" href="/">Home</a></li>
-          <li class="nav-item"><a class="nav-link" href="/browse">Browse</a></li>
+          <li class="nav-item"><a class="nav-link" href="/browse">Index</a></li>
           <li class="nav-item"><a class="nav-link" href="/advanced-search">Advanced Search</a></li>
           <li class="nav-item"><a class="nav-link" href="/how-to-use">How To Use</a></li>
         </ul>
@@ -169,18 +169,23 @@
         <div class="row g-3 mb-3">
           <div class="col-md-6">
             <label for="make_home" class="form-label">Make</label>
-            <select name="make" id="make_home" class="form-select">
-              <option value="">Any Make</option>
-              {% for make in makes %}
-                <option value="{{ make }}">{{ make }}</option>
-              {% endfor %}
-            </select>
+            <select name="make" id="make_home" placeholder="Any Make"></select>
           </div>
           <div class="col-md-6">
             <label for="model_home" class="form-label">Model</label>
-            <select name="model[]" id="model_home" class="form-select" multiple disabled>
-              <option value="">Any Model (multiple allowed)</option>
-            </select>
+            <select name="model[]" id="model_home" multiple placeholder="Any Model (multiple allowed)" disabled></select>
+          </div>
+        </div>
+
+        <div class="row g-3 mb-3">
+          <div class="col-md-6">
+            <label for="submodel_home" class="form-label">Sub-model</label>
+            <select name="submodel[]" id="submodel_home" multiple placeholder="Any Sub-model (multiple allowed)" disabled></select>
+          </div>
+          <div class="col-md-6">
+            <label for="keywords_home" class="form-label">Keywords</label>
+            <input type="text" name="keywords" id="keywords_home" class="form-control" 
+                   placeholder="e.g. AE86, Cosworth, Turbo, GTI, PHEV">
           </div>
         </div>
 
@@ -197,17 +202,11 @@
           </div>
         </div>
 
-        <div class="mb-3">
-          <label for="keywords_home" class="form-label">Keywords / Variant</label>
-          <input type="text" name="keywords" id="keywords_home" class="form-control" 
-                 placeholder="e.g. AE86, Cosworth, Turbo, GTI, PHEV">
-        </div>
-
         <button type="submit" class="btn btn-primary w-100">Search Now</button>
       </form>
 
       <div class="mt-3 text-center">
-        <a href="/advanced-search" class="advanced-link">Advanced filters (fuel type, sub-model, etc.) →</a>
+        <a href="/advanced-search" class="advanced-link">Advanced filters (fuel type, etc.) →</a>
       </div>
     </div>
   </div>
@@ -269,44 +268,148 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/tom-select@2.3.1/dist/js/tom-select.complete.min.js"></script>
 
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      const makeSelect = document.getElementById('make_home');
-      const modelSelect = document.getElementById('model_home');
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const allMakes = {{ makes | tojson | safe }};
 
-      const modelTom = new TomSelect(modelSelect, {
-        plugins: ['remove_button'],
-        persist: false,
-        create: false,
-        maxItems: null,
-        placeholder: 'Any Model (multiple allowed)',
-        searchField: ['text']
+  // Debug log – should show full array
+  console.log('Full makes array from Jinja (length ' + allMakes.length + '):', allMakes);
+
+  const makeElem   = document.getElementById('make_home');
+  const modelElem  = document.getElementById('model_home');
+  const subElem    = document.getElementById('submodel_home');
+
+  // Make (single) – static list, DISABLE virtual scroll completely
+  const makeTom = new TomSelect(makeElem, {
+    maxItems: 1,
+    plugins: ['remove_button'],
+    persist: false,
+    create: false,
+    placeholder: 'Any Make',
+    options: allMakes.map(m => ({value: m, text: m})),
+    items: [],
+    searchField: ['text'],
+    // Critical fixes to show ALL makes immediately
+    maxOptions: null,           // no limit
+    preload: true,              // load immediately
+    virtualScroll: false,       // disable lazy/virtual rendering
+    render: {
+      option: function(data, escape) {
+        return '<div>' + escape(data.text) + '</div>';
+      }
+    }
+  });
+
+  // Model (multi) – already working with full force
+  const modelTom = new TomSelect(modelElem, {
+    plugins: ['remove_button'],
+    persist: false,
+    create: false,
+    maxItems: null,
+    placeholder: 'Any Model (multiple allowed)',
+    searchField: ['text'],
+    maxOptions: null,
+    preload: true,
+    shouldLoad: () => true,
+    loadThrottle: 0,
+    virtualScroll: false
+  });
+  modelTom.disable();
+
+  // Sub-model (multi) – already working
+  const subTom = new TomSelect(subElem, {
+    plugins: ['remove_button'],
+    persist: false,
+    create: false,
+    maxItems: null,
+    placeholder: 'Any Sub-model (multiple allowed)',
+    searchField: ['text'],
+    maxOptions: null,
+    preload: true,
+    shouldLoad: () => true,
+    loadThrottle: 0,
+    virtualScroll: false
+  });
+  subTom.disable();
+
+  let currentMakeData = null;
+
+  makeTom.on('change', function() {
+    const make = this.getValue().trim();
+    modelTom.clear(true);
+    modelTom.clearOptions();
+    subTom.clear(true);
+    subTom.clearOptions();
+    subTom.disable();
+    modelTom.disable();
+
+    if (!make) return;
+
+    fetch(`/api/make/${encodeURIComponent(make)}`)
+      .then(r => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json();
+      })
+      .then(data => {
+        currentMakeData = data;
+
+        const modelOpts = data.map(item => ({
+          value: item.model,
+          text: `${item.model} (${item.count.toLocaleString()})`
+        }));
+        modelTom.addOptions(modelOpts);
+        modelTom.refreshOptions(false);
+        modelTom.enable();
+      })
+      .catch(err => {
+        console.error('Error loading make data:', err);
+        modelTom.disable();
       });
+  });
 
-      makeSelect.addEventListener('change', function () {
-        const make = this.value.trim().toUpperCase();
-        if (!make) {
-          modelTom.clearOptions();
-          modelTom.disable();
-          modelTom.setTextboxValue('');
-          return;
-        }
+  modelTom.on('change', function(values) {
+    subTom.clear(true);
+    subTom.clearOptions();
 
-        fetch(`/models?make=${encodeURIComponent(make)}`)
-          .then(response => response.json())
-          .then(data => {
-            modelTom.clearOptions();
-            const options = data.map(m => ({ value: m, text: m }));
-            modelTom.addOptions(options);
-            modelTom.refreshOptions(false);
-            modelTom.enable();
-          })
-          .catch(err => {
-            console.error('Error loading models:', err);
-            modelTom.disable();
-          });
-      });
+    if (!values || values.length === 0 || !currentMakeData) {
+      subTom.disable();
+      return;
+    }
+
+    const selectedModels = new Set(values);
+    const allSubs = [];
+
+    currentMakeData.forEach(item => {
+      if (selectedModels.has(item.model) && Array.isArray(item.submodels)) {
+        item.submodels.forEach(sub => {
+          if (sub && typeof sub === 'string') {
+            allSubs.push(sub.trim());
+          }
+        });
+      }
     });
-  </script>
+
+    const uniqueSubs = [...new Set(allSubs)]
+      .filter(Boolean)
+      .sort((a, b) => a.localeCompare(b));
+
+    const subOptions = uniqueSubs.map(sub => ({
+      value: sub,
+      text: sub
+    }));
+
+    subTom.addOptions(subOptions);
+    subTom.refreshOptions(false);
+    subTom.enable();
+  });
+
+  // Pre-fill from URL
+  const params = new URLSearchParams(window.location.search);
+  const preMake = params.get('make');
+  if (preMake && allMakes.includes(preMake)) {
+    makeTom.addItem(preMake);
+  }
+});
+</script>
 </body>
 </html>

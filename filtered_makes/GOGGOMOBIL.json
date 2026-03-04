@@ -1,0 +1,16 @@
+[
+  {
+    "model": "T",
+    "count": 1,
+    "submodels": [
+      "400"
+    ]
+  },
+  {
+    "model": "TS 400",
+    "count": 1,
+    "submodels": [
+      "COUPE"
+    ]
+  }
+]

@@ -1,0 +1,1814 @@
+[
+  {
+    "model": "CORVETTE",
+    "count": 2612,
+    "submodels": [
+      "Z51 COUPE",
+      "1961",
+      "1971",
+      "1978",
+      "1979",
+      "1987",
+      "1999",
+      "1LT 6.2L V8",
+      "2009 / Z06",
+      "25TH ANNIVERSARY",
+      "2LT STINGRAY CONVERT",
+      "2LT STINGRAY COUPE",
+      "2LT STINGRAY COUPE 6",
+      "327CI 4SPEED",
+      "350 L81",
+      "3LT",
+      "3LT STINGRAY CONVERT",
+      "3LT STINGRAY COUPE",
+      "3LT STINGRAY COUPE 6",
+      "3LT STINGRAY COUPE C",
+      "3LT Z51",
+      "40TH ANNIVERSAY",
+      "427 STINGRAY",
+      "5.0",
+      "5.7",
+      "5.7L",
+      "5.7L V8 AUTO",
+      "50TH ANNIVERSARY",
+      "6.2LV8",
+      "79 INDIANAPOLIS 500",
+      "ANNIVERSARY",
+      "ANNIVERSARY  50",
+      "ANNIVERSARY LIMITED",
+      "BALDWIN",
+      "Base",
+      "C1",
+      "C2",
+      "C2 STINGRAY",
+      "C3",
+      "C4",
+      "C4 ZR1 COUPE",
+      "C5",
+      "C5 ROADSTAR",
+      "C5 SPORTS",
+      "C5 Z06",
+      "C5-R",
+      "C6",
+      "C6 3LT",
+      "C6 CONVERTIBLE",
+      "C6 COUPE",
+      "C6 GRAND SPORT",
+      "C6 GRAND SPORT 3LT",
+      "C6 PACE CAR",
+      "C6 Z06 2LZ 6SPD 7.0L",
+      "C6 Z06 COUPE",
+      "C6 ZO6 6SPD 7.0L",
+      "C7",
+      "C7 3LT GRAND SPORT",
+      "C7 COUPE",
+      "C7 GRAND SPORT",
+      "C7 GRANDSPORT 3LT Z7",
+      "C7 STINGRAY",
+      "C7 STINGRAY COUPE",
+      "C7 Z06",
+      "C7 Z06 3LT 6.2L V8",
+      "C7 Z06 3LT Z07 6.2L",
+      "C7 Z06 3LZ",
+      "C7 Z06 3LZ Z07",
+      "C7 Z06 6.2L V8",
+      "C7 Z51",
+      "C7 Z51  GRAND SPORT",
+      "C7 Z51 2LT STINGRAY",
+      "C7 Z51 3LT",
+      "C7 Z51 3LT 6.2L V8",
+      "C7 Z51 3LT GRAND SPO",
+      "C7 Z51 3LT GRANDSPRT",
+      "C7 Z51 GRAND SPORT",
+      "C7 Z51 GRANDSPORT",
+      "C7 ZR1",
+      "C7-Z51",
+      "C8",
+      "C8 3LT Z51",
+      "C8 3LT Z51 STINGRAY",
+      "C8 STINGRAY",
+      "CALLAWAY",
+      "COLLECTOR EDITION",
+      "CONVERTABLE",
+      "CONVERTIBLE",
+      "CONVERTIBLE INJECTED",
+      "COUPE",
+      "COVERTIBLE",
+      "CROSS-FIRE",
+      "CVT",
+      "CZ Z51",
+      "E-RAY 3LZ COUPE 6.2P",
+      "GRAND SPORT",
+      "GRAND SPORT 6.2L",
+      "GRAND SPORT CENT ED",
+      "GRANDSPORT",
+      "GREENWOOD",
+      "GS",
+      "INDIANAPOLIS 500",
+      "INDY 500 PACE CAR",
+      "L-48",
+      "L-82",
+      "L-83",
+      "L82",
+      "L82 COUPE",
+      "L84",
+      "LIMITED EDITION",
+      "LS3",
+      "LT1",
+      "PACE CAR",
+      "PREMIUM",
+      "ROADSTER",
+      "S-LIMITED",
+      "SC",
+      "SPORT COUPE",
+      "STING RAY",
+      "STINGRAY",
+      "STINGRAY  Z51",
+      "STINGRAY 3LT",
+      "STINGRAY 3LT Z51",
+      "STINGRAY 427",
+      "STINGRAY 454",
+      "STINGRAY 6.2L C7",
+      "STINGRAY ANNIVERSARY",
+      "STINGRAY C7",
+      "STINGRAY C7 3LT",
+      "STINGRAY C7 3LT 6.2L",
+      "STINGRAY C7 6.2L",
+      "STINGRAY C7 COUPE",
+      "STINGRAY C7 Z06  S/C",
+      "STINGRAY C7 Z06 S/C",
+      "STINGRAY C7 Z51 6.2L",
+      "STINGRAY C8",
+      "STINGRAY C8 3LT Z51",
+      "STINGRAY C8 Z51",
+      "STINGRAY COUPE",
+      "STINGRAY L-82",
+      "STINGRAY L82",
+      "STINGRAY LIMITED EDI",
+      "STINGRAY LS5",
+      "STINGRAY LT-1",
+      "STINGRAY Z51",
+      "STINGRAY Z51 3LT",
+      "STINGRAY ZS1",
+      "STRINGRAY",
+      "STRINGRAY 327/360",
+      "STRINGRAY C8 3LT Z51",
+      "STRINGRAY CV",
+      "T/ TOP",
+      "TUNED PORT INJECTION",
+      "V8",
+      "YENKO/SC",
+      "Z",
+      "Z 06",
+      "Z06",
+      "Z06 3LZ",
+      "Z06 405HP",
+      "Z06 505 HP",
+      "Z06 505HP",
+      "Z06 6.2L S/C C7",
+      "Z06 C7",
+      "Z06 C7 3LZ 6.2L V8",
+      "Z06 C7 3LZ Z07 S/C",
+      "Z06 C7.R 6.2L",
+      "Z06 COUPE",
+      "Z06 STINGRAY COUPE 5",
+      "Z06 SUPERCHARGED",
+      "Z06Z07 PER PACK",
+      "Z51",
+      "Z51 3LT STINGRAY",
+      "Z51-5.7",
+      "ZO6",
+      "ZO6 505HP",
+      "ZO6 SUPERCHARGED",
+      "ZR-1",
+      "ZR-1 SUPERCHARGED",
+      "ZR1",
+      "ZR1 SUPERCHARGED"
+    ]
+  },
+  {
+    "model": "CAMARO",
+    "count": 2484,
+    "submodels": [
+      "2SS/RS",
+      "ZL1",
+      "124 COUPE",
+      "1969",
+      "1ET37",
+      "1LE",
+      "1LE 2SS 6SPD 6.2L",
+      "1LE 2SS 6SPD 6.2L V8",
+      "1SS",
+      "1SS 1LE COUPE",
+      "1SS COUPE",
+      "2 DR COUPE 1AK37 2SS",
+      "2 SS",
+      "2011",
+      "255 1LE",
+      "2D",
+      "2DR SS COUPE",
+      "2LT RS",
+      "2SS",
+      "2SS  RS",
+      "2SS 1 LE",
+      "2SS 1LE",
+      "2SS 1LE 6SP MAN",
+      "2SS 1LE COUPE",
+      "2SS 45TH ANNIVERSARY",
+      "2SS 50TH",
+      "2SS 50TH ANN 6.2L V8",
+      "2SS 50TH ANNIVERSARY",
+      "2SS 6.2L",
+      "2SS 6.2L LT1",
+      "2SS 6.2L V8",
+      "2SS 6SP MAN",
+      "2SS CONVERTIBLE",
+      "2SS COUPE",
+      "2SS COUPE 6.2L",
+      "2SS COUPE 6.2L V8",
+      "2SS COUPE AUTO 6.2P",
+      "2SS COUPE MANUAL 6.2",
+      "2SS GREEN FLASH",
+      "2SS GREEN FLASH 6.2L",
+      "2SS HENNESEY",
+      "2SS HPE 550",
+      "2SS RS",
+      "2SS TRANSFORMER",
+      "2SS-RS",
+      "2SS/RS  6.2L AUTO",
+      "2SS/RS  HOT WHEELS",
+      "2SS/RS 45TH ANN 6.2L",
+      "2SS/RS 6.2 COUPE L99",
+      "2SS/RS 6.2L",
+      "2SS/RS 6.2L 1LE PACK",
+      "2SS/RS 6.2L 45TH ANN",
+      "2SS/RS 6.2L 6SPD",
+      "2SS/RS 6.2L 6SPD 1LE",
+      "2SS/RS 6.2L 6SPD LS3",
+      "2SS/RS 6.2L 6SPD SC",
+      "2SS/RS 6.2L AUTO",
+      "2SS/RS 6.2L COUPE",
+      "2SS/RS 6.2L L99",
+      "2SS/RS 6.2L L99 AUTO",
+      "2SS/RS 6.2L S/C",
+      "2SS/RS 6.2L S/C 6SPD",
+      "2SS/RS 6.2L S/C AUTO",
+      "2SS/RS 6.2L V8",
+      "2SS/RS 6.2L V8 COUPE",
+      "2SS/RS 6.2L V8 S/C",
+      "2SS/RS 6.4L COUPE",
+      "2SS/RS 6.4L L99",
+      "2SS/RS 6SPD 6.2L V8",
+      "2SS/RS 6SPD LS3",
+      "2SS/RS 6SPD S/C",
+      "2SS/RS AUTO",
+      "2SS/RS CONVERTIBLE",
+      "2SS/RS HENNESSEY S/C",
+      "2SS/RS HENNESSEY V8",
+      "2SS/RS HOT WHEELS",
+      "2SS/RS HOTWHEELS",
+      "2SS/RS L99",
+      "2SS/RS S/C 6.2L V8",
+      "2SS/RS S/C 6SPD",
+      "2SS/RS TRANSFORMER",
+      "2SS/RS TRANSFORMERS",
+      "2SSRS",
+      "3.6L V6",
+      "327",
+      "350",
+      "350 RALLY SPORT",
+      "350 RS SS",
+      "45 TH ANIVERSARY SS",
+      "5.0L",
+      "5S",
+      "6.2L",
+      "6.2L 2SS RS 6-SPD",
+      "6.2L S/C",
+      "6.2L TRANSFORMER",
+      "A1XC",
+      "Base",
+      "BERLINETTA",
+      "CONV",
+      "CONVERTIBLE 2SS",
+      "COUPE",
+      "COUPE Z28",
+      "FACELIFT 2SS 6.2L",
+      "HENNESSEY",
+      "HENNESSEY HPE650",
+      "HENNESSEY SS RS",
+      "HENNESSY",
+      "HURST EDITION",
+      "HURST EQUIPPED",
+      "INDY PACE CAR",
+      "IROC Z",
+      "IROC Z28",
+      "IROC-Z",
+      "IROC.Z",
+      "ISS",
+      "LINGENFELTER",
+      "LS3",
+      "LS3 6.2",
+      "LT",
+      "NICKEY STAGE II SE",
+      "R S",
+      "RALLY SPORT",
+      "RALLY SPORT 350",
+      "RALLY-SPORT",
+      "REDLINE 1SS",
+      "RS",
+      "RS  327",
+      "RS 3.6L V6",
+      "RS 327",
+      "RS 45TH ANNIVERSARY",
+      "RS COUPE",
+      "RS LIMITED EDITION",
+      "RS SS",
+      "RS-Z28",
+      "RS/SS",
+      "RS350",
+      "RSSS",
+      "RYAN 2011 MODEL",
+      "SPORT COUPE",
+      "SPORTS COUPE",
+      "SS",
+      "SS  RS",
+      "SS 1 LE",
+      "SS 1LE",
+      "SS 1LE 6.2L V8 6MT",
+      "SS 1LE 6SPD",
+      "SS 1LE 6SPD FACELIFT",
+      "SS 2DR COUPE",
+      "SS 350",
+      "SS 35TH ANNIVERSARY",
+      "SS 396",
+      "SS 396TURBO-JET",
+      "SS 427",
+      "SS 45TH",
+      "SS 45TH ANNIVERSARY",
+      "SS 45TH EDITION",
+      "SS 50TH ANNIVERSARY",
+      "SS 6.2L V8 AUTO",
+      "SS AUTO",
+      "SS CONVERTIBLE",
+      "SS COUPE",
+      "SS FACELIFT 6SPD",
+      "SS FIFTY",
+      "SS HENNESSEY",
+      "SS INDY EDITION",
+      "SS RALLY SPORT",
+      "SS RS",
+      "SS TRANSFORMER",
+      "SS TRANSFORMERS",
+      "SS V8",
+      "SS ZL560",
+      "SS-396",
+      "SS-RS",
+      "SS-ZL575",
+      "SS.350",
+      "SS/RS",
+      "SS/RS 6.2L 1LE 6SPD",
+      "SS/RS 6SPD 1LE",
+      "SS/RS Z11",
+      "SS2",
+      "SS2 RS  CONVERTIBLE",
+      "SS2RS",
+      "SS350",
+      "SS454",
+      "SSM",
+      "SSRS",
+      "SUPERCHARGE HENNESEY",
+      "TRANS AM",
+      "TRANSFORMER SS",
+      "TYPE LT",
+      "V8 SS",
+      "YENKO/COPY",
+      "Z 28",
+      "Z-28",
+      "Z.28",
+      "Z/28",
+      "Z/28 6SPD 7.0L",
+      "Z/28 6SPD 7.0L V8",
+      "Z2.8",
+      "Z28",
+      "Z28 302",
+      "Z28 5.0 LITRE H.O",
+      "Z28 5.7L V8 AUTO",
+      "Z28 COUPE",
+      "Z28 IROC",
+      "Z28 IROC-Z",
+      "Z28 LT1",
+      "Z28 RALLY-SPORT",
+      "Z28 RS",
+      "Z28 SS",
+      "Z28-350",
+      "Z28-E",
+      "Z28SS",
+      "Z28Z",
+      "ZL1  COUPE",
+      "ZL1 1LE",
+      "ZL1 6.2 6SPD S/C 580",
+      "ZL1 6.2L",
+      "ZL1 6.2L 580",
+      "ZL1 6.2L 6SPD V8",
+      "ZL1 6.2L AUTO S/C",
+      "ZL1 6.2L S/C",
+      "ZL1 6.2L S/C 580",
+      "ZL1 6.2L V8",
+      "ZL1 6SPD 6.2L S/C",
+      "ZL1 6SPD 6.2L V8",
+      "ZL1 6SPD V8",
+      "ZL1 CONVERTIBLE",
+      "ZL1 COUPE",
+      "ZL1 COUPE 6.2L V8",
+      "ZL1 COUPE 6SPD 6.2L",
+      "ZL1 COUPE AUTO",
+      "ZL1 COUPE AUTO 6.2PS",
+      "ZL1 COUPE MANUAL 6.2",
+      "ZL1 EXORCIST",
+      "ZL1 RS",
+      "ZL1 S/C",
+      "ZL1 SUPERCHARGED",
+      "ZL1 V8 6.2L S/C",
+      "ZL1-1LE",
+      "ZL550 2SS",
+      "ZL560",
+      "ZLI",
+      "ZLT"
+    ]
+  },
+  {
+    "model": "IMPALA",
+    "count": 1400,
+    "submodels": [
+      "(1964)",
+      "1959",
+      "1964",
+      "1966",
+      "1966 SS",
+      "1976",
+      "2 DOOR",
+      "2 DOOR COUPE",
+      "2 DOOR HARDTOP",
+      "2 DOOR SPORT COUPE",
+      "2 DR COUPE",
+      "283",
+      "2DR BUBBLETOP",
+      "2DR HARDTOP",
+      "2DR HT",
+      "2DR SPORTS COUPE",
+      "307",
+      "327",
+      "327 SUPER SPORT",
+      "396 TURBO JET",
+      "4 DOOR COUPE",
+      "4 DOOR HARDTOP",
+      "4 DOOR PILLARLESS",
+      "4 DOOR SPORT HARDTOP",
+      "4 DOOR SPORTS SEDAN",
+      "4 DR HARDTOP",
+      "4 DR SPORTS SEDAN",
+      "409",
+      "4DR-HT",
+      "64",
+      "64 4DR",
+      "Base",
+      "BEL AIR",
+      "BEL-AIR",
+      "CAPRICE",
+      "CONVERTABLE",
+      "CONVERTIBLE",
+      "COUPE",
+      "CPE1847",
+      "CUSTOM",
+      "CUSTOM 307",
+      "CUSTOM 350",
+      "CUSTOM 396",
+      "HARDTOP",
+      "HARDTOP COUPE",
+      "HARDTOP V8",
+      "IMPALA",
+      "PILLARLESS",
+      "S/W",
+      "SEDAN",
+      "SP COUPE BUBBLETOP",
+      "SPORT COUPE",
+      "SPORT SEDAN",
+      "SPORTS",
+      "SPORTS COUPE",
+      "SPORTS SEDAN",
+      "SS",
+      "SS 2 DOOR HARDTOP",
+      "SS 390",
+      "SS 396",
+      "SS 4 SPEED MT",
+      "SS CONVERTIBLE",
+      "SS COUPE",
+      "SS SPORTS COUPE",
+      "SS SUPER SPORT",
+      "SS V8",
+      "SS V8 SPORT COUPE",
+      "STATION WAGON",
+      "SUPER SPORT",
+      "SUPER SPORT 327",
+      "SUPER SPORT SS",
+      "SUPER SPORTS",
+      "SUPERSPORT",
+      "TUDOR",
+      "TWO DOOR",
+      "V8 SPORT COUPE",
+      "WAGON"
+    ]
+  },
+  {
+    "model": "BELAIR",
+    "count": 1009,
+    "submodels": [
+      "120",
+      "150",
+      "1956",
+      "1957",
+      "1957 4 DOOR POST",
+      "2 DOOR",
+      "2 DOOR CONVERTIBLE",
+      "2 DOOR HARDTOP",
+      "2 DOOR POST",
+      "2 DOOR SEDAN",
+      "2 DOOR SPORTS COUPE",
+      "2 DR HARDTOP",
+      "2 TEN",
+      "210",
+      "210 2 DOOR SEDAN",
+      "210 2DR",
+      "210 COUPE",
+      "2DR",
+      "2DR COUPE",
+      "2DR HARDTOP",
+      "307",
+      "327",
+      "350 4D",
+      "4 DOOR HARD TOP",
+      "4 DOOR HARDTOP",
+      "4 DOOR POST",
+      "4 DOOR SEDAN",
+      "4 DR HARDTOP",
+      "4D",
+      "4D 1955",
+      "4DOOR HARD TOP",
+      "4DR PILLERLLESS",
+      "4DSD1669",
+      "510 SEDAN",
+      "55",
+      "56 TWO DOOR",
+      "Base",
+      "BEAUVILLE",
+      "C210",
+      "CONVERTABLE",
+      "CONVERTIBLE",
+      "COUPE",
+      "COVERTIBLE",
+      "DELUXE",
+      "HANDYMAN",
+      "HARD TOP COUPE",
+      "HARDTOP",
+      "IMPALA",
+      "IMPALA COUPE",
+      "INJECTED",
+      "LEVEL AIR",
+      "NOMAD",
+      "NOMAD SPORTSWAGON",
+      "POWER GLIDE",
+      "SEDAN",
+      "SPECIAL EDITION",
+      "SPORT COUPE",
+      "SPORTS COUPE",
+      "SPORTS SEDAN",
+      "SPORTSCOUPE",
+      "STATION WAGON",
+      "V8",
+      "VC5",
+      "VC56",
+      "WAGON"
+    ]
+  },
+  {
+    "model": "CRUZE",
+    "count": 534,
+    "submodels": [
+      "1.3L",
+      "1300",
+      "4WD",
+      "Base",
+      "GM",
+      "LS"
+    ]
+  },
+  {
+    "model": "CHEVELLE",
+    "count": 188,
+    "submodels": [
+      "300",
+      "350",
+      "396 SS",
+      "454 SS",
+      "454COUPE",
+      "Base",
+      "CONCOURS ESTATE",
+      "COUPE",
+      "GMC",
+      "MALABIU",
+      "MALIBU",
+      "MALIBU 350",
+      "MALIBU 350 SS",
+      "MALIBU COUPE",
+      "MALIBU SS",
+      "MALIBU V8",
+      "SS",
+      "SS  454",
+      "SS 396",
+      "SS 454",
+      "SS COUPE",
+      "SS396",
+      "SUPER SPORT",
+      "SUPER SPORT 454"
+    ]
+  },
+  {
+    "model": "CAPRICE",
+    "count": 134,
+    "submodels": [
+      "4D HARDTOP",
+      "BROUGHAM CLASSIC",
+      "2 DOOR HARDTOP",
+      "327",
+      "350",
+      "396",
+      "396 TURBO JET",
+      "396 TURBO-JET",
+      "4 DOOR HARDTOP",
+      "Base",
+      "CLASIC",
+      "CLASSIC",
+      "CLASSIC ESTATE WAGON",
+      "CLASSIC STATION WGN",
+      "ESTATE",
+      "HEARSE",
+      "SEDA",
+      "SPORT SEDAN",
+      "SS",
+      "STATESMAN",
+      "TURBO-JET",
+      "V8 CLASSIC"
+    ]
+  },
+  {
+    "model": "SONIC",
+    "count": 128,
+    "submodels": [
+      "1.6 LT",
+      "Base",
+      "HINACO",
+      "LT",
+      "LX"
+    ]
+  },
+  {
+    "model": "MASTER",
+    "count": 114,
+    "submodels": [
+      "-6 G.B.",
+      "85",
+      "85 COUPE",
+      "85 DELUXE",
+      "85 SEDAN",
+      "85 XHGB",
+      "85COUPE",
+      "95",
+      "Base",
+      "BUSINESS COUPE",
+      "CLUBMAN COUPE",
+      "COUPE",
+      "DA",
+      "DE LUX",
+      "DE-LUXE",
+      "DELUX",
+      "DELUX COUPE",
+      "DELUXE",
+      "DELUXE 2 DOOR",
+      "DELUXE COUPE",
+      "HB FLATBACK",
+      "HEARSE",
+      "PICKUP",
+      "ROADSTAR",
+      "SEDAN",
+      "SEDAN XHGB",
+      "TOURING SEDAN",
+      "XHGB"
+    ]
+  },
+  {
+    "model": "210",
+    "count": 108,
+    "submodels": [
+      "4DR H/T",
+      "Base",
+      "BEL AIR",
+      "CANDYMAN",
+      "DELRAY CLUB COUPE",
+      "DELUXE",
+      "HANDYMAN",
+      "HANDYMAN WAGON",
+      "HARDTOP",
+      "POST",
+      "SEDAN",
+      "SERIES WAGON",
+      "SPORTS COUPE",
+      "STATION WAGON",
+      "TOWNSMAN",
+      "TWO DOOR COUPE",
+      "TWO DOOR SEDAN",
+      "WAGON"
+    ]
+  },
+  {
+    "model": "COUPE",
+    "count": 105,
+    "submodels": [
+      "1928",
+      "1934",
+      "1937",
+      "38",
+      "Base",
+      "CLUB COUPE",
+      "DC",
+      "DE LUXE",
+      "DELUXE",
+      "HB",
+      "MASTER DELUX",
+      "POWER GLIDE",
+      "ROADSTER",
+      "SPECIAL DELUXE",
+      "SS",
+      "TWO-TEN",
+      "XHAD",
+      "XHBA"
+    ]
+  },
+  {
+    "model": "NOVA",
+    "count": 93,
+    "submodels": [
+      "307",
+      "350",
+      "400",
+      "Base",
+      "CONCOURS",
+      "II",
+      "SS",
+      "SS CUSTOM",
+      "SUPER SPORT"
+    ]
+  },
+  {
+    "model": "SUBURBAN",
+    "count": 91,
+    "submodels": [
+      "1500",
+      "1500 LS",
+      "1500 LT",
+      "3100",
+      "Base",
+      "BASE",
+      "C-K PICKUP",
+      "C10",
+      "C1500",
+      "C2500",
+      "GMC 1500",
+      "K1500",
+      "LS",
+      "LS  1500",
+      "LT",
+      "LT 1500",
+      "MPV",
+      "SCOTTS DALE",
+      "SCOTTSDALE",
+      "SILVERADO"
+    ]
+  },
+  {
+    "model": "MW",
+    "count": 83,
+    "submodels": [
+      "1300",
+      "Base",
+      "V SELECTION",
+      "WAGON"
+    ]
+  },
+  {
+    "model": "SEDAN",
+    "count": 74,
+    "submodels": [
+      "1936",
+      "1937",
+      "1938",
+      "210",
+      "250 KOMMANDO",
+      "38",
+      "4 DOOR",
+      "AC",
+      "AE INDEPENDENCE",
+      "Base",
+      "BELAIR",
+      "CLUB",
+      "CONFEDERATE",
+      "DELIVERY",
+      "DELUX",
+      "HB MASTER",
+      "L",
+      "MASTER 85",
+      "NZ55",
+      "TWO TEN",
+      "XHG"
+    ]
+  },
+  {
+    "model": "DELUXE",
+    "count": 63,
+    "submodels": [
+      "1954",
+      "Base",
+      "COUPE",
+      "COUPE DELUX",
+      "FASTBACK",
+      "MASTER DELUXE",
+      "NZ52",
+      "POWERGLIDE",
+      "SEDAN",
+      "SPECIAL",
+      "SPORT COUPE",
+      "STYLE MASTER",
+      "STYLEMASTER",
+      "SUPER"
+    ]
+  },
+  {
+    "model": "BISCAYNE",
+    "count": 49,
+    "submodels": [
+      "Base",
+      "BROOKWOOD V8",
+      "DD",
+      "L72"
+    ]
+  },
+  {
+    "model": "MALIBU",
+    "count": 47,
+    "submodels": [
+      "2.4L",
+      "2.4L AUTO",
+      "Base",
+      "CHEVELLE",
+      "CHEVELLE 327",
+      "CHEVELLE SS",
+      "CLASSIC",
+      "LS",
+      "LTZ",
+      "SPORT COUPE",
+      "SS",
+      "SS CUSTOM COUPE"
+    ]
+  },
+  {
+    "model": "TAHOE",
+    "count": 34,
+    "submodels": [
+      "1500",
+      "Base",
+      "CVL",
+      "K10706",
+      "LT",
+      "SUBURBAN LT",
+      "Z71"
+    ]
+  },
+  {
+    "model": "150",
+    "count": 27,
+    "submodels": [
+      "2 DOOR HANDYMAN",
+      "55 SEDAN",
+      "Base",
+      "BLACKWIDOW",
+      "DELIVERY",
+      "HANDYMAN",
+      "SEDAN",
+      "WAGON"
+    ]
+  },
+  {
+    "model": "CAPTIVA",
+    "count": 27,
+    "submodels": [
+      "2.6 AT ABS D/AB",
+      "Base",
+      "C140 2.4D FWD 6AT",
+      "LTX",
+      "LTZ     AWD"
+    ]
+  },
+  {
+    "model": "NOMAD",
+    "count": 26,
+    "submodels": [
+      "1960",
+      "Base",
+      "BEL AIR",
+      "BELAIR",
+      "STATION WAGON"
+    ]
+  },
+  {
+    "model": "MONTE CARLO",
+    "count": 25,
+    "submodels": [
+      "Base",
+      "INTIMIDATOR",
+      "LANDAU",
+      "SS",
+      "Z37"
+    ]
+  },
+  {
+    "model": "ASTRO",
+    "count": 24,
+    "submodels": [
+      "4X4 VAN",
+      "Base",
+      "EXT",
+      "STARCARFT",
+      "STARCRAFT"
+    ]
+  },
+  {
+    "model": "FLEETLINE",
+    "count": 22,
+    "submodels": [
+      "AERO",
+      "AERO SEDAN",
+      "AEROSEDAN",
+      "Base",
+      "COUPE",
+      "DELUXE",
+      "SERIES 2100GK",
+      "SPECIAL DELUXE"
+    ]
+  },
+  {
+    "model": "VAN",
+    "count": 22,
+    "submodels": [
+      "20",
+      "Base",
+      "DELIVERY",
+      "SL BROUGHAM",
+      "STARCRAFT",
+      "SUPERCRAFT",
+      "TRANS-AIRE"
+    ]
+  },
+  {
+    "model": "BLAZER",
+    "count": 21,
+    "submodels": [
+      "Base",
+      "K5",
+      "LS"
+    ]
+  },
+  {
+    "model": "FLEETMASTER",
+    "count": 21,
+    "submodels": [
+      "\\",
+      "Base",
+      "CABRIOLET",
+      "COUPE",
+      "DELUXE",
+      "N28F",
+      "NZ75"
+    ]
+  },
+  {
+    "model": "CORVAIR",
+    "count": 20,
+    "submodels": [
+      "1965",
+      "700",
+      "Base",
+      "CORSA",
+      "MONZA",
+      "MONZA SPYDER",
+      "SPYDER MONZA"
+    ]
+  },
+  {
+    "model": "NATIONAL",
+    "count": 20,
+    "submodels": [
+      "AB",
+      "Base",
+      "COUPE",
+      "ROADSTER",
+      "SEDAN",
+      "SERIES AB",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "STANDARD",
+    "count": 18,
+    "submodels": [
+      "3 WINDOW COUPE",
+      "Base",
+      "COUPE",
+      "DC",
+      "MASTER DELUXE",
+      "SALOON",
+      "SEDAN",
+      "XHFC"
+    ]
+  },
+  {
+    "model": "SILVERADO",
+    "count": 17,
+    "submodels": [
+      "1500",
+      "Base",
+      "C1500",
+      "K15753",
+      "STEPSIDE",
+      "SUBURBAN",
+      "SUBURBON"
+    ]
+  },
+  {
+    "model": "G20",
+    "count": 16,
+    "submodels": [
+      "Base",
+      "CHEVY VAN",
+      "GLADIATOR",
+      "PRESIDENTIAL",
+      "SPORT VAN",
+      "STARCRAFT",
+      "SV2 VAN"
+    ]
+  },
+  {
+    "model": "SUPERIOR",
+    "count": 16,
+    "submodels": [
+      "Base",
+      "K",
+      "K TOURING",
+      "RACEABOUT",
+      "ROADSTER",
+      "SERIES K",
+      "TOURER",
+      "TYPE B  ROADSTER",
+      "V"
+    ]
+  },
+  {
+    "model": "EL CAMINO",
+    "count": 15,
+    "submodels": [
+      "Base",
+      "SS 396",
+      "SUPER SPORT",
+      "UTE"
+    ]
+  },
+  {
+    "model": "350",
+    "count": 14,
+    "submodels": [
+      "Base",
+      "V8"
+    ]
+  },
+  {
+    "model": "BROOKWOOD",
+    "count": 14,
+    "submodels": [
+      "Base",
+      "PARKWOOD",
+      "STATION WAGON",
+      "STATION WAGON 4D"
+    ]
+  },
+  {
+    "model": "JUNIOR",
+    "count": 14,
+    "submodels": [
+      "35",
+      "Base",
+      "COUPE",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "C1500",
+    "count": 13,
+    "submodels": [
+      "Base",
+      "CONVERSION VAN",
+      "SILVERADO",
+      "SUBOURBON"
+    ]
+  },
+  {
+    "model": "CONSTANTIA",
+    "count": 10,
+    "submodels": [
+      "Base",
+      "DE VILLE",
+      "STATESMAN"
+    ]
+  },
+  {
+    "model": "OPTRA",
+    "count": 10,
+    "submodels": [
+      "Base",
+      "LT"
+    ]
+  },
+  {
+    "model": "SS",
+    "count": 10,
+    "submodels": [
+      "396",
+      "Base",
+      "CHEVELLE",
+      "MONARO",
+      "NOVA"
+    ]
+  },
+  {
+    "model": "ROADSTER",
+    "count": 8,
+    "submodels": [
+      "AC",
+      "Base",
+      "MASTER DA",
+      "ROYAL MAIL H2",
+      "T/BUCKET"
+    ]
+  },
+  {
+    "model": "STINGRAY",
+    "count": 8,
+    "submodels": [
+      "1965",
+      "454 V8",
+      "Base"
+    ]
+  },
+  {
+    "model": "EPICA",
+    "count": 7,
+    "submodels": [
+      "2.0 AUTO ABS AIRBAG",
+      "Base"
+    ]
+  },
+  {
+    "model": "STYLEMASTER",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "NZ8F"
+    ]
+  },
+  {
+    "model": "STYLELINE",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "DELUX 6-ST",
+      "DELUXE",
+      "DELUXE COUPE",
+      "SPORTS COUPE"
+    ]
+  },
+  {
+    "model": "TOURER",
+    "count": 6,
+    "submodels": [
+      "1934",
+      "AC INTERNATIONAL",
+      "Base"
+    ]
+  },
+  {
+    "model": "WENTWORTH",
+    "count": 6,
+    "submodels": [
+      "AD SEDAN",
+      "Base",
+      "ROADSTER",
+      "XHAD"
+    ]
+  },
+  {
+    "model": "DELRAY",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "COUPE"
+    ]
+  },
+  {
+    "model": "EXPRESS",
+    "count": 5,
+    "submodels": [
+      "AWD",
+      "Base",
+      "G1500",
+      "GLADIATOR"
+    ]
+  },
+  {
+    "model": "INTERNATIONAL",
+    "count": 5,
+    "submodels": [
+      "6",
+      "Base",
+      "FISHER ROADSTER",
+      "MILITARY SCOUT",
+      "SERIES AC"
+    ]
+  },
+  {
+    "model": "LUMINA",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "LTZ",
+      "SS",
+      "VZ6"
+    ]
+  },
+  {
+    "model": "TUDOR",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "FLEETMASTER",
+      "SEDAN",
+      "SPECIAL DELUXE"
+    ]
+  },
+  {
+    "model": "XH",
+    "count": 5,
+    "submodels": [
+      "AE",
+      "Base",
+      "GB",
+      "MASTER"
+    ]
+  },
+  {
+    "model": "CAPITOL",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "K1500",
+    "count": 4,
+    "submodels": [
+      "SILVERADO",
+      "SUBURBAN",
+      "Z71"
+    ]
+  },
+  {
+    "model": "KOMMANDO",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LACETTI",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "SX AUTO"
+    ]
+  },
+  {
+    "model": "PARKWOOD",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "PICKUP",
+    "count": 4,
+    "submodels": [
+      "1/2 TONNE",
+      "1500",
+      "Base",
+      "C1500"
+    ]
+  },
+  {
+    "model": "SIERRA",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SPARK",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "LITE",
+      "LT"
+    ]
+  },
+  {
+    "model": "BUSINESS COUPE",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "HB"
+    ]
+  },
+  {
+    "model": "C20",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CAMARO Z28",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CUSTOM",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "DELUXE 10"
+    ]
+  },
+  {
+    "model": "DELIVERY",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "DELRAY"
+    ]
+  },
+  {
+    "model": "DEVILLE",
+    "count": 3,
+    "submodels": [
+      "350",
+      "Base"
+    ]
+  },
+  {
+    "model": "ORLANDO",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "LS"
+    ]
+  },
+  {
+    "model": "SPORT",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "CONFEDERATE BA",
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "TRAILBLAZER",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "LTZ RWD MA CLASS",
+      "SS"
+    ]
+  },
+  {
+    "model": "UNIVERSAL",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "VEGA",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "COSWORTH"
+    ]
+  },
+  {
+    "model": "XHGA",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "DELUXE",
+      "MASTER DELUXE"
+    ]
+  },
+  {
+    "model": "490",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "59",
+    "count": 2,
+    "submodels": [
+      "SEDAN DELIVERY",
+      "STATION WAGON"
+    ]
+  },
+  {
+    "model": "AVEO",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BEL AIR",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BEL-AIR",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "C2500",
+    "count": 2,
+    "submodels": [
+      "SUBURBAN"
+    ]
+  },
+  {
+    "model": "CAVALIER",
+    "count": 2,
+    "submodels": [
+      "2.4Z",
+      "Base"
+    ]
+  },
+  {
+    "model": "MONZA",
+    "count": 2,
+    "submodels": [
+      "2X2",
+      "Base"
+    ]
+  },
+  {
+    "model": "SPECIAL DELUXE",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VOLT",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "E-REV1 CVT"
+    ]
+  },
+  {
+    "model": "XHHB",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "YEOMAN",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1935",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1937 XHGB",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1938",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "210 DELRAY",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "3100",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "469",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "55",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "798SWTG20",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "APACHE",
+    "count": 1,
+    "submodels": [
+      "32"
+    ]
+  },
+  {
+    "model": "AVALANCHE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BEAUMONT",
+    "count": 1,
+    "submodels": [
+      "DELUX"
+    ]
+  },
+  {
+    "model": "BEAUVILLE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CADILLAC",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CAMARO LT",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CAMARO SS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CAMINO",
+    "count": 1,
+    "submodels": [
+      "EL CAMINO CLASSIC"
+    ]
+  },
+  {
+    "model": "CARMARO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CHEVY VAN 30",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CK1500",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CONVERTIBLE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CORVETTE STINGRAY",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DE LUXE MAST",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DE VILLE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "INDEPENDANT",
+    "count": 1,
+    "submodels": [
+      "AE ROADSTAR"
+    ]
+  },
+  {
+    "model": "INDEPENDENCE",
+    "count": 1,
+    "submodels": [
+      "SPORTS COUPE"
+    ]
+  },
+  {
+    "model": "INDEPENDENT",
+    "count": 1,
+    "submodels": [
+      "XHAE"
+    ]
+  },
+  {
+    "model": "K2500",
+    "count": 1,
+    "submodels": [
+      "CK20906 LT"
+    ]
+  },
+  {
+    "model": "KINGSWOOD",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MASTER 85",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MASTER DELUX",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "PHAETON",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "REKORD",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SERIES 1300",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SL",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SSR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "STATIONWAGON",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "STYLINE",
+    "count": 1,
+    "submodels": [
+      "DELUX"
+    ]
+  },
+  {
+    "model": "TWO-TEN",
+    "count": 1,
+    "submodels": [
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "UTE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "XMGA",
+    "count": 1,
+    "submodels": [
+      "DELUX"
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "model": "NIVA",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "COSSACK 1600  4X4",
+      "HATCHBACK"
+    ]
+  },
+  {
+    "model": "1500",
+    "count": 2,
+    "submodels": [
+      "2103",
+      "Base"
+    ]
+  },
+  {
+    "model": "SAMARA",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1200",
+    "count": 1,
+    "submodels": [
+      "BA3"
+    ]
+  }
+]

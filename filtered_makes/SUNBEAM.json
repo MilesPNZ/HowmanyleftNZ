@@ -1,0 +1,103 @@
+[
+  {
+    "model": "ALPINE",
+    "count": 42,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "EF20",
+      "GT",
+      "HARRINGTON",
+      "SERIES 1V",
+      "SERIES 5",
+      "SERIES3",
+      "SILVERSTON V8",
+      "SPORT",
+      "SPORTS",
+      "SPORTS CONVERTIBLE",
+      "TIGER REPLICA",
+      "TOURER",
+      "V8"
+    ]
+  },
+  {
+    "model": "RAPIER",
+    "count": 22,
+    "submodels": [
+      "Base",
+      "S111A",
+      "SERIES IV",
+      "SERIES V"
+    ]
+  },
+  {
+    "model": "TIGER",
+    "count": 19,
+    "submodels": [
+      "(ALPINE 260)",
+      "1966 REPLICA LVV",
+      "Base",
+      "V8"
+    ]
+  },
+  {
+    "model": "IMP",
+    "count": 15,
+    "submodels": [
+      "Base",
+      "DELUXE",
+      "STILETTO"
+    ]
+  },
+  {
+    "model": "TALBOT",
+    "count": 13,
+    "submodels": [
+      "90 MK11",
+      "90",
+      "90 CONVERTIABLE",
+      "90 MK2A COUPE",
+      "Base",
+      "DROPHEAD COUPE.",
+      "LOTUS",
+      "MARK3",
+      "SUPREME"
+    ]
+  },
+  {
+    "model": "TOURER",
+    "count": 2,
+    "submodels": [
+      "1440",
+      "DROPHEAD COUPE"
+    ]
+  },
+  {
+    "model": "16.9",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "16/20",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "18.2",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "STILETTO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

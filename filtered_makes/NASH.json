@@ -1,0 +1,112 @@
+[
+  {
+    "model": "METROPOLITAN",
+    "count": 15,
+    "submodels": [
+      "561",
+      "Base"
+    ]
+  },
+  {
+    "model": "LAFAYETTE",
+    "count": 11,
+    "submodels": [
+      "3712",
+      "400 SERIES",
+      "Base",
+      "COUPE"
+    ]
+  },
+  {
+    "model": "RAMBLER",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "CUSTOM",
+      "REBLE",
+      "SUPER"
+    ]
+  },
+  {
+    "model": "SEDAN",
+    "count": 6,
+    "submodels": [
+      "1929",
+      "691",
+      "Base",
+      "CABRIOLET",
+      "HEARSE"
+    ]
+  },
+  {
+    "model": "AMBASSADOR",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "SIX 4DOOR SEDAN",
+      "SUPER"
+    ]
+  },
+  {
+    "model": "420",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "LIGHT SIX",
+      "STD SIX"
+    ]
+  },
+  {
+    "model": "400",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "SERIES",
+      "TWIN IGNITION 8"
+    ]
+  },
+  {
+    "model": "ADVANCED",
+    "count": 3,
+    "submodels": [
+      "360",
+      "470",
+      "SIX"
+    ]
+  },
+  {
+    "model": "440",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "600",
+    "count": 1,
+    "submodels": [
+      "SUPER"
+    ]
+  },
+  {
+    "model": "890",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LAFAYETTE 3513",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "STATESMAN",
+    "count": 1,
+    "submodels": [
+      "SUPER"
+    ]
+  }
+]

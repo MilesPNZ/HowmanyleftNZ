@@ -1,0 +1,32 @@
+[
+  {
+    "model": "D1",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SERIE 3 TOURER"
+    ]
+  },
+  {
+    "model": "DM",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "CO2",
+    "count": 1,
+    "submodels": [
+      "HISPANO-SUIZA"
+    ]
+  },
+  {
+    "model": "D6-75",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "model": "NAGARI",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "model": "SPYDER",
+    "count": 4,
+    "submodels": [
+      "550",
+      "Base"
+    ]
+  },
+  {
+    "model": "SPEEDSTER",
+    "count": 1,
+    "submodels": [
+      "356"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "model": "AV",
+    "count": 1,
+    "submodels": [
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "BR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CP",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

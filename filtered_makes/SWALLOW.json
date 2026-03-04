@@ -1,0 +1,18 @@
+[
+  {
+    "model": "100",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "SS",
+      "SS MARK 3"
+    ]
+  },
+  {
+    "model": "DORETTI",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

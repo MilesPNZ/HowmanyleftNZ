@@ -1,0 +1,785 @@
+[
+  {
+    "model": "500",
+    "count": 1434,
+    "submodels": [
+      "D BAMBINA",
+      "1.2 DOLCEVITA S9 1.2",
+      "1.2 LOUNGE S9 1.2P",
+      "1.2 POP",
+      "1.3 JTD POP",
+      "1.4 LOUNGE 3D",
+      "1.4 LOUNGE DUALOGIC",
+      "1.4 POP",
+      "1.4 POP DUALOGIC",
+      "1.4 SPORT",
+      "1.4 SPORT DUALOGIC",
+      "500",
+      "500C",
+      "ABARTH",
+      "ABARTH 595",
+      "ABARTH 595C",
+      "ABARTH CABRIOLET",
+      "ABARTH ESSEESSE",
+      "ABRATH 595",
+      "ARBARTH",
+      "BAMBINA",
+      "BAMBINA NUOVA",
+      "BAMBINO",
+      "Base",
+      "BY DIESEL MULTIJET",
+      "BY GUCCI",
+      "C",
+      "C 1.4 3D",
+      "C 1.4 3D DUALOGIC",
+      "C LOUNGE",
+      "C TWINAIR LOUNGE",
+      "C TWINAIR LOUNGE 0.9",
+      "COLLEZIONE",
+      "CONVERTIBLE",
+      "COUPE",
+      "CULT",
+      "D",
+      "E",
+      "E LA PRIMA",
+      "F",
+      "F BAMBINA",
+      "F BERLINETTA",
+      "GUCCI",
+      "L",
+      "LOUNGE",
+      "LOUNGE 1.3 JTD",
+      "LOUNGE DL 1.4P/5AM/H",
+      "LOUNGE DL CABRIO 1.4",
+      "LTD ED 1.4 3D 5A",
+      "LTD ED 1.4 3D 6M",
+      "NUOUA",
+      "NUOVA",
+      "NUOVA BAMBINA",
+      "POP",
+      "POP 1.2P/5AM/HA/3DR",
+      "POP 1.2P/5MT/HA/3DR",
+      "POP 1.2P5AM/HA3D4S",
+      "POP 1.2P5M/HA3D4S",
+      "POP CAB 1.2P/5AM/CV",
+      "POPCAB 1.2P/5AM/CV/2",
+      "S",
+      "SPORT",
+      "SPORT 1.4P/5AM/HA/2D",
+      "SPORT 1.4P/6MT/HA/2D",
+      "SPORT 1.4P5AM/HA2D4S",
+      "SPORT 1.4P6M/HA2D4S",
+      "SPORT DL 1.4P/5AM/HA",
+      "SPORTCAB 1.4P/5AM/CV",
+      "SPORTS",
+      "TOPOLINO",
+      "TWINAIR",
+      "TWINAIR PLUS",
+      "TWINAIR ROCKSTAR",
+      "X"
+    ]
+  },
+  {
+    "model": "PUNTO",
+    "count": 973,
+    "submodels": [
+      "1.2ELX HA 5SPM P 3DR",
+      "1.2ELX HA 5SPM P 5DR",
+      "1.2ELX HA CV P 5DR",
+      "1.2HLX HA 5SPM P 5DR",
+      "1.2SPT HA 6SPM P 3DR",
+      "1.3",
+      "1.3L JTD",
+      "1.4",
+      "1.8HGT HA 5SPM P 3DR",
+      "3 DR ABARTH",
+      "60S 3DR 5S M P",
+      "80 ELX 5D 5 SPEED",
+      "80 ELX EURO 3",
+      "80 SPEEDGEAR",
+      "80HLX",
+      "ABARTH HGT",
+      "ABARTH-EVO",
+      "ACTIVE",
+      "Base",
+      "CABRIOLET ELX",
+      "CABRIOLET ELX 5M",
+      "EASY 1.4P/5AM/HA/5DR",
+      "ELEGANCE",
+      "ELX",
+      "ELX 16V",
+      "GRAND",
+      "GT TURBO 5M",
+      "HGT",
+      "HGT 1.8",
+      "HGT 3 DR ABARTH",
+      "HGT ABARTH",
+      "HGT ARBARTH",
+      "HLX 16V",
+      "LOUNGE 1.4P/5AM/HA/5",
+      "POP 1.4P/5AM/HA/5DR",
+      "POP 1.4P/5MT/HA/5DR",
+      "SPORT 1.216V7SP P3DR",
+      "SPORT 1.4",
+      "SPORTING",
+      "SPORTING SPEEDGEAR"
+    ]
+  },
+  {
+    "model": "ABARTH 595",
+    "count": 364,
+    "submodels": [
+      "1.4PT/5AM",
+      "1.4PT/5AT",
+      "Base",
+      "HATCH 180KW 1.4PT"
+    ]
+  },
+  {
+    "model": "PANDA",
+    "count": 199,
+    "submodels": [
+      "1200",
+      "750L",
+      "Base",
+      "CROSS TRAINER",
+      "DYNAMIC",
+      "EASY 0.9P/5AM/HA/5DR",
+      "EASY 0.9P/5MT/HA/5DR",
+      "LOUNGE TWINAIR 0.9P",
+      "LOUNGETWINAIR 0.9P/5",
+      "POP 1.2P/5MT/HA/5DR",
+      "TREKKING 1.2D/5MT/HA"
+    ]
+  },
+  {
+    "model": "GRANDE PUNTO",
+    "count": 179,
+    "submodels": [
+      "1.3 JTD 5D 6SP",
+      "1.3 JTD 5D DUALOGIC",
+      "1.3 JTD DUAL LOGIC",
+      "1.3 JTD DYNAMIC 5D",
+      "1.3 JTD DYNAMIC 6SPD",
+      "1.4 5D DUAL LOGIC",
+      "1.4 DYNAMIC 5 SPEED",
+      "1.4 DYNAMIC 5D 5SPD",
+      "1.4 T JET SPORT 3D",
+      "1.9 EMOTION 5DR 6SPD",
+      "1.9 JTD 5D 6SPEED",
+      "1.9 JTD SPORT 3D 6SP",
+      "1.9 JTD SPORT 6SPD",
+      "Base"
+    ]
+  },
+  {
+    "model": "500X",
+    "count": 139,
+    "submodels": [
+      "Base",
+      "CROSS + MULTIJET",
+      "POP 1.4P/6MT",
+      "POP STAR 1.4P/6AT"
+    ]
+  },
+  {
+    "model": "500E",
+    "count": 123,
+    "submodels": [
+      "500E FIAT 42KWH/EV",
+      "500E FIAT POP 42KWH",
+      "Base",
+      "LA PRIMA"
+    ]
+  },
+  {
+    "model": "BAMBINA",
+    "count": 98,
+    "submodels": [
+      "500",
+      "500D",
+      "500F",
+      "ABARTH 695",
+      "Base",
+      "DUOVA 500",
+      "NOUVA 500",
+      "NUOVA",
+      "NUOVA 500",
+      "NUOVA 500F",
+      "SALOON"
+    ]
+  },
+  {
+    "model": "ABARTH 500",
+    "count": 97,
+    "submodels": [
+      "1.4P/5MT",
+      "595 50TH ANNIVERSARY",
+      "595 CABRIOLET COMPET",
+      "595 COMPETIZIONE 1.4",
+      "Base",
+      "C ESSEESSE",
+      "CABRIOLET",
+      "COMPETIZIONE 595",
+      "ESSEESSE",
+      "ESSEESSE 1.4P/5MT/HA",
+      "ESSEESSECABRIOLET 1."
+    ]
+  },
+  {
+    "model": "STILO",
+    "count": 80,
+    "submodels": [
+      "1.6 16V 5D P 5M",
+      "1.8 16V 5D P 5M",
+      "1.8 5D DYNAMIC 5 SPD",
+      "16V",
+      "2.4 5DR SELESPEED",
+      "2.4 5SPD 3D 5A P",
+      "2.4 5SPD 5D 5A P",
+      "3DR 2.4 ABARTH",
+      "3DR 2.4 GT",
+      "5DR 1.8",
+      "M.SCHUMACHER"
+    ]
+  },
+  {
+    "model": "ABARTH",
+    "count": 71,
+    "submodels": [
+      "TURISMO",
+      "124",
+      "124 SPIDER",
+      "500",
+      "500 ESSEESSE",
+      "500C",
+      "500E SCORPIONISSIMA",
+      "595",
+      "595 C",
+      "595 COMPETIZIONE",
+      "595 COMPETIZONE",
+      "595 GRANTURISMO",
+      "595 TURISMO",
+      "695",
+      "695 BIPOSTO",
+      "695 RIVALE",
+      "695 SS",
+      "695 TRIBUTO FERRARI",
+      "695MASERATICAB 1.4P/",
+      "Base",
+      "C 595",
+      "PUNTO EVO SUPERSPORT",
+      "ROADSTER 124 SPIDER",
+      "STRADA 130TC"
+    ]
+  },
+  {
+    "model": "BRAVO",
+    "count": 66,
+    "submodels": [
+      "2.0HGT HA 5M P 3 DR",
+      "Base",
+      "SPORT JTD 16V 5DR",
+      "TURBO SPORT 5DR"
+    ]
+  },
+  {
+    "model": "124 SPIDER",
+    "count": 62,
+    "submodels": [
+      "ABARTH",
+      "ABARTH 1.4PT/6AT",
+      "ABARTH 1.4PT/6MT",
+      "Base",
+      "PRIMA EDIZIONE"
+    ]
+  },
+  {
+    "model": "DUCATO",
+    "count": 60,
+    "submodels": [
+      "14 2.5 TDS",
+      "18",
+      "18 2.8 JTD AUTO",
+      "18 2.8TDS 5M 5DR D",
+      "2.8 CAB CHASSIS",
+      "2.8 CAB CHASSIS AUTO",
+      "2.8JTD VAN D LV",
+      "AUTOTRAIL",
+      "Base",
+      "MOTORHOME",
+      "RAPIDO",
+      "TRIBUTE T720",
+      "X250 3.0 LWB 4.0T",
+      "ZEFIRO"
+    ]
+  },
+  {
+    "model": "MULTIPLA",
+    "count": 58,
+    "submodels": [
+      "1.6ELX 5DR 5M",
+      "1.6ELX 5DR 5M P",
+      "1.6ELXMPV 5SPM P 5DR",
+      "1.6SX MPV 5SPM P 5DR",
+      "1.9JTD 5DR 5M D",
+      "1.9JTD 5DR 5M E3",
+      "1.9JTDMPV 5SPM D 5DR",
+      "Base",
+      "DYNAMIC 1.9 JTD 5D",
+      "DYNAMIC JTD",
+      "ELEGANZA",
+      "JTD 115 ELX",
+      "JTD ELEGANZA"
+    ]
+  },
+  {
+    "model": "ABARTH 695",
+    "count": 56,
+    "submodels": [
+      "COMPETIZIONE AUTO HA",
+      "COMPETIZIONE MANUAL"
+    ]
+  },
+  {
+    "model": "ABARTH 500E",
+    "count": 43,
+    "submodels": [
+      "42KWH/EV/CVT"
+    ]
+  },
+  {
+    "model": "124",
+    "count": 30,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "S COUPE",
+      "SPIDER",
+      "SPORT",
+      "SPORT SPYDER",
+      "SPORTS",
+      "SPYDER"
+    ]
+  },
+  {
+    "model": "COUPE'",
+    "count": 26,
+    "submodels": [
+      "16V TURBO",
+      "16VTU",
+      "2.0 16V TURBO",
+      "2.0 20V T 2D6MP",
+      "20V TURB0",
+      "20V TURBO",
+      "2L 20V 5CYL",
+      "Base"
+    ]
+  },
+  {
+    "model": "X19",
+    "count": 24,
+    "submodels": [
+      "Base",
+      "BERTONE"
+    ]
+  },
+  {
+    "model": "COUPE",
+    "count": 15,
+    "submodels": [
+      "20V TURBO PLUS",
+      "175",
+      "2.0 20V T 2D6MP",
+      "20V TURBO",
+      "Base",
+      "LA MA"
+    ]
+  },
+  {
+    "model": "850",
+    "count": 13,
+    "submodels": [
+      "ABARTH 1600 COUPE",
+      "Base",
+      "COUPE",
+      "FASTBACK",
+      "SPORT",
+      "SPORT COUPE",
+      "SPORT SPYDER",
+      "SPORTS COUPE"
+    ]
+  },
+  {
+    "model": "DOBLO",
+    "count": 12,
+    "submodels": [
+      "1.4 8V",
+      "ACTIVE",
+      "Base",
+      "DYNAMIC M-JET",
+      "FREEDOM",
+      "PANORAMA"
+    ]
+  },
+  {
+    "model": "128",
+    "count": 10,
+    "submodels": [
+      "3P",
+      "Base",
+      "SL COUPE",
+      "SPORT",
+      "SPORT L",
+      "SUPER"
+    ]
+  },
+  {
+    "model": "125",
+    "count": 9,
+    "submodels": [
+      "125T",
+      "Base",
+      "D-TYPE",
+      "T"
+    ]
+  },
+  {
+    "model": "SPIDER",
+    "count": 8,
+    "submodels": [
+      "124",
+      "124CS",
+      "2000",
+      "Base",
+      "F"
+    ]
+  },
+  {
+    "model": "UNO",
+    "count": 8,
+    "submodels": [
+      "60-S",
+      "60S 5DR",
+      "70 SXIE",
+      "70SX-IE",
+      "IE TURBO",
+      "TURBO",
+      "TURBO 1.3"
+    ]
+  },
+  {
+    "model": "FREEMONT",
+    "count": 7,
+    "submodels": [
+      "2.4L 6A 7SEATER",
+      "Base"
+    ]
+  },
+  {
+    "model": "SPYDER",
+    "count": 7,
+    "submodels": [
+      "2000",
+      "2000 F",
+      "Base",
+      "PININ FARINA 2000"
+    ]
+  },
+  {
+    "model": "127",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "SPECIAL"
+    ]
+  },
+  {
+    "model": "131",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "MIRAFIORI",
+      "RACING"
+    ]
+  },
+  {
+    "model": "DINO",
+    "count": 6,
+    "submodels": [
+      "2418",
+      "Base",
+      "BERTONE",
+      "SPIDER 2400",
+      "SPYDER"
+    ]
+  },
+  {
+    "model": "BARCHETTA",
+    "count": 5,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "126",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "PERSONAL"
+    ]
+  },
+  {
+    "model": "130",
+    "count": 4,
+    "submodels": [
+      "ABARTH",
+      "B",
+      "COUPE",
+      "SPORTS"
+    ]
+  },
+  {
+    "model": "1500",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "CABRIOLET",
+      "CRUSADER"
+    ]
+  },
+  {
+    "model": "600",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "D",
+      "MULTIPLA"
+    ]
+  },
+  {
+    "model": "1100",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "TYPE 103E"
+    ]
+  },
+  {
+    "model": "132",
+    "count": 3,
+    "submodels": [
+      "2000",
+      "Base"
+    ]
+  },
+  {
+    "model": "501C",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "510",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "S"
+    ]
+  },
+  {
+    "model": "IDEA",
+    "count": 2,
+    "submodels": [
+      "1.4A",
+      "DYNAMIC"
+    ]
+  },
+  {
+    "model": "PININ-FARINA",
+    "count": 2,
+    "submodels": [
+      "20 V TURBO",
+      "Base"
+    ]
+  },
+  {
+    "model": "RITMO",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "BRAVO"
+    ]
+  },
+  {
+    "model": "TIPO",
+    "count": 2,
+    "submodels": [
+      "3 TOURER",
+      "Base"
+    ]
+  },
+  {
+    "model": "UNO 70SX IE",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1100 BERLINA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "124S",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "125T",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "2300",
+    "count": 1,
+    "submodels": [
+      "S"
+    ]
+  },
+  {
+    "model": "500F",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "501",
+    "count": 1,
+    "submodels": [
+      "TORPEDO"
+    ]
+  },
+  {
+    "model": "501S",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "505",
+    "count": 1,
+    "submodels": [
+      "TOURER"
+    ]
+  },
+  {
+    "model": "521C",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DUCATO 1S 2.5 TDS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DUCATO 4X4 TDS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GRAND PUNTO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "PANDA 'S'",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "PERSONAL",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "PUNTO GT 3P",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "RACING",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SEDICI",
+    "count": 1,
+    "submodels": [
+      "ELEGANZA"
+    ]
+  },
+  {
+    "model": "SPIDER 2000",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SPORTS",
+    "count": 1,
+    "submodels": [
+      "COUPE"
+    ]
+  },
+  {
+    "model": "STRADA",
+    "count": 1,
+    "submodels": [
+      "130TC"
+    ]
+  },
+  {
+    "model": "ULYSSE",
+    "count": 1,
+    "submodels": [
+      "2.0"
+    ]
+  },
+  {
+    "model": "UNO 60S",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "model": "SUNBEAM",
+    "count": 2,
+    "submodels": [
+      "20/60",
+      "23.8 FHC"
+    ]
+  },
+  {
+    "model": "ALLDAYS AND ONIONS",
+    "count": 1,
+    "submodels": [
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "AMILCAR",
+    "count": 1,
+    "submodels": [
+      "CS"
+    ]
+  },
+  {
+    "model": "BEAN",
+    "count": 1,
+    "submodels": [
+      "18/50 CRAYFORD"
+    ]
+  },
+  {
+    "model": "BUICK",
+    "count": 1,
+    "submodels": [
+      "25X25 STANDARD"
+    ]
+  },
+  {
+    "model": "CHATER LEA",
+    "count": 1,
+    "submodels": [
+      "DUO CAR CYCLE CAR"
+    ]
+  },
+  {
+    "model": "CHRYSLER",
+    "count": 1,
+    "submodels": [
+      "58"
+    ]
+  },
+  {
+    "model": "DELAGE",
+    "count": 1,
+    "submodels": [
+      "DI"
+    ]
+  },
+  {
+    "model": "DUESENBERG",
+    "count": 1,
+    "submodels": [
+      "PHAETON"
+    ]
+  },
+  {
+    "model": "GRAY",
+    "count": 1,
+    "submodels": [
+      "N COACH"
+    ]
+  },
+  {
+    "model": "HUMBER",
+    "count": 1,
+    "submodels": [
+      "12/25 ROADSTER"
+    ]
+  },
+  {
+    "model": "LOCOMOBILE",
+    "count": 1,
+    "submodels": [
+      "SPEEDSTER"
+    ]
+  },
+  {
+    "model": "MARMON",
+    "count": 1,
+    "submodels": [
+      "BIG EIGHT"
+    ]
+  },
+  {
+    "model": "MINERVA",
+    "count": 1,
+    "submodels": [
+      "AN"
+    ]
+  },
+  {
+    "model": "PAIGE",
+    "count": 1,
+    "submodels": [
+      "664"
+    ]
+  },
+  {
+    "model": "RAILTON",
+    "count": 1,
+    "submodels": [
+      "TOURER"
+    ]
+  },
+  {
+    "model": "SCRIPPS BOOTH",
+    "count": 1,
+    "submodels": [
+      "SIX-40"
+    ]
+  },
+  {
+    "model": "SINGER",
+    "count": 1,
+    "submodels": [
+      "JUNIOR"
+    ]
+  },
+  {
+    "model": "STUTZ COUPE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TRIUMPH",
+    "count": 1,
+    "submodels": [
+      "SUPER-NINE"
+    ]
+  }
+]

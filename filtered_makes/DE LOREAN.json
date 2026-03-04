@@ -1,0 +1,20 @@
+[
+  {
+    "model": "DMC",
+    "count": 14,
+    "submodels": [
+      "-12",
+      "12",
+      "Base",
+      "DMC12",
+      "LEGEND TWIN TURBO"
+    ]
+  },
+  {
+    "model": "DMC-12",
+    "count": 11,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

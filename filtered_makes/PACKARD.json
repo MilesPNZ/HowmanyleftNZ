@@ -1,0 +1,259 @@
+[
+  {
+    "model": "ROADSTER",
+    "count": 8,
+    "submodels": [
+      "160",
+      "180",
+      "343",
+      "Base",
+      "DELUX 1941",
+      "DIETRICH V12",
+      "HC"
+    ]
+  },
+  {
+    "model": "120",
+    "count": 7,
+    "submodels": [
+      "B",
+      "B 899 COUPE",
+      "Base",
+      "CONVERTIBLE",
+      "COUPE"
+    ]
+  },
+  {
+    "model": "CLIPPER",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "DELUX",
+      "PANAMA",
+      "SUPER"
+    ]
+  },
+  {
+    "model": "SUPER",
+    "count": 6,
+    "submodels": [
+      "8",
+      "8 COUPE",
+      "8 VICTORIA",
+      "CAVALIER"
+    ]
+  },
+  {
+    "model": "TWELVE",
+    "count": 6,
+    "submodels": [
+      "1607/1133",
+      "33-5",
+      "Base",
+      "PHAETON V 12"
+    ]
+  },
+  {
+    "model": "110",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "DROPHEAD COUPE",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "526",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "ROADSTER",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "115C",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "400",
+    "count": 3,
+    "submodels": [
+      "1955",
+      "2DR HARDTOP",
+      "PATRICIAN"
+    ]
+  },
+  {
+    "model": "740",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "CUSTOM 8"
+    ]
+  },
+  {
+    "model": "745",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "DUAL COWL",
+      "SPORT PHAETON"
+    ]
+  },
+  {
+    "model": "PHAETON",
+    "count": 3,
+    "submodels": [
+      "301",
+      "740",
+      "Base"
+    ]
+  },
+  {
+    "model": "SIX",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "DELUXE"
+    ]
+  },
+  {
+    "model": "STANDARD EIGHT",
+    "count": 3,
+    "submodels": [
+      "726",
+      "Base",
+      "COUPE"
+    ]
+  },
+  {
+    "model": "TWIN SIX",
+    "count": 3,
+    "submodels": [
+      "335",
+      "PHAETON"
+    ]
+  },
+  {
+    "model": "1600",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1700",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "426",
+    "count": 2,
+    "submodels": [
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "640",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SPORTS"
+    ]
+  },
+  {
+    "model": "7.33",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "PHAETON"
+    ]
+  },
+  {
+    "model": "CUSTOM EIGHT",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "CONVERTIBLE COUPE"
+    ]
+  },
+  {
+    "model": "LIMOUSINE",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TOURING",
+    "count": 2,
+    "submodels": [
+      "243",
+      "LIMOUSINE 160"
+    ]
+  },
+  {
+    "model": "1939",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "22ND SERIES",
+    "count": 1,
+    "submodels": [
+      "CLIPPER"
+    ]
+  },
+  {
+    "model": "250",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "4-43",
+    "count": 1,
+    "submodels": [
+      "CUSTOM 8 RUNABOUT"
+    ]
+  },
+  {
+    "model": "CARIBBEAN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "STANDARD",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SUPER EIGHT",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VICTORIA",
+    "count": 1,
+    "submodels": [
+      "640 1929"
+    ]
+  }
+]

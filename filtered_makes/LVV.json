@@ -1,0 +1,480 @@
+[
+  {
+    "model": "REPLICA",
+    "count": 440,
+    "submodels": [
+      "34 FORD COUPE",
+      "DOON BUGGY",
+      "FORD 32",
+      "FORD COUPE 1932",
+      "FORD VICTORIA",
+      "NAYLOR MG TF-1700",
+      "1297 FORD T-ROADSTER",
+      "1923 FORD MODEL T",
+      "1923 FORD T BUCKET",
+      "1923 T",
+      "1923 T BUCKET",
+      "1925 TYPE30 BUGATTI",
+      "1926 CHRYSLER 58",
+      "1926 T ROADSTER",
+      "1927 FORD ROADSTER",
+      "1927 FORD T",
+      "1927 ROADSTER",
+      "1928 FORD MODEL A",
+      "1928 FORD ROADSTER",
+      "1930 ESSEX",
+      "1930 FORD MODEL A",
+      "1930 HASSAN",
+      "1930 MODEL A TUDOR",
+      "1932 COUPE",
+      "1932 COUPE REPLICA",
+      "1932 FORD",
+      "1932 FORD COUPE",
+      "1932 FORD ROADSTER",
+      "1932 ROADSTER",
+      "1932 ROADSTER REPLIC",
+      "1933 FORD COUPE",
+      "1933 FORD ROADSTER",
+      "1933 FORD TUDOR",
+      "1934 FORD COUPE",
+      "1934 FORD TUDOR",
+      "1934 HUDSON ROADSTER",
+      "1935 FORD COUPE",
+      "1936 FORD ROADSTER",
+      "1958 FORD POPULAR",
+      "1959 FERRARI F1",
+      "1967 FERRARI P4",
+      "23 T BUCKET",
+      "23T",
+      "25 DODGE SPL",
+      "27 FORD ROADSTER",
+      "28 WOODY",
+      "29 MODEL A ROADSTER",
+      "31 VICTORIA",
+      "32 COUPE",
+      "32 FORD",
+      "32 FORD COUPE",
+      "32 FORD ROADSTER",
+      "32 ROADSTER",
+      "32 VICKY",
+      "34 3W COUPE",
+      "34 CHEVROLET COUPE",
+      "34 FORD",
+      "34 FORD DELIVERY",
+      "34 FORD ROADSTER",
+      "37 CHEVROLET",
+      "38 CHEVROLET",
+      "38 FORD BARREL",
+      "39 CHEV DELUX",
+      "4J FORD ROADSTER",
+      "54 CHEV",
+      "55 D TYPE JAG",
+      "65 AC COBRA",
+      "AC ACE",
+      "AC COBRA",
+      "AC COBRA  KIRKHAM",
+      "AC COBRA 1965",
+      "AC COBRA 427",
+      "AC COBRA BACKDRAFT",
+      "AC COBRA FACTORYFIVE",
+      "AC COBRA PILGRIM",
+      "AC COBRA REPLICA",
+      "ALFA ROMEO 158",
+      "ALFA ROMEO TOURING",
+      "ALFA ZAGATO",
+      "ALMAC CLUB SPRINT",
+      "AMILCAR C6",
+      "ANGLIA",
+      "ASTON MARTIN DBR 2",
+      "AUBURN 1936 BOATTAIL",
+      "AUBURN SPEEDSTR",
+      "AUCKLAND COBRA",
+      "AUDI",
+      "AUSTIN 7 SPECIAL",
+      "AUSTINHEALEY SEBRING",
+      "BACKDRAFT",
+      "Base",
+      "BEACH BUGGY",
+      "BEACHBUGGY",
+      "BERRY COBRA",
+      "BUGATTI TYPE 59/50",
+      "CABRIOLET PICKUP",
+      "CAMARO RS",
+      "CATERHAM SR7 R500",
+      "CATERHAM SUPER SEVEN",
+      "CHEVROLET",
+      "CHRYSLER",
+      "CHRYSLER ROADSTER",
+      "COBRA",
+      "COBRA 1965 ROADSTER",
+      "COBRA BACKDRAUGHT",
+      "COBRA REPLICA",
+      "COBRA SUPERFORMANCE",
+      "COBRA/BACKDRAFT",
+      "COUPE",
+      "CUSTOM`ESSEX",
+      "DAIMLER SP250",
+      "DAYTONA",
+      "DAYTONA COUPE",
+      "DODGE REPLICA 1928",
+      "DODGE ROADSTER",
+      "ESSEX COUPE",
+      "EXOCET",
+      "FACTORY 5 818ESB",
+      "FACTORY FIVE 818S",
+      "FERRARI 250GT",
+      "FERRARI 335S",
+      "FERRARI GTO",
+      "FERRARI MASARI",
+      "FERRARI SPYDER",
+      "FLEETMASTER SLICED",
+      "FORD",
+      "FORD 1932",
+      "FORD 1932 COUP",
+      "FORD 1932 COUPE",
+      "FORD 1932 ROADSTER",
+      "FORD 1933",
+      "FORD 1934 COUPE",
+      "FORD 1984",
+      "FORD 32 COUPE",
+      "FORD 32 ROADSTER",
+      "FORD 33 COUPE",
+      "FORD COUPE",
+      "FORD COUPE 1930",
+      "FORD COUPE 1934",
+      "FORD COUPE SPECIAL",
+      "FORD COUPE]",
+      "FORD ESCORT",
+      "FORD FIESTA",
+      "FORD GT 40",
+      "FORD GT40",
+      "FORD GT40R",
+      "FORD GTD40",
+      "FORD MODEL A",
+      "FORD MODEL T",
+      "FORD POP",
+      "FORD POPULAR",
+      "FORD ROADSTER",
+      "FORD ROADSTER 1934",
+      "FORD ROADSTER 28",
+      "FORD ROADSTER PICKUP",
+      "FORD ROADSTER V8",
+      "FORD SEDAN DELIVERY",
+      "FORD T BUCKET",
+      "FORD T ROADSTER",
+      "FORD TUDOR",
+      "FORD V8 COUPE",
+      "GOTHAM ROADSTER",
+      "GT40",
+      "GT40 SUPERFORMANCE",
+      "HOLDEN FX 215",
+      "JAGUAR C TYPE",
+      "JAGUAR SS100",
+      "JAGUAR SS100 PANZER",
+      "JAGUAR XK140",
+      "JAGUAR XKSS",
+      "LAMBORGHINI COUNTACH",
+      "LANCIA STRATOS",
+      "LOTUS 11",
+      "LOTUS 23",
+      "LOTUS 7",
+      "LOTUS 7 ALMAC CLUBSP",
+      "LOTUS 7 CHEVRON",
+      "LOTUS 7 LOCOST",
+      "LOTUS 7 MCGREGOR",
+      "LOTUS 7 WESTFIELD",
+      "LOTUS ALMAC",
+      "LOTUS ESPRIT S1 CKD",
+      "LOTUS LYNX",
+      "LOTUS MKVI",
+      "LOTUS REPLICA",
+      "LOTUS SEVEN",
+      "LOTUS SUPER 7",
+      "LOTUS7",
+      "LOTUS7 WESTFIELD",
+      "MANX BEACH BUGGY",
+      "MASERATI ROADSTER",
+      "MCLAREN M6GTR",
+      "MERCEDES BENZ 1936",
+      "MG MGA",
+      "MG TA",
+      "MG TD",
+      "MG TF",
+      "MITSUBISHI MIRAGE",
+      "MODEL A",
+      "MODEL T",
+      "MODEL-A",
+      "MORGAN HAWK",
+      "MORRIS MINOR",
+      "MORRIS SPORTS CAR",
+      "NASH COUPE 37",
+      "NISSAN SKYLINE",
+      "PORSCHE",
+      "PORSCHE 356",
+      "PORSCHE 550",
+      "PORSCHE 550 SPYDER",
+      "PORSCHE RS60/RSK",
+      "PORSCHE SPEEDSTER",
+      "PORSCHE SPYDER",
+      "REPLICA STANDARD 8",
+      "ROADSTER",
+      "SHELBY COBRA",
+      "SYLVA PHOENIX",
+      "T BUCKET",
+      "T ROADSTER",
+      "T-BUCKET",
+      "TOYOTA YARIS",
+      "TRIUMPH ROADSTER",
+      "TYPE R CLUBSPRINT 7",
+      "VOLKSWAGEN",
+      "VOLKSWAGEN POLO",
+      "VW BAJA",
+      "VW BUGGY",
+      "VW SANDPACER BUGGY",
+      "WESTFIELD",
+      "WILLY'S ROADSTER",
+      "WILLYS COUPE"
+    ]
+  },
+  {
+    "model": "CUSTOM",
+    "count": 128,
+    "submodels": [
+      "BUGGY",
+      "JD V8 TRIKE",
+      "1923 T",
+      "1929 CHEV DELIVERY",
+      "1929 CHRYSLER",
+      "1940 FORD COUPE",
+      "1941 WILLYS COUPE",
+      "1965 MEYERS MANX",
+      "33 ROADSTER",
+      "34 COUPE",
+      "427 COBRA REPLICA",
+      "818 ESB ROADSTER",
+      "AERIAL NOMAD",
+      "ARIEL ATOM",
+      "ARIEL ATOM 3.5",
+      "AUCKLAND COBRA",
+      "Base",
+      "BEACH BUGGIE",
+      "BEACH BUGGY",
+      "BEACHBUGGY",
+      "BEATTIE PAOLO",
+      "BEATTIE RS",
+      "BRABHAM BT62R",
+      "CUSTOMS 23T",
+      "DARKMATTER",
+      "DAYTONA",
+      "DEKO",
+      "ELLIOT SILVER GHOST",
+      "EXCOET",
+      "EXOCET",
+      "EXOTECH",
+      "FACTORY 5 818ES",
+      "FLATDECK",
+      "FORD T REPLICA",
+      "FREEWHEEL",
+      "G.B.S.",
+      "GATSBY ROADSTER",
+      "HAYNES ROADSTER",
+      "JAGUAR XK54BOAT TAIL",
+      "JAMES D C35",
+      "MANX",
+      "MARSHALL 1959",
+      "MERLIN",
+      "MEV EXOCET",
+      "MEV ROCKET",
+      "PELLAND",
+      "PICKUP",
+      "REDLINE",
+      "REDLINE SPRINT RS",
+      "REPLICA 32 FORD COUP",
+      "RHUBARB",
+      "RHUBARB ROADSTER",
+      "ROLLARAT",
+      "SAKER SV1",
+      "SAKER SVS GT",
+      "SANDY SPECIAL",
+      "SMT V8 CHALLENGER",
+      "SSL TRIKE",
+      "SYLVA STRIKER",
+      "T BUCKET",
+      "T CAR MARK 5",
+      "TAIPAN",
+      "TG SPORTS",
+      "TRIKE",
+      "TRIKE 3.8 V6",
+      "TRIKE CHEV AMERICANA",
+      "TUK TUK TRIKE",
+      "ULTIMA GTR",
+      "V8 TRIKE",
+      "VORTEX GTT",
+      "VW BEACH BUGGY",
+      "WESTFIELD 7"
+    ]
+  },
+  {
+    "model": "REPLICA FORD",
+    "count": 3,
+    "submodels": [
+      "3-W COUPE",
+      "MUSTANG",
+      "T"
+    ]
+  },
+  {
+    "model": "1923 T REPLICA",
+    "count": 1,
+    "submodels": [
+      "T BUCKET"
+    ]
+  },
+  {
+    "model": "1932 FORD ROADSTER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "AC COBRA REPLICA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CUSTOM BEACH EXPRESS",
+    "count": 1,
+    "submodels": [
+      "AMUSEMENT TRAIN"
+    ]
+  },
+  {
+    "model": "CUSTOM CHEETAH",
+    "count": 1,
+    "submodels": [
+      "SERIES 2"
+    ]
+  },
+  {
+    "model": "CUSTOM EXOCET",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CUSTOM LYNX",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CUSTOM MENDOM",
+    "count": 1,
+    "submodels": [
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "CUSTOM MEV",
+    "count": 1,
+    "submodels": [
+      "EXOCET"
+    ]
+  },
+  {
+    "model": "CUSTOM PANTHER",
+    "count": 1,
+    "submodels": [
+      "LIMA"
+    ]
+  },
+  {
+    "model": "CUSTOM PLYMOUTH",
+    "count": 1,
+    "submodels": [
+      "PICKUP"
+    ]
+  },
+  {
+    "model": "FORD MODEL A",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "JBA FALCON SPORTS",
+    "count": 1,
+    "submodels": [
+      "REPLICA"
+    ]
+  },
+  {
+    "model": "LE MANS",
+    "count": 1,
+    "submodels": [
+      "550 SPYDER"
+    ]
+  },
+  {
+    "model": "LOTUS 7 REPLICA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "REPLICA 1927 FORD",
+    "count": 1,
+    "submodels": [
+      "T BUCKET"
+    ]
+  },
+  {
+    "model": "REPLICA AC COBRA",
+    "count": 1,
+    "submodels": [
+      "FACTORY 5 ROADSTER"
+    ]
+  },
+  {
+    "model": "REPLICA COUNTACH",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "REPLICA FORD COUPE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "REPLICA FORD MODEL T",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "REPLICA HUDSON",
+    "count": 1,
+    "submodels": [
+      "TERRAPLANE"
+    ]
+  },
+  {
+    "model": "REPLICA PORSCHE",
+    "count": 1,
+    "submodels": [
+      "356 CONVERTIBLE"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "model": "400 LWB",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VH 435 ET",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VH400",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

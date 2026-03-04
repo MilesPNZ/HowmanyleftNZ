@@ -1,0 +1,19 @@
+[
+  {
+    "model": "C10",
+    "count": 316,
+    "submodels": [
+      "DESIGN 70KWH/EV/AT",
+      "DESIGN 82KWH/EV/AWD",
+      "DESIGN PXEV/AT"
+    ]
+  },
+  {
+    "model": "B10",
+    "count": 32,
+    "submodels": [
+      "DESIGN 67KWH/EV/AT",
+      "LIFE 56KWH/EV/AT"
+    ]
+  }
+]

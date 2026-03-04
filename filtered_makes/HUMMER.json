@@ -1,0 +1,16 @@
+[
+  {
+    "model": "H3",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "H2",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

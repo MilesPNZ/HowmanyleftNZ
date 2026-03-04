@@ -1,0 +1,32 @@
+[
+  {
+    "model": "XUV",
+    "count": 1577,
+    "submodels": [
+      "1.2PT/6AM",
+      "2.0PT/6AT",
+      "2.2PT/4WD/6AT",
+      "2.2PT/6AT",
+      "3XO AX5L 1.2PT/6AT",
+      "3XO AX7L 1.2PT/6AT",
+      "500",
+      "500 2WD 2.2D/6MT/SW",
+      "500 AWD 2.2D/4WD/6MT",
+      "500 W10 AUTOMATIC",
+      "5002WD 2.2D6M/SW5",
+      "500AWD 2.2DWD6",
+      "700 AX5 2.0PT",
+      "700 AX5 2.0PT/6AT",
+      "700 AX7 2.0PT",
+      "700 AX7L 2.0PT",
+      "700 AX7L 2.0PT/6AT",
+      "700 AX7L LUXURY",
+      "AX5 2.0PT /6AT 2.0PT",
+      "AX7 2.0PT/6AT",
+      "FWD 2.2PT/6AT",
+      "W8 2.2D/6AT/SW/5DR",
+      "W8 2.2D/6MT/SW/5DR/7",
+      "XUV500 AWD 2.2D/4WD"
+    ]
+  }
+]

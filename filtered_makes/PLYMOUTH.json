@@ -1,0 +1,329 @@
+[
+  {
+    "model": "FURY",
+    "count": 94,
+    "submodels": [
+      "111",
+      "3",
+      "Base",
+      "COMMANDO V8 VIP",
+      "II",
+      "III",
+      "III 4 DOOR HT",
+      "III SPORT V8",
+      "MK2",
+      "SPORT",
+      "SUBURBAN",
+      "VIP"
+    ]
+  },
+  {
+    "model": "ROAD RUNNER",
+    "count": 82,
+    "submodels": [
+      "1970",
+      "383",
+      "440",
+      "440 6BBL A12",
+      "440 A12",
+      "440-6",
+      "Base",
+      "GTX",
+      "SATELITE",
+      "SUPERBIRD"
+    ]
+  },
+  {
+    "model": "BARRACUDA",
+    "count": 79,
+    "submodels": [
+      "340",
+      "383",
+      "440",
+      "Base",
+      "COUPE",
+      "CUDA",
+      "HARDTOP"
+    ]
+  },
+  {
+    "model": "SATELLITE",
+    "count": 63,
+    "submodels": [
+      "Base",
+      "GTX",
+      "HEMI",
+      "HURST EQUIPPED",
+      "ROAD RUNNER",
+      "ROADRUNNER",
+      "SEBRING",
+      "SEBRING PLUS",
+      "SPORT",
+      "SUPER BIRD"
+    ]
+  },
+  {
+    "model": "BELVEDERE",
+    "count": 44,
+    "submodels": [
+      "11 GTX",
+      "2 DOOR HARDTOP",
+      "Base",
+      "GTX",
+      "II",
+      "S",
+      "SATELITE",
+      "SATELLITE"
+    ]
+  },
+  {
+    "model": "CUDA",
+    "count": 38,
+    "submodels": [
+      "340",
+      "383",
+      "440",
+      "440 6 PACK",
+      "AAR",
+      "Base",
+      "SPECIAL"
+    ]
+  },
+  {
+    "model": "COUPE",
+    "count": 34,
+    "submodels": [
+      "1935",
+      "1947 SPECIAL DELUXE",
+      "36 P2",
+      "5 WINDOW",
+      "Base",
+      "BUSINESS 5 WINDOW",
+      "CAMBRIDGE CLUB",
+      "DE LUXE",
+      "DELUXE",
+      "DUSTER",
+      "MODEL U",
+      "P15 SPECIAL DELUX",
+      "P3",
+      "P4",
+      "PE",
+      "PE DELUX",
+      "PG",
+      "PROWLER",
+      "ROADRUNNER",
+      "ROADSTER",
+      "SPECIAL DELUXE"
+    ]
+  },
+  {
+    "model": "GTX",
+    "count": 27,
+    "submodels": [
+      "440",
+      "440 +6",
+      "Base",
+      "COUPE",
+      "ROADRUNNER"
+    ]
+  },
+  {
+    "model": "DUSTER",
+    "count": 25,
+    "submodels": [
+      "1974",
+      "340",
+      "Base",
+      "COUPE",
+      "DART",
+      "SPACE WAGON",
+      "TWISTER"
+    ]
+  },
+  {
+    "model": "SPORT FURY",
+    "count": 17,
+    "submodels": [
+      "Base",
+      "COMMANDO V8"
+    ]
+  },
+  {
+    "model": "SAVOY",
+    "count": 15,
+    "submodels": [
+      "56",
+      "Base"
+    ]
+  },
+  {
+    "model": "4",
+    "count": 13,
+    "submodels": [
+      "Base",
+      "DOOR SEDAN",
+      "DR SEDAN",
+      "MODEL Q",
+      "Q",
+      "Q COUPE",
+      "ROADSTER",
+      "U7467"
+    ]
+  },
+  {
+    "model": "6",
+    "count": 12,
+    "submodels": [
+      "Base",
+      "DELUX SEDAN",
+      "HEARSE",
+      "P6",
+      "PE ROADSTER",
+      "SEDAN",
+      "SPECIAL DELUXE"
+    ]
+  },
+  {
+    "model": "DELUXE",
+    "count": 9,
+    "submodels": [
+      "Base",
+      "CUSTOM SUBURBAN",
+      "P12",
+      "P3",
+      "SEDAN",
+      "SPECIAL"
+    ]
+  },
+  {
+    "model": "VALIANT",
+    "count": 9,
+    "submodels": [
+      "100",
+      "BARRACUDA",
+      "Base",
+      "DUSTER",
+      "SCAMP",
+      "SEDA",
+      "SIGNET"
+    ]
+  },
+  {
+    "model": "2 DOOR HARDTOP",
+    "count": 6,
+    "submodels": [
+      "1972 MODEL SCAMP",
+      "Base",
+      "PJ SEDAN",
+      "SCAMP"
+    ]
+  },
+  {
+    "model": "CRANBROOK",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "P23"
+    ]
+  },
+  {
+    "model": "PROWLER",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "SCAMP",
+    "count": 6,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "30U",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "P7",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "COUPE"
+    ]
+  },
+  {
+    "model": "P1",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "P2",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "P6",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "PE4 SEDAN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "PLAZA",
+    "count": 1,
+    "submodels": [
+      "S/W"
+    ]
+  },
+  {
+    "model": "ROADSTER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SEDAN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "U4",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VIP",
+    "count": 1,
+    "submodels": [
+      "2 DOOR HARDTOP"
+    ]
+  },
+  {
+    "model": "VOLARE",
+    "count": 1,
+    "submodels": [
+      "COUPE"
+    ]
+  }
+]

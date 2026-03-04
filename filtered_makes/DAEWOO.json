@@ -1,0 +1,77 @@
+[
+  {
+    "model": "KALOS",
+    "count": 94,
+    "submodels": [
+      "1.4 SX 5DR 5SP M P",
+      "1.5 SE 4DR 4SP A P",
+      "1.5 SE 4DR 5SP M P",
+      "1.5 SE 5DR 4SP A P",
+      "1.5 SE 5DR 5SP M P",
+      "SE LIMITED"
+    ]
+  },
+  {
+    "model": "MATIZ",
+    "count": 55,
+    "submodels": [
+      "0.8 SE 5DR 4SP A P",
+      "0.8 SE 5DR 5SP M P",
+      "Base",
+      "SE",
+      "SE 5DR 5SP M P"
+    ]
+  },
+  {
+    "model": "NUBIRA",
+    "count": 35,
+    "submodels": [
+      "1.6 SE 5DR 4SP A P",
+      "1.6 SE 5DR 5SP M P",
+      "1.6 SX 4DR 5SP M P",
+      "1.6 SX SW 4SP A P",
+      "1.6 SX SW 5SP M P",
+      "2.0 CDX 4DR 4A P",
+      "2.0 CDX 4DR 5M P",
+      "2.0 CDX SW 5SP M P"
+    ]
+  },
+  {
+    "model": "LACETTI",
+    "count": 23,
+    "submodels": [
+      "1.8 SX SEDAN 4SP A P",
+      "1.8 SX SEDAN 5SP M P",
+      "1.8 SX-LTD SED A P"
+    ]
+  },
+  {
+    "model": "LANOS",
+    "count": 9,
+    "submodels": [
+      "1.5 SE 5DR 5SP M P",
+      "1.5SE 3DR 5SP M P",
+      "1.5SE 5DR 4SP A P",
+      "1.5SE 5DR 5SP M P",
+      "Base"
+    ]
+  },
+  {
+    "model": "TACUMA",
+    "count": 9,
+    "submodels": [
+      "2.0 CDX 5DR 4SP A P",
+      "2.0 CDX 5DR 5SP M P"
+    ]
+  },
+  {
+    "model": "LEGANZA",
+    "count": 5,
+    "submodels": [
+      "2.0 SX 4DR 4SP A P",
+      "2.0 SX 4DR 5SP M P",
+      "2.2 SX 4DR 4SP A P",
+      "2.2 SX 4DR 5SP M P"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "model": "CUSTOM",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CUSTOMBUILT",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "V8",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "model": "DIPLOMAT",
+    "count": 18,
+    "submodels": [
+      "Base",
+      "CUSTOM",
+      "CUSTOM  SP23-2",
+      "DE LUX",
+      "DELUXE",
+      "V8",
+      "V8 AUTO"
+    ]
+  },
+  {
+    "model": "K",
+    "count": 11,
+    "submodels": [
+      "Base",
+      "BUSINESS COUPE",
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "FIREDOME",
+    "count": 8,
+    "submodels": [
+      "Base",
+      "HARDTOP",
+      "SEVILLE COUPE",
+      "V8"
+    ]
+  },
+  {
+    "model": "FIREFLITE",
+    "count": 8,
+    "submodels": [
+      "Base",
+      "CORONADO",
+      "SPORTSMAN"
+    ]
+  },
+  {
+    "model": "ADVENTURER",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CUSTOM",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "COUPE"
+    ]
+  },
+  {
+    "model": "SP7",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "XH888"
+    ]
+  },
+  {
+    "model": "DELUXE",
+    "count": 3,
+    "submodels": [
+      "COUPE",
+      "SF SEDAN",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "SEDAN",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "6",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SP23"
+    ]
+  },
+  {
+    "model": "AIRFLOW",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SG"
+    ]
+  },
+  {
+    "model": "AIRSTREAM",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CUSTOM FLUID DRIVE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "D SEDAN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DELUXE SPECIAL",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FIRESWEEP",
+    "count": 1,
+    "submodels": [
+      "SPORTSMAN"
+    ]
+  },
+  {
+    "model": "POWERFLITE",
+    "count": 1,
+    "submodels": [
+      "SP29"
+    ]
+  },
+  {
+    "model": "SAVILLE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

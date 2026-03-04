@@ -1,0 +1,108 @@
+[
+  {
+    "model": "MINX",
+    "count": 45,
+    "submodels": [
+      "10 HP",
+      "10HP",
+      "Base",
+      "CONVERTABLE",
+      "IIIB",
+      "MK 8",
+      "MK1",
+      "MK4",
+      "SERIES V",
+      "SUPER"
+    ]
+  },
+  {
+    "model": "HUNTER",
+    "count": 30,
+    "submodels": [
+      "4D4",
+      "Base",
+      "GL",
+      "GT",
+      "MOT PURSUIT SPECIAL",
+      "SUPER"
+    ]
+  },
+  {
+    "model": "SUPER MINX",
+    "count": 22,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "IMP",
+    "count": 16,
+    "submodels": [
+      "Base",
+      "MARK 2",
+      "MK11",
+      "RALLY CAR",
+      "SUNBEAM",
+      "SUPER"
+    ]
+  },
+  {
+    "model": "AVENGER",
+    "count": 10,
+    "submodels": [
+      "ALPINE",
+      "Base"
+    ]
+  },
+  {
+    "model": "CALIFORNIAN",
+    "count": 5,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "HUSKY",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "II",
+      "SERIES 2"
+    ]
+  },
+  {
+    "model": "80",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "AERO MINX",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "AVENGER AUTO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GAZELLE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SUPERMINX",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

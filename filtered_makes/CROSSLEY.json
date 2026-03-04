@@ -1,0 +1,30 @@
+[
+  {
+    "model": "14",
+    "count": 1,
+    "submodels": [
+      "4 DOOR SALOON"
+    ]
+  },
+  {
+    "model": "19.6",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ROADSTER",
+    "count": 1,
+    "submodels": [
+      "TYPE 7"
+    ]
+  },
+  {
+    "model": "TOURER",
+    "count": 1,
+    "submodels": [
+      "15HP"
+    ]
+  }
+]

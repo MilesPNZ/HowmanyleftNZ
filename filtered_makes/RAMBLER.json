@@ -1,0 +1,88 @@
+[
+  {
+    "model": "CLASSIC",
+    "count": 35,
+    "submodels": [
+      "660",
+      "660 V8",
+      "770",
+      "770 CONVERTIBLE",
+      "770 CROSS COUNTRY",
+      "AMC",
+      "Base",
+      "CLASSIC"
+    ]
+  },
+  {
+    "model": "REBEL",
+    "count": 35,
+    "submodels": [
+      "304",
+      "770",
+      "771 232",
+      "Base",
+      "SST"
+    ]
+  },
+  {
+    "model": "AMBASSADOR",
+    "count": 5,
+    "submodels": [
+      "360",
+      "990",
+      "Base",
+      "HUDSON",
+      "SST"
+    ]
+  },
+  {
+    "model": "MARLIN",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "FASTBACK"
+    ]
+  },
+  {
+    "model": "440",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "AMERICAN",
+    "count": 1,
+    "submodels": [
+      "220 COUPE"
+    ]
+  },
+  {
+    "model": "CUSTOM",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "HORNET",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "JAVELIN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ROGUE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "model": "3000",
+    "count": 17,
+    "submodels": [
+      "Base",
+      "MARK 2 CONVERTIBLE",
+      "MK III",
+      "MK1",
+      "MK111",
+      "MKII",
+      "MKIII"
+    ]
+  },
+  {
+    "model": "SPRITE",
+    "count": 14,
+    "submodels": [
+      "Base",
+      "MARK I",
+      "MK 1",
+      "MK II"
+    ]
+  },
+  {
+    "model": "100",
+    "count": 10,
+    "submodels": [
+      "4",
+      "Base",
+      "BN1",
+      "M",
+      "SIX"
+    ]
+  },
+  {
+    "model": "100/6",
+    "count": 9,
+    "submodels": [
+      "Base",
+      "BN4"
+    ]
+  },
+  {
+    "model": "100S",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "3000 MKII",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SPRITE MKI",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

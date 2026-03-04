@@ -1,0 +1,171 @@
+[
+  {
+    "model": "Q50",
+    "count": 65,
+    "submodels": [
+      "2.0 SPORT",
+      "2.0T",
+      "2.0T GT 2.0PT/7AT",
+      "2.0T PREMIUM",
+      "2.0T PREMIUM A/T",
+      "2.0T PREMUIN A/T",
+      "2.0T S PREMIUM 2.0PT",
+      "2.0T SPORT",
+      "2.2D",
+      "2.2TD GT 2.1DT/7AT",
+      "2.2TD S PREMIUM 2.1D",
+      "200 GT-T",
+      "3.0TT RED SPORT 3.0P",
+      "3.0TT S PREMIUM 3.0P",
+      "Base",
+      "EXECUTIVE D AUTO",
+      "HYBRID",
+      "HYBRID AWD S PREMIUM",
+      "S",
+      "S HYBRID",
+      "SKYLINE"
+    ]
+  },
+  {
+    "model": "Q30",
+    "count": 26,
+    "submodels": [
+      "1.6T GT 1.6PT/7AM",
+      "2.0T SPORT 2.0PT/7AM",
+      "2.0T SPORT PREMIUM 2",
+      "SPORT"
+    ]
+  },
+  {
+    "model": "QX30",
+    "count": 20,
+    "submodels": [
+      "2.0T GT 2.0PT/4WD",
+      "2.0T SPORT PREMIUM 2"
+    ]
+  },
+  {
+    "model": "QX70",
+    "count": 14,
+    "submodels": [
+      "Base",
+      "S",
+      "S 3.0D",
+      "S DESIGN D AUTO",
+      "S PREMIUM",
+      "V6"
+    ]
+  },
+  {
+    "model": "M35H",
+    "count": 10,
+    "submodels": [
+      "Base",
+      "GT PREMIUM",
+      "HYBRID"
+    ]
+  },
+  {
+    "model": "Q60",
+    "count": 10,
+    "submodels": [
+      "2.0 GT 2.0PT/7AT",
+      "3.0 TT RED SPORT 3.0"
+    ]
+  },
+  {
+    "model": "G37",
+    "count": 9,
+    "submodels": [
+      "Base",
+      "PREMIUM",
+      "PREMIUM 3.7",
+      "S"
+    ]
+  },
+  {
+    "model": "FX37",
+    "count": 8,
+    "submodels": [
+      "Base",
+      "PREMIUM",
+      "PREMIUM 3.7",
+      "S",
+      "SPORT"
+    ]
+  },
+  {
+    "model": "G35",
+    "count": 8,
+    "submodels": [
+      "Base",
+      "S"
+    ]
+  },
+  {
+    "model": "M37",
+    "count": 8,
+    "submodels": [
+      "Base",
+      "PREMIUM",
+      "S",
+      "SPORT PREMIUM",
+      "SPORT PREMIUM 3.7"
+    ]
+  },
+  {
+    "model": "FX30",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "D",
+      "D AUTO"
+    ]
+  },
+  {
+    "model": "FX50",
+    "count": 4,
+    "submodels": [
+      "S",
+      "SPORT",
+      "SPORTS PREMIUM"
+    ]
+  },
+  {
+    "model": "M25",
+    "count": 3,
+    "submodels": [
+      "PREMIUM",
+      "PREMIUM 2.5"
+    ]
+  },
+  {
+    "model": "Q70",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "HYBRID"
+    ]
+  },
+  {
+    "model": "EX30D",
+    "count": 1,
+    "submodels": [
+      "AUTO"
+    ]
+  },
+  {
+    "model": "FX50S",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "M30DGT",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

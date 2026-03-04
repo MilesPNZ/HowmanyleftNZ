@@ -1,0 +1,24 @@
+[
+  {
+    "model": "COUPE",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SC2",
+    "count": 2,
+    "submodels": [
+      "COUPE"
+    ]
+  },
+  {
+    "model": "SKY",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "REDLINE"
+    ]
+  }
+]

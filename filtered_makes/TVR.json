@@ -1,0 +1,128 @@
+[
+  {
+    "model": "CHIMAERA",
+    "count": 70,
+    "submodels": [
+      "400",
+      "450",
+      "500",
+      "Base",
+      "CHIMAERA 500",
+      "CLUBMAN",
+      "CLUBMAN C240",
+      "SPORTS"
+    ]
+  },
+  {
+    "model": "CERBERA",
+    "count": 13,
+    "submodels": [
+      "4.5",
+      "Base"
+    ]
+  },
+  {
+    "model": "GRIFFITH",
+    "count": 12,
+    "submodels": [
+      "430",
+      "500",
+      "Base"
+    ]
+  },
+  {
+    "model": "TUSCAN",
+    "count": 10,
+    "submodels": [
+      "Base",
+      "S"
+    ]
+  },
+  {
+    "model": "GRIFFITH 500",
+    "count": 9,
+    "submodels": [
+      "500",
+      "Base",
+      "SE"
+    ]
+  },
+  {
+    "model": "TASMIN",
+    "count": 6,
+    "submodels": [
+      "400 SE",
+      "Base"
+    ]
+  },
+  {
+    "model": "350I",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "T350C",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "3000S",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "290",
+    "count": 1,
+    "submodels": [
+      "S"
+    ]
+  },
+  {
+    "model": "400SE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GRANTURA",
+    "count": 1,
+    "submodels": [
+      "1800"
+    ]
+  },
+  {
+    "model": "S1",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "S3",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SAGARIS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VIXEN",
+    "count": 1,
+    "submodels": [
+      "S3"
+    ]
+  }
+]

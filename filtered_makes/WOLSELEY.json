@@ -1,0 +1,232 @@
+[
+  {
+    "model": "6/110",
+    "count": 19,
+    "submodels": [
+      "Base",
+      "MK11",
+      "MK2",
+      "MKII"
+    ]
+  },
+  {
+    "model": "1300",
+    "count": 13,
+    "submodels": [
+      "Base",
+      "MARK II",
+      "MK II",
+      "MK11"
+    ]
+  },
+  {
+    "model": "16/60",
+    "count": 13,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "4/44",
+    "count": 9,
+    "submodels": [
+      "4/44",
+      "Base"
+    ]
+  },
+  {
+    "model": "6/80",
+    "count": 9,
+    "submodels": [
+      "Base",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "6/90",
+    "count": 8,
+    "submodels": [
+      "Base",
+      "MK II",
+      "SERIES 11",
+      "SERIES 111"
+    ]
+  },
+  {
+    "model": "1500",
+    "count": 7,
+    "submodels": [
+      "12/48",
+      "Base"
+    ]
+  },
+  {
+    "model": "18/85",
+    "count": 6,
+    "submodels": [
+      "1800",
+      "AUTOMA",
+      "Base"
+    ]
+  },
+  {
+    "model": "15/50",
+    "count": 5,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "HORNET",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "MK III",
+      "MKIII"
+    ]
+  },
+  {
+    "model": "6/99",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1100",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "WASP"
+    ]
+  },
+  {
+    "model": "12/48",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "14/56",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SALOON"
+    ]
+  },
+  {
+    "model": "24/80",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "MK2"
+    ]
+  },
+  {
+    "model": "SIX",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "EIGHTY"
+    ]
+  },
+  {
+    "model": "1000",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "12-16",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1300AUTO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "15/60",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "16/20",
+    "count": 1,
+    "submodels": [
+      "C6 TORPEDO TOURING"
+    ]
+  },
+  {
+    "model": "18/80",
+    "count": 1,
+    "submodels": [
+      "SERIES 1"
+    ]
+  },
+  {
+    "model": "18185",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "21/60",
+    "count": 1,
+    "submodels": [
+      "MESSENGER"
+    ]
+  },
+  {
+    "model": "25 HP SUPER SIX",
+    "count": 1,
+    "submodels": [
+      "25 HP"
+    ]
+  },
+  {
+    "model": "4/50",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "680",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LAUNDAULETTE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SIDDELEY",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VIPER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

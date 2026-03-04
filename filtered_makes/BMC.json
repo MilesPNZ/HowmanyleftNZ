@@ -1,0 +1,23 @@
+[
+  {
+    "model": "MOKE",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1800",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MINI",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

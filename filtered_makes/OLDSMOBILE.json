@@ -1,0 +1,325 @@
+[
+  {
+    "model": "CUTLASS",
+    "count": 76,
+    "submodels": [
+      "4.4.2.",
+      "442",
+      "442 W30",
+      "Base",
+      "CALAIS HURST",
+      "COVERTIBLE",
+      "F-85",
+      "F85",
+      "HOILDAY",
+      "RALLY 350",
+      "S",
+      "S COUPE",
+      "SUPREME",
+      "SUPREME BROUGHAM"
+    ]
+  },
+  {
+    "model": "88",
+    "count": 61,
+    "submodels": [
+      "1955",
+      "4 DOOR HARDTOP",
+      "Base",
+      "BUBBLE TOP",
+      "COUPE",
+      "DELTA",
+      "DELTA 88 ROYALE",
+      "DYNAMIC",
+      "HOLIDAY",
+      "JETSTAR",
+      "ROCKET",
+      "SUPER",
+      "SUPER 88"
+    ]
+  },
+  {
+    "model": "98",
+    "count": 35,
+    "submodels": [
+      "Base",
+      "FUTU",
+      "HOLIDAY",
+      "LS",
+      "NINETY EIGHT",
+      "REGENCY",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "DELTA 88",
+    "count": 19,
+    "submodels": [
+      "Base",
+      "JETSTAR",
+      "ROYAL",
+      "ROYALE",
+      "ROYALE 88",
+      "ROYALE BROUGHAM"
+    ]
+  },
+  {
+    "model": "DYNAMIC 88",
+    "count": 19,
+    "submodels": [
+      "88",
+      "Base",
+      "DYNAMIC",
+      "ROCKET",
+      "S/WAGON"
+    ]
+  },
+  {
+    "model": "STARFIRE",
+    "count": 15,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "HOLIDAY COUPE"
+    ]
+  },
+  {
+    "model": "SUPER 88",
+    "count": 15,
+    "submodels": [
+      "Base",
+      "HOLIDAY",
+      "ROCKET"
+    ]
+  },
+  {
+    "model": "442",
+    "count": 13,
+    "submodels": [
+      "Base",
+      "SPORTS COUPE",
+      "TORONADO",
+      "VISTA CRUISER",
+      "W-30"
+    ]
+  },
+  {
+    "model": "NINETY EIGHT",
+    "count": 11,
+    "submodels": [
+      "Base",
+      "HOLIDAY",
+      "J2",
+      "LS",
+      "ROCKET"
+    ]
+  },
+  {
+    "model": "COUPE",
+    "count": 9,
+    "submodels": [
+      "66",
+      "66 CLUB SEDAN",
+      "Base",
+      "JETSTAR"
+    ]
+  },
+  {
+    "model": "TORONADO",
+    "count": 6,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "REGENCY",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "NINETY EIGHT",
+      "NINETY-EIGHT"
+    ]
+  },
+  {
+    "model": "30",
+    "count": 3,
+    "submodels": [
+      "DT",
+      "F",
+      "SIX"
+    ]
+  },
+  {
+    "model": "F39",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "OLDS SEDAN",
+      "SIXTY SERIES"
+    ]
+  },
+  {
+    "model": "ROCKET",
+    "count": 3,
+    "submodels": [
+      "88",
+      "SUPER 88"
+    ]
+  },
+  {
+    "model": "1934",
+    "count": 2,
+    "submodels": [
+      "SEDAN STRAIGHT EIGHT",
+      "STRAIGHT 8 L34 SEDAN"
+    ]
+  },
+  {
+    "model": "F28",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "F37",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "RUNABOUT",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "MODEL R"
+    ]
+  },
+  {
+    "model": "1938",
+    "count": 1,
+    "submodels": [
+      "6"
+    ]
+  },
+  {
+    "model": "1939",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1941",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "43ARR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CURVED DASH",
+    "count": 1,
+    "submodels": [
+      "6C"
+    ]
+  },
+  {
+    "model": "DELMONT 88",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "F29",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "F34",
+    "count": 1,
+    "submodels": [
+      "4 DOOR SEDAN"
+    ]
+  },
+  {
+    "model": "F35",
+    "count": 1,
+    "submodels": [
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "FRENCH FRONT MODEL T",
+    "count": 1,
+    "submodels": [
+      "10HP"
+    ]
+  },
+  {
+    "model": "MODEL N",
+    "count": 1,
+    "submodels": [
+      "TOURING RUNABOUT"
+    ]
+  },
+  {
+    "model": "NINETY-EIGHT",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "REGENCY 98",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ROYALE",
+    "count": 1,
+    "submodels": [
+      "SUPER"
+    ]
+  },
+  {
+    "model": "SERIES 60",
+    "count": 1,
+    "submodels": [
+      "CLUB COUPE"
+    ]
+  },
+  {
+    "model": "TORNADO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TYPE R",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VISTA CRUISER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

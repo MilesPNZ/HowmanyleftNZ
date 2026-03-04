@@ -1,0 +1,172 @@
+[
+  {
+    "model": "MINI",
+    "count": 254,
+    "submodels": [
+      "1000",
+      "1000 LE",
+      "1000 MK4",
+      "1000 SPECIAL",
+      "1000LE",
+      "1275 GT",
+      "1275GT",
+      "1330",
+      "25 SALOON",
+      "Base",
+      "BMC",
+      "CITY",
+      "CITY 1000",
+      "CLUBMAN",
+      "CLUBMAN  GT",
+      "CLUBMAN 1100",
+      "CLUBMAN 1275 GT",
+      "CLUBMAN 1275GT",
+      "CLUBMAN AUTO",
+      "CLUBMAN GT",
+      "CLUBMAN LE",
+      "COOPER",
+      "COOPER REPLICA",
+      "GT",
+      "GT 1275",
+      "GT1275",
+      "HL",
+      "LE",
+      "LE 1000",
+      "MOKE",
+      "MOKE CALIFORNIA",
+      "PICK UP",
+      "S",
+      "SS",
+      "VAN"
+    ]
+  },
+  {
+    "model": "P76",
+    "count": 13,
+    "submodels": [
+      "Base",
+      "DELUXE",
+      "EXECUTIVE",
+      "FORCE 7 COUPE"
+    ]
+  },
+  {
+    "model": "MOKE",
+    "count": 10,
+    "submodels": [
+      "Base",
+      "CALIFONIAN",
+      "CALIFORNIA",
+      "CALIFORNIAN"
+    ]
+  },
+  {
+    "model": "MGB",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "MGB GT",
+      "TOURER",
+      "V8 ROADSTER"
+    ]
+  },
+  {
+    "model": "MINI CLUBMAN",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MINI 1000",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CLUBMAN",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MINI CLUBMAN GT",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MINI LE",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MORRIS",
+    "count": 2,
+    "submodels": [
+      "CLUBMAN",
+      "MGBGT"
+    ]
+  },
+  {
+    "model": "15",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CLUBMAN 1100",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DAF",
+    "count": 1,
+    "submodels": [
+      "LDV V80"
+    ]
+  },
+  {
+    "model": "LEYLAN CLUB",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MINI 1000LE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MINI GT",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "P 76 AUTO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "RANGEROVER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

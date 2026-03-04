@@ -1,0 +1,76 @@
+[
+  {
+    "model": "JAVELIN",
+    "count": 20,
+    "submodels": [
+      "360",
+      "AMX",
+      "Base",
+      "HT SST",
+      "SST"
+    ]
+  },
+  {
+    "model": "AMX",
+    "count": 5,
+    "submodels": [
+      "COUPE",
+      "390",
+      "Base",
+      "RAMBLER"
+    ]
+  },
+  {
+    "model": "MATADOR",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "X COUPE"
+    ]
+  },
+  {
+    "model": "RAMBLER",
+    "count": 4,
+    "submodels": [
+      "440",
+      "660",
+      "Base",
+      "CLASSIC 770"
+    ]
+  },
+  {
+    "model": "MARLIN",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SPIRIT",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "EAGLE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GREMLIN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "PACER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "model": "ALLDAYS",
+    "count": 3,
+    "submodels": [
+      "LIGHT CAR NO 2",
+      "SWINGSEAT TONNEAU"
+    ]
+  },
+  {
+    "model": "DARRACQ",
+    "count": 3,
+    "submodels": [
+      "59.6HP.GRAND PRIX",
+      "ROADSTER 14/16 HP",
+      "RRX"
+    ]
+  },
+  {
+    "model": "MITCHELL",
+    "count": 2,
+    "submodels": [
+      "44288",
+      "6-60"
+    ]
+  },
+  {
+    "model": "AC",
+    "count": 1,
+    "submodels": [
+      "SOCIABLE"
+    ]
+  },
+  {
+    "model": "BAKER",
+    "count": 1,
+    "submodels": [
+      "ELECTRIC"
+    ]
+  },
+  {
+    "model": "BUICK",
+    "count": 1,
+    "submodels": [
+      "B25"
+    ]
+  },
+  {
+    "model": "DELAUNAY-BELLEVILLE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FLANDERS",
+    "count": 1,
+    "submodels": [
+      "MODEL 20"
+    ]
+  },
+  {
+    "model": "GRANT",
+    "count": 1,
+    "submodels": [
+      "6"
+    ]
+  },
+  {
+    "model": "HOLLEY",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "HOLSMAN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "HURTU",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LANCIA KAPPA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LEMS 1903",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LOC0MOBILE",
+    "count": 1,
+    "submodels": [
+      "STANHOPE"
+    ]
+  },
+  {
+    "model": "LOCOMOBILE",
+    "count": 1,
+    "submodels": [
+      "03"
+    ]
+  },
+  {
+    "model": "LORRAINE",
+    "count": 1,
+    "submodels": [
+      "DIETRICH"
+    ]
+  },
+  {
+    "model": "METZ",
+    "count": 1,
+    "submodels": [
+      "22"
+    ]
+  },
+  {
+    "model": "MILWAUKEE",
+    "count": 1,
+    "submodels": [
+      "RUNABOUT"
+    ]
+  },
+  {
+    "model": "NAPIER",
+    "count": 1,
+    "submodels": [
+      "TAXICAB"
+    ]
+  },
+  {
+    "model": "NAPIER TOURIER",
+    "count": 1,
+    "submodels": [
+      "COLONIAL"
+    ]
+  },
+  {
+    "model": "NEW PICK",
+    "count": 1,
+    "submodels": [
+      "16/18 HP"
+    ]
+  },
+  {
+    "model": "OVERLAND",
+    "count": 1,
+    "submodels": [
+      "51"
+    ]
+  },
+  {
+    "model": "PANHARD",
+    "count": 1,
+    "submodels": [
+      "ET LEVASSOR X19"
+    ]
+  },
+  {
+    "model": "SCHACHT",
+    "count": 1,
+    "submodels": [
+      "HI WHEELER"
+    ]
+  },
+  {
+    "model": "SWIFT",
+    "count": 1,
+    "submodels": [
+      "15HP"
+    ]
+  },
+  {
+    "model": "UNIC",
+    "count": 1,
+    "submodels": [
+      "CHARABANC"
+    ]
+  },
+  {
+    "model": "WESTCOTT",
+    "count": 1,
+    "submodels": [
+      "18"
+    ]
+  }
+]

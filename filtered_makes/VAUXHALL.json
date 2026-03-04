@@ -1,0 +1,504 @@
+[
+  {
+    "model": "VELOX",
+    "count": 114,
+    "submodels": [
+      "30/98",
+      "Base",
+      "DELUXIE",
+      "EIP",
+      "EIP U",
+      "EP",
+      "LIP",
+      "PA",
+      "PASX",
+      "PAX",
+      "PB",
+      "SIX",
+      "UTILITY",
+      "VAGABOND"
+    ]
+  },
+  {
+    "model": "VIVA",
+    "count": 40,
+    "submodels": [
+      "1800",
+      "Base",
+      "DELUXE",
+      "DELUXE 90",
+      "ESTATE",
+      "GT",
+      "HB",
+      "HC",
+      "SL 1600",
+      "SL90",
+      "SUPER"
+    ]
+  },
+  {
+    "model": "VICTOR",
+    "count": 38,
+    "submodels": [
+      "101 SUPER",
+      "2000",
+      "3300",
+      "490",
+      "Base",
+      "DELUXE",
+      "FB",
+      "FB SUPER",
+      "FD",
+      "FD ESTATE",
+      "SUPER",
+      "VX4/90",
+      "VX490"
+    ]
+  },
+  {
+    "model": "ASTRA",
+    "count": 33,
+    "submodels": [
+      "1.8",
+      "1.8 16 VALVE",
+      "2.0 16V",
+      "ACTIVE",
+      "Base",
+      "BREEZE",
+      "CDTI",
+      "CLUB DTI",
+      "DESIGN",
+      "ELITE",
+      "EXCITE",
+      "GSI 16V",
+      "SRI",
+      "SXI",
+      "TWIN TOP SPORT",
+      "VXR"
+    ]
+  },
+  {
+    "model": "CRESTA",
+    "count": 32,
+    "submodels": [
+      "Base",
+      "DELUXE",
+      "FRIARY ESTATE",
+      "PC",
+      "PCS-51"
+    ]
+  },
+  {
+    "model": "DX",
+    "count": 13,
+    "submodels": [
+      "12/4",
+      "14",
+      "14/6",
+      "Base",
+      "DXSA 14",
+      "STRATFORD VENTURA"
+    ]
+  },
+  {
+    "model": "CHEVETTE",
+    "count": 12,
+    "submodels": [
+      "Base",
+      "CHEVANNE",
+      "GL",
+      "HS"
+    ]
+  },
+  {
+    "model": "INSIGNIA",
+    "count": 12,
+    "submodels": [
+      "2.0 CDTI SRI",
+      "Base",
+      "CDTI",
+      "ECO FLEX",
+      "VXR"
+    ]
+  },
+  {
+    "model": "VX220",
+    "count": 12,
+    "submodels": [
+      "Base",
+      "LIGHTNING YELLOW",
+      "SPEEDSTER",
+      "TURBO",
+      "VXT"
+    ]
+  },
+  {
+    "model": "MONARO",
+    "count": 10,
+    "submodels": [
+      "Base",
+      "CV8 COUPE",
+      "V8 VRX",
+      "V8 VXR",
+      "VXR"
+    ]
+  },
+  {
+    "model": "ZAFIRA",
+    "count": 10,
+    "submodels": [
+      "ACTIVE",
+      "Base",
+      "CDTI",
+      "EXCLUSIV",
+      "LIFE",
+      "MPV",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "10",
+    "count": 9,
+    "submodels": [
+      "1939/10",
+      "Base",
+      "HI",
+      "MODEL H"
+    ]
+  },
+  {
+    "model": "CORSA",
+    "count": 9,
+    "submodels": [
+      "1.2",
+      "ACTIVE",
+      "ACTIVE 16V",
+      "Base",
+      "E ELITE",
+      "EXC AC CDTI EFLEX",
+      "LIFE",
+      "SXI"
+    ]
+  },
+  {
+    "model": "WYVERN",
+    "count": 9,
+    "submodels": [
+      "Base",
+      "FOUR",
+      "LIX"
+    ]
+  },
+  {
+    "model": "TOURER",
+    "count": 8,
+    "submodels": [
+      "23-60",
+      "30-98",
+      "Base",
+      "T80",
+      "VX",
+      "VXSA",
+      "ZIFIRA"
+    ]
+  },
+  {
+    "model": "J",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "IB",
+      "ID 14",
+      "SALOON"
+    ]
+  },
+  {
+    "model": "VIVARO",
+    "count": 6,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VECTRA",
+    "count": 5,
+    "submodels": [
+      "1.9 CDTI",
+      "Base",
+      "CDTI",
+      "CDTI IRMCHER",
+      "SRI CDTI"
+    ]
+  },
+  {
+    "model": "VENTORA",
+    "count": 5,
+    "submodels": [
+      "3.3",
+      "Base"
+    ]
+  },
+  {
+    "model": "12",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "SIX"
+    ]
+  },
+  {
+    "model": "COMBO",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "C"
+    ]
+  },
+  {
+    "model": "GY",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "WINGHAM CABRIOLET"
+    ]
+  },
+  {
+    "model": "HIX 12",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TIGRA",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "SPORT TWINPORT"
+    ]
+  },
+  {
+    "model": "VXR8",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "WILKINSHAW BATHURST"
+    ]
+  },
+  {
+    "model": "20/60",
+    "count": 2,
+    "submodels": [
+      "R",
+      "T"
+    ]
+  },
+  {
+    "model": "AMPERA",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "HYBRID"
+    ]
+  },
+  {
+    "model": "ASXSA",
+    "count": 2,
+    "submodels": [
+      "14",
+      "Base"
+    ]
+  },
+  {
+    "model": "CAVALIER",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "GLS"
+    ]
+  },
+  {
+    "model": "EIP",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FIRENZA",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "J 14HP",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "OMEGA",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "HEARSE"
+    ]
+  },
+  {
+    "model": "V.X",
+    "count": 2,
+    "submodels": [
+      "490",
+      "Base"
+    ]
+  },
+  {
+    "model": "VISCOUNT",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VX4/90",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "14/40",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "23/60",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "30-98",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ADAM",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ASX",
+    "count": 1,
+    "submodels": [
+      "SD"
+    ]
+  },
+  {
+    "model": "ASX SALOON",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CALECHE",
+    "count": 1,
+    "submodels": [
+      "SIX"
+    ]
+  },
+  {
+    "model": "CALIBRA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CROSSLAND",
+    "count": 1,
+    "submodels": [
+      "ULTIMATE TURBO"
+    ]
+  },
+  {
+    "model": "I 12",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MERIVA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MERIVA LIFE",
+    "count": 1,
+    "submodels": [
+      "1.4"
+    ]
+  },
+  {
+    "model": "MOKKA-E",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "PA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SIGNUM",
+    "count": 1,
+    "submodels": [
+      "DESIGN V6 CDTI"
+    ]
+  },
+  {
+    "model": "UBS25",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VENTORA 11",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VICTOR 2000",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VIVA 1300",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

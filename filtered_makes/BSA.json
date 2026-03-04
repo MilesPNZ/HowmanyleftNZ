@@ -1,0 +1,16 @@
+[
+  {
+    "model": "SEDAN",
+    "count": 1,
+    "submodels": [
+      "10 HP 120"
+    ]
+  },
+  {
+    "model": "TW",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

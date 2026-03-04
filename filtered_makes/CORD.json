@@ -1,0 +1,17 @@
+[
+  {
+    "model": "812",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "BEVERLY SEDAN"
+    ]
+  },
+  {
+    "model": "L29",
+    "count": 1,
+    "submodels": [
+      "CABRIOLET"
+    ]
+  }
+]

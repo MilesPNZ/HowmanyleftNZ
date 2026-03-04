@@ -1,0 +1,28 @@
+[
+  {
+    "model": "PHAETON",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "SERIES IV",
+      "SERIES V",
+      "SS"
+    ]
+  },
+  {
+    "model": "SEDAN",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "CAESARS",
+      "V PHAETON 2 DOOR"
+    ]
+  },
+  {
+    "model": "LIMO",
+    "count": 1,
+    "submodels": [
+      "SERIES V SIGNEN"
+    ]
+  }
+]

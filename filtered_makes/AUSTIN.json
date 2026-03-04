@@ -1,0 +1,762 @@
+[
+  {
+    "model": "MINI",
+    "count": 276,
+    "submodels": [
+      "1000",
+      "1000LE",
+      "1100",
+      "1275 GT",
+      "1275 GT CLUBMAN",
+      "1275GT",
+      "850",
+      "850 ESTATE",
+      "850 MK2",
+      "ANNIVERSARY",
+      "AUTOMATIC",
+      "Base",
+      "BMC DELUXE",
+      "CITY",
+      "CLUBMAM",
+      "CLUBMAN",
+      "CLUBMAN 1100",
+      "CLUBMAN 1275 GT",
+      "CLUBMAN GT",
+      "CLUBMAN LE",
+      "COOPER",
+      "COOPER \"S\" MARK1",
+      "COOPER MAYFAIR",
+      "COOPER MKII",
+      "COOPER S",
+      "COOPER SPORT",
+      "DE LUXE",
+      "DELUXE",
+      "GT",
+      "HL",
+      "LE",
+      "LEYLAND",
+      "MAYFAIR",
+      "MK11",
+      "MK2",
+      "MKII",
+      "MOKE",
+      "S 1000",
+      "THIRTY",
+      "TRAVELER",
+      "TRAVELLER"
+    ]
+  },
+  {
+    "model": "7",
+    "count": 215,
+    "submodels": [
+      "SPECIAL SPORT",
+      "1929",
+      "65",
+      "A7 SPECIAL",
+      "ARQ RUBY",
+      "Base",
+      "BIG",
+      "BIG7",
+      "BOX BODY",
+      "BOX SALOON",
+      "CAMBRIDGE SPECIAL",
+      "CHUMMY",
+      "CHUMMY- TOURER",
+      "EA SPORTS",
+      "ENGLAND",
+      "HAWKE MATCHLESS",
+      "HEARSE",
+      "NIPPY",
+      "OPAL",
+      "PEARL CABRIOLET",
+      "R",
+      "RM",
+      "RN",
+      "ROADSTER",
+      "ROADSTER SPECIAL",
+      "ROUTLEDGE",
+      "RP SALOON",
+      "RUBY",
+      "RUBY UTE",
+      "SALLON",
+      "SALOON",
+      "SCOUT",
+      "SEVEN",
+      "SPECIAL",
+      "SPORT",
+      "SPORTS",
+      "SPORTS FIFTY",
+      "SPORTS SPECIAL",
+      "SPORTS/MURPHY",
+      "SPORTS/ROUTLEDGE",
+      "SWALLOW",
+      "TOP HAT",
+      "TOPHAT",
+      "TOURER",
+      "TRUCK",
+      "ULSTER"
+    ]
+  },
+  {
+    "model": "HEALEY",
+    "count": 159,
+    "submodels": [
+      "3000 MKIII",
+      "100",
+      "100 BN1",
+      "100 SIX",
+      "100 SPORTS",
+      "100-4",
+      "100-6",
+      "100/4",
+      "100/6",
+      "100M",
+      "100S",
+      "3000",
+      "3000  MK II",
+      "3000  MKI",
+      "3000  MKIII",
+      "3000 MARKII",
+      "3000 MK 3",
+      "3000 MK III",
+      "3000 MK.111",
+      "3000 MK11",
+      "3000 MK111",
+      "3000 MK2",
+      "3000 MK3",
+      "3000 MKI",
+      "3000 MKI BT7",
+      "3000 MKII",
+      "3000MK2",
+      "3000MKIII",
+      "4/100 BN.1 SPORT",
+      "AH3000 MK1",
+      "Base",
+      "BJ7 3000",
+      "BJ8",
+      "BN4",
+      "CORVETTE",
+      "HEALY",
+      "MARK 111",
+      "MK II",
+      "MK1",
+      "MK1 3000",
+      "MK1 SPRITE",
+      "MK111",
+      "MK2",
+      "MKIII",
+      "ROADSTER",
+      "ROADSTER MARK III",
+      "SPRIT",
+      "SPRITE",
+      "SPRITE FROG EYE",
+      "SPRITE MK III",
+      "SPRITE MKII"
+    ]
+  },
+  {
+    "model": "10",
+    "count": 58,
+    "submodels": [
+      "/4",
+      "10/4 LINCHFIELD",
+      "Base",
+      "CAMBRIDGE",
+      "CAMBRIDGE SALOON",
+      "CONWAY CABRIOLET",
+      "LICHFIELD",
+      "LITCHFIELD",
+      "ROADSTER CONVERTIBLE",
+      "SALOON",
+      "SHERBORNE",
+      "SHERBOURNE",
+      "SPECIAL"
+    ]
+  },
+  {
+    "model": "A30",
+    "count": 53,
+    "submodels": [
+      "Base",
+      "SEVEN"
+    ]
+  },
+  {
+    "model": "A40",
+    "count": 38,
+    "submodels": [
+      "Base",
+      "COUNTRYMAN",
+      "DEVON",
+      "DEVON G52",
+      "FARINA",
+      "FARINA COUNTRYMAN",
+      "MK2 FARINA",
+      "SOMERSET",
+      "SPORTS"
+    ]
+  },
+  {
+    "model": "A35",
+    "count": 27,
+    "submodels": [
+      "Base",
+      "COUNTRYMAN"
+    ]
+  },
+  {
+    "model": "8",
+    "count": 24,
+    "submodels": [
+      "8HP",
+      "Base",
+      "SALOON",
+      "TOURER",
+      "WASP"
+    ]
+  },
+  {
+    "model": "12/4",
+    "count": 17,
+    "submodels": [
+      "Base",
+      "CLIFTON",
+      "CLIFTON TOURER",
+      "OPEN ROAD TOURER",
+      "WINDSOR SALOON"
+    ]
+  },
+  {
+    "model": "RUBY",
+    "count": 15,
+    "submodels": [
+      "7",
+      "7SPECIAL",
+      "Base",
+      "MARK 1",
+      "SEVEN",
+      "SPORTS"
+    ]
+  },
+  {
+    "model": "BIG SEVEN",
+    "count": 13,
+    "submodels": [
+      "Base",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "COOPER",
+    "count": 13,
+    "submodels": [
+      "Base",
+      "S"
+    ]
+  },
+  {
+    "model": "12",
+    "count": 12,
+    "submodels": [
+      "/4",
+      "/4  WINDSOR",
+      "Base",
+      "CLIFTON TOURER",
+      "NEW ASCOT",
+      "WINDSOR"
+    ]
+  },
+  {
+    "model": "1300",
+    "count": 12,
+    "submodels": [
+      "Base",
+      "GT"
+    ]
+  },
+  {
+    "model": "PRINCESS",
+    "count": 11,
+    "submodels": [
+      "1300 VANDEN PLAS",
+      "2.0",
+      "Base",
+      "VANDEN PLAS",
+      "VANDEN PLAS 1100",
+      "VANDER PLAS"
+    ]
+  },
+  {
+    "model": "16/6",
+    "count": 10,
+    "submodels": [
+      "ASCOT",
+      "Base",
+      "BIG SIX",
+      "HARLEY"
+    ]
+  },
+  {
+    "model": "SPRITE",
+    "count": 10,
+    "submodels": [
+      "Base",
+      "HEALY COUPE",
+      "LONDON TAXI"
+    ]
+  },
+  {
+    "model": "TAXI",
+    "count": 10,
+    "submodels": [
+      "Base",
+      "CARBODIES",
+      "CARBODIES HACKNEY",
+      "LONDON CAB",
+      "TAXI"
+    ]
+  },
+  {
+    "model": "16",
+    "count": 8,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CAMBRIDGE",
+    "count": 8,
+    "submodels": [
+      "Base",
+      "SL"
+    ]
+  },
+  {
+    "model": "TOURER",
+    "count": 8,
+    "submodels": [
+      "20HP ROADSTER",
+      "Base",
+      "CHUMMY",
+      "SEVEN"
+    ]
+  },
+  {
+    "model": "WESTMINSTER",
+    "count": 8,
+    "submodels": [
+      "A110",
+      "A90",
+      "A95",
+      "Base"
+    ]
+  },
+  {
+    "model": "1100",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "MK3",
+      "VANDEN PLUS"
+    ]
+  },
+  {
+    "model": "A90",
+    "count": 6,
+    "submodels": [
+      "ALANTIC",
+      "ATLANTIC",
+      "ATLANTIC SPORTS",
+      "Base",
+      "SIX"
+    ]
+  },
+  {
+    "model": "MAXI",
+    "count": 6,
+    "submodels": [
+      "1750HL",
+      "Base"
+    ]
+  },
+  {
+    "model": "A70",
+    "count": 5,
+    "submodels": [
+      "HEREFORD"
+    ]
+  },
+  {
+    "model": "A95",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "WESTMINSTER",
+      "WESTMINSTER 95 SIX"
+    ]
+  },
+  {
+    "model": "DEVON",
+    "count": 5,
+    "submodels": [
+      "A40",
+      "Base"
+    ]
+  },
+  {
+    "model": "SHEERLINE",
+    "count": 5,
+    "submodels": [
+      "A125",
+      "Base"
+    ]
+  },
+  {
+    "model": "SPECIAL",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "3 LITRE",
+    "count": 4,
+    "submodels": [
+      "AUTOMATIC",
+      "Base"
+    ]
+  },
+  {
+    "model": "A55",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "CAMBRIDGE"
+    ]
+  },
+  {
+    "model": "MINI CLUBMAN",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TWENTY",
+    "count": 4,
+    "submodels": [
+      "20/4 TOURER",
+      "Base",
+      "RANALEGH COUPE"
+    ]
+  },
+  {
+    "model": "12/6",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "HARLEY"
+    ]
+  },
+  {
+    "model": "CLUBMAN",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GOODWOOD",
+    "count": 3,
+    "submodels": [
+      "14/6",
+      "Base"
+    ]
+  },
+  {
+    "model": "MINI 1000",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SOMERSET",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1800",
+    "count": 2,
+    "submodels": [
+      "MARK1",
+      "MKI"
+    ]
+  },
+  {
+    "model": "A105",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SIX"
+    ]
+  },
+  {
+    "model": "A110",
+    "count": 2,
+    "submodels": [
+      "WESTMINSTER"
+    ]
+  },
+  {
+    "model": "A50",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "A60",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BURNHAM",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SIX"
+    ]
+  },
+  {
+    "model": "COOPER S",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VANDEN PLAS",
+    "count": 2,
+    "submodels": [
+      "PRINCESS 1100",
+      "PRINCESS 4 LITRE R"
+    ]
+  },
+  {
+    "model": "1000",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1100 MK3",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "14/6",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1800 MKII",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "2200",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "7 ULSTER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "A125",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "A99",
+    "count": 1,
+    "submodels": [
+      "WESTMINSTER"
+    ]
+  },
+  {
+    "model": "ALLEGRO",
+    "count": 1,
+    "submodels": [
+      "1300"
+    ]
+  },
+  {
+    "model": "AMBASSADOR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ASCOT 12/4",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "COUPE",
+    "count": 1,
+    "submodels": [
+      "6"
+    ]
+  },
+  {
+    "model": "CV",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FX4",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FX41",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FX4D TAXI",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LITCHFIELD",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "METRO MAYFAIR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "METROPOLITAN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MINI 1000 AU",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MINI 850",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MINI CITY",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MINI HL",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MINI LE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MINI SPECIAL",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "RANELAGH",
+    "count": 1,
+    "submodels": [
+      "LIMOUSINE"
+    ]
+  },
+  {
+    "model": "SEVEN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SIXTEEN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SPORTS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TAXI/HIRE CAR A",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

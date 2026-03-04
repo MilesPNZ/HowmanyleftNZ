@@ -1,0 +1,30 @@
+[
+  {
+    "model": "SCIMITAR",
+    "count": 25,
+    "submodels": [
+      "Base",
+      "GTC",
+      "GTE",
+      "GTE AUTO",
+      "GTESE6A",
+      "SS1 SPORTS",
+      "SST",
+      "TI"
+    ]
+  },
+  {
+    "model": "REGAL",
+    "count": 1,
+    "submodels": [
+      "RIALTO 2"
+    ]
+  },
+  {
+    "model": "SUPERVAN III",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "model": "401",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "403",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "409",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "410",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "411",
+    "count": 1,
+    "submodels": [
+      "SERIES 4"
+    ]
+  },
+  {
+    "model": "BLENHEIM 3",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "RELL",
+    "count": 1,
+    "submodels": [
+      "BRIGAND"
+    ]
+  }
+]

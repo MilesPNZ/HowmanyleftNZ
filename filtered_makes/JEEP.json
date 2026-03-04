@@ -1,0 +1,240 @@
+[
+  {
+    "model": "GRAND CHEROKEE",
+    "count": 2188,
+    "submodels": [
+      "3.0L V6 CRD AUTO LTD",
+      "3.0L V6 CRD OVERLAND",
+      "3.6L V6 AUTO LTD",
+      "4X4 LAREDO",
+      "4X4 LIMITED",
+      "4X4 LTD",
+      "5.7L V8 AUTO LTD",
+      "5.7L V8 OVERLAND",
+      "6.4L HEMI SRT",
+      "6.4L HEMI SRT8",
+      "6.4L SRT8",
+      "6.4L SRT8 ALPINE",
+      "Base",
+      "BLACK HAWK",
+      "BLACK HAWK 4X4",
+      "BLACKHAWK",
+      "CRD",
+      "CRD SUMMIT",
+      "HEMI",
+      "LARADO 3.6",
+      "LARDEO",
+      "LAREDO",
+      "LAREDO 3.0 CRD 4X4",
+      "LAREDO 3.0D 4X4",
+      "LAREDO 3.6P/4WD/8AT",
+      "LAREDO 3.6P/8AT",
+      "LAREDO 3.6P/8AT/SW",
+      "LAREDO 3.6P8A/SW5D5S",
+      "LAREDO 4X2",
+      "LAREDO 4X4",
+      "LAREDO CRD",
+      "LIMITED",
+      "LIMITED 3.0D/4WD/8AT",
+      "LIMITED 4X4 DIESEL",
+      "LIMITED CRD A",
+      "OVERLAND",
+      "OVERLAND 3.0 CRD 5SP",
+      "OVERLAND 3.0D/4WD",
+      "OVERLAND 5.7P/4WD",
+      "SRT",
+      "SRT 8",
+      "SRT HEMI 6.4",
+      "SRT-8",
+      "SRT8",
+      "SRT8 6.4P/4WD/8AT",
+      "SUMMIT",
+      "SUPERCHARGED",
+      "TRACK HAWK",
+      "TRACKHAWK",
+      "TRACKHAWK 6.2 SC",
+      "TRACKHAWK 6.2PS/4WD",
+      "TRAILHAWK",
+      "TRAILHAWK 3.0D/4WD",
+      "WH LAREDO 3.7 PETROL",
+      "WK LIMITED"
+    ]
+  },
+  {
+    "model": "COMPASS",
+    "count": 880,
+    "submodels": [
+      "2.0 4X2 SPORT",
+      "2.0L CVT AUTO (4X2)",
+      "4X2",
+      "4X4",
+      "ALTITUDE 2.0P/CVT/SW",
+      "Base",
+      "BLACK HAWK",
+      "BLACKHAWK",
+      "LIMITED",
+      "LIMITED 2.4P/4WD/6AT",
+      "LONGITUDE",
+      "LONGITUDE 2.4P",
+      "LONGITUDE 2.4P/6AT",
+      "LTD",
+      "MK",
+      "NIGHT EAGLE",
+      "NIGHT EAGLE 2.4P",
+      "NORTH 2.0P/6AT/SW/5D",
+      "NORTH EDITION",
+      "NOTH EDITION",
+      "SPORT",
+      "SPORT 2.0P/6AT/SW/5D",
+      "WAGON"
+    ]
+  },
+  {
+    "model": "CHEROKEE",
+    "count": 815,
+    "submodels": [
+      "3.7 LIMITED",
+      "3.7L",
+      "4 X 4 LONGITUDE",
+      "4.0",
+      "4X4",
+      "4X4 DIESEL LIMITED",
+      "4X4 TRAILHAWK",
+      "Base",
+      "BLACKHAWK",
+      "GRAND CHEROKEE",
+      "GRANDCHEROKEE",
+      "KK LTD 2.8L CRD",
+      "KK LTD 3.7L PETROL",
+      "KK SPORT 3.7L PETROL",
+      "LAREDO",
+      "LIMITED",
+      "LIMITED 3.2P/4WD/9AT",
+      "LIMITED 3.7L",
+      "LONGITUDE",
+      "LONGITUDE 2.4P/4WD",
+      "LONGITUDE 2.4P/9AT",
+      "LONGITUDE AWD AUTO",
+      "LTD",
+      "SPORT",
+      "SPORT 2.4P/9AT/SW/5D",
+      "SPORT 4DR 4.0P 4A",
+      "SPORTS",
+      "SRT",
+      "TRAILHAWK",
+      "TRAILHAWK 2.4P/4WD",
+      "WAGON"
+    ]
+  },
+  {
+    "model": "RENEGADE",
+    "count": 716,
+    "submodels": [
+      "1.4L PETROL",
+      "Base",
+      "LIMITED",
+      "LIMITED 1.4P/6AT",
+      "LIMITED 1.4P/6AT/SW",
+      "LIMITED 1.4PT",
+      "LIMITED 1.4PT/4WD",
+      "LONGITUDE",
+      "LONGITUDE 1.4PT/6AT",
+      "SPORT 1.4P/6AT",
+      "SPORT 1.4P/6AT/SW/5D",
+      "SPORT 1.6P/5MT",
+      "TRAILHAWK 2.4P/4WD",
+      "TRAILHAWK 2.4P/4WD 2",
+      "TRAILHAWK 2.4P/4WD/9"
+    ]
+  },
+  {
+    "model": "PATRIOT",
+    "count": 207,
+    "submodels": [
+      "2.0P5M/SW5D5S",
+      "ALTITUDE 2.0P/6CVT/S",
+      "Base",
+      "CHRYSLER",
+      "COMPASS",
+      "LIMITED",
+      "LIMITED 2.4P4WD6A/SW",
+      "MK 4X2",
+      "SPORT",
+      "SPORT 2.0P6A/SW5D5S",
+      "SPORT 2.0P6CVT/SW5D5",
+      "SPORT MANUAL",
+      "SPORTS",
+      "WAGON"
+    ]
+  },
+  {
+    "model": "GLADIATOR",
+    "count": 77,
+    "submodels": [
+      "OVERLAND 3.6P/4WD"
+    ]
+  },
+  {
+    "model": "WRANGLER",
+    "count": 75,
+    "submodels": [
+      "4X4",
+      "Base",
+      "LIMITED",
+      "RENEGADE AUTO",
+      "RENEGADE MANUAL",
+      "RUBICON",
+      "SAHARA",
+      "SPORT",
+      "SPORT MANUAL",
+      "SPORT UNLIMITED",
+      "UNLIMITED",
+      "UNLIMITED SPORT"
+    ]
+  },
+  {
+    "model": "AVENGER",
+    "count": 58,
+    "submodels": [
+      "LAUNCH EDITION 54KWH"
+    ]
+  },
+  {
+    "model": "COMMANDER",
+    "count": 12,
+    "submodels": [
+      "5.7L HEMI",
+      "Base",
+      "CHRYSLER",
+      "LIMITED 4.7L"
+    ]
+  },
+  {
+    "model": "CJ",
+    "count": 1,
+    "submodels": [
+      "4A 4X4"
+    ]
+  },
+  {
+    "model": "CJ4A",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CJ7",
+    "count": 1,
+    "submodels": [
+      "RENEGADE"
+    ]
+  },
+  {
+    "model": "LAREDO",
+    "count": 1,
+    "submodels": [
+      "4.7L"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "model": "COUPE",
+    "count": 1,
+    "submodels": [
+      "C7 SERIES F"
+    ]
+  },
+  {
+    "model": "LANDAULETTE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TOURER",
+    "count": 1,
+    "submodels": [
+      "C7"
+    ]
+  }
+]

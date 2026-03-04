@@ -1,0 +1,865 @@
+[
+  {
+    "model": "3008",
+    "count": 3600,
+    "submodels": [
+      "1.6",
+      "1.6 AT",
+      "1.6 E-HDI",
+      "1.6 E-HDI ACTIVE SUV",
+      "1.6 E-HDI ETG ACTIVE",
+      "1.6 PETROL",
+      "1.6DT/6AT",
+      "1.6E HD1",
+      "1.6PT/6AT",
+      "2.0 HDI AUTO",
+      "2.0 HDI XTE",
+      "2.0DH/4WD/6AM/HA/5DR",
+      "2.0DT/6AT",
+      "ACTIVE 1.6P/6AT/HA/5",
+      "ACTIVE 1.6PT/6AT",
+      "ALLURE 1.2PMHT/6AT",
+      "ALLURE 1.6P/6AT/HA/5",
+      "ALLURE 1.6PT/6AT",
+      "ALLURE 2.0D/6AT/HA/5",
+      "Base",
+      "CROSSWAY 1.6PT/6AT",
+      "GT  LINE",
+      "GT 1.2PMHT/6AT",
+      "GT 1.6PT/8AT",
+      "GT 2.0DT/6AT",
+      "GT 2.0DT/8AT",
+      "GT 8 SPEED 2.0DT/8AT",
+      "GT HYBRID4 220KW",
+      "GT HYBRID4 PHEV/4WD",
+      "GT LINE",
+      "GT LINE 1.6PT",
+      "GT LINE 1.6PT/6AT",
+      "HYBRID",
+      "TURBO 1.6 ADVENTURE"
+    ]
+  },
+  {
+    "model": "308",
+    "count": 2906,
+    "submodels": [
+      "1.6 TURBO",
+      "ACCESS",
+      "ACCESS 1.2P/6AT/HA/5",
+      "ACCESS 1.2P/6MT/HA/5",
+      "ACTIVE",
+      "ACTIVE 1.2P/6AT/HA/5",
+      "ACTIVE 1.2P/6AT/SW/5",
+      "ACTIVE 1.6",
+      "ACTIVE 2.0",
+      "ALLURE",
+      "ALLURE 1.2P/6AT/HA/5",
+      "ALLURE 1.2PT/6AT",
+      "ALLURE 1.2PT/6MT",
+      "ALLURE 1.2PT/8AT",
+      "ALLURE 1.6",
+      "ALLURE 1.6P/6AT/HA/5",
+      "ALLURE 1.6P/6AT/SW/5",
+      "ALLURE 2.0",
+      "ALLURE 2.0D/6AT/HA/5",
+      "ALLURE SW HDI",
+      "Base",
+      "BLUEHDI",
+      "CABRIOLET",
+      "CC",
+      "CC 1.6 TURBO SPORT",
+      "CC 2.0 HDI",
+      "GT 1.2PT/8AT",
+      "GT 1.6PT/8AT",
+      "GT 54KWH/EV/AT",
+      "GT DIESEL 2.0D/6AT/H",
+      "GT LINE 1.2PT/6AT",
+      "GT LINE 1.6PT",
+      "GT MHEV 1.2PMHT/6AT",
+      "GT PHEV/8AT",
+      "GT SERIES",
+      "GTI",
+      "GTI 270 1.6P/6MT/HA",
+      "HDI",
+      "HDI AT 1.6",
+      "HDI AT 1.6 E",
+      "HDI AUTO",
+      "PREMIUM",
+      "S",
+      "SPORT",
+      "SPORTIUM",
+      "SW",
+      "SW 1.6A",
+      "SW 2.0 HDI ACTIVE",
+      "SW ACTIVE PURETECH",
+      "SW HDI",
+      "TURBO",
+      "TURBO SPORT",
+      "XS AUTO",
+      "XS MANUAL",
+      "XSE",
+      "XSP",
+      "XSP AUTO"
+    ]
+  },
+  {
+    "model": "208",
+    "count": 2109,
+    "submodels": [
+      "1.2L PETROL",
+      "1600",
+      "ACCESS 1.2P/5AM/HA/5",
+      "ACCESS 1.2P/5MT/HA/5",
+      "ACTIVE 1.2 MANUAL",
+      "ACTIVE 1.2P/5AM/HA/5",
+      "ACTIVE 1.2P/6AT/HA/5",
+      "ACTIVE 1.6 5DR",
+      "ACTIVE EV",
+      "ALLURE",
+      "ALLURE 1.2P/6AT",
+      "ALLURE 1.2P/6AT/HA/5",
+      "ALLURE 1.6 HDI",
+      "ALLURE 3 DR",
+      "ALLURE 5 DR",
+      "AUTO",
+      "Base",
+      "E",
+      "E GT LINE EV",
+      "ELECTRIC",
+      "GT",
+      "GT 1.2P/6AT",
+      "GT 1.2PMHT/6AM",
+      "GT ELECTRIC 50KWH/EV",
+      "GT ELECTRIC LINE",
+      "GT EV",
+      "GT LINE",
+      "GT LINE EV",
+      "GTI",
+      "GTI 1.6 TURBO",
+      "GTI 30 1.6P/6MT/HA/3",
+      "XY 1.6P/4AT/HA/3DR/5"
+    ]
+  },
+  {
+    "model": "2008",
+    "count": 2014,
+    "submodels": [
+      "1.2L PETROL",
+      "ACTIVE 1.2PT/6AT",
+      "ACTIVE1.6AUTO 1.6P4A",
+      "ALLURE",
+      "ALLURE 1.2PT/6AT",
+      "ALLURE 1.2PT/8AT",
+      "ALLURE EV",
+      "ALLURE1.6AUTO 1.6P4A",
+      "Base",
+      "CROSSWAY 1.2PT/6AT",
+      "E",
+      "E GT LINE",
+      "E VTI",
+      "E-2008",
+      "FELINE MISTRALE",
+      "GT 1.2PMHT/6AM",
+      "GT 1.2PT/8AT",
+      "GT 100KW/EV/AT",
+      "GT ELECTRIC 50KWH/EV",
+      "GT ELECTRIC 54KWH/EV",
+      "GT EV",
+      "GT LINE",
+      "GT LINE 1.2PT",
+      "GT LINE 1.2PT/6AT",
+      "GT-LINE",
+      "OUTDOOR 1.6D/5MT/HA",
+      "SERIES"
+    ]
+  },
+  {
+    "model": "307",
+    "count": 1759,
+    "submodels": [
+      "1.6",
+      "1.6A",
+      "2.0",
+      "2.0 A",
+      "2.0 WAGON",
+      "307CC",
+      "ACTIVA QUARTZ",
+      "Base",
+      "BREAK",
+      "CC",
+      "CPE CAB 2.0 2DR A P",
+      "CPE CAB 2.0 2DR M P",
+      "CPE CAB 2.0 3DR A P",
+      "CPE CAB 2.0 3DR M P",
+      "FELINE",
+      "HDI",
+      "HDI 1.6 5DR 5 SPD M",
+      "HDI 1.6 5DR 5SPD M D",
+      "HDI 2.0 5D 6SP A RWC",
+      "HDI 2.0 5DR 5SPD M D",
+      "HDI 2.0 5DR 6SPD A D",
+      "HDI 2.0 5DR 6SPD M D",
+      "LX",
+      "RAPIER",
+      "S16",
+      "STYLE",
+      "SW",
+      "SW 2.0",
+      "SW 2.0 5DR 4SPD A P",
+      "SW 2.0 5DR 6SPD A D",
+      "SW 2.0L",
+      "XS",
+      "XS 1.6",
+      "XS 1.6 5DR 4SPD A P",
+      "XS 1.6 5DR 5SPD M P",
+      "XSI 2.0",
+      "XSI 2.0 3DR 4SPD A P",
+      "XSI 2.0 3DR 5SPD M P",
+      "XSP 2.0",
+      "XSP 2.0 5DR 4SPD A",
+      "XSP 2.0 5DR 4SPD A P",
+      "XSP 2.0 5DR 5SPD M P",
+      "XSP 2.0E",
+      "XSP HDI"
+    ]
+  },
+  {
+    "model": "207",
+    "count": 1261,
+    "submodels": [
+      "1.6 FELINE",
+      "1.6L",
+      "1600",
+      "207",
+      "207GT",
+      "Base",
+      "CC",
+      "CC 1.6 A 2DR 4SPD A",
+      "CC 1.6 M 2DR 5SPD M",
+      "CC 1600",
+      "CC GT",
+      "CC MAN MY10",
+      "GLASS ROOF 4AT",
+      "GT",
+      "GT CC HDI",
+      "GT SPORT",
+      "GT TURBO",
+      "GTI",
+      "GTI 1.6M 3DR 5SP M P",
+      "GTI SW",
+      "HDI",
+      "HDI 1.6 5DR 5 SP M D",
+      "S",
+      "SPORT",
+      "SPORT 1.6 3D 5SP MP",
+      "SPORT 1.6 5D 4SP A P",
+      "SPORTIUM",
+      "SW",
+      "XS 1.4 5DR 5SPD M P",
+      "XS 1.4 AT",
+      "XS 1.6 5DR 4SPD A P",
+      "XSP 1.6 5DR 4SP A P",
+      "XT 1.6 A",
+      "XT 5DR HDI 1.6L"
+    ]
+  },
+  {
+    "model": "206",
+    "count": 977,
+    "submodels": [
+      "03B",
+      "1.4",
+      "1.4A",
+      "1.6",
+      "1.6 CPE CAB 2DR AP",
+      "1.6L",
+      "2.0 CPE CAB 2DR MP",
+      "206CC",
+      "ALLURE",
+      "Base",
+      "CC",
+      "CC 1.6A",
+      "CC QUIKSILVER",
+      "CC-2.0",
+      "CPE CAB 1.6 2DR A P",
+      "CPE CAB 2.0 2DR M P",
+      "GLX",
+      "GT",
+      "GTI",
+      "GTI 2.0",
+      "GTI 2.0 3DR 5SPD M P",
+      "GTI 2.0 3DR 5SPD MP",
+      "GTI180 2.0 3D 5S M P",
+      "LX",
+      "QUICKSILVER",
+      "ROLAND GARROS",
+      "S16",
+      "SE1.4",
+      "SPORT 1.6 5DR 4SPD A",
+      "STYLE",
+      "SW",
+      "SW 2.0 5DR 5SPD M P",
+      "SW XF",
+      "SW XS",
+      "SW XS 1.6",
+      "VERVE",
+      "X5",
+      "XR",
+      "XR 1.4",
+      "XR 1.4 5DR 4SPD A P",
+      "XR 1.4 5DR 5SPD M P",
+      "XR 1.6 5DR 5SPD M P",
+      "XS",
+      "XT",
+      "XT 1.6 5DR 4SPD A P",
+      "XT 1.6 5DR 5SPD M P"
+    ]
+  },
+  {
+    "model": "4008",
+    "count": 803,
+    "submodels": [
+      "2.0L 5 SP MANUAL",
+      "ACTIVE 2WD 2.0I",
+      "ACTIVE 2X4 2.0 CVT",
+      "ALLURE 2.0P/5MT/SW/5",
+      "ALLURE 2X4 2.0 CVT",
+      "Base",
+      "FELINE 4X4 2.0 CVT"
+    ]
+  },
+  {
+    "model": "407",
+    "count": 747,
+    "submodels": [
+      "2.0 AUTO 5DR",
+      "2.2",
+      "Base",
+      "COUPE 2.7 2DR 6SP A",
+      "COUPE 3.0 2DR 6SP A",
+      "COUPE 3.0 2DR 6SP M",
+      "D",
+      "EXECUTIVE 2.2 A",
+      "HDI",
+      "HDI 2.0 5DR 4SP A D",
+      "HDI 2.0 5DR 4SP A P",
+      "HDI 2.0 5DR 6SP A D",
+      "HDI 2.0 A 4D",
+      "HDI 2.0 SW 5DR 4SP A",
+      "HDI 2.0 SW 5DR 6SP A",
+      "HDI 2.7 4DR 6SP A D",
+      "HDI 2.7 SW 5DR 6SPAD",
+      "SE HDI",
+      "ST 2.2 5DR 4SP A P",
+      "ST 2.2 5DR 6SPD M P",
+      "ST HDI",
+      "SVET",
+      "SW",
+      "SW 2.2 5DR 4SP A P",
+      "V6 3.0 5DR 6SP A P",
+      "V6 SW 3.0 5DR 6SP A"
+    ]
+  },
+  {
+    "model": "508",
+    "count": 706,
+    "submodels": [
+      "1.6 (A)E-HDI ALLURE",
+      "ACTIVE PETROL",
+      "ALLURE",
+      "ALLURE 1.6P/6AT",
+      "ALLURE 2.0D/6AT/SL/4",
+      "ALLURE FL SW 2.0DT",
+      "ALLURE HDI",
+      "ALLURE SEDAN",
+      "ALLURE SW",
+      "ALLURE SW HDI",
+      "ALTURE HDI 163",
+      "Base",
+      "GT",
+      "GT 1.6PT/8AT",
+      "GT 2.0D/6AT",
+      "GT 2.0D/6AT/SL/4DR/5",
+      "GT 2.2A",
+      "GT LINE 1.6PT",
+      "GT PHEV/8AT",
+      "GT SW 1.6PT/8AT",
+      "HDI",
+      "RXH",
+      "RXH 2.0 HDI",
+      "RXH HYBRID4 AUTO",
+      "SW",
+      "SW ALLURE 1.6 THP",
+      "SW GT"
+    ]
+  },
+  {
+    "model": "5008",
+    "count": 679,
+    "submodels": [
+      "1.6 BLUEHDI",
+      "1.6 E-HDI",
+      "1.6 E-HDI ACTIVE MPV",
+      "1.6 TURBO",
+      "1.6L PETROL AUTO",
+      "1.6PT/6AT",
+      "2.0D/6AT/SW/5DR/7S",
+      "2.0DT/6AT",
+      "ACTIVE",
+      "ALLURE 1.6PT/6AT",
+      "Base",
+      "CROSSWAY 1.6PT/6AT",
+      "E-HDI",
+      "GT 1.6PT/8AT",
+      "GT 2.0DT/6AT",
+      "GT 2.0DT/8AT",
+      "GT 2L DIESEL",
+      "GT 8 SPEED 2.0DT/8AT",
+      "GT LINE",
+      "GT LINE 1.6PT",
+      "GT MHEV 1.2PMHT/6HD",
+      "GT-LINE 1.6 BLUE HDI"
+    ]
+  },
+  {
+    "model": "406",
+    "count": 271,
+    "submodels": [
+      "3.0 COUPE 2DR 4SP AP",
+      "3.0 COUPE 2DR 5SP MP",
+      "3.0 COUPE 2DR 5SP P",
+      "3.0 COUPE 2DR A",
+      "3.0 COUPE 2DR A P",
+      "3.0 GLX V6",
+      "Base",
+      "EXECUTIVE HDI",
+      "F",
+      "GLX",
+      "HDI 2.0 4DR 4S A D",
+      "HDI 2.0 4DR 5S M D",
+      "HDI 2.0 4DR M D",
+      "HDI 2.0 5DR 5S M D",
+      "HDI 2.0 EST 4S A D",
+      "HDI 2.0 EST 4SPD A D",
+      "HDI 2.0 EST 5S M D",
+      "HDI 2.0 EST 5SPD M D",
+      "HDI 2.0 EST 5SPD MD",
+      "LX",
+      "RAPIER",
+      "ST 2.0 4DR 4S A P",
+      "ST 2.0 4DR 4SPD A P",
+      "ST 2.0 4DR 5S M P",
+      "ST 2.0 4DR 5SPD M",
+      "ST 2.0 SEDAN AUTO",
+      "ST 2.0 SEDAN MANUAL",
+      "ST A",
+      "ST SPRT 2.2 5DR 5S M",
+      "STDT 1.9 SEDAN (M)",
+      "STDT 2.0 M 4DR",
+      "V6",
+      "V6 3.0 4SPD 4D",
+      "V6 3.0 4SPD 4DR A",
+      "V6 3.0 4SPD 4DR A P",
+      "V6 3.0 5SPD 4D",
+      "V6 3.0 5SPD 4DR M",
+      "V6 3.0 5SPD 4DR M P",
+      "V6 EST 4SPD 5DR A"
+    ]
+  },
+  {
+    "model": "306",
+    "count": 221,
+    "submodels": [
+      "2.0 CAB 2DR 4SPD A P",
+      "2.0 CAB 2DR 54PD A P",
+      "2.0 CAB 2DR 5SPD M P",
+      "2.0 CABRIOLET 2DR MP",
+      "Base",
+      "CAB",
+      "CAB 1.8 AUTO",
+      "CAB 1.8 MAN",
+      "CABRIOLET",
+      "CABRIOLET SE",
+      "D TURBO",
+      "GTI 2.0 6SPD M 3DR",
+      "GTI 6",
+      "GTI6",
+      "HDI 2.0 4DR 5S M D",
+      "HDI 2.0 5DR 5S M D",
+      "PININFARINA",
+      "S-16",
+      "S16",
+      "S16 RALLY",
+      "SRDT 1.9 DIESEL SDN",
+      "STYLE",
+      "TURBO HDI",
+      "XR 1.8 M 5DR HATCH",
+      "XRA 1.8 5SPD 4DR P",
+      "XRDT",
+      "XS",
+      "XSI",
+      "XT",
+      "XT 1.8 5DR 5SPD M P",
+      "XT 2.0 5DR 4SPD A P",
+      "XT 2.0 5DR 5SPD M P",
+      "XTDT 1.9 5DR 5SPD MD"
+    ]
+  },
+  {
+    "model": "RCZ",
+    "count": 149,
+    "submodels": [
+      "1.6 TURBO",
+      "1.6 TURBO AUTO",
+      "1.6A",
+      "1.6P/6MT/SP/2DR/4S",
+      "115KW AUTO PETROL",
+      "200BHP 1.6 MANUAL",
+      "Base",
+      "CK LE SPORTS CAR",
+      "GT HDI COUPE",
+      "GT THP",
+      "GT THP 156",
+      "HDI SPORT",
+      "SPORT THP 156"
+    ]
+  },
+  {
+    "model": "205",
+    "count": 83,
+    "submodels": [
+      "Base",
+      "CT1",
+      "CTI",
+      "GR",
+      "GT1",
+      "GTI",
+      "GTI 1.9",
+      "LE-GT-I",
+      "XLD",
+      "XS"
+    ]
+  },
+  {
+    "model": "E-208",
+    "count": 71,
+    "submodels": [
+      "Base",
+      "ELECTIC",
+      "ELECTRIC",
+      "GT",
+      "GT ELECTRIC",
+      "GT LINE",
+      "GTLINE"
+    ]
+  },
+  {
+    "model": "E-2008",
+    "count": 52,
+    "submodels": [
+      "Base",
+      "GT",
+      "GT ELECTRIC",
+      "GT LINE",
+      "GT PREMIUM EV"
+    ]
+  },
+  {
+    "model": "607",
+    "count": 34,
+    "submodels": [
+      "Base",
+      "V6 3.0 4SPD 4DR A",
+      "V6 3.0 4SPD 4DR A P",
+      "V6 3.0 5DR 6SP A P",
+      "V6 SV3.0 5DR 6SP A P"
+    ]
+  },
+  {
+    "model": "408",
+    "count": 31,
+    "submodels": [
+      "1.6",
+      "1.6P/6AT/SL/4DR/5S",
+      "Base",
+      "GT 1.2PMHT/6AT",
+      "GT PHEV/8AT"
+    ]
+  },
+  {
+    "model": "106",
+    "count": 22,
+    "submodels": [
+      "Base",
+      "C SPORT",
+      "C-SPORT",
+      "CLUB-SPORT",
+      "CLUBSPORT",
+      "CS 1.3 3DR HTCH",
+      "CSPORT",
+      "ESCAPADE",
+      "GTI 1.6",
+      "GTI 1.6 3DR 5S M P",
+      "RALLYE",
+      "S16",
+      "XR 1.1 5DR HTCH",
+      "XRD 1.5 DIESEL",
+      "XSI"
+    ]
+  },
+  {
+    "model": "405",
+    "count": 20,
+    "submodels": [
+      "Base",
+      "GLD",
+      "GLX",
+      "GRD",
+      "LXTD",
+      "MI16",
+      "SI",
+      "SRDT",
+      "SRI",
+      "STDT"
+    ]
+  },
+  {
+    "model": "4007",
+    "count": 15,
+    "submodels": [
+      "2.2D/4WD/6AM/SW/5DR",
+      "Base",
+      "SPORT XS HDI"
+    ]
+  },
+  {
+    "model": "404",
+    "count": 13,
+    "submodels": [
+      "Base",
+      "C"
+    ]
+  },
+  {
+    "model": "504",
+    "count": 9,
+    "submodels": [
+      "Base",
+      "CABRIOLET"
+    ]
+  },
+  {
+    "model": "505",
+    "count": 9,
+    "submodels": [
+      "Base",
+      "GR",
+      "GTI",
+      "GTI FE",
+      "S",
+      "STI",
+      "V6"
+    ]
+  },
+  {
+    "model": "107",
+    "count": 7,
+    "submodels": [
+      "ACTIVE",
+      "Base",
+      "SPORT",
+      "URBAN"
+    ]
+  },
+  {
+    "model": "PARTNER",
+    "count": 6,
+    "submodels": [
+      "1.6 HDI",
+      "Base",
+      "TEPEE HORIZON RS WAV",
+      "TOTEM D"
+    ]
+  },
+  {
+    "model": "309",
+    "count": 5,
+    "submodels": [
+      "BLANCHE",
+      "GTI",
+      "XL"
+    ]
+  },
+  {
+    "model": "203",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "C"
+    ]
+  },
+  {
+    "model": "403",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "605",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "SV 3.0",
+      "SV 3.0 A SDN"
+    ]
+  },
+  {
+    "model": "306XSI",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "807",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "NORWEST HDI"
+    ]
+  },
+  {
+    "model": "ION",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1007",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "106 XND",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "106XSI",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "108",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "202",
+    "count": 1,
+    "submodels": [
+      "BH"
+    ]
+  },
+  {
+    "model": "205 GR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "205 GTI 1.9",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "3.0 COUPE",
+    "count": 1,
+    "submodels": [
+      "2DR A P"
+    ]
+  },
+  {
+    "model": "302",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "306 XN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "405 GRDT",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "504TI",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "505 GTI",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "604",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "605SV3.0A",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "806",
+    "count": 1,
+    "submodels": [
+      "EDEN PARK"
+    ]
+  },
+  {
+    "model": "BOXER",
+    "count": 1,
+    "submodels": [
+      "333 2.2 HDI"
+    ]
+  },
+  {
+    "model": "EXPERT",
+    "count": 1,
+    "submodels": [
+      "ASPHALT"
+    ]
+  }
+]

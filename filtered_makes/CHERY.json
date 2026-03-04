@@ -1,0 +1,72 @@
+[
+  {
+    "model": "TIGGO 4 PRO",
+    "count": 962,
+    "submodels": [
+      "1.5PHT/HD URBAN",
+      "UL 1.5PHT/HD TIMATE",
+      "ULTIMATE 1.5PT/CVT",
+      "URBAN 1.5PT/CVT"
+    ]
+  },
+  {
+    "model": "J11",
+    "count": 297,
+    "submodels": [
+      "1.6P/1CVT/SW/4DR/5S",
+      "1.6P/5MT/SW/4DR/5S",
+      "2.0P 5D 4SP AT",
+      "2.0P 5D 4SP MT",
+      "Base"
+    ]
+  },
+  {
+    "model": "J3",
+    "count": 287,
+    "submodels": [
+      "1.6CVT 1.6P1CVT/HA5D",
+      "1.6P 5D 5SP",
+      "1.6P/5MT/HA/5DR/5S",
+      "Base"
+    ]
+  },
+  {
+    "model": "TIGGO 8",
+    "count": 227,
+    "submodels": [
+      "ULTIMATE 2.0PT/AWD",
+      "ULTIMATE PHEV/HD CSH"
+    ]
+  },
+  {
+    "model": "TIGGO 7",
+    "count": 173,
+    "submodels": [
+      "ULTIMATE PHEV/7AT",
+      "URBAN 1.5PT/6AT",
+      "URBAN PHEV/4AT"
+    ]
+  },
+  {
+    "model": "J1",
+    "count": 85,
+    "submodels": [
+      "1.3 MANUAL",
+      "1.3P 5D 5SP"
+    ]
+  },
+  {
+    "model": "TIGGO 9",
+    "count": 73,
+    "submodels": [
+      "ULT PHEV/AWD/7HD CSH"
+    ]
+  },
+  {
+    "model": "OMODA",
+    "count": 2,
+    "submodels": [
+      "C5 230T"
+    ]
+  }
+]

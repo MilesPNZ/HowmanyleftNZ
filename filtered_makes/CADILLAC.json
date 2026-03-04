@@ -1,0 +1,509 @@
+[
+  {
+    "model": "DE VILLE",
+    "count": 256,
+    "submodels": [
+      "1959",
+      "1964",
+      "1967",
+      "1968",
+      "2 DOOR COUPE",
+      "2 DR",
+      "2DR COUPE",
+      "62 COUPE",
+      "8",
+      "Base",
+      "CLASSIC COUPE",
+      "CONCOURS",
+      "CONCOURSE",
+      "CONCOUSE",
+      "CONVERTABLE",
+      "CONVERTIBLE",
+      "COUP",
+      "COUPE",
+      "COUPE D'ELEGANCE",
+      "DE ELEGANCE",
+      "DEVILLE",
+      "FLEETWOOD",
+      "HEARSE",
+      "LE CABRIOLET",
+      "LIMOUSINE",
+      "MILLER METEOR",
+      "PARK AVENUE",
+      "SD6",
+      "SEDAN",
+      "SEDAN DEVILLE",
+      "SERIE 62",
+      "SERIES 62",
+      "TWO DOOR CONVERTABLE"
+    ]
+  },
+  {
+    "model": "CTS",
+    "count": 226,
+    "submodels": [
+      "-V-",
+      "2.8",
+      "3.6",
+      "3.6 DIRECT INJECTION",
+      "Base",
+      "CTS",
+      "GMC",
+      "HIP",
+      "SEDAN 4 DR 3.6 A",
+      "SPORT LUXUARY A",
+      "V",
+      "V-SPORT",
+      "WAGON"
+    ]
+  },
+  {
+    "model": "COUPE",
+    "count": 174,
+    "submodels": [
+      "DE VILLE",
+      "DE-VILLE",
+      "1951",
+      "1956",
+      "62",
+      "6237",
+      "640C",
+      "Base",
+      "CLUB",
+      "CLUB COUPE",
+      "COUPE DEVILLE",
+      "DE VILLE CD",
+      "DEVILL",
+      "DEVILLE",
+      "DEVILLIE",
+      "MODEL 51",
+      "SERIES 61",
+      "SERIES 62",
+      "SPORTS",
+      "TUDOR"
+    ]
+  },
+  {
+    "model": "FLEETWOOD",
+    "count": 150,
+    "submodels": [
+      "1980",
+      "341",
+      "4 DR",
+      "452 V16",
+      "5.0 LITER",
+      "60 SERIES",
+      "60 SPECIAL",
+      "684 INJECTED",
+      "75",
+      "75 SEDAN",
+      "ALDERSON",
+      "Base",
+      "BROUGHAM",
+      "BROUGHAM D ELEGANCE",
+      "BROUGHAN",
+      "BROUGHHAM",
+      "CONCOURS",
+      "CONNOISSEUR",
+      "CUSTOM LOWRIDER",
+      "D'ELEGANCE",
+      "DIESEL",
+      "ELDORADO",
+      "FWD",
+      "HEARSE",
+      "LIMO",
+      "LIMOSINE",
+      "LIMOUSINE",
+      "SERIES 60",
+      "SIXTY SPEC",
+      "SIXTY SPECIAL",
+      "TALISMAN"
+    ]
+  },
+  {
+    "model": "ELDORADO",
+    "count": 106,
+    "submodels": [
+      "32 V NORTHSTAR",
+      "32V NORTHSTAR",
+      "62",
+      "8.2 LITRE",
+      "Base",
+      "BIARITZ",
+      "BIARRITY",
+      "BIARRITZ",
+      "BLARRITY",
+      "BROUGHAM",
+      "CONVERTABLE",
+      "CONVERTIBLE",
+      "CONVERTIBLE 8.2LITRE",
+      "ESC",
+      "SEVILLE"
+    ]
+  },
+  {
+    "model": "SEVILLE",
+    "count": 84,
+    "submodels": [
+      "Base",
+      "BROUGHAM",
+      "BROUGHAM FLEETWOOD",
+      "ELEGRAND",
+      "GTS",
+      "SLS",
+      "SLS 32V",
+      "STS"
+    ]
+  },
+  {
+    "model": "BROUGHAM",
+    "count": 37,
+    "submodels": [
+      "1992",
+      "Base",
+      "D ELEGANCE",
+      "D'ELEGANCE",
+      "DE ELEGANCE",
+      "DELEGANCE",
+      "DEVILLE",
+      "ELEGANCE",
+      "FLEETWOOD",
+      "FLEETWOOD D'ELEGANCE",
+      "FLEETWOOD LIMO",
+      "HEARSE",
+      "LIMOUSINE"
+    ]
+  },
+  {
+    "model": "SERIES 62",
+    "count": 36,
+    "submodels": [
+      "Base",
+      "CONVERTIBLE",
+      "COUPE",
+      "COUPE DEVILLE",
+      "ELDORADO",
+      "SEDAN",
+      "SEDANETT",
+      "SEDANETTE"
+    ]
+  },
+  {
+    "model": "SEDAN DE VILLE",
+    "count": 28,
+    "submodels": [
+      "63",
+      "Base"
+    ]
+  },
+  {
+    "model": "ESCALADE",
+    "count": 21,
+    "submodels": [
+      "AWD",
+      "Base",
+      "CADE",
+      "ESV",
+      "EXT"
+    ]
+  },
+  {
+    "model": "CONVERTIBLE",
+    "count": 15,
+    "submodels": [
+      "1963",
+      "Base",
+      "DEVILLE",
+      "EL DORADO",
+      "MODEL 62",
+      "SERIES 62"
+    ]
+  },
+  {
+    "model": "LYRIQ",
+    "count": 14,
+    "submodels": [
+      "LUXURY 102KWH/EV/AWD",
+      "SPORT 102KWH/EV/AWD"
+    ]
+  },
+  {
+    "model": "CALAIS",
+    "count": 10,
+    "submodels": [
+      "Base",
+      "DEVILLE",
+      "HALLADAY CHEYENNE"
+    ]
+  },
+  {
+    "model": "SRX",
+    "count": 10,
+    "submodels": [
+      "4",
+      "Base",
+      "SPORT"
+    ]
+  },
+  {
+    "model": "K",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "LIMOUSINE",
+      "VICTORIA RUNABOUT"
+    ]
+  },
+  {
+    "model": "HEARSE",
+    "count": 5,
+    "submodels": [
+      "1960",
+      "Base",
+      "KINGSLEY",
+      "ULTIMATE"
+    ]
+  },
+  {
+    "model": "PHAETON",
+    "count": 5,
+    "submodels": [
+      "353",
+      "Base",
+      "LASALLE ROADSTER",
+      "TYPE 51",
+      "V12"
+    ]
+  },
+  {
+    "model": "STS",
+    "count": 5,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TOURER",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "MODEL 30",
+      "TYPE 55",
+      "VICTORIA"
+    ]
+  },
+  {
+    "model": "62 SERIES",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "CONVERTIBLE",
+      "DEVILLE"
+    ]
+  },
+  {
+    "model": "ALLANTE",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "PININFARINA"
+    ]
+  },
+  {
+    "model": "SERIES 60",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "CONVERTABLE",
+      "FLEETWOOD"
+    ]
+  },
+  {
+    "model": "57",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "TOURING"
+    ]
+  },
+  {
+    "model": "COUPE 62",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "DE VILLE"
+    ]
+  },
+  {
+    "model": "DEVILLE",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LIMOUSINE",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "XLR",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "NEIMAN MARCUS"
+    ]
+  },
+  {
+    "model": "XTS",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "PRO"
+    ]
+  },
+  {
+    "model": "1960",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CONCOURS",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DTS",
+    "count": 2,
+    "submodels": [
+      "HEARSE"
+    ]
+  },
+  {
+    "model": "LA SALLE",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "LASALLE",
+    "count": 2,
+    "submodels": [
+      "COUPE",
+      "SERIES 50"
+    ]
+  },
+  {
+    "model": "1956",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "341B",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BLS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CDV",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CHEV LIMO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "COUPE DE VIL",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "COUPE DE VILLE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FLEETWOOD SANSONE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "M",
+    "count": 1,
+    "submodels": [
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "MISC",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MODEL B",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SERIES 61",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TOWN LANDAULET",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TYPE 61",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "V63",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "model": "EVOQUE",
+    "count": 62,
+    "submodels": [
+      "2.0",
+      "2.0 AT ABS 4WD HID",
+      "2.0 AT ABS 4WD HIDSR",
+      "2.0 SI4",
+      "Base",
+      "LAND ROVER",
+      "LANDROVER",
+      "SD4",
+      "SE TD4 AUTO",
+      "SETECH TD4A",
+      "SI4",
+      "TD 4 150",
+      "TD4",
+      "TSS SR"
+    ]
+  },
+  {
+    "model": "LAND ROVER",
+    "count": 10,
+    "submodels": [
+      "EVOQUE",
+      "Base",
+      "EVOQUE 2.0",
+      "SPORT",
+      "SPORT HSE SDV6 A",
+      "VOGUE SE"
+    ]
+  },
+  {
+    "model": "VOGUE",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "EFI",
+      "SE TDV8",
+      "SUPERCHARGE"
+    ]
+  },
+  {
+    "model": "HSE",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SPORT"
+    ]
+  },
+  {
+    "model": "MISC",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

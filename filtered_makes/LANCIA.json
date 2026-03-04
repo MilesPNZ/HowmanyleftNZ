@@ -1,0 +1,176 @@
+[
+  {
+    "model": "DELTA",
+    "count": 53,
+    "submodels": [
+      "Base",
+      "HF",
+      "HF 4WD",
+      "HF INTEGRA",
+      "HF INTEGRALE",
+      "HF INTEGRALE 16V",
+      "HF INTEGRALE EVO2",
+      "HF INTEGRALE EVOLL",
+      "HF INTEGRATE",
+      "HF INTERGRALE",
+      "HF INTGRALE 16V",
+      "HF TURBO",
+      "HYENA",
+      "INTAGRALA 4WD TURBO",
+      "INTEGRALE",
+      "INTEGRALE 16V",
+      "INTEGRALE 4WD",
+      "INTEGRALE EVO1",
+      "INTERGRALE",
+      "INTERGRALE V16",
+      "S4"
+    ]
+  },
+  {
+    "model": "FULVIA",
+    "count": 30,
+    "submodels": [
+      "1.3",
+      "1.3S",
+      "APPIA GTE ZAGATO",
+      "Base",
+      "COUPE",
+      "COUPE 1.3",
+      "COUPE 818 130",
+      "COUPE RALLIE",
+      "COUPE RALLYE 1.3 S",
+      "COUPE' RALLYE 1.3",
+      "HF",
+      "MONTE CARLO",
+      "RALLEYS",
+      "RALLYE",
+      "RALLYE 1.3 S",
+      "RALLYE 1.35",
+      "RALLYE 1.3S",
+      "SPORT 13S",
+      "SPORT 1600 ZAGATO",
+      "SPORTS",
+      "ZAGATO"
+    ]
+  },
+  {
+    "model": "BETA",
+    "count": 8,
+    "submodels": [
+      "1800",
+      "Base",
+      "HPE",
+      "SCORPION TURBO",
+      "SPYDER",
+      "SPYDER 2000",
+      "VX"
+    ]
+  },
+  {
+    "model": "COUPE",
+    "count": 8,
+    "submodels": [
+      "037",
+      "Base",
+      "FLAMINIA",
+      "FLAMINIA 3C ZAGATO",
+      "FLAMINIA GT",
+      "VOLUMEX",
+      "VX",
+      "Y10"
+    ]
+  },
+  {
+    "model": "FLAVIA",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "PININFARINA COUPE",
+      "ZAGATO"
+    ]
+  },
+  {
+    "model": "THEMA",
+    "count": 6,
+    "submodels": [
+      "16V",
+      "16VA",
+      "Base",
+      "TURBO",
+      "TURBO 16V LS"
+    ]
+  },
+  {
+    "model": "MONTECARLO",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "F"
+    ]
+  },
+  {
+    "model": "HPE",
+    "count": 4,
+    "submodels": [
+      "2000IE",
+      "Base",
+      "VX"
+    ]
+  },
+  {
+    "model": "AURELIA",
+    "count": 2,
+    "submodels": [
+      "B20 GT"
+    ]
+  },
+  {
+    "model": "DELTA TURBO",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GAMMA",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "APRILIA",
+    "count": 1,
+    "submodels": [
+      "SERIES 1"
+    ]
+  },
+  {
+    "model": "HDE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MONTE CARLO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "STRATOS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "THESIS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "model": "VANGUARD",
+    "count": 16,
+    "submodels": [
+      "6",
+      "6 MK111",
+      "Base",
+      "SERIES 3",
+      "SERIES II",
+      "VIGNALE MKIII"
+    ]
+  },
+  {
+    "model": "TEN",
+    "count": 11,
+    "submodels": [
+      "Base",
+      "SUPER"
+    ]
+  },
+  {
+    "model": "EIGHT",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "12",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "14",
+    "count": 1,
+    "submodels": [
+      "DROPHEAD COUPE"
+    ]
+  },
+  {
+    "model": "CAR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "EXMOUTH",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FLYING 10",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FLYING 8",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "V4",
+    "count": 1,
+    "submodels": [
+      "COUPE"
+    ]
+  },
+  {
+    "model": "WARWICK",
+    "count": 1,
+    "submodels": [
+      "SLO4"
+    ]
+  }
+]

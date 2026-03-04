@@ -1,0 +1,30 @@
+[
+  {
+    "model": "12HP",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DC 12/32",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "L",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SS13",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

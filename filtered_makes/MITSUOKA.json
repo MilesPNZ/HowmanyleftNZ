@@ -1,0 +1,23 @@
+[
+  {
+    "model": "GALUE",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VIEWT",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "RYOGA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

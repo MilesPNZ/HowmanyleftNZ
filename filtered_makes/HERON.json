@@ -1,0 +1,10 @@
+[
+  {
+    "model": "MJ1",
+    "count": 2,
+    "submodels": [
+      "GT",
+      "SPORT"
+    ]
+  }
+]

@@ -1,0 +1,757 @@
+[
+  {
+    "model": "KOLEOS",
+    "count": 712,
+    "submodels": [
+      "2.0 4X2 CVT 2.5P/CVT",
+      "2.0 4X4 2.0D/4WD/6AT",
+      "2.0DCI 4DR 4WD SUV",
+      "2.5 4X2 2.5P/CVT",
+      "2.5 4X4",
+      "2.5 4X4 CVT 2.5P/4WD",
+      "2.5 CVT",
+      "2.5L",
+      "2.5P 4DR 2WD SUV",
+      "4WD",
+      "Base",
+      "ZEN 2.5P/CVT"
+    ]
+  },
+  {
+    "model": "MEGANE",
+    "count": 614,
+    "submodels": [
+      "1.6 16V 2D 4AP CABRI",
+      "1.6 RXT 5D M 4A P",
+      "1.6 RXT 5DR 4SP A P",
+      "1.616V",
+      "1.6C 2DR 4SP A P",
+      "2.0 CVT",
+      "2.0 DY 5DR 6SP A P",
+      "2.0T",
+      "2.0T RS 5DR 6SP M P",
+      "265 SPORT",
+      "275 TROPHY SPORT",
+      "AUTHENTIQUE",
+      "Base",
+      "CABRIO",
+      "CABRIOLET",
+      "CLASSIC",
+      "CLASSIC 1.6 AUTO",
+      "CLASSIC 1.6E",
+      "CLASSIC 1.6RXT 4DR",
+      "COUPE-CABRIOLET 2.0",
+      "DCI",
+      "DYNAMIQUE",
+      "DYNAMIQUE WAGON 2.0P",
+      "ESTATE GT LINE",
+      "EXPRESSION",
+      "GT",
+      "GT HATCH 1.6P/7AM",
+      "GT LINE",
+      "GT LINE HATCH 1.2P/6",
+      "GT LINE HATCH 2.0P/C",
+      "GT LINE SPORTSWAGON",
+      "GT-LINE",
+      "GT220 SPORTSWAGON 2.",
+      "GT220SPORTSWAGON 2.0",
+      "HATCH",
+      "HATCH 2.0 CVT",
+      "HATCH 2.0 MANUAL",
+      "III GT-LINE 1.5 DCI",
+      "III RS 265 RB8",
+      "R-SPORT",
+      "R-SPORT 230 F1 R26",
+      "R.S",
+      "R.S SPORT",
+      "R.S. 280",
+      "RENSPORT R26.R",
+      "RS",
+      "RS  SPORTS",
+      "RS 2.0 TROPHY",
+      "RS 265",
+      "RS 265 CUP",
+      "RS 280",
+      "RS SPORT",
+      "RS TROPHY",
+      "RS TROPHY 275",
+      "RS TROPHY-R MANUAL 1",
+      "RS250",
+      "RS250 2.0T",
+      "RS250 CUP",
+      "RS265",
+      "RS265 2.0P/6MT/HA/3D",
+      "RS265 COUPE",
+      "RS265 CUP",
+      "RS265 TROPHY 2.0P/6M",
+      "RS275 2.0P/6MT/HA/3D",
+      "RS275R 2.0P/6MT/HA/3",
+      "RS280 SPORT EDC 1.8P",
+      "RS280 SPORT MANUAL 1",
+      "RS300 TROPHY",
+      "RS300 TROPHY EDC 1.8",
+      "RS300 TROPHY MANUAL",
+      "RS300 TROPHY ULTIME",
+      "RS80 SPORT EDC 1.8P",
+      "RS80 SPORT MANUAL 1",
+      "RS80 SPORT MANUAL 1.",
+      "RXE",
+      "RXE CLASSIC",
+      "SCENIC",
+      "SPORT",
+      "SPORT 275 TROPHY MAN",
+      "SPORT GT",
+      "SPORT RS"
+    ]
+  },
+  {
+    "model": "CLIO",
+    "count": 586,
+    "submodels": [
+      "1.4 16V",
+      "1.4 5DR 4SP A P",
+      "1.4 5DR 5SP M P",
+      "1.4 5DR A P",
+      "1.4 5DR M P",
+      "1.4 RTE 5DR 5SP M P",
+      "1.4 RXT 5DR 4SP A P",
+      "1.6 3DR 4SP A P",
+      "1.6 5DR 4SP A P",
+      "1.6 PR 5DR 4SP A P",
+      "2.0 3DR 6SP M P",
+      "2.0 RS 3DR 5SP M P",
+      "2.016VSPORT",
+      "3 2.0 3DR 6SP M P",
+      "3.0 V6 255 3DR 6SP M",
+      "3.0 V6 3DR M P",
+      "AUTHENTIQUE 0.9P/6MT",
+      "Base",
+      "DYN",
+      "DYNAMIQUE DCI 65",
+      "EX 1.4 5DR 4SP A P",
+      "EXPRESSION 1.2P/6AT",
+      "GT",
+      "II",
+      "IIX65",
+      "LIFE",
+      "LUTECIA",
+      "R.S.200 SPORTS",
+      "RENAULTSPORT CUP",
+      "RENAULTSPORT V6 255",
+      "RS",
+      "RS 1.6P/6AM/HA/5DR/5",
+      "RS 2.0 3DR 5SP M P",
+      "RS 2.0 MAN SPORT",
+      "RS 200 SPORT",
+      "RS 2000",
+      "RS 220 1.6P/6AM/HA/5",
+      "RS CUP 1.6P/6AM/HA/5",
+      "RS MONACO",
+      "RS MONACO 1.6P/6AM/H",
+      "RS SPORT",
+      "RS SPORT 1.6T",
+      "RS TROPHY 1.6P/6AM/H",
+      "SPORT",
+      "SPORT 197",
+      "SPORT 200",
+      "SPORT RS 2.0 3DR M P",
+      "SPORT V6",
+      "SPORT V6 255",
+      "TCE 0.9L 5SP MAN",
+      "V6"
+    ]
+  },
+  {
+    "model": "CAPTUR",
+    "count": 536,
+    "submodels": [
+      "1.3 EDC 1.3PT",
+      "1.3 INTENS 1.3PT",
+      "1.3 ZEN 1.3PT",
+      "Base",
+      "DYNAMIQUE 1.2P/6AM",
+      "DYNAMIQUE 1.2P/6AM/H",
+      "TCE"
+    ]
+  },
+  {
+    "model": "ZOE",
+    "count": 170,
+    "submodels": [
+      "Base",
+      "DYNAMIC",
+      "DYNAMIQUE",
+      "DYNAMIQUE INTENS",
+      "I DYNAMIQUE AUTO",
+      "I DYNAMIQUE NAV ZE40",
+      "INTENS 50 52KWH/EV",
+      "INTENS 68KW/EV/AT",
+      "LIFE EV/6AT/HA/5DR/5",
+      "ZE I",
+      "ZE RAPID CHARGE",
+      "ZE40",
+      "ZEN 50 52KWH/EV/AT",
+      "ZEN EV/6AT/HA/5DR/5S"
+    ]
+  },
+  {
+    "model": "ARKANA",
+    "count": 148,
+    "submodels": [
+      "INTENS 1.3PT/7AM",
+      "R.S. LINE 1.3PT",
+      "R.S. LINE HYBRID 1.6",
+      "ZEN 1.3PT/7AM"
+    ]
+  },
+  {
+    "model": "LUTECIA",
+    "count": 132,
+    "submodels": [
+      "Base",
+      "RS",
+      "RS CLIO",
+      "RS CUP SPORT",
+      "SPORT V6"
+    ]
+  },
+  {
+    "model": "DUSTER",
+    "count": 130,
+    "submodels": [
+      "SCE 115 1.6P/CVT"
+    ]
+  },
+  {
+    "model": "MEGANE II",
+    "count": 111,
+    "submodels": [
+      "1.6 5DR 4SP A",
+      "1.6 5DR AUTO",
+      "1.6 AU 5DR 5 SP M P",
+      "1.6 AU 5DR 5SP M P",
+      "1.9 TDI 4DR 4SP AUTO",
+      "2.0 3DR 6SP M P",
+      "2.0 5DR 4SP A P",
+      "2.0 6SP M P",
+      "2.0 DY 3DR 6SP M P",
+      "2.0 DY 4DR 4SP A P",
+      "2.0 DY 5DR 4SP A P",
+      "2.0 PR 2DR 4SP A P",
+      "2.0 PR 4DR ASP A P",
+      "2.0 RS TURBO 3DR 6SP",
+      "2.0T RS 5DR 6SP M P",
+      "Base",
+      "F1 TEAM R26 2.0 3DR"
+    ]
+  },
+  {
+    "model": "SCENIC",
+    "count": 107,
+    "submodels": [
+      "1.6 16V",
+      "1.6 5DR A P",
+      "1.6 A",
+      "1.6 RXE 5DR 5SP M P",
+      "16",
+      "1600CC",
+      "2.0 16V AUTO",
+      "2.0 5DR A P",
+      "2.0 MAN",
+      "2.0L",
+      "Base",
+      "DYNAMIQUE",
+      "GRAND III",
+      "I-MUSIC VVT JZ",
+      "III 1.5 DCI AUTO ABS",
+      "MEGANE",
+      "RX4 4WD 2.0 5DR M",
+      "RX4 MEGANE DCI 1.9",
+      "RXE",
+      "RXT 2.0 5DR 5S M P"
+    ]
+  },
+  {
+    "model": "KANGOO",
+    "count": 80,
+    "submodels": [
+      "1.4",
+      "1.4 RN CAR 5SP M P",
+      "1.6 3DR 4SP A P",
+      "1.6 P A 1.6P/4AT/LV",
+      "16V",
+      "4X4",
+      "AUTHENTIQUE",
+      "AUTHENTIQUE A",
+      "Base",
+      "EXPRESSION",
+      "EXPRESSION AUTO",
+      "EXTREME",
+      "EXTREME 16V AUTO",
+      "GOWRINGS",
+      "GOWRINGS MOBILITY",
+      "ZE MAXI 44KW/EV/AT"
+    ]
+  },
+  {
+    "model": "LAGUNA",
+    "count": 61,
+    "submodels": [
+      "2.0 DCI 5DR 6SP AUTO",
+      "2.0 DY 5DR 4SP A P",
+      "2.2 DCI 5DR A",
+      "3.0 V6SE 5DR 5SP A P",
+      "Base",
+      "DYQUE",
+      "HATCH 2.0",
+      "SPORT TOURER 2.0",
+      "V6",
+      "V6 HATCH",
+      "V6 WAGON",
+      "VARIOUS"
+    ]
+  },
+  {
+    "model": "SCENIC II",
+    "count": 52,
+    "submodels": [
+      "1.9 DCI 5DR 4SP AUTO",
+      "2.0 5DR 4SP A P",
+      "2.0 DY 5DR 4SP A P"
+    ]
+  },
+  {
+    "model": "MEGANE CC",
+    "count": 30,
+    "submodels": [
+      "2.0 PR 2DR 4SP A P"
+    ]
+  },
+  {
+    "model": "KADJAR",
+    "count": 22,
+    "submodels": [
+      "1.3 EDC 1.3PT",
+      "Base"
+    ]
+  },
+  {
+    "model": "ALPINE",
+    "count": 19,
+    "submodels": [
+      "A110",
+      "Base",
+      "GT V6",
+      "GT V6 TURBO",
+      "GTA",
+      "GTA V6 TURBO",
+      "PREMIERE",
+      "SPORT SPIDER",
+      "V6"
+    ]
+  },
+  {
+    "model": "ESPACE",
+    "count": 18,
+    "submodels": [
+      "2.0",
+      "2.0T EX 5DR 5SP A P",
+      "2.2 DCI",
+      "3.5 PR 5DR 5SP A P",
+      "Base",
+      "QUADRA"
+    ]
+  },
+  {
+    "model": "MASTER",
+    "count": 16,
+    "submodels": [
+      "Base",
+      "DCI",
+      "DCI100",
+      "L2H2 2.3D/6AM",
+      "L3H2 2.3D/6AM",
+      "LM35 BUSINESS",
+      "MINIBUS 2.3DT",
+      "SL 28 DCI 100",
+      "SL 28 DCI 100 S-A"
+    ]
+  },
+  {
+    "model": "5",
+    "count": 11,
+    "submodels": [
+      "Base",
+      "CAMPUS",
+      "GLT",
+      "GT TURBO",
+      "GTL",
+      "MONACO",
+      "TS"
+    ]
+  },
+  {
+    "model": "FLUENCE",
+    "count": 9,
+    "submodels": [
+      "1.5 DCI 110 A/T SR",
+      "1.5L DCI 110 AT",
+      "2.0 CVT"
+    ]
+  },
+  {
+    "model": "TRAFIC",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "LL29 SPORT",
+      "LWB AUTO 2.0DT",
+      "SPORT DCI"
+    ]
+  },
+  {
+    "model": "GRAND SCENIC II",
+    "count": 6,
+    "submodels": [
+      "2.0 5DR 4SP A P",
+      "Base"
+    ]
+  },
+  {
+    "model": "LAGUNA 3 EXP",
+    "count": 6,
+    "submodels": [
+      "2.0 DCI 5DR 6SP AUTO",
+      "2.0 TURBO 5DR 6SP"
+    ]
+  },
+  {
+    "model": "19",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "CAB 16V",
+      "CABRIOLET",
+      "CABRIOLET 16V"
+    ]
+  },
+  {
+    "model": "DAUPHINE",
+    "count": 5,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "R",
+    "count": 5,
+    "submodels": [
+      "1100",
+      "8",
+      "Base",
+      "GORDINI"
+    ]
+  },
+  {
+    "model": "TWINGO",
+    "count": 5,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "12",
+    "count": 4,
+    "submodels": [
+      ". 5 HP MONASIX",
+      "Base",
+      "CQ TOURER",
+      "HP CELTAQUATRE"
+    ]
+  },
+  {
+    "model": "AVANTIME",
+    "count": 4,
+    "submodels": [
+      "3.0 PRIVELEGE",
+      "Base"
+    ]
+  },
+  {
+    "model": "AX",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "VOITURETTE"
+    ]
+  },
+  {
+    "model": "4CV",
+    "count": 3,
+    "submodels": [
+      "750",
+      "Base"
+    ]
+  },
+  {
+    "model": "CARAVELLE",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FLORIDE",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FUEGO",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "GTX"
+    ]
+  },
+  {
+    "model": "MASTER VAN",
+    "count": 3,
+    "submodels": [
+      "L1H1 2.3DT/6AM",
+      "L2H2 2.3D/6AM/LV/5DR",
+      "L3H2 2.3DT/6AM"
+    ]
+  },
+  {
+    "model": "MEGANE CABRIOLET",
+    "count": 3,
+    "submodels": [
+      "2.0 2DR M P"
+    ]
+  },
+  {
+    "model": "R5",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "GTS",
+      "TURBO 2"
+    ]
+  },
+  {
+    "model": "16",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "TS"
+    ]
+  },
+  {
+    "model": "21",
+    "count": 2,
+    "submodels": [
+      "TURBO"
+    ]
+  },
+  {
+    "model": "750",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LATITUDE",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MODUS",
+    "count": 2,
+    "submodels": [
+      "1.4 5DR 5SP M P",
+      "Base"
+    ]
+  },
+  {
+    "model": "RIMOR",
+    "count": 2,
+    "submodels": [
+      "KATAMARANO"
+    ]
+  },
+  {
+    "model": "SPIDER",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SPORT"
+    ]
+  },
+  {
+    "model": "VEL SATIS",
+    "count": 2,
+    "submodels": [
+      "2.0T EX 5DR 5SP A P",
+      "3.5 AUTO 5DR"
+    ]
+  },
+  {
+    "model": "12TL",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "17",
+    "count": 1,
+    "submodels": [
+      "TL"
+    ]
+  },
+  {
+    "model": "18",
+    "count": 1,
+    "submodels": [
+      "TURBO"
+    ]
+  },
+  {
+    "model": "20",
+    "count": 1,
+    "submodels": [
+      "TS"
+    ]
+  },
+  {
+    "model": "25",
+    "count": 1,
+    "submodels": [
+      "GTS"
+    ]
+  },
+  {
+    "model": "4GTL",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "5GTL",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ALLIANCE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ALPINE GTA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CLEO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "EK",
+    "count": 1,
+    "submodels": [
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "ESTATE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GORDINI",
+    "count": 1,
+    "submodels": [
+      "R8G"
+    ]
+  },
+  {
+    "model": "MEGANE E-TECH",
+    "count": 1,
+    "submodels": [
+      "EV60 60KWH/EV/FD"
+    ]
+  },
+  {
+    "model": "MT",
+    "count": 1,
+    "submodels": [
+      "6CV COUPE DOCTEUR"
+    ]
+  },
+  {
+    "model": "NN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "R10",
+    "count": 1,
+    "submodels": [
+      "1300"
+    ]
+  },
+  {
+    "model": "R17 TL AUTO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "R19",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "R25",
+    "count": 1,
+    "submodels": [
+      "GTX"
+    ]
+  },
+  {
+    "model": "SAFRANE",
+    "count": 1,
+    "submodels": [
+      "V6I"
+    ]
+  },
+  {
+    "model": "SPORTS",
+    "count": 1,
+    "submodels": [
+      "SPIDER"
+    ]
+  }
+]

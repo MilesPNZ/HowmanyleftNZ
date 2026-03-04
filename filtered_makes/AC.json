@@ -1,0 +1,34 @@
+[
+  {
+    "model": "COBRA",
+    "count": 6,
+    "submodels": [
+      "427SC",
+      "Base",
+      "REPLICA",
+      "SHELBY"
+    ]
+  },
+  {
+    "model": "BRISTOL",
+    "count": 2,
+    "submodels": [
+      "ACE",
+      "ACECA"
+    ]
+  },
+  {
+    "model": "246",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MKII",
+    "count": 1,
+    "submodels": [
+      "CLASSIC"
+    ]
+  }
+]

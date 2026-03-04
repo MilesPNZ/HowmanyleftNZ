@@ -1,0 +1,10 @@
+[
+  {
+    "model": "REPLICA",
+    "count": 2,
+    "submodels": [
+      "MODEL A",
+      "MODEL A FORD"
+    ]
+  }
+]

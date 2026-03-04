@@ -1,0 +1,79 @@
+[
+  {
+    "model": "ES",
+    "count": 166,
+    "submodels": [
+      "300",
+      "300.TMC",
+      "300F"
+    ]
+  },
+  {
+    "model": "LS",
+    "count": 137,
+    "submodels": [
+      "400",
+      "400A",
+      "430",
+      "430 V8",
+      "460 L",
+      "460L A/T S/R",
+      "600",
+      "600 HL CVT",
+      "600HL",
+      "Base"
+    ]
+  },
+  {
+    "model": "GS",
+    "count": 88,
+    "submodels": [
+      "300"
+    ]
+  },
+  {
+    "model": "IS",
+    "count": 71,
+    "submodels": [
+      "200",
+      "250",
+      "Base"
+    ]
+  },
+  {
+    "model": "SC",
+    "count": 23,
+    "submodels": [
+      "430"
+    ]
+  },
+  {
+    "model": "RX",
+    "count": 22,
+    "submodels": [
+      "300",
+      "450H"
+    ]
+  },
+  {
+    "model": "GS300",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SC430",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "IS200",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

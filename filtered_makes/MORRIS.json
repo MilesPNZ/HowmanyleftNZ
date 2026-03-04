@@ -1,0 +1,459 @@
+[
+  {
+    "model": "MINOR",
+    "count": 416,
+    "submodels": [
+      "1000",
+      "1000  TRAVELLER",
+      "1000 4 DOOR",
+      "1000 CONVERTIBLE",
+      "1000 COUNTRYMAN",
+      "1000 TRAVELER",
+      "1000 TRAVELLER",
+      "1000000",
+      "2 DOOR",
+      "4 DOOR",
+      "8",
+      "8 HP",
+      "850",
+      "Base",
+      "BULLET",
+      "CONVERTABLE",
+      "CONVERTIABLE",
+      "CONVERTIBLE",
+      "CV",
+      "EIGHT",
+      "LOWLIGHT",
+      "MM",
+      "MM TOURER",
+      "MMS8 MINOR SALOON",
+      "MNR",
+      "SALOON",
+      "SER 1",
+      "SERIES 11",
+      "SERIES 2",
+      "SERIES 2 CONVERTIBLE",
+      "SERIES II",
+      "SERIES MM",
+      "SMM",
+      "SOFT TOP",
+      "TOURER",
+      "TRAVELLER",
+      "VAN"
+    ]
+  },
+  {
+    "model": "MINI",
+    "count": 336,
+    "submodels": [
+      "1000",
+      "1000 LE",
+      "1000LE",
+      "1275 GT",
+      "1275GT",
+      "850",
+      "850 MK1",
+      "850 MKII",
+      "ANNIVERSARY",
+      "Base",
+      "CITY",
+      "CLUBMAN",
+      "CLUBMAN 1275GT",
+      "CLUBMAN ESTATE",
+      "CLUBMAN GT",
+      "CLUBMAN LE",
+      "CONVERTABLE",
+      "COOPER",
+      "COOPER 'S'",
+      "COOPER 'S' MARK1",
+      "COOPER MARK II",
+      "COOPER S",
+      "COOPER S MKII",
+      "COOPER S REPLICA",
+      "COOPER-S",
+      "COUPE",
+      "DEJOUX",
+      "DELUXE",
+      "GT1275",
+      "HL",
+      "K",
+      "LE",
+      "LE 1000",
+      "MINOR",
+      "MK 2",
+      "MK1",
+      "MK11 850",
+      "MK2",
+      "MOKE",
+      "TRAVELER",
+      "TRAVELL",
+      "TRAVELLER",
+      "VAN"
+    ]
+  },
+  {
+    "model": "8",
+    "count": 171,
+    "submodels": [
+      "Base",
+      "CWT UTE 1100",
+      "E",
+      "E SERIES",
+      "EIGHT",
+      "M8",
+      "M81",
+      "MARK II",
+      "PRE SERIES",
+      "PRE-SERIES",
+      "ROADSTER",
+      "S1E",
+      "S2/E",
+      "SERIES",
+      "SERIES 'E'",
+      "SERIES 1",
+      "SERIES E",
+      "SERIES E TOURER",
+      "SERIES ONE",
+      "SPORT",
+      "SPORTS",
+      "SPORTS 8H.P SERIES 2",
+      "SPORTS SERIES 2",
+      "TOURER",
+      "TOURER SERIES1"
+    ]
+  },
+  {
+    "model": "1000",
+    "count": 59,
+    "submodels": [
+      "Base",
+      "CONVERTABLE",
+      "MINOR",
+      "TRAVELER",
+      "TRAVELLER"
+    ]
+  },
+  {
+    "model": "OXFORD",
+    "count": 37,
+    "submodels": [
+      "Base",
+      "ESTATE",
+      "MO",
+      "SERIES 2",
+      "SPORT",
+      "TOURER",
+      "TRAVELER"
+    ]
+  },
+  {
+    "model": "SERIES E",
+    "count": 19,
+    "submodels": [
+      "Base",
+      "EIGHT",
+      "SERIES 2/E"
+    ]
+  },
+  {
+    "model": "1100",
+    "count": 16,
+    "submodels": [
+      "Base",
+      "CLUBMAN",
+      "MARK II",
+      "TRAVELLER"
+    ]
+  },
+  {
+    "model": "10",
+    "count": 13,
+    "submodels": [
+      "/4",
+      "34-T",
+      "4",
+      "Base",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "12/4",
+    "count": 12,
+    "submodels": [
+      "12",
+      "Base",
+      "SERIES 2",
+      "SERIES 2."
+    ]
+  },
+  {
+    "model": "COWLEY",
+    "count": 12,
+    "submodels": [
+      "11.9 HP",
+      "Base",
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "MARINA",
+    "count": 12,
+    "submodels": [
+      "1.3",
+      "1.8 ESTATE",
+      "1300",
+      "1500",
+      "Base"
+    ]
+  },
+  {
+    "model": "1300",
+    "count": 11,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "10/4",
+    "count": 6,
+    "submodels": [
+      "'M'",
+      "Base"
+    ]
+  },
+  {
+    "model": "COOPER",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "MARK II",
+      "S"
+    ]
+  },
+  {
+    "model": "ISIS",
+    "count": 6,
+    "submodels": [
+      "4DOOR",
+      "Base",
+      "SERIES 1"
+    ]
+  },
+  {
+    "model": "1800",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "MK II",
+      "MK2",
+      "MKII"
+    ]
+  },
+  {
+    "model": "MINOR 1000",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "14/6",
+    "count": 3,
+    "submodels": [
+      "A14",
+      "Base",
+      "SERIES3"
+    ]
+  },
+  {
+    "model": "MG",
+    "count": 3,
+    "submodels": [
+      "B GT",
+      "BGT",
+      "SPORTS TOURE"
+    ]
+  },
+  {
+    "model": "MINI 1000",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "15/6",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "8CWT",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MAJOR",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MGBGT",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "12/4 SERIES III",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "18/6",
+    "count": 1,
+    "submodels": [
+      "SERIES 2E"
+    ]
+  },
+  {
+    "model": "1976",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "575",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "6",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "6 CWT",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "6CWT",
+    "count": 1,
+    "submodels": [
+      "PICK-UP"
+    ]
+  },
+  {
+    "model": "8 SERIES E",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "8HP",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "997 COOPER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CLUBMAN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CLUBMAN LE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "COOPER S",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FGK30",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "KIMBERLEY",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MG BGT",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MINI COOPER",
+    "count": 1,
+    "submodels": [
+      "S MARK 1"
+    ]
+  },
+  {
+    "model": "MINI L E",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MINOR VAN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MOKE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "PRE SERIES",
+    "count": 1,
+    "submodels": [
+      "EIGHT"
+    ]
+  }
+]

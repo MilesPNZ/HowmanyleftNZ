@@ -1,0 +1,121 @@
+[
+  {
+    "model": "PLUS 4",
+    "count": 41,
+    "submodels": [
+      "2000",
+      "Base",
+      "BESPOKE",
+      "SUPERSPORT"
+    ]
+  },
+  {
+    "model": "4/4",
+    "count": 40,
+    "submodels": [
+      "1600",
+      "Base",
+      "ROADSTER",
+      "ROADSTER SPORT",
+      "SPORTS",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "PLUS 8",
+    "count": 36,
+    "submodels": [
+      "35 ANNIVERSARY",
+      "35TH ANNIVERSARY",
+      "AERO",
+      "AERO SUPERSPORTS",
+      "Base",
+      "SA90"
+    ]
+  },
+  {
+    "model": "ROADSTER",
+    "count": 25,
+    "submodels": [
+      "3.7",
+      "3000",
+      "Base",
+      "BROOKLANDS",
+      "CONVERTIBLE",
+      "SPORT",
+      "T4",
+      "V6"
+    ]
+  },
+  {
+    "model": "AERO",
+    "count": 15,
+    "submodels": [
+      "8",
+      "8 SUPERSPORT",
+      "8 SUPERSPORTS",
+      "Base",
+      "MAX PLUS 4",
+      "SUPERSPORT"
+    ]
+  },
+  {
+    "model": "PLUS 6",
+    "count": 9,
+    "submodels": [
+      "Base",
+      "LP19",
+      "SUPERSPORT"
+    ]
+  },
+  {
+    "model": "PLUS FOUR",
+    "count": 8,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SUPERSPORT",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "BEETLEBACK"
+    ]
+  },
+  {
+    "model": "F4",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "3 WHEELER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "4/4 1600",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "414",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FAMILY",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

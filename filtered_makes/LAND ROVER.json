@@ -1,0 +1,558 @@
+[
+  {
+    "model": "RANGE ROVER",
+    "count": 2004,
+    "submodels": [
+      "2.5 DSE M",
+      "3.0 TDV6 TSS",
+      "4.4 TDV8",
+      "4.4P HSE 5A 5D 4WD S",
+      "4.4SDV8",
+      "4.6 HSE",
+      "4.6 HSE AUTO",
+      "5.0 V8 5DR SUV",
+      "5.0L AUTO V8 SC",
+      "A-BIOGRAPHY TDV6 A",
+      "AUTBIOGRAPHY SDV8",
+      "AUTOBIOGRAPHY",
+      "AUTOBIOGRAPHY MHEV D",
+      "AUTOBIOGRAPHY SDV6",
+      "AUTOBIOGRAPHY SDV8",
+      "AUTOBIOGRAPHY SPORT",
+      "Base",
+      "D180 S",
+      "DISCOVERY SPORT",
+      "EOVQUE",
+      "EVO-QUE",
+      "EVOGUE",
+      "EVOKE",
+      "EVOQUE",
+      "EVOQUE 2.0",
+      "EVOQUE 2.0  SI4",
+      "EVOQUE 2.0 AT",
+      "EVOQUE 2.0 AT ABS",
+      "EVOQUE 2.0 TSS",
+      "EVOQUE 2.0 TSS SR",
+      "EVOQUE 2.0A",
+      "EVOQUE AUTOBIOGRAPHY",
+      "EVOQUE D-LUX SD4",
+      "EVOQUE D180S",
+      "EVOQUE D180S AWD MA",
+      "EVOQUE DYNAMIC",
+      "EVOQUE HSE",
+      "EVOQUE HSE DYN TD4 A",
+      "EVOQUE HSE SI4",
+      "EVOQUE HSE TD4",
+      "EVOQUE PURE",
+      "EVOQUE PURE SD4 A",
+      "EVOQUE PURE T SD4A",
+      "EVOQUE R-DYN SE A",
+      "EVOQUE SD4",
+      "EVOQUE SD4 DYNAMIC 2",
+      "EVOQUE SD4 DYNAMIC C",
+      "EVOQUE SD4 PRESTIGE",
+      "EVOQUE SD4 PURE 2.2",
+      "EVOQUE SE TD4",
+      "EVOQUE SE TECH TD4",
+      "EVOQUE SE TECH TD4 A",
+      "EVOQUE SE TECH TDA A",
+      "EVOQUE SI4",
+      "EVOQUE SI4 DYNAMIC",
+      "EVOQUE SI4 DYNAMIC 2",
+      "EVOQUE SI4 DYNAMIC C",
+      "EVOQUE SI4 PRESTIGE",
+      "EVOQUE SI4 PURE 2.0",
+      "EVOQUE SI4 PURE COUP",
+      "EVOQUE TD4",
+      "EVOQUE TD4 180 HSE",
+      "EVOQUE TD4 DYNAMIC 2",
+      "EVOQUE TD4 DYNAMIC C",
+      "EVOQUE TD4 PRESTIGE",
+      "EVOQUE TD4 PURE 2.2",
+      "EVOQUE TSS",
+      "EVOQUE TSS 2.0",
+      "EVOQUETD4PURECOUP 2.",
+      "HSE DYNAM SDV6 A",
+      "HYBRID EVOQUE",
+      "LV",
+      "SDV8 AUTOBIOGRAPHY",
+      "SDV8 AUTOBIOGRAPHY L",
+      "SDV8 SV AB 4.4D/4WD",
+      "SDV8 VOGUE 4.4D/4WD",
+      "SDV8 VOGUE LWB 4.4D",
+      "SDV8 VOGUE SE 4.4D",
+      "SDV8 VOGUE SE LWB 4.",
+      "SE SPORTS",
+      "SP HSE TD V8 A",
+      "SP HSE TDV6",
+      "SP HSE TDV6 A",
+      "SP S TDV6 A",
+      "SPORT",
+      "SPORT 3.0",
+      "SPORT 3.0 SDV6",
+      "SPORT 3.0 TDV6",
+      "SPORT 3.0D",
+      "SPORT 3.0D TSS 7S SR",
+      "SPORT 3.0L",
+      "SPORT 3.0L 4WD",
+      "SPORT 3.6 TDV8",
+      "SPORT 5.0",
+      "SPORT 5.0 HSE",
+      "SPORT 5.0 V8",
+      "SPORT 5.0 V8 S/C",
+      "SPORT 5.0 V8 SC",
+      "SPORT A-BIO DYN SDV6",
+      "SPORT ABIO SDV6",
+      "SPORT AUTOBIO D MHEV",
+      "SPORT DYN SDV6",
+      "SPORT DYN SE D MHEV",
+      "SPORT ESTATE",
+      "SPORT HSE",
+      "SPORT HSE DYN P400E",
+      "SPORT HSE DYN SDV6",
+      "SPORT HSE DYN SDV6 A",
+      "SPORT HSE SDV",
+      "SPORT HSE SDV6",
+      "SPORT HSE SDV6 A",
+      "SPORT HSE SDV6 AUTO",
+      "SPORT HSE TDV6",
+      "SPORT HSEDYN SDV6A",
+      "SPORT HSESDV6",
+      "SPORT HSESDV6 A",
+      "SPORT HYBRID",
+      "SPORT SDV6",
+      "SPORT SE",
+      "SPORT SUPERCHARGED",
+      "SPORT SVR S/C AUTO",
+      "SPORT TDV6",
+      "SPORT TDV8",
+      "SPORTS",
+      "SPORTS HSE",
+      "SPORTS SE SDV6 AUTO",
+      "SROPT SVR",
+      "SVR",
+      "TDV6 HSE",
+      "TDV6 VOGUE",
+      "TDV6 VOUGE",
+      "V6 SC VOGUE 3.0P/4WD",
+      "V8 SUPERCHARGED AB",
+      "V8 SUPERCHARGED AB L",
+      "V8 SUPERCHARGED SVAB",
+      "V8 SUPERCHARGED VOGU",
+      "VELAR",
+      "VELAR D180",
+      "VELAR D180 S",
+      "VELAR D180S",
+      "VELAR D300 R-DYNAMIC",
+      "VELAR DYN HSE D300 A",
+      "VELAR HSE",
+      "VELAR HSE D300",
+      "VELAR P250 SE",
+      "VELAR PHEV P400E",
+      "VELAR R-DYNAMIC HSE",
+      "VELSAR S D240 AUTO",
+      "VOGUE",
+      "VOGUE 3.6 TDV8",
+      "VOGUE 4.4 TDV8",
+      "VOGUE 5.0 V8 S/C",
+      "VOGUE 5.0 V8 SC",
+      "VOGUE SDV8",
+      "VOGUE SDV8 4.4",
+      "VOGUE SE SDV8",
+      "VOGUE SE SDV8 AUTO",
+      "VOGUE SE TDV6 AUTO",
+      "VOGUE SUPERCHARGED",
+      "VOGUE TDV6",
+      "VOGUE TDV8 A",
+      "VOGUE TDV8A",
+      "VOUGE SE"
+    ]
+  },
+  {
+    "model": "RANGE ROVER SPORT",
+    "count": 1257,
+    "submodels": [
+      "Base",
+      "HST 3.0P/4WD/8AT/SW",
+      "SDV6 3.0D/4WD/8AT/SW",
+      "SDV6 AUTOBIOGRAPHY 3",
+      "SDV6 HSE 3.0D/4WD/8A",
+      "SDV6 HSE DYNAMIC 3.0",
+      "SDV6 SE 3.0D/4WD/8AT",
+      "SDV6AUTOBIOGRAPHY 3.",
+      "SDV6HSE 3.0D/4WD/8AT",
+      "SDV8 HSE 4.4D/4WD/8A",
+      "SDV8 HSE DYNAMIC 4.4",
+      "SDV8HSE 4.4D/4WD/8AT",
+      "SDV8HSEDYNAMIC 4.4D/",
+      "TDV6 SE 3.0D/4WD/8AT",
+      "TDV6SE 3.0D/4WD/8AT/",
+      "V6 SC HSE 3.0P/4WD/8",
+      "V6 SC HSE DYNAMIC 3.",
+      "V8",
+      "V8 SC AUTOBIOGRAPHY",
+      "V8 SC SVR 5.0P/4WD/8",
+      "V8 SUPERCHARGED",
+      "V8SCAUTOBIOGRAPHY 5.",
+      "V8SCHSEDYNAMIC 5.0P/",
+      "V8SCHSEDYNAMIC 5.0P4"
+    ]
+  },
+  {
+    "model": "DISCOVERY",
+    "count": 1239,
+    "submodels": [
+      "2.7D 5D 6A 4WD SUV",
+      "2L DIESEL",
+      "2L PETROL",
+      "3",
+      "3 TDV6",
+      "3.0 TDV6",
+      "3.9 5 DR AUTO",
+      "4",
+      "4 3.0 SDV6 HSE",
+      "4 3.0 TDV6 HSE",
+      "4 3.0 TDV6 SE",
+      "4 5.0 V8 HSE+",
+      "4 SDV6 HSE",
+      "4 SDV6 LANDMARK 3.0D",
+      "4 SE TECH",
+      "4 TDV6 SE 3.0D/4WD/8",
+      "4 V6 SC HSE 3.0P 3.0",
+      "4 V8",
+      "4 V8 HSE",
+      "5.0 V8 5DR SUV",
+      "Base",
+      "COUNTY",
+      "GRAPHITE SDV6",
+      "HSE",
+      "HSE SD6",
+      "HSE SDV6",
+      "HSE SDV6 AUTO",
+      "HSE SDV6 MA CLASS",
+      "HSE SDV6 MA CLASSAWD",
+      "HSE TD V6 AUTO",
+      "HSE TD6",
+      "LANDMARK SDV6",
+      "SERIES 2",
+      "SI4 SE 2.0PT/4WD/8AT",
+      "SI6 HSE 3.0PS/4WD",
+      "SI6 HSE LUXURY 3.0PS",
+      "SPORT",
+      "SPORT 2.0",
+      "SPORT 2.0 S14 SE",
+      "SPORT 2.0 S14 SE 7ST",
+      "SPORT 22 SD4 SD4 HSE",
+      "SPORT 4WD",
+      "SPORT HSE",
+      "SPORT HSE S14",
+      "SPORT HSE SI4",
+      "SPORT HSE TD4",
+      "SPORT HSE TD4 AUTO",
+      "SPORT LANDMARK TD4 A",
+      "SPORT LC",
+      "SPORT SE",
+      "SPORT SE HYBRID",
+      "SPORT SI4",
+      "SPORTS",
+      "TD5/5",
+      "TD6 FIRST EDITION 3.",
+      "TD6 HSE 3.0DT/4WD",
+      "TD6 HSE LUXURY 3.0DT",
+      "TD6 SE 3.0DT/4WD/8AT",
+      "TDI 5 DOOR",
+      "TDV6",
+      "V8 HSE",
+      "V8I",
+      "V8I/5",
+      "V8I/7"
+    ]
+  },
+  {
+    "model": "RANGE ROVER EVOQUE",
+    "count": 872,
+    "submodels": [
+      "2.0",
+      "Base",
+      "EVOGUE",
+      "P250 S",
+      "SD4 (177KW) HSE DYN",
+      "SD4 DYNAMIC",
+      "SD4 HSE DYNAMIC 2.2D",
+      "SD4 PURE",
+      "SD4 SE 2.2D/4WD/9AT",
+      "SE TECH TD4 A",
+      "SI4 (177KW) HSE DYN",
+      "SI4 (177KW) HSE DYNA",
+      "SI4 (213KW) HSE DYN",
+      "SI4 AUTOBIOGRAPHY 2.",
+      "SI4 DYNAMIC",
+      "SI4 DYNAMIC COUPE",
+      "SI4 HSE DYNAMIC 2.0P",
+      "SI4 HSE DYNAMIC CONV",
+      "SI4 PRESTIGE",
+      "SI4 PURE",
+      "SI4 PURE 2.0P/4WD/9A",
+      "SI4 SE 2.0P/4WD/9AT",
+      "SI4DYNAMIC 2.0P/4WD/",
+      "SI4PURETECH 2.0P/4WD",
+      "TD4",
+      "TD4 (110KW) HSE DYN",
+      "TD4 (110KW) SE 2.0D",
+      "TD4 (132KW) HSE DYN",
+      "TD4 (132KW) SE 2.0D",
+      "TD4 DYNAMIC",
+      "TD4 HSE DYNAMIC 2.2D",
+      "TD4 PRESTIGE",
+      "TD4 PURE",
+      "TD4 SE 2.2D/4WD/9AT",
+      "TD4DYNAMIC 2.2D/4WD/",
+      "TD4PRESTIGE 2.2D/4WD",
+      "TD4PURE 2.2D/4WD/9AT",
+      "TD4PURETECH 2.2D/4WD"
+    ]
+  },
+  {
+    "model": "FREELANDER",
+    "count": 274,
+    "submodels": [
+      "2",
+      "1.8 XEI 5 DOOR MAN",
+      "2 2.0 I4",
+      "2 2.0 I4 SE",
+      "2 2.2 SD4 HSE",
+      "2 2.2 SD4 SE",
+      "2 2.2 TD4 SE",
+      "2 I6",
+      "2 I6 HSE",
+      "2 LF 3.2L",
+      "2 SD4",
+      "2 SD4 HSE LUXURY",
+      "2 SD4 SE",
+      "2 SI4",
+      "2 SI4 SE",
+      "2 XS 2.0 SI4 A/T",
+      "2.0XEDI 5 DOOR M",
+      "2.2D 5DR 6A 4WD SUV",
+      "22.0I4 SE",
+      "2LF 3.2L A AB A/B SR",
+      "2LF 3.2L HSE I6 SR",
+      "2SI4 2.0P/4WD/6AT/SW",
+      "3.2L",
+      "3.2L 2LF ABS A/B SR",
+      "3.2L ABS SR",
+      "Base",
+      "DYNAMIC SD4",
+      "FREELANDER 2",
+      "FREELANDER TD4 A 5DR",
+      "HSE TD4",
+      "I6",
+      "LF 3.2L A AB GD SR.",
+      "LUXURY HSE SD4 AUT0",
+      "S TD4",
+      "SI HSE"
+    ]
+  },
+  {
+    "model": "RANGE ROVER VELAR",
+    "count": 100,
+    "submodels": [
+      "Base",
+      "SD6 FIRST EDITION 3.",
+      "SD6 HSE 3.0DT/4WD",
+      "SD6 S 3.0DT/4WD/8AT",
+      "SD6 SE 3.0DT/4WD/8AT",
+      "SI6 FIRST EDITION 3.",
+      "SI6 HSE 3.0PS/4WD",
+      "SI6 SE 3.0PS/4WD/8AT"
+    ]
+  },
+  {
+    "model": "EVOQUE",
+    "count": 43,
+    "submodels": [
+      "2.0 AT ABS 4WD SR",
+      "2.0 TSS",
+      "Base",
+      "RANGE ROVER"
+    ]
+  },
+  {
+    "model": "DEFENDER",
+    "count": 39,
+    "submodels": [
+      "110",
+      "110 STATIONWAGON",
+      "110 XS SW LWB",
+      "110 XS TD D/C",
+      "2.4D 4DR 6M DCPU",
+      "2.4D 5DR 6M 4WD SW",
+      "90",
+      "90 HARD TOP",
+      "Base",
+      "D240 S",
+      "TDI 110 S/WAGON"
+    ]
+  },
+  {
+    "model": "DISCOVERY SPORT",
+    "count": 9,
+    "submodels": [
+      "AUTO",
+      "Base"
+    ]
+  },
+  {
+    "model": "SERIES 1",
+    "count": 6,
+    "submodels": [
+      "86",
+      "Base"
+    ]
+  },
+  {
+    "model": "COUNTY",
+    "count": 4,
+    "submodels": [
+      "110 M",
+      "90 M",
+      "Base"
+    ]
+  },
+  {
+    "model": "SWB",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "88",
+    "count": 2,
+    "submodels": [
+      "2A",
+      "Base"
+    ]
+  },
+  {
+    "model": "DISCOVERY 5DR TDI",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SERIES 2",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "LW13"
+    ]
+  },
+  {
+    "model": "SERIES 2A",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "V8",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "V8109 INCH"
+    ]
+  },
+  {
+    "model": "109",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "109 V8",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "110 C/C",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "88 WB",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DISCOVERY V8 5A",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DISCOVERY V8 ES",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DISCOVERY V8I AUTO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "HSE",
+    "count": 1,
+    "submodels": [
+      "RANGE ROVER"
+    ]
+  },
+  {
+    "model": "PICK UP",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SAFARI",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SE2",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SERIES 3",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "STATIONWAGON",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

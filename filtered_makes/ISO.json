@@ -1,0 +1,16 @@
+[
+  {
+    "model": "GRIFO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "RIVOLTA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

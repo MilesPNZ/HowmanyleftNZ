@@ -42,29 +42,56 @@ except Exception as e:
     logger.error("Error loading total fleet: %s", str(e))
     total_fleet = 3603554  # fallback
 
-def load_makes_models():
-    """Helper to load JSON safely - used by home and advanced-search"""
-    json_path = os.path.join(os.path.dirname(__file__), 'nzta_makes_models_filtered.json')
-    if not os.path.exists(json_path):
-        logger.error("JSON file not found: %s", json_path)
-        return [], {}
-    try:
-        with open(json_path, 'r', encoding='utf-8') as f:
-            makes_models = json.load(f)
-        makes = sorted(makes_models.keys())
-        logger.info("Loaded %d makes from JSON", len(makes))
-        return makes, makes_models
-    except json.JSONDecodeError as e:
-        logger.error("JSON decode error: %s", str(e))
-        return [], {}
-    except Exception as e:
-        logger.error("Error loading JSON: %s", str(e))
-        return [], {}
+# Path to curated per-make JSON files
+FILTERED_MAKES_DIR = os.path.join(os.path.dirname(__file__), 'filtered_makes')
+
+def get_all_makes_from_folder():
+    """Scan filtered_makes/ folder and extract make names from filenames"""
+    makes = []
+    if not os.path.exists(FILTERED_MAKES_DIR):
+        logger.warning(f"filtered_makes directory not found: {FILTERED_MAKES_DIR}")
+        return []
+    
+    for filename in os.listdir(FILTERED_MAKES_DIR):
+        if filename.endswith('.json'):
+            # Reverse safe_make transformation: filename → make name
+            # e.g. TOYOTA.json → TOYOTA, MAZDA_3.json → MAZDA 3
+            make_name = filename[:-5].replace('_', ' ')
+            makes.append(make_name)
+    
+    makes = sorted(set(makes))  # dedupe + alphabetical
+    logger.info(f"Loaded {len(makes)} makes from filtered_makes folder")
+    return makes
 
 @app.route('/')
 def home():
-    makes, makes_models = load_makes_models()
-    return render_template('home.html', makes=makes, makes_models=makes_models)
+    makes = get_all_makes_from_folder()
+    return render_template('home.html', makes=makes)
+
+@app.route('/api/make/<make>')
+def api_make_data(make):
+    """Serve curated make data from filtered_makes/*.json for frontend dropdowns"""
+    if not make:
+        return jsonify({"error": "No make provided"}), 400
+
+    # Normalize filename to match generation script
+    safe_make = make.strip().upper().replace(' ', '_').replace('/', '_').replace('\\', '_').replace(':', '_').replace('*', '_').replace('?', '_')
+    file_path = os.path.join(FILTERED_MAKES_DIR, f"{safe_make}.json")
+
+    if not os.path.exists(file_path):
+        logger.warning(f"Make JSON not found: {file_path}")
+        return jsonify([])  # empty → frontend shows no options
+
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        return jsonify(data)
+    except json.JSONDecodeError as e:
+        logger.error(f"JSON decode error for {file_path}: {e}")
+        return jsonify({"error": "Invalid JSON"}), 500
+    except Exception as e:
+        logger.error(f"Error reading {file_path}: {e}")
+        return jsonify({"error": "Server error"}), 500
 
 @app.route('/browse')
 def browse():
@@ -140,13 +167,14 @@ def browse_make(make):
 
 @app.route('/advanced-search')
 def advanced_search():
-    makes, _ = load_makes_models()
+    makes = get_all_makes_from_folder()
     return render_template('advanced_search.html', makes=makes)
 
 @app.route('/how-to-use')
 def how_to_use():
     return render_template('how-to-use.html')
 
+# Legacy routes (optional – can be removed if not used anymore)
 @app.route('/models')
 def get_models():
     make = request.args.get('make', '').strip().upper()
@@ -176,14 +204,8 @@ def get_models():
 def get_submodels():
     make = request.args.get('make', '').strip().upper()
     models_list = request.args.getlist('models') or request.args.getlist('model[]') or request.args.getlist('models[]')
-    logger.info("DEBUG /submodels called with raw args: %s", dict(request.args))
-    logger.info("DEBUG make: '%s', models_list: %s", make, models_list)
-
     if not make or not models_list:
-        logger.info("DEBUG /submodels early return: missing make or models")
         return jsonify([])
-
-    logger.info("Fetching submodels for make: %s, models: %s", make, models_list)
 
     sql = text("""
         SELECT COALESCE(submodel, '') AS submodel
@@ -201,18 +223,14 @@ def get_submodels():
     """)
     params = {"make": make, "models": tuple(models_list)}
 
-    logger.info("Executing SQL with params: %s", params)
-
     with engine.connect() as conn:
         try:
             result = conn.execute(sql, params)
             submodels = [row[0] for row in result]
-            logger.info("Query returned %d submodels", len(submodels))
         except Exception as e:
             logger.error("SQL error in /submodels: %s", str(e))
             submodels = []
 
-    logger.info("Returning %d submodels (including blanks)", len(submodels))
     return jsonify(submodels)
 
 @app.route('/search', methods=['GET', 'POST'])
@@ -301,7 +319,6 @@ def search():
     logger.info("DEBUG WHERE clause: %s", where_sql)
     logger.info("DEBUG params: %s", params)
 
-    # Build human-readable search summary
     search_summary_parts = []
     if query and not use_advanced:
         search_summary_parts.append(query.strip())
@@ -383,38 +400,30 @@ def search():
         if total == 0:
             return render_template('results.html', search_summary=search_summary, total=0, rarity='N/A', error="No matching vehicles found")
 
-        # Rarity calculation - 8-level scale based on total surviving vehicles
         rarity = total_fleet // total if total > 0 else 'N/A'
 
         rarity_level = {'quality': 'N/A', 'hex': '#6c757d'}
         if rarity != 'N/A':
             if total > 100000:
-                rarity_level = {'quality': 'Extremely Common', 'hex': '#28a745'}   # bright green
+                rarity_level = {'quality': 'Extremely Common', 'hex': '#28a745'}
             elif total >= 30000:
-                rarity_level = {'quality': 'Very Common', 'hex': '#198754'}        # forest green
+                rarity_level = {'quality': 'Very Common', 'hex': '#198754'}
             elif total >= 10000:
-                rarity_level = {'quality': 'Common', 'hex': '#0d6efd'}             # blue
+                rarity_level = {'quality': 'Common', 'hex': '#0d6efd'}
             elif total >= 3000:
-                rarity_level = {'quality': 'Fairly Uncommon', 'hex': '#ffc107'}    # yellow
+                rarity_level = {'quality': 'Fairly Uncommon', 'hex': '#ffc107'}
             elif total >= 1000:
-                rarity_level = {'quality': 'Uncommon', 'hex': '#fd7e14'}           # orange
+                rarity_level = {'quality': 'Uncommon', 'hex': '#fd7e14'}
             elif total >= 300:
-                rarity_level = {'quality': 'Rare', 'hex': '#fb923c'}               # orange-red
+                rarity_level = {'quality': 'Rare', 'hex': '#fb923c'}
             elif total >= 100:
-                rarity_level = {'quality': 'Very Rare', 'hex': '#f87171'}          # red
+                rarity_level = {'quality': 'Very Rare', 'hex': '#f87171'}
             else:
-                rarity_level = {'quality': 'Extremely Rare', 'hex': '#dc3545'}     # deep red
+                rarity_level = {'quality': 'Extremely Rare', 'hex': '#dc3545'}
 
-        # Define the exact same 8 Miami Vice neon colors as used in results.html CSS
         rarity_colors = [
-            '#00FF7F',  # Extremely Common
-            '#00FA9A',  # Very Common
-            '#00BFFF',  # Common
-            '#FFD700',  # Fairly Uncommon
-            '#FF8C00',  # Uncommon
-            '#FF6347',  # Rare
-            '#FF3366',  # Very Rare
-            '#C71585'   # Extremely Rare
+            '#00FF7F', '#00FA9A', '#00BFFF', '#FFD700',
+            '#FF8C00', '#FF6347', '#FF3366', '#C71585'
         ]
 
         years = [str(item.get('year', '')) for item in yearly_list if isinstance(item, dict)]
@@ -454,7 +463,7 @@ def search():
             fuel_data=fuel_data,
             table_data=table_data,
             results=variants_df.to_dict('records'),
-            rarity_colors=rarity_colors  # ← added here
+            rarity_colors=rarity_colors
         )
 
     except Exception as e:

@@ -1,0 +1,741 @@
+[
+  {
+    "model": "ALMAC COBRA",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "COBRA",
+    "count": 3,
+    "submodels": [
+      "AC",
+      "DAYTONA",
+      "SC"
+    ]
+  },
+  {
+    "model": "FORD",
+    "count": 3,
+    "submodels": [
+      "23T",
+      "MODEL T ROADSTER",
+      "MODEL-T"
+    ]
+  },
+  {
+    "model": "T CAR",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "CONVERTIBLE",
+      "MARK V"
+    ]
+  },
+  {
+    "model": "TRIKE",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "AC COBRA",
+    "count": 2,
+    "submodels": [
+      "1965-427",
+      "REPLICA"
+    ]
+  },
+  {
+    "model": "FRASER CLUBMAN",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GORDON KEEBLE",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "G.K.1"
+    ]
+  },
+  {
+    "model": "LOTUS",
+    "count": 2,
+    "submodels": [
+      "CHEVRON",
+      "SEVEN"
+    ]
+  },
+  {
+    "model": "LOTUS 7 REPLICA",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SERIES 3 LEITCH"
+    ]
+  },
+  {
+    "model": "MGB ROADSTER",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "REDLINE",
+    "count": 2,
+    "submodels": [
+      "CLUBMAN SPRINT",
+      "ROADSPORT"
+    ]
+  },
+  {
+    "model": "1923 FORD MODEL T",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1923 FORD T",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1924 DODGE",
+    "count": 1,
+    "submodels": [
+      "ROADSTER PICKUP"
+    ]
+  },
+  {
+    "model": "1930 MODEL A",
+    "count": 1,
+    "submodels": [
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "1933 CHRYSLER",
+    "count": 1,
+    "submodels": [
+      "PLYMOUTH"
+    ]
+  },
+  {
+    "model": "1969",
+    "count": 1,
+    "submodels": [
+      "TARGA"
+    ]
+  },
+  {
+    "model": "A C COBRA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "AC",
+    "count": 1,
+    "submodels": [
+      "COBRA"
+    ]
+  },
+  {
+    "model": "AC428",
+    "count": 1,
+    "submodels": [
+      "AC427"
+    ]
+  },
+  {
+    "model": "ACADIAN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ALMA COBRA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ALMAC TG ROADSTER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ARROL JOHNSTON TYPEA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "AUTOSPEC",
+    "count": 1,
+    "submodels": [
+      "TRIKE"
+    ]
+  },
+  {
+    "model": "BARTON",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BIRKIN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BIRKIN SPRINT",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BON TRIKES",
+    "count": 1,
+    "submodels": [
+      "HS31600"
+    ]
+  },
+  {
+    "model": "BUGATTI",
+    "count": 1,
+    "submodels": [
+      "TYPE 40"
+    ]
+  },
+  {
+    "model": "CAMARO LM",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CAMARO Z 28",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CATERHAM SUPER SEVEN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CHECKER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CHEVRON",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CLUBMAN 7",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "COBRA 427 SC ALMAC",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "COLE-BAKER",
+    "count": 1,
+    "submodels": [
+      "SPECIAL"
+    ]
+  },
+  {
+    "model": "CONROD",
+    "count": 1,
+    "submodels": [
+      "7"
+    ]
+  },
+  {
+    "model": "CORVETTE",
+    "count": 1,
+    "submodels": [
+      "REPLICA"
+    ]
+  },
+  {
+    "model": "DE DION BOUTON",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DEUCE COUPE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DIXON 1600 MK 1",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "EIGHT",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "EUNOS ROADSTER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FLINT",
+    "count": 1,
+    "submodels": [
+      "B"
+    ]
+  },
+  {
+    "model": "FORD 23T",
+    "count": 1,
+    "submodels": [
+      "BUCKET"
+    ]
+  },
+  {
+    "model": "FORD T",
+    "count": 1,
+    "submodels": [
+      "ROD"
+    ]
+  },
+  {
+    "model": "GRAY",
+    "count": 1,
+    "submodels": [
+      "TOURER"
+    ]
+  },
+  {
+    "model": "HISPANO-SUIZA",
+    "count": 1,
+    "submodels": [
+      "H6B"
+    ]
+  },
+  {
+    "model": "HOMEBUILT SPECIAL",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "HULSON SPORTS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "INTERMECCANICA",
+    "count": 1,
+    "submodels": [
+      "SPEEDSTER"
+    ]
+  },
+  {
+    "model": "JAGUAR",
+    "count": 1,
+    "submodels": [
+      "SS100REPLICA"
+    ]
+  },
+  {
+    "model": "JEEP REPLICA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "JEFFREY",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "JEWETT 6 23-25",
+    "count": 1,
+    "submodels": [
+      "DELUX 2DR COACH"
+    ]
+  },
+  {
+    "model": "K'KAR RTF",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "KIT CAR MK 5",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "KIT-KAR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LUMMUS 8",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LVVC DM",
+    "count": 1,
+    "submodels": [
+      "SPECIAL"
+    ]
+  },
+  {
+    "model": "LYNX",
+    "count": 1,
+    "submodels": [
+      "SPORTS"
+    ]
+  },
+  {
+    "model": "LYNX SPORTS CAR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "M G B SPECIAL",
+    "count": 1,
+    "submodels": [
+      "LVV MISTRAL"
+    ]
+  },
+  {
+    "model": "MASERATI",
+    "count": 1,
+    "submodels": [
+      "3500 GT"
+    ]
+  },
+  {
+    "model": "MCLAREN GT6",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MERCEDES-BENZ",
+    "count": 1,
+    "submodels": [
+      "CONCEPT SPECIAL"
+    ]
+  },
+  {
+    "model": "MG",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MG TF",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MGB",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MJ1",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MODEL A",
+    "count": 1,
+    "submodels": [
+      "BUCKET"
+    ]
+  },
+  {
+    "model": "MODEL A REPLICA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MODEL T",
+    "count": 1,
+    "submodels": [
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "MPS",
+    "count": 1,
+    "submodels": [
+      "LOTUS SEVEN"
+    ]
+  },
+  {
+    "model": "PRESTIGE REPLICA",
+    "count": 1,
+    "submodels": [
+      "DAYTONA"
+    ]
+  },
+  {
+    "model": "RICKENBACKER",
+    "count": 1,
+    "submodels": [
+      "MODEL C"
+    ]
+  },
+  {
+    "model": "S.L. SPECIAL",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "S.S.ONE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SCIMITAR SSI",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SHELBY",
+    "count": 1,
+    "submodels": [
+      "289 FIA"
+    ]
+  },
+  {
+    "model": "SIZAIRE ET NAUDIN",
+    "count": 1,
+    "submodels": [
+      "4G2"
+    ]
+  },
+  {
+    "model": "SPECIAL",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SPORTS ALMAC",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SUBARU TRIKE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SUPER 7 CATERHAM",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SWIFT",
+    "count": 1,
+    "submodels": [
+      "10/12HP"
+    ]
+  },
+  {
+    "model": "SYLVA STRIKER MK4",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "T CAR MK2",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "T CAR TF REPLICA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TEMPERO",
+    "count": 1,
+    "submodels": [
+      "XK180  JAGUAR"
+    ]
+  },
+  {
+    "model": "TG ROADSTER ALMAC",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TRIKE SPORTSCAR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TVR S",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "USA REBUILT TITLE",
+    "count": 1,
+    "submodels": [
+      "1982 CORVETTE"
+    ]
+  },
+  {
+    "model": "V8",
+    "count": 1,
+    "submodels": [
+      "TRIKE"
+    ]
+  },
+  {
+    "model": "V8TRIKE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VINTAGE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VIVA JEEP",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VULCAN",
+    "count": 1,
+    "submodels": [
+      "15.9HP"
+    ]
+  },
+  {
+    "model": "WILLYS",
+    "count": 1,
+    "submodels": [
+      "COUPE"
+    ]
+  },
+  {
+    "model": "ZIMMER",
+    "count": 1,
+    "submodels": [
+      "GOLDEN SPRIT"
+    ]
+  }
+]

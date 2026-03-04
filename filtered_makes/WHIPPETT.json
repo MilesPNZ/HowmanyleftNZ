@@ -1,0 +1,16 @@
+[
+  {
+    "model": "96A",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SUPERIOR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

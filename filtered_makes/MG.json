@@ -1,0 +1,730 @@
+[
+  {
+    "model": "ZS",
+    "count": 13623,
+    "submodels": [
+      "1.0 T",
+      "1.0 TURBO AZS1",
+      "1.0T",
+      "1.0T ESSENCE",
+      "1.0T EXCITE",
+      "1.0T-AT",
+      "1.5",
+      "1.5 AT",
+      "1.5 EXCITE",
+      "1.5L EXCITE",
+      "180 V6 MANUAL SALOON",
+      "AZS1 ESSENCE TURBO",
+      "Base",
+      "ESSENCE",
+      "ESSENCE 1.0PT",
+      "ESSENCE 1.0T",
+      "ESSENCE 1.5P/3CVT",
+      "ESSENCE 1.5PHT/3HD",
+      "ESSENCE 1.5PT/CVT",
+      "EV",
+      "EV 105KW/EV/AT",
+      "EV 130KWH/EV/AT",
+      "EV 44KWH/EV/6AT",
+      "EV 44KWH/EV/AT",
+      "EV 51KWH/EV/AT",
+      "EV 72KWH/EV/AT",
+      "EXCITE",
+      "EXCITE 1.0T-AT",
+      "EXCITE 1.5P/3CVT",
+      "EXCITE 1.5P/4AT",
+      "EXCITE 1.5PHT/3HD",
+      "EXCITE PLUS 1.0PT",
+      "MG ZS 1.0T",
+      "MGSZ 1.0T",
+      "MGZS 1.0T",
+      "MGZS 1.5",
+      "MGZS 10.T",
+      "T CORE 1.5P/CVT",
+      "T ESSENCE",
+      "T ESSENCE 1.3PT",
+      "T EXCITE 1.3PT",
+      "T VIBE 1.5PT/CVT",
+      "VIBE 1.5PT/CVT"
+    ]
+  },
+  {
+    "model": "3",
+    "count": 4700,
+    "submodels": [
+      "1.5L AT",
+      "1.5L EXCITE",
+      "1.5P/CVT",
+      "1.5PHT/3HD",
+      "AT",
+      "AT EXCITE",
+      "AUTO",
+      "Base",
+      "CORE",
+      "CORE 1.5",
+      "CORE 1.5P/4AT",
+      "EXCITE",
+      "EXCITE 1.5P/4AT",
+      "EXCITE1",
+      "FORM 1.5P/5MT",
+      "MG2 AT",
+      "MG3 AT",
+      "MG3 AT 1.5T",
+      "STYLE 1.5P/5MT/HA/5D",
+      "SZP1",
+      "SZP115",
+      "TIME 1.5P/5MT",
+      "VIBE 1.5P/CVT"
+    ]
+  },
+  {
+    "model": "HS",
+    "count": 3895,
+    "submodels": [
+      "2.0PT/4WD/6AT",
+      "214KW/PHEV/10HD",
+      "Base",
+      "CORE 1.5PT/7AT",
+      "ESSENCE 1.5PHT/3HD",
+      "ESSENCE 1.5PT",
+      "ESSENCE PHEV/3HD",
+      "EXCITE",
+      "EXCITE 1.5PHT/3HD",
+      "EXCITE 1.5PT/7AT",
+      "EXCITE PHEV/3HD",
+      "EXITE",
+      "PHEV",
+      "PHEV/10HD",
+      "VIBE",
+      "VIBE 1.5PT/7AT"
+    ]
+  },
+  {
+    "model": "4",
+    "count": 2163,
+    "submodels": [
+      "51KWH/EV/AT",
+      "ESSENCE 64KWH/EV",
+      "ESSENCE 64KWH/EV/4WD",
+      "ESSENCE LR 77KWH/EV",
+      "EXCITE 51KWH/EV",
+      "EXCITE 64KWH/EV"
+    ]
+  },
+  {
+    "model": "ZS EV",
+    "count": 254,
+    "submodels": [
+      "105KW/EV/AT"
+    ]
+  },
+  {
+    "model": "QS",
+    "count": 252,
+    "submodels": [
+      "ESSENCE 2.0PT/9AT",
+      "EXCITE 2.0PT/9AT"
+    ]
+  },
+  {
+    "model": "B",
+    "count": 170,
+    "submodels": [
+      "GT V8 MGB71A",
+      "1800",
+      "Base",
+      "BGT",
+      "CONVERTIBLE",
+      "GT",
+      "GT V8",
+      "MK II",
+      "ROADSTER",
+      "SPORT",
+      "SPORTS",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "TF",
+    "count": 136,
+    "submodels": [
+      "1",
+      "120 STEPSPD ROADSTAR",
+      "1250",
+      "135",
+      "135  LE500",
+      "135 LE 500",
+      "135 MANUAL ROADSTER",
+      "1500",
+      "160",
+      "160 SPRINT",
+      "160 VVC MAN ROADSTER",
+      "2 DOOR ROADSTER",
+      "54A",
+      "80TH 135MAN ROADSTER",
+      "80TH LE 160 ROADSTER",
+      "Base",
+      "MIDGET",
+      "ROADSTER",
+      "SUNSTORM"
+    ]
+  },
+  {
+    "model": "MGB",
+    "count": 111,
+    "submodels": [
+      "Base",
+      "CONVERTIBLE",
+      "GT",
+      "GT V8",
+      "GTV8",
+      "MARK II ROADSTER",
+      "MK 2",
+      "MK II",
+      "MKII",
+      "MKIV",
+      "RAODSTER",
+      "ROADSTER",
+      "SPORT",
+      "SPORTS",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "MIDGET",
+    "count": 110,
+    "submodels": [
+      "1500",
+      "Base",
+      "CONVERTABILE",
+      "J2",
+      "M TYPE",
+      "MK III",
+      "MK1",
+      "MK111",
+      "PB",
+      "SPORT",
+      "SPORTS",
+      "SPORTS TD",
+      "SPORTSCAR"
+    ]
+  },
+  {
+    "model": "S5",
+    "count": 109,
+    "submodels": [
+      "ESSENCE 125KWH/EV/AT",
+      "ESSENCE 49KWH/EV/AT",
+      "EXCITE 125KWH/EV/AT"
+    ]
+  },
+  {
+    "model": "F",
+    "count": 76,
+    "submodels": [
+      "1.8",
+      "1.8 SPORTS",
+      "1.8I",
+      "1.8I VVC SPORTS",
+      "Base",
+      "LIMITED",
+      "MGF",
+      "VVC"
+    ]
+  },
+  {
+    "model": "B GT",
+    "count": 61,
+    "submodels": [
+      "Base",
+      "CONVERTABLE",
+      "COUPE",
+      "COUPE V8",
+      "GT",
+      "SPORTS",
+      "V8"
+    ]
+  },
+  {
+    "model": "ROADSTER",
+    "count": 56,
+    "submodels": [
+      "1500",
+      "2DCV",
+      "B",
+      "Base",
+      "BGT",
+      "J2",
+      "L TYPE",
+      "MGB",
+      "NB MAGNETT",
+      "SPORTS",
+      "TF135"
+    ]
+  },
+  {
+    "model": "5",
+    "count": 51,
+    "submodels": [
+      "EXCITE EV",
+      "MG5 EXCITE",
+      "Base",
+      "ESSENCE 1.5PT",
+      "EXCITE",
+      "EXCLUSIVE",
+      "EXCLUSIVE EV",
+      "MG5",
+      "MG5 EXCITE EV",
+      "VIBE 1.5P/CVT"
+    ]
+  },
+  {
+    "model": "TD",
+    "count": 48,
+    "submodels": [
+      "1250",
+      "2",
+      "90",
+      "Base",
+      "CONVERTIBLE",
+      "MIDGET",
+      "ROADSTER",
+      "SPORTS",
+      "T-TYPE SPORTS",
+      "TD3"
+    ]
+  },
+  {
+    "model": "6",
+    "count": 43,
+    "submodels": [
+      "Base",
+      "CORE 1.8PT/6AT",
+      "GT",
+      "GT 1.8PT/6AT",
+      "IP2X LB200",
+      "MAGNETTE",
+      "SOUL 1.8PT/6AT",
+      "TSE"
+    ]
+  },
+  {
+    "model": "RV8",
+    "count": 43,
+    "submodels": [
+      "Base",
+      "RAODSTER",
+      "ROADSTER",
+      "ROVER"
+    ]
+  },
+  {
+    "model": "GS",
+    "count": 35,
+    "submodels": [
+      "1.5T",
+      "1.5T CORE",
+      "2.0T",
+      "Base",
+      "CORE 1.5PT/7AT",
+      "ESSENCE X 2.0PT/4WD",
+      "EXCITE 1.5PT/7AT",
+      "MG GS 1.5T",
+      "SAS2 1.5T",
+      "SOUL 1.5PT/7AT"
+    ]
+  },
+  {
+    "model": "A",
+    "count": 34,
+    "submodels": [
+      "1600",
+      "1600 MK II",
+      "1600 MK2",
+      "1600 MKII",
+      "1600 MKII ROADSTER",
+      "Base",
+      "COUPE",
+      "MKII 1600",
+      "ROADSTAR 1600",
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "GT",
+    "count": 33,
+    "submodels": [
+      "B",
+      "B MKII",
+      "Base",
+      "BGT",
+      "COUPE",
+      "MGC"
+    ]
+  },
+  {
+    "model": "MGA",
+    "count": 29,
+    "submodels": [
+      "1600",
+      "1600 MK2",
+      "Base",
+      "MGA 1600",
+      "MK2 DELUXE",
+      "ROADSTER",
+      "RODASTER",
+      "TWIN CAM",
+      "TWINCAM"
+    ]
+  },
+  {
+    "model": "ZT",
+    "count": 26,
+    "submodels": [
+      "180 V6 AUTO SALOON",
+      "190",
+      "190 V6 MANUAL SALOON",
+      "260",
+      "260 V8 AUTO SALOON",
+      "260 V8 MANUAL SALOON",
+      "Base",
+      "V8 260"
+    ]
+  },
+  {
+    "model": "ZR",
+    "count": 25,
+    "submodels": [
+      "120 STEPSPD 5 DR",
+      "120 STEPSPEED HATCH",
+      "160 VVC 5 DR HATCH",
+      "160 VVC SPORTS HATCH",
+      "TD"
+    ]
+  },
+  {
+    "model": "IM6",
+    "count": 23,
+    "submodels": [
+      "PERFORMANCE 100KWH",
+      "PLATINUM 100KWH/EV",
+      "PREMIUM 75KWH/EV/AT"
+    ]
+  },
+  {
+    "model": "TC",
+    "count": 21,
+    "submodels": [
+      "Base",
+      "MIDGET",
+      "SPORTS"
+    ]
+  },
+  {
+    "model": "C",
+    "count": 17,
+    "submodels": [
+      "GT",
+      "Base",
+      "GTS",
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "BGT",
+    "count": 12,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MAGNETTE",
+    "count": 12,
+    "submodels": [
+      "Base",
+      "MK1V",
+      "N-TYPE",
+      "NB",
+      "ZA"
+    ]
+  },
+  {
+    "model": "TA",
+    "count": 12,
+    "submodels": [
+      "Base",
+      "MIDGET",
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "1100",
+    "count": 11,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CYBERSTER",
+    "count": 11,
+    "submodels": [
+      "77KWH/EV/AT",
+      "77KWH/EV/AWD/AT"
+    ]
+  },
+  {
+    "model": "MGF 1.8I",
+    "count": 11,
+    "submodels": [
+      "Base",
+      "ROADSTER M"
+    ]
+  },
+  {
+    "model": "ZST",
+    "count": 10,
+    "submodels": [
+      "Base",
+      "EXCITE 1.3PT/6AT",
+      "TROPHY"
+    ]
+  },
+  {
+    "model": "SZP1",
+    "count": 7,
+    "submodels": [
+      "1.5 NSE EXCITE",
+      "3",
+      "MG3",
+      "MG3 AT"
+    ]
+  },
+  {
+    "model": "VA",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "DROPHEAD COUPE",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "ZT-T",
+    "count": 7,
+    "submodels": [
+      "180 V6 AUTO TOURER",
+      "190",
+      "SE V8 260",
+      "V8"
+    ]
+  },
+  {
+    "model": "YA",
+    "count": 5,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MGB ROADSTER",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CGT",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SPECIAL",
+    "count": 3,
+    "submodels": [
+      "J2",
+      "MK 1.5"
+    ]
+  },
+  {
+    "model": "WA",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "TICKFORD"
+    ]
+  },
+  {
+    "model": "M",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "G3"
+    ]
+  },
+  {
+    "model": "MGBGT",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MGF",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "PA",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SPORTS"
+    ]
+  },
+  {
+    "model": "SA",
+    "count": 2,
+    "submodels": [
+      "1938",
+      "Base"
+    ]
+  },
+  {
+    "model": "TB",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "TICKFORD"
+    ]
+  },
+  {
+    "model": "1300",
+    "count": 1,
+    "submodels": [
+      "MK2"
+    ]
+  },
+  {
+    "model": "14/28",
+    "count": 1,
+    "submodels": [
+      "SUPER SPORTS"
+    ]
+  },
+  {
+    "model": "2.0",
+    "count": 1,
+    "submodels": [
+      "SL"
+    ]
+  },
+  {
+    "model": "B ROADSTER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BGT V8",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BGTV8",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BTGT",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "EC32",
+    "count": 1,
+    "submodels": [
+      "CYBERSTER"
+    ]
+  },
+  {
+    "model": "K",
+    "count": 1,
+    "submodels": [
+      "SPORTS CAR"
+    ]
+  },
+  {
+    "model": "METRO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MGB GT",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MGB TOURER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MIDGET 1966",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SPORTS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "T",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TF MK2",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TF REPLICA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TF ROADSTER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

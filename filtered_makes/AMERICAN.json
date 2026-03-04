@@ -1,0 +1,24 @@
+[
+  {
+    "model": "LA FRANCE",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "SPEEDSTER"
+    ]
+  },
+  {
+    "model": "AMX",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "RAMBLER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

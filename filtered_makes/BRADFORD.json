@@ -1,0 +1,16 @@
+[
+  {
+    "model": "CB",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CC",
+    "count": 1,
+    "submodels": [
+      "OPEN TOURER"
+    ]
+  }
+]

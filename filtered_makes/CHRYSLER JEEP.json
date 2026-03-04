@@ -1,0 +1,37 @@
+[
+  {
+    "model": "GRAND CHEROKEE",
+    "count": 22,
+    "submodels": [
+      "392 HEMI SRT",
+      "4X4",
+      "Base",
+      "LAREDO 4X4",
+      "SRT 8"
+    ]
+  },
+  {
+    "model": "CHEROKEE",
+    "count": 20,
+    "submodels": [
+      "Base",
+      "LIMITED",
+      "SPORT"
+    ]
+  },
+  {
+    "model": "WRANGLER",
+    "count": 11,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "PATRIOT",
+    "count": 10,
+    "submodels": [
+      "2X4 SPORT AUTO",
+      "Base"
+    ]
+  }
+]

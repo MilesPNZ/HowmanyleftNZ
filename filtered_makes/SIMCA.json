@@ -1,0 +1,44 @@
+[
+  {
+    "model": "1100",
+    "count": 1,
+    "submodels": [
+      "S1000"
+    ]
+  },
+  {
+    "model": "ARIANE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CHAMBORD",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ETOILE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GL",
+    "count": 1,
+    "submodels": [
+      "1000"
+    ]
+  },
+  {
+    "model": "VEDETTE",
+    "count": 1,
+    "submodels": [
+      "VERSAILLES"
+    ]
+  }
+]

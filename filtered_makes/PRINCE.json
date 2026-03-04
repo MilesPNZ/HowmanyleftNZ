@@ -1,0 +1,17 @@
+[
+  {
+    "model": "B200",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SKYLINE",
+    "count": 2,
+    "submodels": [
+      "DELUXE 1900",
+      "GT"
+    ]
+  }
+]

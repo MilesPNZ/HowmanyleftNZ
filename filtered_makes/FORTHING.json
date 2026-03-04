@@ -1,0 +1,9 @@
+[
+  {
+    "model": "T5 FRIDAY",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

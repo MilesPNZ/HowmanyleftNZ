@@ -1,0 +1,469 @@
+[
+  {
+    "model": "RIVIERA",
+    "count": 108,
+    "submodels": [
+      "2 DOOR COUPE",
+      "Base",
+      "CENTURY",
+      "CONVERTABLE",
+      "COUPE",
+      "GS",
+      "SPECIAL",
+      "SUPER",
+      "WILDCAT"
+    ]
+  },
+  {
+    "model": "SPECIAL",
+    "count": 92,
+    "submodels": [
+      "1938",
+      "1956",
+      "1957",
+      "2 DOOR",
+      "2 DR HT",
+      "2DR SEDAN",
+      "37",
+      "37-40",
+      "4 DOOR PILLARLESS",
+      "41",
+      "46R",
+      "46S",
+      "8",
+      "8 SERIES 40",
+      "Base",
+      "CONVERTIBLE",
+      "COUPE",
+      "DELUX",
+      "DYNA FLOW 46S",
+      "DYNAFLOW",
+      "EIGHT",
+      "ESTATE WAGON",
+      "MCLAUGHLIN",
+      "RIVERIA",
+      "RIVIERA",
+      "RIVIERA 2DHT",
+      "ROADMASTER",
+      "SEDANET",
+      "SERIES 40",
+      "SPECIAL",
+      "SPORT WAGON",
+      "STRAIGHT-EIGHT"
+    ]
+  },
+  {
+    "model": "SKYLARK",
+    "count": 72,
+    "submodels": [
+      "350",
+      "Base",
+      "CONVERTIBLE",
+      "CUSTOM",
+      "GS",
+      "GS STAGE 1",
+      "GSX",
+      "INVICTA",
+      "STOCKTON HUNTSVILLE",
+      "SUN COUPE 350"
+    ]
+  },
+  {
+    "model": "LE SABRE",
+    "count": 58,
+    "submodels": [
+      "400",
+      "Base",
+      "CONVERTABLE",
+      "CUSTOM",
+      "CUSTOM CONVERTABLE",
+      "LIMITED",
+      "LUXUS"
+    ]
+  },
+  {
+    "model": "ELECTRA",
+    "count": 55,
+    "submodels": [
+      "225",
+      "225 CONVERIBLE",
+      "225 LTD",
+      "Base",
+      "LANDAU LIMITED",
+      "LIMITED",
+      "LIMITED EDITION"
+    ]
+  },
+  {
+    "model": "SUPER",
+    "count": 41,
+    "submodels": [
+      "1956",
+      "4DR 1940",
+      "56C",
+      "8",
+      "Base",
+      "COUPE",
+      "DYNAFLOW",
+      "EIGHT",
+      "EIGHT   56-S",
+      "ESTATE",
+      "ESTATE WAGON",
+      "RIVIERA",
+      "STREIGHT EIGHT",
+      "V8"
+    ]
+  },
+  {
+    "model": "ROADMASTER",
+    "count": 38,
+    "submodels": [
+      "1949",
+      "2DR",
+      "71",
+      "71 DYNAFLOW",
+      "75",
+      "Base",
+      "COUPE",
+      "DYNA FLOW",
+      "DYNAFLOW",
+      "EIGHT",
+      "HEARSE",
+      "SERIES 80",
+      "SERIES 80 CONV"
+    ]
+  },
+  {
+    "model": "CENTURY",
+    "count": 29,
+    "submodels": [
+      "Base",
+      "CABALLERO ESTATE",
+      "CONVERTIBLE",
+      "COUPE",
+      "RIVERA",
+      "RIVIERA"
+    ]
+  },
+  {
+    "model": "WILDCAT",
+    "count": 18,
+    "submodels": [
+      "2 DOOR HARDTOP",
+      "Base",
+      "DELUXE",
+      "GS"
+    ]
+  },
+  {
+    "model": "STRAIGHT 8",
+    "count": 13,
+    "submodels": [
+      "41 TOURING SEDAN",
+      "Base",
+      "COUPE",
+      "SEDAN",
+      "SPECIAL 40",
+      "SUPER"
+    ]
+  },
+  {
+    "model": "INVICTA",
+    "count": 12,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TOURER",
+    "count": 12,
+    "submodels": [
+      "24-4-35 TOURING CAR",
+      "45EX",
+      "Base",
+      "EX45",
+      "G",
+      "MCLAUGHLIN SPECIAL",
+      "TWENTY FOUR"
+    ]
+  },
+  {
+    "model": "MASTER",
+    "count": 8,
+    "submodels": [
+      "2847X",
+      "2925X",
+      "6",
+      "6 MODEL 49",
+      "Base",
+      "SIX 25 TOURER 25/49",
+      "SIX 44X",
+      "SPORT TOURER"
+    ]
+  },
+  {
+    "model": "REGAL",
+    "count": 8,
+    "submodels": [
+      "455",
+      "Base",
+      "ESTATE WAGON",
+      "T-TYPE"
+    ]
+  },
+  {
+    "model": "40",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "D",
+      "SPECIAL",
+      "STRAIGHT EIGHT"
+    ]
+  },
+  {
+    "model": "GS",
+    "count": 6,
+    "submodels": [
+      "455 STAGE-1",
+      "Base",
+      "CALIFORNIA",
+      "GRAN SPORT STAGE1"
+    ]
+  },
+  {
+    "model": "ROADSTER",
+    "count": 6,
+    "submodels": [
+      "14B",
+      "1932 COUPE",
+      "Base",
+      "EX 44",
+      "SPORTS"
+    ]
+  },
+  {
+    "model": "SERIES 40",
+    "count": 6,
+    "submodels": [
+      "46S",
+      "Base",
+      "COUPE",
+      "EIGHT"
+    ]
+  },
+  {
+    "model": "SERIES 116",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "BUSINESS COUPE",
+      "MODEL 27"
+    ]
+  },
+  {
+    "model": "CENTURION",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "CUSTOM"
+    ]
+  },
+  {
+    "model": "ESTATEWAGON",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "CABALLERO"
+    ]
+  },
+  {
+    "model": "SERIES",
+    "count": 4,
+    "submodels": [
+      "STANDARD 6",
+      "2740X",
+      "700 LIMITED",
+      "Base"
+    ]
+  },
+  {
+    "model": "SPORTWAGON",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "25/25",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "STANDARD SIX TOURER"
+    ]
+  },
+  {
+    "model": "MARQUETTE",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SUPER SERIES 50",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CABALLERO",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DX45",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GM",
+    "count": 2,
+    "submodels": [
+      "1930 57 SERIES",
+      "GS CALIFORNIA"
+    ]
+  },
+  {
+    "model": "MCLAUGHLIN",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SPECIAL"
+    ]
+  },
+  {
+    "model": "WOODY",
+    "count": 2,
+    "submodels": [
+      "2435",
+      "Base"
+    ]
+  },
+  {
+    "model": "116 ROADSTER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "23/54",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "25/24",
+    "count": 1,
+    "submodels": [
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "2625X",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "29-25X",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "47",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "66",
+    "count": 1,
+    "submodels": [
+      "BUSINESS COUPE"
+    ]
+  },
+  {
+    "model": "CENTURY WAGO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LIGHT 6",
+    "count": 1,
+    "submodels": [
+      "STANDARD"
+    ]
+  },
+  {
+    "model": "PARK AVENUE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "PHAETON",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "REATTA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SEDAN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SKYHAWK",
+    "count": 1,
+    "submodels": [
+      "LTD"
+    ]
+  },
+  {
+    "model": "STANDARD 6",
+    "count": 1,
+    "submodels": [
+      "27-25"
+    ]
+  },
+  {
+    "model": "SUPERIOR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

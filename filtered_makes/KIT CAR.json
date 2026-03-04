@@ -1,0 +1,16 @@
+[
+  {
+    "model": "MK 2",
+    "count": 1,
+    "submodels": [
+      "LOCOST"
+    ]
+  },
+  {
+    "model": "ROBIN HOOD MK3",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

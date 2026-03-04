@@ -1,0 +1,998 @@
+[
+  {
+    "model": "300",
+    "count": 1098,
+    "submodels": [
+      "3.0L DIESEL C",
+      "3.0L DIESEL LTD",
+      "3.6L PETROL C",
+      "3.6L PETROL LTD",
+      "3.6L V6 PETROL C",
+      "3.6L V6 PETROL LTD",
+      "300C 3.5L V6 SEDAN",
+      "300C 3.L DIESEL TOUR",
+      "300C 3L DIESEL SEDAN",
+      "300C 5.7L V8 SEDAN",
+      "300C 5.7L V8 TOURING",
+      "300C 6.1L SRT8 SEDAN",
+      "300C HEMI AUTO",
+      "300C TOURING SRT8",
+      "6.4L SRT8 SEDAN",
+      "Base",
+      "C",
+      "C 3.0D/4WD/5AT/SL/4D",
+      "C 3.5L V6",
+      "C CRD",
+      "C LTD",
+      "C SRT DESIGN AUTO",
+      "C SRT8",
+      "CE HEMI",
+      "CRD",
+      "G",
+      "HEMI 6.4 SRT8 CORE",
+      "HEMI C",
+      "HEMI-C",
+      "J",
+      "K",
+      "LX",
+      "LX SRT",
+      "LX SRT CORE",
+      "LX SRT8 6.4L",
+      "LXCS48",
+      "R/T",
+      "S",
+      "S 3.6P/8AT/SL/4DR/5S",
+      "SEDAN",
+      "SILVER EDITION",
+      "SPORT  COUPE",
+      "SR-T8 CORE",
+      "SRT",
+      "SRT 8",
+      "SRT CORE",
+      "SRT HEIMI 6.4",
+      "SRT-8",
+      "SRT-8 CORE",
+      "SRT8",
+      "SRT8 6.4P/8AT",
+      "SRT8 6.4P/8AT/SL/4DR",
+      "SRT8 6.4P/CVT/SL/4DR",
+      "SRT8 6.4P5A/SL4D5S",
+      "SRT8 CORE",
+      "SRT8 CORE 6.4L",
+      "SRT8 HEMI 6.4",
+      "STR",
+      "STR6",
+      "TWO DOOR HARDTOP"
+    ]
+  },
+  {
+    "model": "PT CRUISER",
+    "count": 843,
+    "submodels": [
+      "2.0 LTD",
+      "2.4 L",
+      "2.4 L CLASSIC",
+      "2.4L TURBO GT",
+      "AUTO 2.4L",
+      "Base",
+      "CABRIO",
+      "CABRIO LIMITED",
+      "CABRIO LIMITED AUTO",
+      "CABRIOLET 2.4L",
+      "CABRIOLET LIMITED",
+      "CLASSIC",
+      "CLASSIC 2.0",
+      "CLASSIC 2.0 L",
+      "CLASSIC 2.0L",
+      "CLASSIC 2.4",
+      "CLASSIC 2.4L",
+      "CLASSIC AUTO",
+      "CLASSIC EDITION",
+      "CLASSIC MANUAL",
+      "CLASSIC-EDITION",
+      "CRUISER",
+      "GT 2.4L",
+      "LIMITED",
+      "LIMITED 2.0L",
+      "LIMITED 2.0LTR",
+      "LIMITED 2.4L",
+      "LIMITED AUTO",
+      "LIMITED EDITION",
+      "LIMITED MANUAL",
+      "LTD",
+      "LTD 2.0L",
+      "LTD 2.4L",
+      "LTD AUTO 2.4L",
+      "LTD MANUAL 2.4L",
+      "MAN 2.4L",
+      "PT",
+      "PT  LTD",
+      "PT CLASSIC AUTO 2.4L",
+      "PT CLASSIC MAN 2.4L",
+      "PT LTD AUTO 2.4L",
+      "PT LTD MANUAL 2.4L",
+      "ROUTE 66 AUTO",
+      "ROUTE 66 MANUAL",
+      "STREET CRUISER",
+      "TOURING",
+      "TOURING 2.0",
+      "TOURING 2.4",
+      "TOURING 2.4 L",
+      "TOURING 2.4L",
+      "TOURING AUTO",
+      "TOURING EDITION",
+      "TOURING GT",
+      "TOURING MANUAL"
+    ]
+  },
+  {
+    "model": "300C",
+    "count": 668,
+    "submodels": [
+      "3.0L DIESEL C LUX",
+      "3.0L DIESEL LUX",
+      "3.5L V6 SEDAN",
+      "3.6L",
+      "3.6L PETROL C LUX",
+      "3.6L V6 PETROL LUX",
+      "300C",
+      "300C 3.5L V6 SEDAN",
+      "300C 3L DIESEL SEDAN",
+      "5.7 HEMI",
+      "5.7L",
+      "5.7L HEMI",
+      "5.7L V8",
+      "5.7L V8 HEMI",
+      "5.7L V8 SEDAN",
+      "6.1L SRT8 SEDAN",
+      "AUTO 3.5L",
+      "Base",
+      "BAZO",
+      "C LUX 3.0P/4WD/8AT",
+      "CHRY300C",
+      "CRD",
+      "CRD AUTO",
+      "HEARSE",
+      "HEMI",
+      "HEMI C",
+      "HEMI-C SRT-8",
+      "LE",
+      "LUXURY",
+      "LX",
+      "S",
+      "SEDAN",
+      "SRT",
+      "SRT 8",
+      "SRT 8 CORE",
+      "SRT B",
+      "SRT DESIGN AUTO",
+      "SRT-8",
+      "SRT8",
+      "SRT8 AUTO",
+      "SRT8 CORE",
+      "SRT8 HEMI",
+      "TOURING"
+    ]
+  },
+  {
+    "model": "VALIANT",
+    "count": 603,
+    "submodels": [
+      "E31 PACER 245 HEMI",
+      "160 HP",
+      "160-HP",
+      "160HP",
+      "2 DOOR HARDTOP",
+      "2 DOOR HARDTOP 770",
+      "245 HEMI",
+      "4D6",
+      "4DBA",
+      "770",
+      "770 H TOP",
+      "770 HARDTOP",
+      "770 REGAL HARD TOP",
+      "770 VJ",
+      "AP5",
+      "AP6",
+      "BARRACUDA",
+      "Base",
+      "CH COUPE",
+      "CH6P414DA8",
+      "CHAR",
+      "CHARGA",
+      "CHARGAR",
+      "CHARGER",
+      "CHARGER  770",
+      "CHARGER 770",
+      "CHARGER 770 E57",
+      "CHARGER R/T",
+      "CHARGER VH COUPE",
+      "CI",
+      "CJ",
+      "CM 4.0 LB",
+      "CM REGAL",
+      "COMPACT",
+      "COUPE",
+      "DRIFTER PANEL VAN",
+      "E38 BIG TANK CHARGER",
+      "GLX",
+      "HARDTOP",
+      "HEMI",
+      "HEMI 2 BARREL",
+      "HEMI 265",
+      "HEMI PACER",
+      "HEMI-PACER",
+      "LIMOUSINE",
+      "LUXURY",
+      "N3L",
+      "PACER",
+      "PACER 265",
+      "PACER 265 HEMI",
+      "PACER HEMI",
+      "PACER HEMI 265",
+      "PACER VH",
+      "R",
+      "R/T CHARGER",
+      "RANGER",
+      "RANGER VJ",
+      "RANGER XL",
+      "RANGER/XL",
+      "REGAL",
+      "REGAL 160HP",
+      "REGAL 2 DOOR HARDTOP",
+      "REGAL 265 HEMI",
+      "REGAL 318",
+      "REGAL 770",
+      "REGAL COUPE",
+      "REGAL HARD TOP",
+      "REGAL HARDTOP",
+      "REGAL HEMI 245",
+      "REGAL HEMI 265",
+      "REGAL HEMI-265",
+      "REGAL SAFARI",
+      "REGAL V8",
+      "REGAL VIP",
+      "REGAL VJ SEDAN",
+      "RT CHARGER",
+      "RT CHARGER E38",
+      "S SERIES",
+      "SAFA",
+      "SAFARI",
+      "SAFARI AP6",
+      "SAFARI REGAL",
+      "SAFARI VIP",
+      "SE",
+      "SE SPECIAL",
+      "SV1",
+      "TORQUE FLIGHT",
+      "TORQUE FLITE",
+      "TORQUE FLITE 160.HP",
+      "UTE",
+      "V8",
+      "VC",
+      "VE",
+      "VE VIP",
+      "VF",
+      "VF COUPE",
+      "VF HARDTOP",
+      "VF-HARDTOP",
+      "VF8H",
+      "VG",
+      "VG 770 REGAL",
+      "VG COUPE",
+      "VG HARDTOP",
+      "VG HARDTOP PACER",
+      "VG PACER",
+      "VG SAFARI",
+      "VH",
+      "VH CHARGER 770",
+      "VH COUPE",
+      "VH PACER",
+      "VH RANGER",
+      "VH-RANGER HEMI XL",
+      "VH7S41",
+      "VIP",
+      "VJ",
+      "VJ CARGER E48",
+      "VJ RANGER",
+      "VJ REGAL",
+      "XL AU",
+      "XL RANGER"
+    ]
+  },
+  {
+    "model": "VOYAGER",
+    "count": 200,
+    "submodels": [
+      "Base",
+      "GRAND",
+      "GRAND AWD LTD",
+      "GRAND LWB LTD",
+      "GRAND LWB LX",
+      "GRAND LWB SE",
+      "GRAND LX",
+      "GRAND SWB SE",
+      "GRAND VOYAGER LE",
+      "GRAND VOYAGER LX",
+      "GRD",
+      "LE",
+      "LX",
+      "SE",
+      "SE AUTO",
+      "SE SWB",
+      "SWB SE",
+      "TOURING"
+    ]
+  },
+  {
+    "model": "CROSSFIRE",
+    "count": 169,
+    "submodels": [
+      "21A MANUAL",
+      "22A AUTOMATIC",
+      "AUTO",
+      "Base",
+      "ROADSTER 5SPD AUTO",
+      "ROADSTER 6PD MANUAL",
+      "ROADSTER 6SD MANUAL",
+      "SRT-6 COUPE",
+      "SRT-6 ROADSTER"
+    ]
+  },
+  {
+    "model": "GRAND VOYAGER",
+    "count": 163,
+    "submodels": [
+      "2.8",
+      "2.8 AT",
+      "2.8 AT ABS",
+      "2.8 AT L",
+      "2.8 ATL 14TD",
+      "2.8L CRD AUTO LTD",
+      "Base",
+      "EXECUTIVE CRD",
+      "LE LWB",
+      "LIMITED",
+      "LIMITED 2.8D/6AT/SW/",
+      "LIMITED 2.8D6A/SW5D7",
+      "LIMITED CRD",
+      "LTD",
+      "LX",
+      "RT CRD LTD",
+      "RT LTD",
+      "STOW'N GO",
+      "TOURING"
+    ]
+  },
+  {
+    "model": "JEEP",
+    "count": 133,
+    "submodels": [
+      "3.7L",
+      "Base",
+      "CHEROKEE",
+      "COMPASS",
+      "GRAND CHEROKEE",
+      "GRAND CHEROKEE SRT",
+      "GRAND CHEROKEE SRT/8",
+      "GRAND CHEROKEE SRT8",
+      "GRAND WAGONEER",
+      "LAREDO",
+      "LIMITED",
+      "LONGITUDE",
+      "PATRIOT",
+      "SRT8",
+      "WRANGLER",
+      "WRANGLER  SPORT",
+      "WRANGLER UNLIMITED"
+    ]
+  },
+  {
+    "model": "CHARGER",
+    "count": 82,
+    "submodels": [
+      "265",
+      "318 V EIGHT",
+      "770",
+      "Base",
+      "CHARGER 265",
+      "COUPE A",
+      "E33",
+      "E37 6 PACK",
+      "E49",
+      "HEMI 265 770",
+      "R/T",
+      "R/T 265",
+      "R/T 2D6",
+      "R/T E49",
+      "RT",
+      "VALIANT",
+      "VH",
+      "VJ",
+      "VJ COUPE",
+      "XL"
+    ]
+  },
+  {
+    "model": "NEW YORKER",
+    "count": 51,
+    "submodels": [
+      "4DOOR SEDAN",
+      "Base",
+      "BROUGHAM",
+      "C300",
+      "C39",
+      "DELUXE",
+      "HIGHLANDER COUPE",
+      "LANDAU",
+      "NEWPORT  2 DOOR",
+      "SARATOGA",
+      "SEDAN",
+      "ST.REGIS"
+    ]
+  },
+  {
+    "model": "IMPERIAL",
+    "count": 50,
+    "submodels": [
+      "Base",
+      "CROWN",
+      "CROWN COUPE",
+      "LE BARON",
+      "LEBARON",
+      "VY1  CROWN COUPE"
+    ]
+  },
+  {
+    "model": "REGAL",
+    "count": 36,
+    "submodels": [
+      "408A",
+      "770",
+      "Base",
+      "COUPE",
+      "HARD TOP",
+      "HARDTOP",
+      "SAFARI",
+      "SE",
+      "V8",
+      "VF",
+      "VG HARDTOP",
+      "VJ COUPE"
+    ]
+  },
+  {
+    "model": "GRAND CHEROKEE",
+    "count": 35,
+    "submodels": [
+      "4X4 LIMITED",
+      "5.7L HEMI",
+      "Base",
+      "GRAND CHEROKEE",
+      "HEMI SRT8",
+      "JEEP SRT 4X4",
+      "LAREDO",
+      "LIMITED 5.7L HEMI",
+      "SRT",
+      "SRT8"
+    ]
+  },
+  {
+    "model": "NEWPORT",
+    "count": 35,
+    "submodels": [
+      "Base",
+      "CUSTOM",
+      "TOWN & COUNTRY"
+    ]
+  },
+  {
+    "model": "SEBRING",
+    "count": 35,
+    "submodels": [
+      "2.7L V6 CABRIO LTD",
+      "Base",
+      "JS",
+      "JXI",
+      "LIMITED",
+      "LTD 2.4L",
+      "LXI",
+      "SEBRING LTD 2.4L"
+    ]
+  },
+  {
+    "model": "PLYMOUTH",
+    "count": 27,
+    "submodels": [
+      "4",
+      "BARACUDA",
+      "Base",
+      "DELUXE",
+      "DUSTER",
+      "GTX",
+      "P7",
+      "PFX",
+      "PROWLER",
+      "ROADRUNNER",
+      "SATELLITE",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "WINDSOR",
+    "count": 18,
+    "submodels": [
+      "2 DOOR",
+      "Base",
+      "C60",
+      "HEARSE",
+      "LIMO"
+    ]
+  },
+  {
+    "model": "70",
+    "count": 13,
+    "submodels": [
+      "/6",
+      "Base",
+      "FINER",
+      "ROADSTER",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "DODGE",
+    "count": 13,
+    "submodels": [
+      "AVENGER SXT",
+      "Base",
+      "CALIBER",
+      "CALIBER SXT",
+      "JOURNEY",
+      "NITRO",
+      "POLARA",
+      "SIERRA",
+      "VIPER"
+    ]
+  },
+  {
+    "model": "NEON",
+    "count": 13,
+    "submodels": [
+      "2.0I",
+      "Base",
+      "LE",
+      "LE AUTO",
+      "LX AUTO",
+      "SE",
+      "SE MANUAL"
+    ]
+  },
+  {
+    "model": "CJ",
+    "count": 12,
+    "submodels": [
+      "AUTO LIMOUSINE",
+      "Base",
+      "CJ SEDAN",
+      "LIMO",
+      "ROADSTER",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "ROADSTER",
+    "count": 12,
+    "submodels": [
+      "50",
+      "75",
+      "Base",
+      "BOAT TAIL",
+      "CONVERTIBLE",
+      "SIX"
+    ]
+  },
+  {
+    "model": "ROYAL",
+    "count": 11,
+    "submodels": [
+      "Base",
+      "BUSINESS COUPE",
+      "C16",
+      "C18",
+      "COUPE",
+      "V8 TORQUEFLITE"
+    ]
+  },
+  {
+    "model": "COUPE",
+    "count": 10,
+    "submodels": [
+      "300",
+      "Base",
+      "C6",
+      "P4",
+      "SARATOGA",
+      "VALIANT",
+      "VG"
+    ]
+  },
+  {
+    "model": "SEDAN",
+    "count": 10,
+    "submodels": [
+      "66",
+      "Base",
+      "PJ",
+      "SE"
+    ]
+  },
+  {
+    "model": "CORDOBA",
+    "count": 8,
+    "submodels": [
+      "1976",
+      "Base"
+    ]
+  },
+  {
+    "model": "66",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "ROADSTER",
+      "ROYAL COUPE",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "77",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "CROWN COUPE",
+      "ROYAL COUPE",
+      "SPEEDSTER"
+    ]
+  },
+  {
+    "model": "HUNTER",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "SUPER"
+    ]
+  },
+  {
+    "model": "LE BARON",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "GTC",
+      "TOWN AND COUNTRY"
+    ]
+  },
+  {
+    "model": "RANGER",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "XL",
+      "XL VJ AUTO"
+    ]
+  },
+  {
+    "model": "TOWN & COUNTRY",
+    "count": 6,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "AVENGER",
+    "count": 5,
+    "submodels": [
+      "1.3 GL",
+      "1.6 GLS",
+      "Base",
+      "GLS",
+      "SXT 2.7L V6"
+    ]
+  },
+  {
+    "model": "CHEROKEE",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "JEEP GRAND"
+    ]
+  },
+  {
+    "model": "CONVERTIBLE",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "C8 AIRSTREAM DELUX",
+      "EMPERIAL 80",
+      "P10",
+      "P2"
+    ]
+  },
+  {
+    "model": "FIFTH AVENUE",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "EDITION"
+    ]
+  },
+  {
+    "model": "PROWLER",
+    "count": 5,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "300L",
+    "count": 4,
+    "submodels": [
+      "SEDEN",
+      "Base"
+    ]
+  },
+  {
+    "model": "SIX",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "CM",
+      "G70"
+    ]
+  },
+  {
+    "model": "50",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "52",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "PHAETON",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "65",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "STANDARD SIX",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TOURING SEDAN",
+    "count": 3,
+    "submodels": [
+      "66",
+      "Base",
+      "C7"
+    ]
+  },
+  {
+    "model": "G70",
+    "count": 2,
+    "submodels": [
+      "FACTORY RACING",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "LIMO",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SE",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SERIES CM",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TOURER",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "HHH"
+    ]
+  },
+  {
+    "model": "YPSILON",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1939",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "300M",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "37",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "AIRFLOW",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "B70",
+    "count": 1,
+    "submodels": [
+      "TOURER"
+    ]
+  },
+  {
+    "model": "CH6",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CM4H41",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CONQUEST",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DELUXE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DODGE ASPEN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "HARDTOP",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "P8",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "PACER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "PANEL VAN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "PJ DELUXE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "RANGER XL",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SE 8",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SIGMA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VAL CHARGER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VALIANT 8H",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VALIANT HARDTOP",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VALIANT PACE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VIP",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

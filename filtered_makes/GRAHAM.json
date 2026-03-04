@@ -1,0 +1,43 @@
+[
+  {
+    "model": "PAIGE",
+    "count": 8,
+    "submodels": [
+      "612",
+      "612 ROADSTER",
+      "621",
+      "827",
+      "Base",
+      "COUPE"
+    ]
+  },
+  {
+    "model": "CRUSADER",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "LVV"
+    ]
+  },
+  {
+    "model": "612",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "96",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BROTHERS",
+    "count": 1,
+    "submodels": [
+      "SPECIAL EIGHT"
+    ]
+  }
+]

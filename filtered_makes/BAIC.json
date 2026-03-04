@@ -1,0 +1,19 @@
+[
+  {
+    "model": "X55",
+    "count": 21,
+    "submodels": [
+      "LV2 1.5PT/7AT",
+      "PREMIUM 1.5PT/7AT"
+    ]
+  },
+  {
+    "model": "B30",
+    "count": 17,
+    "submodels": [
+      "ELITE ADV. 1.5PT/7AT",
+      "PREM ADV 1.5PEHT/AWD",
+      "PREMIUM 1.5PEHT/AT"
+    ]
+  }
+]

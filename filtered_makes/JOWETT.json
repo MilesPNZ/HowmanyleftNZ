@@ -1,0 +1,55 @@
+[
+  {
+    "model": "JAVELIN",
+    "count": 9,
+    "submodels": [
+      "Base",
+      "DELUXE",
+      "JUPITER"
+    ]
+  },
+  {
+    "model": "7",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "JUPITER",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "10",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BRADFORD",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "FLYING FOX"
+    ]
+  },
+  {
+    "model": "8",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FLYING FOX",
+    "count": 1,
+    "submodels": [
+      "ROADSTER"
+    ]
+  }
+]

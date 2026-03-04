@@ -1,0 +1,33 @@
+[
+  {
+    "model": "MK5",
+    "count": 11,
+    "submodels": [
+      "Base",
+      "LWB",
+      "MG TF REPLICA"
+    ]
+  },
+  {
+    "model": "MK2",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "MG REPLICA"
+    ]
+  },
+  {
+    "model": "MK6",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MK 5",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

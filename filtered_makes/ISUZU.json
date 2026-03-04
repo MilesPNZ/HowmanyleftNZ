@@ -1,0 +1,164 @@
+[
+  {
+    "model": "BIGHORN",
+    "count": 75,
+    "submodels": [
+      "2.0D IRMSCHER-S",
+      "3.0D INTERCOOLER",
+      "3.1 D",
+      "3.1 D INTERCOOLER",
+      "3.1D",
+      "3.1D INTERCOOLER",
+      "3.2 V6",
+      "Base",
+      "FEILD STAR",
+      "IRMSCHER",
+      "IRMSCHER - R",
+      "IRMSCHER-S",
+      "LS DIESEL",
+      "PLAISIR",
+      "SPECIAL EDITION",
+      "TURBO D",
+      "XS"
+    ]
+  },
+  {
+    "model": "WIZARD",
+    "count": 42,
+    "submodels": [
+      "ALIVE",
+      "ALIVE V6",
+      "Base",
+      "LS",
+      "LTD",
+      "MU",
+      "V6"
+    ]
+  },
+  {
+    "model": "MU-X",
+    "count": 25,
+    "submodels": [
+      "Base",
+      "LS T WAGON",
+      "LS-T",
+      "LSM 4X4"
+    ]
+  },
+  {
+    "model": "GEMINI",
+    "count": 23,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "COUPE SL",
+      "IRMSCHER",
+      "OZ",
+      "OZ SE",
+      "SL"
+    ]
+  },
+  {
+    "model": "MU",
+    "count": 23,
+    "submodels": [
+      "Base",
+      "WIZARD",
+      "X",
+      "XS"
+    ]
+  },
+  {
+    "model": "ASKA",
+    "count": 13,
+    "submodels": [
+      "Base",
+      "CX"
+    ]
+  },
+  {
+    "model": "COMO",
+    "count": 11,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FARGO",
+    "count": 11,
+    "submodels": [
+      "Base",
+      "FILLY",
+      "LS"
+    ]
+  },
+  {
+    "model": "FILLY",
+    "count": 8,
+    "submodels": [
+      "Base",
+      "FARGO"
+    ]
+  },
+  {
+    "model": "VEHICROSS",
+    "count": 5,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "117",
+    "count": 3,
+    "submodels": [
+      "COUPE",
+      "XC"
+    ]
+  },
+  {
+    "model": "PIAZZA",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "COUPE"
+    ]
+  },
+  {
+    "model": "TROOPER",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "PLAISIR"
+    ]
+  },
+  {
+    "model": "BELLETT",
+    "count": 2,
+    "submodels": [
+      "1600 GT",
+      "Base"
+    ]
+  },
+  {
+    "model": "D-MAX",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "LS 4X4 3.0TD"
+    ]
+  },
+  {
+    "model": "BIGHORN IRMSCHER 2.8",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "RODEO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

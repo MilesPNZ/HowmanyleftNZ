@@ -1,0 +1,60 @@
+[
+  {
+    "model": "CF",
+    "count": 13,
+    "submodels": [
+      "350",
+      "Base",
+      "FREEWAY"
+    ]
+  },
+  {
+    "model": "CAB",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CF2 280P",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CF250",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CF280",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CFZ280P",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "HA",
+    "count": 1,
+    "submodels": [
+      "DORMOBILE ROMA"
+    ]
+  },
+  {
+    "model": "K",
+    "count": 1,
+    "submodels": [
+      "MWC"
+    ]
+  }
+]

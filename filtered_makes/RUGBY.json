@@ -1,0 +1,50 @@
+[
+  {
+    "model": "F",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "M2",
+      "ROADSTER",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "M",
+    "count": 4,
+    "submodels": [
+      "1926",
+      "Base",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "4R",
+    "count": 2,
+    "submodels": [
+      "4DR SEDAN",
+      "Base"
+    ]
+  },
+  {
+    "model": "4.07",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "40",
+    "count": 1,
+    "submodels": [
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "D40",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

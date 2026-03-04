@@ -1,0 +1,9 @@
+[
+  {
+    "model": "DAKAR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

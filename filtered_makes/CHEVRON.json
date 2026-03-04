@@ -1,0 +1,35 @@
+[
+  {
+    "model": "SPORTSCAR",
+    "count": 14,
+    "submodels": [
+      "APRISA",
+      "Base",
+      "CLASSIC",
+      "LOTUS 7 REPLICA 1600",
+      "SPORT",
+      "VAUXHALL"
+    ]
+  },
+  {
+    "model": "SPORTS",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CHEVRON",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CLASSIC",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

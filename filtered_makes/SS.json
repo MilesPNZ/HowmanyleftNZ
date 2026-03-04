@@ -1,0 +1,17 @@
+[
+  {
+    "model": "1",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "TWO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

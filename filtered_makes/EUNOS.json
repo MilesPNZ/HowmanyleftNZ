@@ -1,0 +1,51 @@
+[
+  {
+    "model": "ROADSTER",
+    "count": 591,
+    "submodels": [
+      "Base",
+      "MX-5",
+      "MX5",
+      "ROADSTER",
+      "SPORTS",
+      "V SPEC"
+    ]
+  },
+  {
+    "model": "500",
+    "count": 10,
+    "submodels": [
+      "Base",
+      "V6 1.8"
+    ]
+  },
+  {
+    "model": "COSMO",
+    "count": 7,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "PRESSO",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "V6"
+    ]
+  },
+  {
+    "model": "100",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "800",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

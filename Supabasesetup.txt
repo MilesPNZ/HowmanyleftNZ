@@ -1,0 +1,61 @@
+** SQL COMMANDS TO RUN LOCALLY IN DB Browser **
+1. This command will take the uploaded vehicles table from the raw NZTA data, create 8 columns and format the data for site use
+
+CREATE TABLE counts_current AS
+SELECT
+    make,
+    model,
+    submodel,
+    vehicle_year,
+    COALESCE(motive_power, alternative_motive_power, '') AS fuel_type,
+    class,
+    COUNT(*) AS count,
+    DATE('now') AS snapshot_date
+FROM vehicles
+GROUP BY make, model, submodel, vehicle_year, fuel_type, class;
+
+2. Drop the vehicles table to save space
+DROP TABLE vehicles;
+
+
+3. Run the following command in a CMD window in the database directory (make sure SQLite3.exe is in the same directory)
+sqlite3 nz_vehicles.db "VACUUM;"
+
+4. Upload using the following command
+docker run --rm --memory=8g -v "E:/Website projects/Howmanyleft-newzealand/nz_vehicles.db:/data/nz_vehicles.db" ghcr.io/dimitri/pgloader:latest pgloader --no-ssl-cert-verification sqlite:///data/nz_vehicles.db "postgresql://postgres.noeivqmwnlnbakbyttrt:Airbus3501991!@aws-1-ap-south-1.pooler.supabase.com:6543/postgres"
+
+
+** SQL COMMANDS TO RUN LOCALLY IN Supabase **
+1. This command will optimise the data for speed and efficiency
+
+-- Enable trigram extension for fast partial-match searches (ILIKE '%term%')
+CREATE EXTENSION IF NOT EXISTS pg_trgm;
+
+-- Core indexes
+CREATE INDEX idx_counts_make_model
+    ON counts_current (make, model);
+
+CREATE INDEX idx_counts_year
+    ON counts_current (vehicle_year);
+
+CREATE INDEX idx_counts_fuel
+    ON counts_current (fuel_type);
+
+CREATE INDEX idx_counts_count_desc
+    ON counts_current (count DESC);
+
+-- Trigram indexes — make ILIKE super fast
+CREATE INDEX idx_counts_make_model_trgm
+    ON counts_current USING GIN ((make || ' ' || model) gin_trgm_ops);
+
+CREATE INDEX idx_counts_model_trgm
+    ON counts_current USING GIN (model gin_trgm_ops);
+
+
+2. -- Quick verification (run this last)
+
+SELECT
+    COUNT(*) AS row_count,
+    SUM(count) AS total_vehicles,
+    COUNT(DISTINCT make) AS unique_makes
+FROM counts_current;

@@ -1,0 +1,11 @@
+[
+  {
+    "model": "PANTERA",
+    "count": 12,
+    "submodels": [
+      "Base",
+      "GT5S",
+      "GTS"
+    ]
+  }
+]

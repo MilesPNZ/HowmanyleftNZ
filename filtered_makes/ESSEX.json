@@ -1,0 +1,76 @@
+[
+  {
+    "model": "SUPER 6",
+    "count": 44,
+    "submodels": [
+      "RS COUPE",
+      "Base",
+      "BOAT-TAIL",
+      "CHALLENGER",
+      "CHALLENGER COUPE",
+      "COACH",
+      "COUPE",
+      "SIX",
+      "STANDARD SEDAN"
+    ]
+  },
+  {
+    "model": "4",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "ROADSTER",
+      "TOURER MODEL A"
+    ]
+  },
+  {
+    "model": "TOURER",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SUPER CHALLENGER",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TERRAPLANE",
+    "count": 2,
+    "submodels": [
+      "8",
+      "ESTATE 8"
+    ]
+  },
+  {
+    "model": "6 SERIES 2",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CAR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "COACH",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SUPER SIX",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

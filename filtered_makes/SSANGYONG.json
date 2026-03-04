@@ -1,0 +1,146 @@
+[
+  {
+    "model": "KORANDO",
+    "count": 3776,
+    "submodels": [
+      "2WD SPORT LIMITED",
+      "4X2 AUTO DIESEL",
+      "4X2 MANUAL DIESEL",
+      "4X4 AUTO DIESEL",
+      "AUTO 2WD 1.5PT",
+      "Base",
+      "C300 LIMITED 1.5PT",
+      "C300 SPORT 1.5PT",
+      "D20T",
+      "DIESEL AUTO",
+      "E-MOTION 62KWH/EV",
+      "ELX  TGDI AUTO",
+      "G20D",
+      "LIMITED AUTO 2WD 1.5",
+      "LIMITED PLUS AUTO",
+      "PETROL 2WD M SPORT",
+      "PETROL 2WD SPORT A6",
+      "PETROL AUTO LIMITED",
+      "PETROL MAN 2WD 2.0P",
+      "SPORT AUTO 2WD 1.5P",
+      "SPORT AUTO 2WD 1.5PT",
+      "SPORTS AUTO 2WD 2.0P",
+      "SPORTS PET AUTO 2WD",
+      "SPORTS PETROL MAN 2W",
+      "SPR PETROL 2WD 2.0P"
+    ]
+  },
+  {
+    "model": "TIVOLI",
+    "count": 1979,
+    "submodels": [
+      "Base",
+      "ELX 1.6P 1.6P",
+      "ELX 2WD D 1.6D",
+      "EX",
+      "LIMITED 1.5PT",
+      "LTD 4WD MAN 1.5PT",
+      "LTD AUTO 1.5PT",
+      "LTD AUTO 1.6P/6AT/SW",
+      "LTD DIESEL AUTO 1.6D",
+      "LTD DIESEL MAN 1.6D",
+      "LTD LWB 1.6P/6AT/SW",
+      "SPORT AUTO 1.5PT",
+      "SPORTS AUTO 1.6P/6AT",
+      "SPORTS MANUAL 1.6P/6",
+      "ULT 4WD D 1.6D",
+      "ULTIMATE",
+      "XLV ELX 2WD D 1.6D",
+      "XLV ELX P 1.6P",
+      "XLV ULT 4WD D 1.6D"
+    ]
+  },
+  {
+    "model": "G4 REXTON",
+    "count": 339,
+    "submodels": [
+      "PETROL SPORT 2.0PT",
+      "TEAM MATE 2.2DT/7AT",
+      "TEAMMATE PETROL 2.0P"
+    ]
+  },
+  {
+    "model": "REXTON",
+    "count": 210,
+    "submodels": [
+      "2.7 DIESEL 4WD A/T",
+      "AWD",
+      "DIESEL AUTO",
+      "PETROL AUTO",
+      "PETROL AUTOMATIC",
+      "REXTON DIESEL AUTO",
+      "REXTON PETROL AUTO",
+      "RX320",
+      "SPORTS 360 2.0D/4WD",
+      "SPORTS 360 2.0D/5AT",
+      "SPORTS 360 ESC 2.0D"
+    ]
+  },
+  {
+    "model": "STAVIC",
+    "count": 195,
+    "submodels": [
+      "2.0 DIESEL SPR",
+      "2.0L DIESEL",
+      "2.7 AUTO 2WD SPR",
+      "2.7 DIESEL  A/T",
+      "2.7 DIESEL 2WD A/T",
+      "2.7 DIESEL A/T",
+      "2.7 DIESELD A/T",
+      "27 DIESEL A/T",
+      "4WDFACTORYAMBULANC 2",
+      "8 SEAT AUTO ESC 2.0D",
+      "8SEATAUTO 2.0D5A/LV5",
+      "Base",
+      "RODIUS",
+      "SPR 4X4",
+      "SPR11SEATAUTO 2.0D/4",
+      "SPR8SEATAUTO 2.0D4WD",
+      "SPR9SEATSPECIAL 2.0D"
+    ]
+  },
+  {
+    "model": "MUSSO",
+    "count": 37,
+    "submodels": [
+      "Base",
+      "SPORT",
+      "SPORTS"
+    ]
+  },
+  {
+    "model": "ACTYON SPORT",
+    "count": 18,
+    "submodels": [
+      "2.0 DIESEL 2WD A/T",
+      "2.0 DIESEL 2WD M/T"
+    ]
+  },
+  {
+    "model": "ACTYON",
+    "count": 2,
+    "submodels": [
+      "2.3 PETROL 2WD AUTO",
+      "Base"
+    ]
+  },
+  {
+    "model": "CHAIRMAN",
+    "count": 2,
+    "submodels": [
+      "3.2 PETROL A/T"
+    ]
+  },
+  {
+    "model": "KYRON",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

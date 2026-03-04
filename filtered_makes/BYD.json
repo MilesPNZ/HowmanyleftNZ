@@ -1,0 +1,125 @@
+[
+  {
+    "model": "ATTO 3",
+    "count": 5805,
+    "submodels": [
+      "3",
+      "Base",
+      "ELECTRIC",
+      "ESSENTIAL EV 50KWH",
+      "EV",
+      "EXTENDED RANGE 60KW",
+      "EXTENDED RANGE 60KWH",
+      "STANDARD RANGE 50KWH",
+      "SUPERIOR EV 60KWH/EV",
+      "TACHYON EXTENDED RAN"
+    ]
+  },
+  {
+    "model": "SEALION 6",
+    "count": 1058,
+    "submodels": [
+      "DYNAMIC EXTENDED PHE",
+      "DYNAMIC PHEV/AT",
+      "ESSENTIAL 2WD PHEV",
+      "PREMIUM EXTENDED PHE",
+      "PREMIUM PHEV/AWD/HD"
+    ]
+  },
+  {
+    "model": "DOLPHIN",
+    "count": 894,
+    "submodels": [
+      "Base",
+      "ELECTRIC",
+      "ESSENTIAL EV 45KWH",
+      "ESSENTIAL STANDARD R",
+      "EXTENDED RANGE",
+      "EXTENDED RANGE 60KWH",
+      "PREMIUM EV 60KWH",
+      "STANDARD RANGE 45KWH"
+    ]
+  },
+  {
+    "model": "SEALION 7",
+    "count": 398,
+    "submodels": [
+      "PERFORMANCE AWD SUV",
+      "PREMIUM 2WD SUV"
+    ]
+  },
+  {
+    "model": "SEAL",
+    "count": 260,
+    "submodels": [
+      "DYNAMIC 61KWH/EV/AT",
+      "DYNAMIC EV 61KWH/EV",
+      "PERFORMANCE AWD",
+      "PREMIUM 83KWH/EV",
+      "PREMIUM EV 83KWH/EV",
+      "RWD 83KWH"
+    ]
+  },
+  {
+    "model": "ATTO 1",
+    "count": 130,
+    "submodels": [
+      "ESSENTIAL EV 30KWH",
+      "PREMIUM EV 43KWH/EV"
+    ]
+  },
+  {
+    "model": "SEALION 5",
+    "count": 126,
+    "submodels": [
+      "ESSENTIAL PHEV SUV",
+      "PREMIUM PHEV SUV"
+    ]
+  },
+  {
+    "model": "ATTO 2",
+    "count": 113,
+    "submodels": [
+      "DYNAMIC EV 51KWH/EV",
+      "PREMIUM EV 51KWH/EV"
+    ]
+  },
+  {
+    "model": "E6H",
+    "count": 51,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SEALION 8",
+    "count": 36,
+    "submodels": [
+      "DM-I DYNAMIC FWD",
+      "DM-P DYNAMIC AWD",
+      "DM-P PREMIUM AWD"
+    ]
+  },
+  {
+    "model": "E6Y",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "SPACE"
+    ]
+  },
+  {
+    "model": "SEAL 6",
+    "count": 1,
+    "submodels": [
+      "TOURING PREMIUM PHEV"
+    ]
+  },
+  {
+    "model": "SEAL U",
+    "count": 1,
+    "submodels": [
+      "SEAL U SUPERIOR PHEV"
+    ]
+  }
+]

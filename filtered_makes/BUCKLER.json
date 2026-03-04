@@ -1,0 +1,16 @@
+[
+  {
+    "model": "90",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DD2",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

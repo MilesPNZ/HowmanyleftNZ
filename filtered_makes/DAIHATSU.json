@@ -1,0 +1,481 @@
+[
+  {
+    "model": "SIRION",
+    "count": 4847,
+    "submodels": [
+      "1.0 HATCH 5MT",
+      "1.0P HATCH 4A",
+      "1.0P HATCH 5M",
+      "1.3",
+      "1.3 GS",
+      "1.3GTVI",
+      "1.3P",
+      "1.3P GS",
+      "1.3P GS HATCH",
+      "1.3P GS HATCH 4A",
+      "1.3P HATCH 4A",
+      "1.3P HATCH 5M",
+      "1.5 SX",
+      "1.5P SX HATCH 4AT",
+      "1.5P X5 HATCH 4AT",
+      "Base",
+      "BOON",
+      "GT4",
+      "L3 GS",
+      "LX",
+      "LX 1.0 5DR 5M HATCH",
+      "LX 1.3 5DR 4A HATCH",
+      "LX 1.3 5DR 5M HATCH",
+      "LXA 1.0 5DR 4A HATCH",
+      "M100RS DX",
+      "RALLY IV",
+      "SIRION 1.0P HATCH 5M",
+      "SIRION 1.3P HATCH 4A",
+      "SIRION 1.3P HATCH 5M"
+    ]
+  },
+  {
+    "model": "CHARADE",
+    "count": 681,
+    "submodels": [
+      "1.3 CX",
+      "1.0P HATCH 5 4A",
+      "1.0P HATCH 5 5M",
+      "1.0P HATCH5 4A",
+      "1.0P HATCH5 5M",
+      "1.3 I",
+      "APPLAUSE",
+      "Base",
+      "CR",
+      "CS",
+      "CX",
+      "DE TOMASO",
+      "DETOMASO",
+      "DIESEL",
+      "DIESEL TS",
+      "GT TI",
+      "GTI",
+      "GTXX",
+      "KISSA",
+      "KISSA 1.3I",
+      "LS 1.3",
+      "LSI 1.3",
+      "LSI 1.3 5DR 5M HATCH",
+      "LXI 1.3 AUTO",
+      "LXI 1.5 AUTO",
+      "POSE",
+      "R  LIMITED",
+      "R-LIMITED",
+      "SOCIAL",
+      "SX",
+      "TS",
+      "TURBO",
+      "TX"
+    ]
+  },
+  {
+    "model": "TERIOS",
+    "count": 611,
+    "submodels": [
+      "1.3P HATCH 4A",
+      "1.3P WAGON 4A",
+      "1.3P WAGON 5M",
+      "1.5P 2WD SX WAGN5 5M",
+      "1.5P WAGON5 4A",
+      "Base",
+      "BE-GO",
+      "CL",
+      "KID",
+      "TERIOS 1.3P HATCH 4A",
+      "TERIOS 1.3P HATCH 5M",
+      "TR",
+      "TR 1.3DVVT 5M 5D RV",
+      "TRS 1.3 5DR 4AUTO RV",
+      "TRS 1.3 5DR 5MAN RV",
+      "TRS 1.3DVVT 4A 5D RV",
+      "TRS 1.3DVVT 5M 5D RV"
+    ]
+  },
+  {
+    "model": "BOON",
+    "count": 366,
+    "submodels": [
+      "1.3 DX",
+      "1.3L",
+      "1300",
+      "5DOOR CX AT DOHC",
+      "Base",
+      "CILQ",
+      "CUSTOM",
+      "LUMINAS",
+      "SIRION"
+    ]
+  },
+  {
+    "model": "BEGO",
+    "count": 279,
+    "submodels": [
+      "1500",
+      "1500-4WD",
+      "Base",
+      "CX 4WD 5MT"
+    ]
+  },
+  {
+    "model": "MATERIA",
+    "count": 239,
+    "submodels": [
+      "1.5P HATCH5 4A",
+      "1.5P HATCH5 5M"
+    ]
+  },
+  {
+    "model": "YRV",
+    "count": 222,
+    "submodels": [
+      "1.3 5DR 4A HATCH",
+      "1.3 5DR 5M HATCH",
+      "4WD",
+      "AERO S PACK",
+      "Base",
+      "PARCO",
+      "TURBO",
+      "TURBO R"
+    ]
+  },
+  {
+    "model": "MIRA",
+    "count": 148,
+    "submodels": [
+      "5MRA 1.0P HATCH 4A",
+      "Base",
+      "E.S",
+      "E:S",
+      "ES",
+      "GINA",
+      "GINO",
+      "LS 1.0 5DR 5M HATCH",
+      "LS 4SP MAN",
+      "LS MAN",
+      "LX",
+      "LX 1.0 5DR 5M HATCH",
+      "LX AUTO",
+      "LX MAN",
+      "LXA 1.0 5DR 5A HATCH",
+      "LXIA AUTO",
+      "MIRA 1.0P HATCH 4A",
+      "TRXX AVANZATO R4"
+    ]
+  },
+  {
+    "model": "PYZAR",
+    "count": 96,
+    "submodels": [
+      "AERO",
+      "AERO CUSTOM",
+      "AEROCUSTOM",
+      "Base",
+      "CX",
+      "GRV L",
+      "GRV L 1.6 5DR 5MAN",
+      "GRV S",
+      "GRV S 1.6 5DR 4AUTO",
+      "GRV S 1.6 5DR 5MAN",
+      "GRV S 1.6 5DR AUTO",
+      "GRV S AUTO"
+    ]
+  },
+  {
+    "model": "COO",
+    "count": 86,
+    "submodels": [
+      "1.5L",
+      "1500",
+      "Base"
+    ]
+  },
+  {
+    "model": "STORIA",
+    "count": 79,
+    "submodels": [
+      "1.3",
+      "1.3 TOURING",
+      "Base",
+      "CL",
+      "CX",
+      "CX1.0",
+      "CX5",
+      "L3",
+      "LIMITED"
+    ]
+  },
+  {
+    "model": "ALTIS",
+    "count": 71,
+    "submodels": [
+      "2.2",
+      "2.4",
+      "AUTO HYBRID",
+      "Base",
+      "G",
+      "HYBRID",
+      "HYBRID SYNERGY DRIVE",
+      "X"
+    ]
+  },
+  {
+    "model": "COPEN",
+    "count": 66,
+    "submodels": [
+      "1.3P COUPE CONV 5M",
+      "660 TP CONV COUPE 5M",
+      "Base",
+      "L880",
+      "ROBE",
+      "XPLAY"
+    ]
+  },
+  {
+    "model": "HIJET",
+    "count": 36,
+    "submodels": [
+      "Base",
+      "CARGO",
+      "GRAN CARGO"
+    ]
+  },
+  {
+    "model": "ROCKY",
+    "count": 29,
+    "submodels": [
+      "1L PETROL",
+      "Base",
+      "HYBRID",
+      "SX"
+    ]
+  },
+  {
+    "model": "MOVE",
+    "count": 28,
+    "submodels": [
+      "Base",
+      "CANBUS",
+      "CL 5M 850 5DR P",
+      "CLA 3A 850 5DR P",
+      "L601RS",
+      "LX 1.0 5DR 5M HATCH",
+      "LXA 1.0 5DR 3A HATCH"
+    ]
+  },
+  {
+    "model": "MEBIUS",
+    "count": 21,
+    "submodels": [
+      "Base",
+      "HYBRID"
+    ]
+  },
+  {
+    "model": "ATRAI",
+    "count": 14,
+    "submodels": [
+      "7",
+      "Base",
+      "RS"
+    ]
+  },
+  {
+    "model": "TANTO",
+    "count": 6,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "THOR",
+    "count": 6,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "APPLAUSE",
+    "count": 5,
+    "submodels": [
+      "1.6 XI LIMITED",
+      "Base",
+      "LI"
+    ]
+  },
+  {
+    "model": "DELTA",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MIRA LS",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CAST",
+    "count": 3,
+    "submodels": [
+      "ACTIVA",
+      "Base"
+    ]
+  },
+  {
+    "model": "FEROZA",
+    "count": 3,
+    "submodels": [
+      "EF1",
+      "EFI"
+    ]
+  },
+  {
+    "model": "NAKED",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CUORE",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ESSE",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TAFT",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "G TURBO"
+    ]
+  },
+  {
+    "model": "APPLAUSE EXI",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CHARADE 1.3 CX",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CHARADE 1.3 EX",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CHARADE 1.3 LX AUTO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CHARADE CX AUTO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DELTA V57 HS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DELTAWIDE",
+    "count": 1,
+    "submodels": [
+      "SG"
+    ]
+  },
+  {
+    "model": "FEROZA EFI",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "HI JET 585",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "HIJET STD ROOF",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "L38 360MAX",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MIRA LX",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MIRA LXXX",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SONICA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TUK TUK",
+    "count": 1,
+    "submodels": [
+      "SD"
+    ]
+  },
+  {
+    "model": "WAKE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

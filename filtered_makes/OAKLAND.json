@@ -1,0 +1,32 @@
+[
+  {
+    "model": "ROADSTER",
+    "count": 3,
+    "submodels": [
+      "34C",
+      "SPORT",
+      "SPORT PHAETON"
+    ]
+  },
+  {
+    "model": "34B",
+    "count": 1,
+    "submodels": [
+      "RHD TOURING CAR"
+    ]
+  },
+  {
+    "model": "COSMOPOLITAN",
+    "count": 1,
+    "submodels": [
+      "SIX"
+    ]
+  },
+  {
+    "model": "TOURING",
+    "count": 1,
+    "submodels": [
+      "MODEL 40"
+    ]
+  }
+]

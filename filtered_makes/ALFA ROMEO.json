@@ -1,0 +1,723 @@
+[
+  {
+    "model": "GIULIETTA",
+    "count": 949,
+    "submodels": [
+      "1.4T MULTIAIR",
+      "1.4TB",
+      "1.8",
+      "1.8P 5D 6SP QV",
+      "2.0 JTD TCT 6A",
+      "2.0 JTD-M",
+      "5D 6SP",
+      "Base",
+      "DISTINCTIVE 1.4P/6MT",
+      "PROGRESSION 1.4P/6AT",
+      "PROGRESSION 1.4P/6MT",
+      "PROGRESSION 1.4P6A/H",
+      "QV 1.7P/6AT/HA/5DR/5",
+      "QV 1.7P/6MT/HA/5DR/5",
+      "SPIDER",
+      "SPORTIVA",
+      "SPORTIVA JTDM-2",
+      "SPRINT",
+      "SPYDER 750D",
+      "TCT 1.4P/6AT",
+      "TCT 1.4P/6AT/HA/5DR",
+      "TCT 6A",
+      "VELOCE",
+      "VELOCE 1.7PT/6AM"
+    ]
+  },
+  {
+    "model": "147",
+    "count": 449,
+    "submodels": [
+      "2.0L SELESPEED",
+      "1.6",
+      "1.6 T SPARK",
+      "1.6 T. SPARK",
+      "1.6 T.SPARK",
+      "1.6 TELESPEED",
+      "1.9 JTD 16V 5DR 6 SP",
+      "147 2.0 T SPARK",
+      "2.0 5DR SELESPEED",
+      "2.0 SPARK",
+      "2.0 T SPARK",
+      "2.0 T.SPARK",
+      "2.0 TS",
+      "2.0L TS",
+      "2.0P/5AT SELESPEED",
+      "2.0P/5MT",
+      "2.0P/5MT SELESPEED",
+      "2.0S/SPEED 3D5AP",
+      "2.0S/SPEED 5D5AP",
+      "2.0T SPARK",
+      "2.0TS 5D5MP",
+      "2.0TS16V 3DRP5SPM",
+      "3.2 GTA",
+      "A FELESPEED",
+      "Base",
+      "COLLEZIONE 1.9 JTDM",
+      "GTA",
+      "GTA 6 SPEED MANUAL",
+      "GTA SELESPEED",
+      "JTD 1.9D/5MT",
+      "MONZA",
+      "MONZA 2.0 T.SPARK",
+      "SELESPEED",
+      "SELSSPEED",
+      "SPIDER",
+      "T.SPARK",
+      "TELESPEED",
+      "TELESPEED 147",
+      "TI",
+      "TWIN SPARK"
+    ]
+  },
+  {
+    "model": "GIULIA",
+    "count": 403,
+    "submodels": [
+      "V6 OFGLO SUPER SPT",
+      "VELOCE Q2",
+      "1300 SUPER",
+      "1600 SPRINT",
+      "2.0 TB",
+      "2.9P/8AT",
+      "4D",
+      "95220",
+      "Base",
+      "BITURBO V6",
+      "GIULIA CARBON 2.0PT",
+      "GIULIA GTAM 2.9P",
+      "GIULIA QUADRIFOGLIO",
+      "GTV",
+      "Q-RIFOGLIO BITURBO",
+      "QUADRIFOGLIO",
+      "QUADRIFOGLIO VERDE",
+      "SPIDER 1600",
+      "SPIDER MILANO",
+      "SPRINT",
+      "SPRINT GT",
+      "SUPER 2.0PT/8AT",
+      "TI",
+      "V6 BI TURBO QV",
+      "V6 BITURBO QV AUTO",
+      "VELOCE",
+      "VELOCE 2.0PT/8AT",
+      "VELOCE TB",
+      "VELOCE TB AUTO"
+    ]
+  },
+  {
+    "model": "159",
+    "count": 371,
+    "submodels": [
+      "1.8P TB 4D 6SP",
+      "1.8P TB 6SP SW",
+      "1.9 JTD 4D 6SP SEDAN",
+      "1.9 JTD 4DR AUTO",
+      "1.9 JTD 5DR AUTO SW",
+      "1750 TBI 4D 6SP",
+      "2.2",
+      "2.2 4D 6 SD SPORTWAG",
+      "2.2 4D 6 SPEED SEDAN",
+      "2.2 4D 6M SEDAN TI",
+      "2.2 4D SELESPEED SED",
+      "2.2 4D SS SEDAN TI",
+      "2.2 5D 6 SPEED SW TI",
+      "2.2 5D SELESPEED SW",
+      "2.2 SPORTWAGON TI",
+      "2.2L",
+      "2.4 JTD 4D 6SP SEDAN",
+      "2.4 JTD 4D AUTO SED",
+      "2.4 JTD 4D AUTO TI",
+      "2.4 JTD 5DR AUTO SW",
+      "2.4 JTD 5DR SW",
+      "2.4 JTD 5DR SW TI",
+      "2.4 JTD AUTO SW",
+      "2.4 JTD AUTO SW TI",
+      "2.4 JTDM",
+      "2.4 LUSSO JTDM",
+      "2.4JTD 4D AUTO SW TI",
+      "2.4JTD 4D AUTO TI",
+      "3.2 4D 6 SPEED 4WD",
+      "3.2 4D AUTO 4WD",
+      "3.2 4D AUTO 4WD TI",
+      "3.2 5D 6 SPD 4WD TI",
+      "3.2 5D AT 4WD SW",
+      "3.2 5D AT 4WD SW TI",
+      "3.2 AUTO 4WD SW",
+      "Base",
+      "SPORTWAGON",
+      "SPORTWAGON 2.0",
+      "TBI",
+      "TI",
+      "TI 20V JTDM",
+      "TI JTDM",
+      "TI JTS"
+    ]
+  },
+  {
+    "model": "STELVIO",
+    "count": 367,
+    "submodels": [
+      "2.0PT/4WD/8AT",
+      "2.1D/4WD/8AT",
+      "Base",
+      "MILANO AWD",
+      "MILANO ED TD 4WD",
+      "MILANO ED TD AWD",
+      "MILANO Q4",
+      "Q4",
+      "QUADRIFOGLIO 2.9P",
+      "SUPER TB AWD AUTO",
+      "TI 2.0PT/4WD/8AT",
+      "VELOCE 2.0PT/4WD/8AT",
+      "VELOCE CARBON 2.0PT"
+    ]
+  },
+  {
+    "model": "156",
+    "count": 348,
+    "submodels": [
+      ".5P 5DRV6 SW 5SPA",
+      "1.8 T SPARK",
+      "156 2.5 V6",
+      "2.0",
+      "2.0 5D SW SELESPEED",
+      "2.0 JIS",
+      "2.0 JTS",
+      "2.0 JTS 4D MAN",
+      "2.0 JTS 4D SELESPEED",
+      "2.0 JTS 5D SW",
+      "2.0 JTS SELESPEED",
+      "2.0 JTS SW",
+      "2.0 S/SPEEDSW 5MP5DR",
+      "2.0 T SPARK",
+      "2.0 T.SPARK",
+      "2.0 TS SELESPEED 4DP",
+      "2.0L",
+      "2.0P 5DRTS SW 5SPM",
+      "2.0TS",
+      "2.0TS 4DR 5S M P",
+      "2.4 JTD 4D 6SP SEDAN",
+      "2.5",
+      "2.5 V6",
+      "2.5 V6 24V",
+      "2.5 V6 24V 4D SEDAN",
+      "2.5 V6 24V 6M SW",
+      "2.5 V6 4DR 6S M P",
+      "2.5 V6 AUTO SW",
+      "2.5 V6 Q SYSTEM",
+      "2.5 V6 Q SYSTEM SW",
+      "2.5 V6 Q-SYSTEM 4D P",
+      "2.5 V6 TI",
+      "2.5 V6 TI SW",
+      "2.5-V6-240",
+      "2.5P 5DRV6 SW 5SPA",
+      "2.5P 5DRV6 SW 6SPM",
+      "3.2 V6 GTA 6 SPEED",
+      "3.2 V6 GTA SELESPEED",
+      "A2.0",
+      "Base",
+      "GT 2.0JTS",
+      "GTA",
+      "JTD",
+      "JTS",
+      "SELESPEED",
+      "SPORTSWAGON",
+      "T SPARK",
+      "T.SPARK",
+      "TELESPEED",
+      "TI",
+      "V6",
+      "V6 24V",
+      "V6-24V"
+    ]
+  },
+  {
+    "model": "MITO",
+    "count": 173,
+    "submodels": [
+      "0.9P/6MT/HA/3DR/4S",
+      "1.4",
+      "1.4 TB 3DR 5SP",
+      "1.4 TB 3DR 6SP",
+      "1.4P 3D TCT 6A",
+      "3D 3SP QV",
+      "3D 6SP QV",
+      "Base",
+      "JUNIOR 1.4P/6AT TCT",
+      "PROGRESSION 1.4P6A/H",
+      "SPRINT"
+    ]
+  },
+  {
+    "model": "TONALE",
+    "count": 144,
+    "submodels": [
+      "TI 1.5PMHT/7AT",
+      "VELOCE 1.5PMHT"
+    ]
+  },
+  {
+    "model": "SPIDER",
+    "count": 142,
+    "submodels": [
+      "11S A1",
+      "1750",
+      "2 SP",
+      "2.0",
+      "2.0 JTS",
+      "2.0 PININ FARINA",
+      "2.0 T SPARK",
+      "2.0 T.SPARK",
+      "2.0 TS",
+      "2.0 TS 16V",
+      "2.0 TS CV 5SP M",
+      "2.0P 2DR CV 5SPM",
+      "2.0TS 2D 5M P",
+      "2.0TS 2DR 5M P",
+      "2.0TS CV 5SPM",
+      "20 TS",
+      "2000",
+      "2000 COUPE",
+      "2600",
+      "3.0",
+      "3.0 V6 24V",
+      "3.0 V6 2DR 6M P",
+      "3.2 V6",
+      "3.2 V6 24V",
+      "4C",
+      "916",
+      "AWD 3.2 Q4 6 SPD",
+      "AWD 3.2 Q4 AUTO",
+      "Base",
+      "CONVERTIBLE",
+      "GUILIA",
+      "JTS LE",
+      "JTS LUSSO",
+      "JTS V6",
+      "Q4 3.2 3D AUTO",
+      "ROMEO 1750",
+      "SPIDER",
+      "T SPARK 16V",
+      "T.SPARK  16V",
+      "TWIN SPARK",
+      "VELOCE",
+      "VELOCE 1750"
+    ]
+  },
+  {
+    "model": "GT",
+    "count": 116,
+    "submodels": [
+      "1.6",
+      "1300 JUNIOR",
+      "1600 JUNIOR",
+      "1750 VELOCE",
+      "2.0 3D",
+      "2.0 JTS",
+      "3",
+      "3.2 6 SPEED",
+      "3.2 V6",
+      "3.2 V6 3D 6 SPEED",
+      "3.2I V6",
+      "Base",
+      "BERTONE",
+      "COUPE",
+      "GUILIA SPRINT",
+      "JTS 2.00",
+      "JUNIOR",
+      "JUNIOR 1.3",
+      "JZ1600",
+      "S",
+      "SELESPEED",
+      "V6",
+      "V6 3.2",
+      "VELOCE"
+    ]
+  },
+  {
+    "model": "GTV",
+    "count": 82,
+    "submodels": [
+      "1750",
+      "1750 GTV",
+      "1750 GUILA",
+      "2.0",
+      "2.0TS 2DR 5M P",
+      "2.0TSLS SP 5SPM P2DR",
+      "2.5",
+      "2000",
+      "3.0",
+      "3.0  24V",
+      "3.0 V6 24V",
+      "3.0V6 2DR 6M P",
+      "3.2 V6 24V",
+      "3.2 V6 COUPE",
+      "6 3.0",
+      "916",
+      "ALFETTA",
+      "Base",
+      "COUPE",
+      "CUP",
+      "GTV",
+      "GTV  2.0 TURBODELTA",
+      "GTV6",
+      "JTS",
+      "SPIDER",
+      "T-SPARK 16V",
+      "V6 24V",
+      "V6 3.0 2DR 6S M P"
+    ]
+  },
+  {
+    "model": "BRERA",
+    "count": 64,
+    "submodels": [
+      "2.2 3D 6 SPEED COUPE",
+      "2.2 3D SELESPEED",
+      "2.2 SPIDER 6 SPD 2DR",
+      "2.2 SPIDER SELESPEED",
+      "2.4 JTD 3D 6 SPEED",
+      "3.2 JTS V6 Q4",
+      "Base",
+      "COUPE 1750 TBI",
+      "PININFORINA",
+      "Q4 3.2 3D 6 SPEED",
+      "Q4 3.2 3D AUTO",
+      "SPIDER",
+      "SV JTS V6 Q4"
+    ]
+  },
+  {
+    "model": "166",
+    "count": 45,
+    "submodels": [
+      "2.5 V6 24V",
+      "3.0 A",
+      "3.0 AUTO",
+      "3.0 V6",
+      "3.0 V6 24V",
+      "3.0 V6 4D 6M P",
+      "3.0 V6 SPORTRONIC",
+      "3.0V6 4DR P 6M",
+      "3.0V6 SPORT 4DRP4A",
+      "3.2 4D TI 6 SPEED",
+      "Base",
+      "V6 24V",
+      "V6 3.0 24V"
+    ]
+  },
+  {
+    "model": "4C",
+    "count": 28,
+    "submodels": [
+      "Base",
+      "COUPE 1.7P/6AT/SP/2D",
+      "COUPE-LAUNCH EDITION",
+      "SPIDER",
+      "SPIDER 1.7P/6AT/SP/2",
+      "TBI LAUNCH EDITION",
+      "TBI S-A",
+      "TBI SPIDER"
+    ]
+  },
+  {
+    "model": "2000",
+    "count": 16,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "GTV",
+      "GTV GD",
+      "GTY",
+      "SPIDER",
+      "SPIDER VELOCE"
+    ]
+  },
+  {
+    "model": "164",
+    "count": 15,
+    "submodels": [
+      "2.0 TS",
+      "3.0  V6",
+      "3.0 V6",
+      "3.0 V6 24V QV",
+      "A 3.0 V6",
+      "Base",
+      "L",
+      "LUSSO",
+      "SUPER",
+      "SUPER V6"
+    ]
+  },
+  {
+    "model": "SPYDER",
+    "count": 10,
+    "submodels": [
+      "6C BIDEE SC",
+      "Base",
+      "INIEZIONE  2000",
+      "INIZIONE",
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "33",
+    "count": 7,
+    "submodels": [
+      "1.5 IE",
+      "1.5IE",
+      "1.7 16V QV",
+      "1.7QV",
+      "Base",
+      "CLOVERLEAF"
+    ]
+  },
+  {
+    "model": "75",
+    "count": 7,
+    "submodels": [
+      "3.0 V6",
+      "Base",
+      "COUPE",
+      "TWINSPARK"
+    ]
+  },
+  {
+    "model": "ALFASUD",
+    "count": 7,
+    "submodels": [
+      "1.5 TI",
+      "Base",
+      "TI"
+    ]
+  },
+  {
+    "model": "SPRINT",
+    "count": 7,
+    "submodels": [
+      "1.5 QV",
+      "Base",
+      "COUPE",
+      "GTV JUNIOR"
+    ]
+  },
+  {
+    "model": "BERLINA",
+    "count": 6,
+    "submodels": [
+      "1750",
+      "6C",
+      "Base"
+    ]
+  },
+  {
+    "model": "145",
+    "count": 5,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ALFETTA",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "GTJ",
+      "GTV"
+    ]
+  },
+  {
+    "model": "GTV 6",
+    "count": 5,
+    "submodels": [
+      "2.5",
+      "Base"
+    ]
+  },
+  {
+    "model": "GTV2000",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "GTV"
+    ]
+  },
+  {
+    "model": "SZ",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "SPRINT ZAGATO",
+      "ZAGATO"
+    ]
+  },
+  {
+    "model": "155",
+    "count": 4,
+    "submodels": [
+      "2.5 V6",
+      "Base",
+      "V6"
+    ]
+  },
+  {
+    "model": "A147",
+    "count": 4,
+    "submodels": [
+      "1.6 TS",
+      "Base",
+      "GTA",
+      "GTA 3.2"
+    ]
+  },
+  {
+    "model": "MONTREAL",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "8C",
+    "count": 3,
+    "submodels": [
+      "COMPETIZIONE S-A",
+      "COMPETIZONE",
+      "SPIDER SA"
+    ]
+  },
+  {
+    "model": "GIULIA SUPER",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "RZ",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "ZAGATO"
+    ]
+  },
+  {
+    "model": "146",
+    "count": 2,
+    "submodels": [
+      "1.6TS 16V 5DR 5M P",
+      "TI"
+    ]
+  },
+  {
+    "model": "105",
+    "count": 1,
+    "submodels": [
+      "AR1750GTV"
+    ]
+  },
+  {
+    "model": "156 GTA 3.2",
+    "count": 1,
+    "submodels": [
+      "V6 24V SELESPEED SW"
+    ]
+  },
+  {
+    "model": "168",
+    "count": 1,
+    "submodels": [
+      "SUPER V6 24V"
+    ]
+  },
+  {
+    "model": "1750 GTV",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "2000GTV",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "2600",
+    "count": 1,
+    "submodels": [
+      "SZ ZAGATO"
+    ]
+  },
+  {
+    "model": "6",
+    "count": 1,
+    "submodels": [
+      "C"
+    ]
+  },
+  {
+    "model": "6C",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "75 2.0 TS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "752.2 V6",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "G T V",
+    "count": 1,
+    "submodels": [
+      "2.0 TS 16V"
+    ]
+  },
+  {
+    "model": "G T V 6",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GTV 20",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SUDTI",
+    "count": 1,
+    "submodels": [
+      "QUAD"
+    ]
+  },
+  {
+    "model": "TL105",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

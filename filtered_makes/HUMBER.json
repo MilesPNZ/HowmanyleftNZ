@@ -1,0 +1,116 @@
+[
+  {
+    "model": "SUPER SNIPE",
+    "count": 29,
+    "submodels": [
+      "Base",
+      "IV",
+      "MK4",
+      "SERIES 4"
+    ]
+  },
+  {
+    "model": "80",
+    "count": 23,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "10",
+    "count": 15,
+    "submodels": [
+      "-12 COVENTRY",
+      "Base",
+      "SALOON"
+    ]
+  },
+  {
+    "model": "SCEPTRE",
+    "count": 10,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "90",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "MK11",
+      "MK2"
+    ]
+  },
+  {
+    "model": "HAWK",
+    "count": 5,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SNIPE",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "HUMBERETTE",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "CYCLE CAR"
+    ]
+  },
+  {
+    "model": "12",
+    "count": 2,
+    "submodels": [
+      "VICTORIA",
+      "VOGUE"
+    ]
+  },
+  {
+    "model": "14 HP TOURER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "15/40",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "16/50",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "8HP",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GOLFER",
+    "count": 1,
+    "submodels": [
+      "COUPE"
+    ]
+  },
+  {
+    "model": "PULLMAN",
+    "count": 1,
+    "submodels": [
+      "MARK 111"
+    ]
+  }
+]

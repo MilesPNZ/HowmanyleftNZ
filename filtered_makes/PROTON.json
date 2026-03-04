@@ -1,0 +1,39 @@
+[
+  {
+    "model": "SATRIA",
+    "count": 6,
+    "submodels": [
+      "NEO 1.6 HATCH",
+      "XLI"
+    ]
+  },
+  {
+    "model": "PERSONA",
+    "count": 2,
+    "submodels": [
+      "1.6 SEDAN",
+      "XLI"
+    ]
+  },
+  {
+    "model": "GEN 2",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SAGA",
+    "count": 1,
+    "submodels": [
+      "1.5 SL"
+    ]
+  },
+  {
+    "model": "SUPRIMA",
+    "count": 1,
+    "submodels": [
+      "S GXR"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "model": "X-BOW",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

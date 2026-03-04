@@ -1,0 +1,255 @@
+[
+  {
+    "model": "1200",
+    "count": 52,
+    "submodels": [
+      "B110",
+      "B110 SSS",
+      "Base",
+      "COUPE",
+      "GX",
+      "GX COUPE",
+      "SSS"
+    ]
+  },
+  {
+    "model": "1600",
+    "count": 47,
+    "submodels": [
+      "SSS COUPE",
+      "Base",
+      "COUPE",
+      "DELUXE",
+      "JSSS",
+      "P510",
+      "PL51",
+      "PL510 DELUXE",
+      "ROADSTER",
+      "SSS"
+    ]
+  },
+  {
+    "model": "240Z",
+    "count": 41,
+    "submodels": [
+      "Base",
+      "Z"
+    ]
+  },
+  {
+    "model": "120Y",
+    "count": 26,
+    "submodels": [
+      "140Y",
+      "Base",
+      "COUPE",
+      "COUPE GL",
+      "SSS",
+      "STATIONWAGON",
+      "WAGON"
+    ]
+  },
+  {
+    "model": "180B",
+    "count": 23,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "SSS",
+      "SSS COUPE"
+    ]
+  },
+  {
+    "model": "260Z",
+    "count": 22,
+    "submodels": [
+      "2X2",
+      "Base",
+      "COUPE",
+      "FAIRLADY"
+    ]
+  },
+  {
+    "model": "BLUEBIRD",
+    "count": 20,
+    "submodels": [
+      "1200",
+      "Base",
+      "P411",
+      "SSS",
+      "U 2000GT",
+      "ZX"
+    ]
+  },
+  {
+    "model": "SUNNY",
+    "count": 13,
+    "submodels": [
+      "1.5 ZX",
+      "120Y",
+      "Base",
+      "COUPE",
+      "SGX"
+    ]
+  },
+  {
+    "model": "280Z",
+    "count": 6,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "140J",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "DELUXE",
+      "GL",
+      "VIOLET GL"
+    ]
+  },
+  {
+    "model": "260C",
+    "count": 5,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "280ZX",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "TURBO"
+    ]
+  },
+  {
+    "model": "160J",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "SSS"
+    ]
+  },
+  {
+    "model": "240K",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "GT"
+    ]
+  },
+  {
+    "model": "120A",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "120Y S/W",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1500",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1600SSS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "160B",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "180 SX",
+    "count": 1,
+    "submodels": [
+      "RALLY"
+    ]
+  },
+  {
+    "model": "180BSSS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "200B",
+    "count": 1,
+    "submodels": [
+      "BZX"
+    ]
+  },
+  {
+    "model": "240C",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "240KGT",
+    "count": 1,
+    "submodels": [
+      "240GTR"
+    ]
+  },
+  {
+    "model": "B110",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FAIRLADY",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "P510",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "PULSAR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SUNNY S/W",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VB310",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

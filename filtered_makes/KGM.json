@@ -1,0 +1,29 @@
+[
+  {
+    "model": "TORRES",
+    "count": 374,
+    "submodels": [
+      "1.5P/6AT",
+      "EVX EV/FD",
+      "HYBRID 1.5PHT/HD",
+      "HYBRID ULTIMATE 1.5P",
+      "PREMIUM 1.5PHT/HD"
+    ]
+  },
+  {
+    "model": "REXTON",
+    "count": 136,
+    "submodels": [
+      "2WD 2.2D/8AT",
+      "SACHI 2.2D/4WD/8AT",
+      "ULTIMATE 2.2D/4WD"
+    ]
+  },
+  {
+    "model": "KR23",
+    "count": 70,
+    "submodels": [
+      "TORRES 2WD 1.5P"
+    ]
+  }
+]

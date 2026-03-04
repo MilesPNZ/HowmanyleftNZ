@@ -1,0 +1,144 @@
+[
+  {
+    "model": "FORTWO",
+    "count": 475,
+    "submodels": [
+      "E-DRIVE",
+      "Base",
+      "BRABUS",
+      "C450",
+      "CABRI0",
+      "CABRIO",
+      "CABRIO MICRO HYBRID",
+      "CABRIOLET",
+      "CITY  PASSION",
+      "CITY PASSION BRABUS",
+      "COUPE",
+      "COUPE 1.0L",
+      "COUPE EV",
+      "COUPE MHD",
+      "ELECTRIC",
+      "ELECTRIC DRIVE",
+      "EV",
+      "F2",
+      "FORTWO CAB",
+      "FORTWO COUPE",
+      "GRANDSTYLE EDITION",
+      "K",
+      "MCC",
+      "MERCEDES",
+      "MHD",
+      "MHD CABRIO",
+      "PASSION",
+      "PASSION 84 AUTO",
+      "PASSION MHD",
+      "PASSION MHD AUTO",
+      "PLUS",
+      "PULSE",
+      "PULSE 61 AUTO",
+      "PURE 61 MHD AUTO",
+      "ZERO EMISSION"
+    ]
+  },
+  {
+    "model": "FORFOUR",
+    "count": 109,
+    "submodels": [
+      "1.3",
+      "1.5",
+      "Base",
+      "BRABUS",
+      "FOR FOUR",
+      "FORFOUR",
+      "FORFOUR 1.3",
+      "FORFOUR1.5",
+      "MERCEDES",
+      "MERCEDES-BENZ",
+      "PASSION",
+      "PRIME",
+      "PROXY PREMIUM T"
+    ]
+  },
+  {
+    "model": "ROADSTER",
+    "count": 35,
+    "submodels": [
+      "80",
+      "80 AUTO",
+      "Base",
+      "BRABUS",
+      "BRABUS COUPE",
+      "CONVERTIBLE",
+      "COUPE",
+      "COUPE 80",
+      "COUPE BLUEWAVE",
+      "COUPE BRABUS A",
+      "PASSION"
+    ]
+  },
+  {
+    "model": "#3",
+    "count": 15,
+    "submodels": [
+      "BRABUS 66KWH/EV/AWD",
+      "PREMIUM 66KWH/EV/AT"
+    ]
+  },
+  {
+    "model": "COUPE",
+    "count": 13,
+    "submodels": [
+      "Base",
+      "CITY",
+      "CITY PASSIO 61 AUTO",
+      "FORTWO PASSION 71",
+      "PULSE"
+    ]
+  },
+  {
+    "model": "#1",
+    "count": 11,
+    "submodels": [
+      "BRABUS 66KWH/EV/AWD",
+      "PREMIUM 66KWH/EV/AT"
+    ]
+  },
+  {
+    "model": "CITY COUPE",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "PASSION"
+    ]
+  },
+  {
+    "model": "SMART CAR",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "PASSION",
+      "PULSE"
+    ]
+  },
+  {
+    "model": "BRABUS",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CABRIO",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "K",
+    "count": 1,
+    "submodels": [
+      "MCC"
+    ]
+  }
+]

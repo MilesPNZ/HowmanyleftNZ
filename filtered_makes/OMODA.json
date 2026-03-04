@@ -1,0 +1,38 @@
+[
+  {
+    "model": "C5",
+    "count": 1148,
+    "submodels": [
+      "BX 1.5PT/6AT",
+      "BX 1.5PT/9CVT",
+      "EX 1.5PT/6AT",
+      "EX 1.5PT/9CVT",
+      "GT 1.6PT/7AT",
+      "GT 1.6PT/AWD/7AT"
+    ]
+  },
+  {
+    "model": "E5",
+    "count": 203,
+    "submodels": [
+      "61KWH/EV/AT",
+      "BX 155KWH/EV/9AT",
+      "EX 155KWH/EV/9AT"
+    ]
+  },
+  {
+    "model": "O9",
+    "count": 118,
+    "submodels": [
+      "PHEV/AWD/HD"
+    ]
+  },
+  {
+    "model": "C9",
+    "count": 2,
+    "submodels": [
+      "EX 2.0PT/7AT",
+      "EX PLUS 2.0PT/AWD"
+    ]
+  }
+]

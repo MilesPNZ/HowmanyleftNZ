@@ -1,0 +1,160 @@
+[
+  {
+    "model": "ELF",
+    "count": 30,
+    "submodels": [
+      "Base",
+      "MK II",
+      "MK2",
+      "MK3",
+      "MKIII"
+    ]
+  },
+  {
+    "model": "KESTREL",
+    "count": 15,
+    "submodels": [
+      "110",
+      "Base",
+      "SPECIAL",
+      "SPRITE"
+    ]
+  },
+  {
+    "model": "RMB",
+    "count": 15,
+    "submodels": [
+      "2.5",
+      "2.5 LITRE",
+      "Base",
+      "DROPHEAD",
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "1.5",
+    "count": 8,
+    "submodels": [
+      "Base",
+      "RMA",
+      "SPORTS"
+    ]
+  },
+  {
+    "model": "9",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "BLATCH SPECIAL",
+      "ROADSTER",
+      "SPECIAL",
+      "SPORT SPECIAL",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "TOURER",
+    "count": 7,
+    "submodels": [
+      "12/4",
+      "Base"
+    ]
+  },
+  {
+    "model": "RM",
+    "count": 6,
+    "submodels": [
+      "12HP",
+      "2 1/2 LITRE",
+      "2.5",
+      "DHC",
+      "E",
+      "E 1.5"
+    ]
+  },
+  {
+    "model": "4/72",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FALCON",
+    "count": 3,
+    "submodels": [
+      "22T",
+      "Base"
+    ]
+  },
+  {
+    "model": "ONE POINT FIVE",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LYNX",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MONACO",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "11/40",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "12/18",
+    "count": 1,
+    "submodels": [
+      "SPORTS MAN"
+    ]
+  },
+  {
+    "model": "9 PLUS ULTRA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GAMECOCK",
+    "count": 1,
+    "submodels": [
+      "COUPE"
+    ]
+  },
+  {
+    "model": "MENTONE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MERLIN",
+    "count": 1,
+    "submodels": [
+      "SPECIAL"
+    ]
+  },
+  {
+    "model": "PATHFINDER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

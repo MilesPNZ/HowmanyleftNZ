@@ -1,0 +1,705 @@
+[
+  {
+    "model": "SMART",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "CITY COUPE",
+      "FORFOUR CDI"
+    ]
+  },
+  {
+    "model": "CARBODIES",
+    "count": 6,
+    "submodels": [
+      "FAIRWAY",
+      "FAIRWAY TAXI",
+      "LONDON TAXI",
+      "TAXI"
+    ]
+  },
+  {
+    "model": "MCC",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "SMART",
+      "SMART CAR"
+    ]
+  },
+  {
+    "model": "LONDON TAXI",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "LTI TX4",
+      "TX4"
+    ]
+  },
+  {
+    "model": "PANHARD",
+    "count": 3,
+    "submodels": [
+      "24 CT",
+      "PL17",
+      "TYPE X86 DYNA"
+    ]
+  },
+  {
+    "model": "ALLARD",
+    "count": 2,
+    "submodels": [
+      "P1",
+      "P1 SUPER SPORT"
+    ]
+  },
+  {
+    "model": "BEATTIE",
+    "count": 2,
+    "submodels": [
+      "CLUBMAN",
+      "CLUBMAN SPORT"
+    ]
+  },
+  {
+    "model": "HUDSON",
+    "count": 2,
+    "submodels": [
+      "SEDAN",
+      "SUPER SIX HEARSE"
+    ]
+  },
+  {
+    "model": "MCC SMART",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "CABRIO"
+    ]
+  },
+  {
+    "model": "MITCHELL",
+    "count": 2,
+    "submodels": [
+      "MODEL R",
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "SMART CAR",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TUK TUK",
+    "count": 2,
+    "submodels": [
+      "TT 550 ESO",
+      "TT550 ESD"
+    ]
+  },
+  {
+    "model": "1933  PIERCE  ARROW",
+    "count": 1,
+    "submodels": [
+      "836"
+    ]
+  },
+  {
+    "model": "1982 DELOREAN DMC-12",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "AC COBRA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ACURA NSX",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ALLDAYS & ONIONS",
+    "count": 1,
+    "submodels": [
+      "MIDGET"
+    ]
+  },
+  {
+    "model": "AMERICAN MOTORS CORP",
+    "count": 1,
+    "submodels": [
+      "UNDERSLUNG"
+    ]
+  },
+  {
+    "model": "ANSALDO",
+    "count": 1,
+    "submodels": [
+      "4C"
+    ]
+  },
+  {
+    "model": "AUSTIN",
+    "count": 1,
+    "submodels": [
+      "SIX"
+    ]
+  },
+  {
+    "model": "AUTECH ZAGATO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "AVANTI",
+    "count": 1,
+    "submodels": [
+      "II"
+    ]
+  },
+  {
+    "model": "AVANTI CONVERTIBLE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BERKELEY",
+    "count": 1,
+    "submodels": [
+      "SE 328 SPECIAL"
+    ]
+  },
+  {
+    "model": "BMW",
+    "count": 1,
+    "submodels": [
+      "1600 GT"
+    ]
+  },
+  {
+    "model": "BRUSH",
+    "count": 1,
+    "submodels": [
+      "F24"
+    ]
+  },
+  {
+    "model": "BUICK",
+    "count": 1,
+    "submodels": [
+      "B57"
+    ]
+  },
+  {
+    "model": "CADILLAC",
+    "count": 1,
+    "submodels": [
+      "370B ROADSTER"
+    ]
+  },
+  {
+    "model": "CALLAWAY CORVETTE",
+    "count": 1,
+    "submodels": [
+      "C8 LAUNCH EDITION"
+    ]
+  },
+  {
+    "model": "CALVY MITCHEL",
+    "count": 1,
+    "submodels": [
+      "CONVERTIBLE"
+    ]
+  },
+  {
+    "model": "CAN-AM",
+    "count": 1,
+    "submodels": [
+      "SPYDER ROADSTER"
+    ]
+  },
+  {
+    "model": "CATERHAM",
+    "count": 1,
+    "submodels": [
+      "LOTUS 7"
+    ]
+  },
+  {
+    "model": "CHECKER MARATHON",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CHRYSLER",
+    "count": 1,
+    "submodels": [
+      "AIRSTREAM C6"
+    ]
+  },
+  {
+    "model": "CLENET",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CORD BEVERLY",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DARRACQ",
+    "count": 1,
+    "submodels": [
+      "10/12"
+    ]
+  },
+  {
+    "model": "DE SOTO",
+    "count": 1,
+    "submodels": [
+      "OW"
+    ]
+  },
+  {
+    "model": "DELLOW",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DELOREAN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DUTTON",
+    "count": 1,
+    "submodels": [
+      "2 AXEL RIGID BODY"
+    ]
+  },
+  {
+    "model": "DUZGO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "EAGLE TALON",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "EDSEL",
+    "count": 1,
+    "submodels": [
+      "CITATION"
+    ]
+  },
+  {
+    "model": "EMPIRE",
+    "count": 1,
+    "submodels": [
+      "31"
+    ]
+  },
+  {
+    "model": "EXCALIBUR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FORD",
+    "count": 1,
+    "submodels": [
+      "COBRA AC"
+    ]
+  },
+  {
+    "model": "FORD REPLICA",
+    "count": 1,
+    "submodels": [
+      "COUPE"
+    ]
+  },
+  {
+    "model": "GIBBS",
+    "count": 1,
+    "submodels": [
+      "AQUADA"
+    ]
+  },
+  {
+    "model": "HISPANO SUIZA",
+    "count": 1,
+    "submodels": [
+      "TOURER"
+    ]
+  },
+  {
+    "model": "HONDA",
+    "count": 1,
+    "submodels": [
+      "N600G"
+    ]
+  },
+  {
+    "model": "HORSTMAN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "HRG",
+    "count": 1,
+    "submodels": [
+      "1100 ROADSTER"
+    ]
+  },
+  {
+    "model": "HUPMOBILE",
+    "count": 1,
+    "submodels": [
+      "MODEL H"
+    ]
+  },
+  {
+    "model": "ISO",
+    "count": 1,
+    "submodels": [
+      "GRIFO"
+    ]
+  },
+  {
+    "model": "JACKSON DOGCART",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "JAGUAR C TYPE",
+    "count": 1,
+    "submodels": [
+      "REPLICA"
+    ]
+  },
+  {
+    "model": "L'ETOILE",
+    "count": 1,
+    "submodels": [
+      "8HP"
+    ]
+  },
+  {
+    "model": "LE MAN",
+    "count": 1,
+    "submodels": [
+      "SPYDER 550"
+    ]
+  },
+  {
+    "model": "LE MANS",
+    "count": 1,
+    "submodels": [
+      "550 SPYDER"
+    ]
+  },
+  {
+    "model": "LITTLE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LONDON TAXIS",
+    "count": 1,
+    "submodels": [
+      "TX1"
+    ]
+  },
+  {
+    "model": "LONDON TAXIS INT",
+    "count": 1,
+    "submodels": [
+      "TX4 ELEGANCE AUTO"
+    ]
+  },
+  {
+    "model": "LONDON TAXIS TX4",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LTI FX4 FAIRWAY",
+    "count": 1,
+    "submodels": [
+      "LONDON TAXIS"
+    ]
+  },
+  {
+    "model": "MANTA MIRAGE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MCGREGOR",
+    "count": 1,
+    "submodels": [
+      "MACH7"
+    ]
+  },
+  {
+    "model": "MCINTYRE",
+    "count": 1,
+    "submodels": [
+      "6-40"
+    ]
+  },
+  {
+    "model": "MERCER",
+    "count": 1,
+    "submodels": [
+      "SERIES SIX"
+    ]
+  },
+  {
+    "model": "MG REPLICA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MIDAS",
+    "count": 1,
+    "submodels": [
+      "COUPE"
+    ]
+  },
+  {
+    "model": "MINI",
+    "count": 1,
+    "submodels": [
+      "ONE"
+    ]
+  },
+  {
+    "model": "MOON 640",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "NAPIER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "NAYLOR",
+    "count": 1,
+    "submodels": [
+      "MGTF-1700"
+    ]
+  },
+  {
+    "model": "NAZZARO",
+    "count": 1,
+    "submodels": [
+      "TIPO 3"
+    ]
+  },
+  {
+    "model": "OLDSMOBILE",
+    "count": 1,
+    "submodels": [
+      "CURVED DASH"
+    ]
+  },
+  {
+    "model": "OVERLAND WHIPPET",
+    "count": 1,
+    "submodels": [
+      "96"
+    ]
+  },
+  {
+    "model": "PIERCE ARROW",
+    "count": 1,
+    "submodels": [
+      "1601 SEDAN"
+    ]
+  },
+  {
+    "model": "RAILTON",
+    "count": 1,
+    "submodels": [
+      "CLAREMONT"
+    ]
+  },
+  {
+    "model": "REPLICA",
+    "count": 1,
+    "submodels": [
+      "FORD GT40"
+    ]
+  },
+  {
+    "model": "ROLLS ROYCE",
+    "count": 1,
+    "submodels": [
+      "20HP"
+    ]
+  },
+  {
+    "model": "ROVER",
+    "count": 1,
+    "submodels": [
+      "ROADSTER-9120"
+    ]
+  },
+  {
+    "model": "RYTECRAFT",
+    "count": 1,
+    "submodels": [
+      "SCOOTACAR"
+    ]
+  },
+  {
+    "model": "SALMSON",
+    "count": 1,
+    "submodels": [
+      "S4E"
+    ]
+  },
+  {
+    "model": "SEARS MOTOR BUGGY",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SHELBY",
+    "count": 1,
+    "submodels": [
+      "COBRA GT500KR"
+    ]
+  },
+  {
+    "model": "SPYKER",
+    "count": 1,
+    "submodels": [
+      "15/22"
+    ]
+  },
+  {
+    "model": "STANLEY",
+    "count": 1,
+    "submodels": [
+      "740"
+    ]
+  },
+  {
+    "model": "STANLEY 71",
+    "count": 1,
+    "submodels": [
+      "STEAM"
+    ]
+  },
+  {
+    "model": "STANLEY CX",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "STODDARD DAYTON",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "STUTZ",
+    "count": 1,
+    "submodels": [
+      "BLACKHAWK SPEEDSTER"
+    ]
+  },
+  {
+    "model": "SUMMIT TOURER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "T V R GRIFFITH 500",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TEMPERO D-TYPE",
+    "count": 1,
+    "submodels": [
+      "JAGUAR REPLICA"
+    ]
+  },
+  {
+    "model": "TURNER",
+    "count": 1,
+    "submodels": [
+      "CLIMAX"
+    ]
+  },
+  {
+    "model": "TURNER ALEXANDER",
+    "count": 1,
+    "submodels": [
+      "MK1"
+    ]
+  }
+]

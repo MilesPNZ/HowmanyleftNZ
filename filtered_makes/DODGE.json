@@ -1,0 +1,934 @@
+[
+  {
+    "model": "JOURNEY",
+    "count": 3028,
+    "submodels": [
+      "3.6L PETROL AUTO R/T",
+      "3.6L PETROL AUTO SXT",
+      "Base",
+      "JC   SXT",
+      "R/T",
+      "R/T 2.4P/4AT",
+      "R/T 2.4P/4AT/SW/5DR",
+      "R/T 2.4P/6AT/SW/5DR",
+      "R/T 3.6P/6AT",
+      "R/T 3.6P/6AT/SW/5DR/",
+      "RT",
+      "RT 3.6",
+      "RT DIESEL 2.0L 6A",
+      "RT PETROL 2.7L 6A",
+      "SE",
+      "SXT",
+      "SXT 2.4P/6AT",
+      "SXT 2.4P/6AT/SW/5DR",
+      "SXT 3.6P/6AT",
+      "SXT 3.6P/6AT/SW/5DR/",
+      "SXT PETROL 2.7L 6A"
+    ]
+  },
+  {
+    "model": "CHALLENGER",
+    "count": 1270,
+    "submodels": [
+      "340 MAGNUM",
+      "360 HARDTOP",
+      "383 MAGNUM R/T",
+      "392",
+      "392 HEMI",
+      "392 SCAT PACK SHAKER",
+      "392 SRT HEMI",
+      "440",
+      "440 MAGNUM",
+      "440 SIX PACK",
+      "50 SHAKER SRT",
+      "6.1L SRT8 MANUAL",
+      "6.4L SRT8 MANUAL",
+      "Base",
+      "COUPE",
+      "CS8",
+      "CUSTOM",
+      "DEMON",
+      "DEMON SRT",
+      "GT",
+      "HELLAT WIDEBODY",
+      "HELLCAT",
+      "HELLCAT 6.2L",
+      "HELLCAT 6.2L S/C",
+      "HELLCAT 6.2L SRT S/C",
+      "HELLCAT 6.2L V8",
+      "HELLCAT 6.2L V8 S/C",
+      "HELLCAT 6SPD 6.2 S/C",
+      "HELLCAT 6SPD 6.2L V8",
+      "HELLCAT 6SPD S/C",
+      "HELLCAT 6SPD V8",
+      "HELLCAT DEMON",
+      "HELLCAT JAILBREAK",
+      "HELLCAT REDEYE",
+      "HELLCAT REDEYE W/BDY",
+      "HELLCAT S/C 6.2L V8",
+      "HELLCAT SRT",
+      "HELLCAT SRT 6.2L S/C",
+      "HELLCAT SRT RED EYE",
+      "HELLCAT SRT WIDEBODY",
+      "HELLCAT WIDEBODY",
+      "HELLCAT..SRT",
+      "HEMI",
+      "HEMI 5.7 R/T",
+      "HURST R/T",
+      "JH23",
+      "MOPAR 10",
+      "MOPAR'10 234 OF 500",
+      "R/T",
+      "R/T  CLASSIC",
+      "R/T  SCAT PACK",
+      "R/T  SCATPACK",
+      "R/T 392",
+      "R/T 392 SCATPACK",
+      "R/T 440 SIX PACK",
+      "R/T 5.7L CLASSIC",
+      "R/T 5.7L HEMI V8",
+      "R/T 5.7L V8",
+      "R/T 6.4L SCATPACK",
+      "R/T 6SPD 5.7L",
+      "R/T BLACKTOP",
+      "R/T CLASSIC",
+      "R/T CLASSIC 5.7L",
+      "R/T COUPE",
+      "R/T HEMI",
+      "R/T MOPAR",
+      "R/T PLUS",
+      "R/T PLUS 5.7L",
+      "R/T PLUS 5.7L V8",
+      "R/T PLUS 5.8L V8",
+      "R/T PLUS 6SPD 5.7 V8",
+      "R/T PLUS 6SPD 5.7L",
+      "R/T PLUS AUTO 5.7L",
+      "R/T PLUS SHAKER",
+      "R/T PLUS SHAKER 5.7L",
+      "R/T PLUS SHAKER 6SPD",
+      "R/T S/C COUPE",
+      "R/T SCAT PACK",
+      "R/T SCAT PACK 6.4L",
+      "R/T SCAT PACK 6SPD",
+      "R/T SCAT PACK COUPE",
+      "R/T SCAT PACK SHAKER",
+      "R/T SCAT PACK W/BODY",
+      "R/T SCAT PACK WB",
+      "R/T SCAT PACT",
+      "R/T SCAT PAK SHAKER",
+      "R/T SCATPACK",
+      "R/T SCATPACK 50TH",
+      "R/T SCATPACK SHAKER",
+      "R/T SCATPCK WIDEBODY",
+      "R/T SE",
+      "R/T SHAKER",
+      "R/T SHAKER 50TH ANN",
+      "R/T SHAKER S/C 6SPD",
+      "R/T SHAKER SCAT PACK",
+      "R/T SPECIAL EDITION",
+      "R/T T/A",
+      "R/T T/A PLUS",
+      "R/T TRANSAM 392",
+      "R/TSCATPACK WIDEBODY",
+      "R\\T SCATPACK",
+      "RALLYE",
+      "RED EYE",
+      "REDEYE HELLCAT",
+      "RT",
+      "RT 383  MAGNUM",
+      "RT 392 HEMI",
+      "RT 5.7L CLASSIC",
+      "RT 50TH ANNIVERSARY",
+      "RT 6.4L SCAT PACK",
+      "RT CLASSIC",
+      "RT COUPE CLASSIC",
+      "RT HEMI",
+      "RT PLUS",
+      "RT PLUS 5.7L V8",
+      "RT PLUS SHAKER",
+      "RT SCATPACK",
+      "RT SCATPACK 50TH",
+      "RT SCATPACK SHAKER",
+      "RT SCATPACK WIDEBODY",
+      "RT SCTAPACK WIDEBODY",
+      "RT SHAKER",
+      "RT/ SCAT PACK PLUS",
+      "RT/TA PLUS",
+      "RT08 HEMI",
+      "SCAT PAC 392",
+      "SCAT PACK",
+      "SCAT PACK R/T",
+      "SCAT PACK SHAKER",
+      "SCAT PACK SHAKER 6.4",
+      "SCAT PACK SWINGER",
+      "SCAT PACK WIDEBODY",
+      "SCAT PAK",
+      "SCATPACK",
+      "SCATPACK WIDEBODY",
+      "SERT",
+      "SHAKER",
+      "SKAT PACK SHAKER",
+      "SMS  570",
+      "SR/T",
+      "SR8",
+      "SRT",
+      "SRT  392",
+      "SRT 392",
+      "SRT 392  6.4L V8",
+      "SRT 392 6.4L COUPE",
+      "SRT 392 6.4L V8",
+      "SRT 392 6SPD 6.4L",
+      "SRT 392 6SPD 6.4L V8",
+      "SRT 392 HEMI",
+      "SRT 6.2L S/C V8",
+      "SRT 8",
+      "SRT 8 392",
+      "SRT DEMON",
+      "SRT HELLCAT",
+      "SRT HELLCAT 6.2L S/C",
+      "SRT HELLCAT 6SPD 6.2",
+      "SRT HELLCAT COUPE",
+      "SRT HELLCAT JAILBREA",
+      "SRT HELLCAT RED EYE",
+      "SRT HELLCAT REDEYE",
+      "SRT HELLCAT S/CHARGE",
+      "SRT REDEYE",
+      "SRT SCAT PAC",
+      "SRT SCAT PACK",
+      "SRT SUPER STOCK",
+      "SRT SUPERCHARGED",
+      "SRT SUPERSTOCK",
+      "SRT-8",
+      "SRT-8 LTD EDITION",
+      "SRT/8",
+      "SRT392",
+      "SRT392 6.4L 6SPD",
+      "SRT392 6.4L V8",
+      "SRT392 6.4L V8 AUTO",
+      "SRT392 SCAT PACK",
+      "SRT392 SCAT PACK 6.4",
+      "SRT650",
+      "SRT8",
+      "SRT8 392",
+      "SRT8 392 HEMI",
+      "SRT8 6.1 HEMI",
+      "SRT8 6.4L",
+      "SRT8 6.4L 392",
+      "SRT8 6.4L 392 AUTO",
+      "SRT8 6.4L 6SPD S/C",
+      "SRT8 6.4L HEMI",
+      "SRT8 6.4L RYAN 392",
+      "SRT8 6.4SC",
+      "SRT8 6SPD 392",
+      "SRT8 6SPD 6.4L",
+      "SRT8 COUPE",
+      "SRT8 HEMI",
+      "SRT8 S/C 6.4L V8",
+      "SRT8 YELLOW JACKET",
+      "STR 8",
+      "STR HELLCAT",
+      "STR-8 6.4L V8 6MT",
+      "STR8",
+      "SXT PLUS",
+      "T/A",
+      "T/A 340 SIX PAK",
+      "T/A 392",
+      "T/A 392 6SPD",
+      "T/A 392 AUTO",
+      "T/A SRT 392",
+      "T/A392",
+      "TA",
+      "TRANSAM",
+      "V8",
+      "WESTERN SPORTS SPEC.",
+      "YELLOW JACKET"
+    ]
+  },
+  {
+    "model": "CALIBER",
+    "count": 487,
+    "submodels": [
+      "2.0L",
+      "2000",
+      "Base",
+      "R/T",
+      "R/T STREET EDITION",
+      "RT",
+      "SE",
+      "SXT",
+      "SXT 1.8L",
+      "SXT CRD",
+      "SXT SPORT"
+    ]
+  },
+  {
+    "model": "CHARGER",
+    "count": 360,
+    "submodels": [
+      "DAYTONA",
+      "1973",
+      "2DR SPORTS HARDTOP",
+      "383",
+      "383 H.P",
+      "440",
+      "440 SIXPACK",
+      "500",
+      "6.2L V8 HELLCAT",
+      "Base",
+      "COUPE",
+      "DAYTONA R/T",
+      "DAYTONA RT",
+      "GENERAL LEE",
+      "HELLCAT",
+      "HELLCAT 6.2L S/C",
+      "HELLCAT 6.2L V8",
+      "HELLCAT 6.2L V8 S/C",
+      "HELLCAT DAYTONA",
+      "HELLCAT DAYTONA SRT",
+      "HELLCAT REDEYE",
+      "HELLCAT S/C",
+      "HELLCAT WIDEBODY",
+      "HELLCAT WIDEBODY SRT",
+      "MOPAR 11",
+      "R/T",
+      "R/T 100TH ANN 5.7L",
+      "R/T 392",
+      "R/T DAYTONA",
+      "R/T HEMI DAYTONA",
+      "R/T MOPAR",
+      "R/T SCAT PACK",
+      "R/T SUPER TRACK PACK",
+      "R/TSCATPACK WIDEBODY",
+      "R\\T",
+      "RT",
+      "RT 440",
+      "RT DAYTONA",
+      "RT HEMI",
+      "RT SCATPACK WIDEBODY",
+      "SCAT PACK",
+      "SCAT PACK SWINGER",
+      "SCATPACK",
+      "SE",
+      "SE BROUGHAM",
+      "SRT",
+      "SRT 8",
+      "SRT 8 SUPER BEE",
+      "SRT HELLCAT",
+      "SRT HELLCAT RED EYE",
+      "SRT SUPER BEE",
+      "SRT WIDEBODY",
+      "SRT-8",
+      "SRT/8 HEMI",
+      "SRT8",
+      "SRT8 2012 MODEL",
+      "SRT8 6.4L HEMI",
+      "SRT8 6.4L HEMI V8",
+      "SRT8 6.4L SUPERBEE",
+      "SRT8 SUPER BEE",
+      "SRT8 SUPERBEE",
+      "SUPER BEE",
+      "SUPERBEE",
+      "SUPERBEE SRT",
+      "SUPERBEE SRT-8",
+      "SUPERBEE SRT8",
+      "V8",
+      "WIDE BODY SUPERBEE",
+      "WIDEBODY",
+      "XP29"
+    ]
+  },
+  {
+    "model": "NITRO",
+    "count": 142,
+    "submodels": [
+      "4X4",
+      "4X4 SXT",
+      "Base",
+      "R/T",
+      "R/T 4X4",
+      "SXT",
+      "SXT 4X4",
+      "SXT CRD A"
+    ]
+  },
+  {
+    "model": "CORONET",
+    "count": 117,
+    "submodels": [
+      "440",
+      "440  SERIES HT COUPE",
+      "440 2D",
+      "440 COUPE",
+      "440 V8",
+      "500",
+      "500 COUPE",
+      "500 V8 COUPE",
+      "Base",
+      "COUPE",
+      "LANCER SPORTS COUPE",
+      "R/T",
+      "R/T 440",
+      "RT",
+      "SUPER BEE",
+      "SUPERBEE"
+    ]
+  },
+  {
+    "model": "DART",
+    "count": 87,
+    "submodels": [
+      "270",
+      "2DR",
+      "330",
+      "413 WEDGE",
+      "440",
+      "Base",
+      "COUPE",
+      "CUSTOM",
+      "GT",
+      "GT CONVERTIBLE",
+      "GTS",
+      "PHEONIX",
+      "SDLH41",
+      "SENECA",
+      "SPORT",
+      "SPORT 360 CI",
+      "SPORTS COUPE",
+      "SWINGER"
+    ]
+  },
+  {
+    "model": "AVENGER",
+    "count": 78,
+    "submodels": [
+      "Base",
+      "SE 2.4L",
+      "SX-T",
+      "SXT",
+      "SXT 2.4L",
+      "SXT 2.7L",
+      "SXT 2.7L V6"
+    ]
+  },
+  {
+    "model": "VIPER",
+    "count": 75,
+    "submodels": [
+      "1999",
+      "ACR",
+      "ACR 8.4L SRT10 MAN",
+      "Base",
+      "GT",
+      "GTS",
+      "GTS 6SPD 8.4L V10",
+      "GTS ACR",
+      "GTS COUPE",
+      "GTS FINAL EDITION",
+      "RT/10",
+      "RT10",
+      "RT10 ROADSTER",
+      "SRT",
+      "SRT 10",
+      "SRT 10 FINAL EDITION",
+      "SRT 6SPD 8.3L V10",
+      "SRT GTS 6SPD V10",
+      "SRT-10",
+      "SRT-10 ROADSTER",
+      "SRT10",
+      "SRT10 8.4L V10",
+      "TWIN TURBO"
+    ]
+  },
+  {
+    "model": "JC",
+    "count": 40,
+    "submodels": [
+      "Base",
+      "JOURNEY SXT",
+      "SXT"
+    ]
+  },
+  {
+    "model": "RAM",
+    "count": 37,
+    "submodels": [
+      "150",
+      "1500",
+      "1500 EXPLORER",
+      "1500 V8",
+      "1500SLT",
+      "250",
+      "250 CUSTOM",
+      "2500",
+      "Base",
+      "CHARGER",
+      "CHARGER 150 ROYAL SE",
+      "COVERSION VAN",
+      "SRT-10",
+      "SRT10",
+      "STARCRAFT",
+      "V8 MAGNUM 1500",
+      "VAN",
+      "VAN B2500"
+    ]
+  },
+  {
+    "model": "POLARA",
+    "count": 33,
+    "submodels": [
+      "330",
+      "500",
+      "500/2DOOR",
+      "880",
+      "Base",
+      "COUPE"
+    ]
+  },
+  {
+    "model": "KINGSWAY",
+    "count": 21,
+    "submodels": [
+      "Base",
+      "CUSTOM",
+      "D9 CUSTOM",
+      "DELUXE",
+      "ROCKET"
+    ]
+  },
+  {
+    "model": "MONACO",
+    "count": 20,
+    "submodels": [
+      "Base",
+      "POLICE EDITION"
+    ]
+  },
+  {
+    "model": "PIONEER",
+    "count": 19,
+    "submodels": [
+      "Base",
+      "SEDAN",
+      "SENECA",
+      "V8"
+    ]
+  },
+  {
+    "model": "TOURER",
+    "count": 19,
+    "submodels": [
+      "1928",
+      "4",
+      "4DR",
+      "Base",
+      "J"
+    ]
+  },
+  {
+    "model": "COUPE",
+    "count": 18,
+    "submodels": [
+      "880",
+      "Base",
+      "D22 FLUID DRIVE",
+      "D25C",
+      "D5",
+      "D9",
+      "MAYFAIR",
+      "ROADSTER",
+      "WAYFARER FLUID DRIVE"
+    ]
+  },
+  {
+    "model": "4",
+    "count": 16,
+    "submodels": [
+      "Base",
+      "BUDD ROADSTER",
+      "FAST",
+      "ROADSTER",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "DA",
+    "count": 14,
+    "submodels": [
+      "1929",
+      "1937",
+      "Base",
+      "ROADSTER 6 CYL"
+    ]
+  },
+  {
+    "model": "PHOENIX",
+    "count": 11,
+    "submodels": [
+      "Base",
+      "TORQUEFLITE"
+    ]
+  },
+  {
+    "model": "SUPER BEE",
+    "count": 11,
+    "submodels": [
+      "Base",
+      "COUPE"
+    ]
+  },
+  {
+    "model": "CUSTOM ROYAL",
+    "count": 9,
+    "submodels": [
+      "Base",
+      "LANCER"
+    ]
+  },
+  {
+    "model": "D8",
+    "count": 9,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "DELUXE",
+      "FASTBACK",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "CUSTOM",
+    "count": 8,
+    "submodels": [
+      "880",
+      "Base",
+      "ROYALE WITH CHEESE",
+      "SIERRA"
+    ]
+  },
+  {
+    "model": "STANDARD 6",
+    "count": 8,
+    "submodels": [
+      "Base",
+      "SEDAN",
+      "SIX"
+    ]
+  },
+  {
+    "model": "D5",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "SEDAN",
+      "TRUNK BACK SEDAN"
+    ]
+  },
+  {
+    "model": "SPECIAL",
+    "count": 7,
+    "submodels": [
+      "1925",
+      "Base",
+      "D7",
+      "DELUXE",
+      "SENECA"
+    ]
+  },
+  {
+    "model": "VICTORY 6",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "ROADSTER",
+      "SERIES 131"
+    ]
+  },
+  {
+    "model": "330",
+    "count": 6,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DURANGO",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "HELLCAT SRT",
+      "HEMI R/T",
+      "R/T",
+      "SRT MOPAR'18 392"
+    ]
+  },
+  {
+    "model": "ROADSTER",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "SERIES126",
+      "SPORTS 1927"
+    ]
+  },
+  {
+    "model": "DEMON",
+    "count": 5,
+    "submodels": [
+      "340",
+      "Base",
+      "SRT"
+    ]
+  },
+  {
+    "model": "SENIOR",
+    "count": 5,
+    "submodels": [
+      "6",
+      "Base"
+    ]
+  },
+  {
+    "model": "BUSINESS",
+    "count": 4,
+    "submodels": [
+      "COUPE",
+      "DODGE BROTHERS",
+      "SEDAN",
+      "WAYFARER COUPE"
+    ]
+  },
+  {
+    "model": "D2",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "DD",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "SED 1115"
+    ]
+  },
+  {
+    "model": "NEON",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "SRT 4",
+      "SRT4"
+    ]
+  },
+  {
+    "model": "STANDARD SIX",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "440",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "D11",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "D12",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "D6",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "D9",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "DU",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MAGNUM",
+    "count": 2,
+    "submodels": [
+      "RT",
+      "SRT 8"
+    ]
+  },
+  {
+    "model": "RAMCHARGER",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "PROSPECTOR"
+    ]
+  },
+  {
+    "model": "SEDAN",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SPECIAL DELUXE",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "STEALTH",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "100 SERIES",
+    "count": 1,
+    "submodels": [
+      "116"
+    ]
+  },
+  {
+    "model": "128",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "128 SERIES",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "600ES",
+    "count": 1,
+    "submodels": [
+      "CONVERTIBLE"
+    ]
+  },
+  {
+    "model": "ADVENTURER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "COMMAND",
+    "count": 1,
+    "submodels": [
+      "WC56"
+    ]
+  },
+  {
+    "model": "D100",
+    "count": 1,
+    "submodels": [
+      "TOWNWAGON"
+    ]
+  },
+  {
+    "model": "DC",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GRAND CARAVAN",
+    "count": 1,
+    "submodels": [
+      "SE"
+    ]
+  },
+  {
+    "model": "HOT ROD",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LANCER",
+    "count": 1,
+    "submodels": [
+      "170"
+    ]
+  },
+  {
+    "model": "MATADOR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "POWERWAGON",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SPEEDSTER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TYPE A",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "WC",
+    "count": 1,
+    "submodels": [
+      "PT"
+    ]
+  }
+]

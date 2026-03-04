@@ -1,0 +1,10 @@
+[
+  {
+    "model": "MOUNTACH",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "CABRIOLET"
+    ]
+  }
+]

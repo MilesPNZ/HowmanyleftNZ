@@ -1,0 +1,45 @@
+[
+  {
+    "model": "CLUBMAN",
+    "count": 3,
+    "submodels": [
+      "1275 GT",
+      "Base"
+    ]
+  },
+  {
+    "model": "MINI CLUBMAN",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1000LE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MINI",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MINI 1000 BL",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MINI 1000 LE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

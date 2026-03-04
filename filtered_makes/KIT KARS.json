@@ -1,0 +1,17 @@
+[
+  {
+    "model": "T CAR",
+    "count": 2,
+    "submodels": [
+      "MGTF COPY",
+      "MK2"
+    ]
+  },
+  {
+    "model": "T",
+    "count": 1,
+    "submodels": [
+      "CAR"
+    ]
+  }
+]

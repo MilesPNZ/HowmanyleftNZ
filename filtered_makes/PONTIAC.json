@@ -1,0 +1,398 @@
+[
+  {
+    "model": "FIREBIRD",
+    "count": 280,
+    "submodels": [
+      "2DR TRANS AM",
+      "1968",
+      "326",
+      "350",
+      "400",
+      "400   COUPE",
+      "400CI",
+      "428",
+      "Base",
+      "COUPE",
+      "COUPE 350",
+      "ESPRIT",
+      "FOMULA 400",
+      "FORMULA 400",
+      "FORMULA400",
+      "GTA TRANSAM",
+      "SE",
+      "SPORT",
+      "SPORTS COUPE",
+      "TRANS AM",
+      "TRANS AM GTA",
+      "TRANS AM WS6",
+      "TRANS-AM",
+      "TRANSAM",
+      "TRANSAM GTA",
+      "TRANSZAM",
+      "TRANZAM",
+      "WS6"
+    ]
+  },
+  {
+    "model": "TRANSAM",
+    "count": 195,
+    "submodels": [
+      "10TH ANNIVERSARY",
+      "4.9 TURBO",
+      "455",
+      "5.0 LITER F.I.",
+      "6.6 LITRE",
+      "Base",
+      "COUPE",
+      "FIRE BIRD",
+      "FIREBIRD",
+      "FIREBIRD 6.6",
+      "FORMULA",
+      "GTA",
+      "INDY AUTO T/A 6.6",
+      "RAM AIR",
+      "SD 455",
+      "SD455",
+      "SE",
+      "SUPER DUTY",
+      "T/A 6.6",
+      "TURBO",
+      "WS 6 PERFORMACE",
+      "WS.6",
+      "WS6 RAM AIR"
+    ]
+  },
+  {
+    "model": "CATALINA",
+    "count": 83,
+    "submodels": [
+      "2 DOOR SPORTS SEDAN",
+      "2+2  421",
+      "389",
+      "400",
+      "Base",
+      "COUPE",
+      "SAF",
+      "SAFARI",
+      "SUPER DELUXE",
+      "VENTURA"
+    ]
+  },
+  {
+    "model": "BONNEVILLE",
+    "count": 80,
+    "submodels": [
+      "1963",
+      "428 S-TOP",
+      "455",
+      "Base",
+      "BROUGHAM",
+      "GRAND VILLE BROUGHAM",
+      "TRI-POWER",
+      "V8"
+    ]
+  },
+  {
+    "model": "GTO",
+    "count": 67,
+    "submodels": [
+      "5.7",
+      "Base",
+      "CONVERTABLE",
+      "COUPE",
+      "JUDGE",
+      "LE MANS",
+      "LEMANS",
+      "SPORT"
+    ]
+  },
+  {
+    "model": "LAURENTIAN",
+    "count": 55,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LE MANS",
+    "count": 51,
+    "submodels": [
+      "326",
+      "350",
+      "400 SPORT",
+      "Base",
+      "CHIEFTON",
+      "GT 400",
+      "GTO",
+      "SPORT",
+      "SPORT 350",
+      "SPORTS COUPE"
+    ]
+  },
+  {
+    "model": "GRAND-PRIX",
+    "count": 28,
+    "submodels": [
+      "2 DOOR",
+      "Base",
+      "GP",
+      "MODEL J"
+    ]
+  },
+  {
+    "model": "STAR CHIEF",
+    "count": 23,
+    "submodels": [
+      "2DR",
+      "Base",
+      "EIGHT",
+      "EXECUTIVE",
+      "STRATO"
+    ]
+  },
+  {
+    "model": "PARISIENNE",
+    "count": 21,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "CUSTOMSPORTS",
+      "SEDAN",
+      "V8"
+    ]
+  },
+  {
+    "model": "CHIEFTAIN",
+    "count": 18,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "HARDTOP",
+      "SILVER STREAK",
+      "SILVER STREAK 8",
+      "V8"
+    ]
+  },
+  {
+    "model": "TEMPEST",
+    "count": 18,
+    "submodels": [
+      "Base",
+      "CUSTOM",
+      "LE MANS GTO",
+      "TEMPIST CUSTOM S"
+    ]
+  },
+  {
+    "model": "VENTURA",
+    "count": 17,
+    "submodels": [
+      "Base",
+      "II"
+    ]
+  },
+  {
+    "model": "6",
+    "count": 12,
+    "submodels": [
+      "Base",
+      "PHATEON TOURIER",
+      "ROADSTER",
+      "SPECIAL"
+    ]
+  },
+  {
+    "model": "GRAND VILLE",
+    "count": 8,
+    "submodels": [
+      "Base",
+      "BROUGHAM",
+      "CONVERTIBLE"
+    ]
+  },
+  {
+    "model": "SILVER STREAK",
+    "count": 7,
+    "submodels": [
+      "6",
+      "Base",
+      "QUALITY 6"
+    ]
+  },
+  {
+    "model": "DELUXE",
+    "count": 6,
+    "submodels": [
+      "115",
+      "4 DOOR SEDAN",
+      "6",
+      "Base",
+      "TOURING SEDAN"
+    ]
+  },
+  {
+    "model": "FIERO",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "GT",
+      "SE 2M6"
+    ]
+  },
+  {
+    "model": "SAFARI",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "CHIEFTAIN",
+      "STARCHIEF",
+      "WAGON"
+    ]
+  },
+  {
+    "model": "EXECUTIVE",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "COUPE"
+    ]
+  },
+  {
+    "model": "ACADIAN",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "CANSO SPORT DELUXE"
+    ]
+  },
+  {
+    "model": "CHIEF",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "STRATO"
+    ]
+  },
+  {
+    "model": "STREAMLINER",
+    "count": 3,
+    "submodels": [
+      "COUPE",
+      "TORPEDO SEDAN COUPE",
+      "TORPEDO STRAIGHT 8"
+    ]
+  },
+  {
+    "model": "SUPER CHIEF",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BEAUMONT",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SOLSTICE",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "GXP"
+    ]
+  },
+  {
+    "model": "7839",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ASTRE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FIREBIRD T/A",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "G6",
+    "count": 1,
+    "submodels": [
+      "GT"
+    ]
+  },
+  {
+    "model": "GRAND PRIX COUPE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GRANDVILLE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LAURERLIAN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "QUALITY SIX",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SEDAN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "STRATO CHIEF",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TORPEDO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TOUSES",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TRANS AM",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

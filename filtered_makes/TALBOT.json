@@ -1,0 +1,72 @@
+[
+  {
+    "model": "14-45",
+    "count": 1,
+    "submodels": [
+      "TOURER"
+    ]
+  },
+  {
+    "model": "15/20",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "2VB",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "40B",
+    "count": 1,
+    "submodels": [
+      "TOURER"
+    ]
+  },
+  {
+    "model": "4CBX",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "4DB",
+    "count": 1,
+    "submodels": [
+      "4DB"
+    ]
+  },
+  {
+    "model": "90",
+    "count": 1,
+    "submodels": [
+      "SPEED TOURER"
+    ]
+  },
+  {
+    "model": "AO70",
+    "count": 1,
+    "submodels": [
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "BA105",
+    "count": 1,
+    "submodels": [
+      "SPORTS SALOON"
+    ]
+  },
+  {
+    "model": "BG110",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

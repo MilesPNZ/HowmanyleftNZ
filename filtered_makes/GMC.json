@@ -1,0 +1,112 @@
+[
+  {
+    "model": "YUKON",
+    "count": 72,
+    "submodels": [
+      "Base",
+      "CHEVROLET GMC500",
+      "DENALI",
+      "DENALI 1500",
+      "DENALI 6.2P/4WD/10AT",
+      "DENALI XL",
+      "DENALI-XL",
+      "XL",
+      "XL DENALI"
+    ]
+  },
+  {
+    "model": "VANDURA",
+    "count": 18,
+    "submodels": [
+      "2500",
+      "Base",
+      "G25",
+      "G2500",
+      "STARCRAFT"
+    ]
+  },
+  {
+    "model": "SUBURBAN",
+    "count": 15,
+    "submodels": [
+      "1500",
+      "2500",
+      "Base",
+      "C1500 SLE",
+      "GMC1500 SLT",
+      "SLT  1500",
+      "SLX"
+    ]
+  },
+  {
+    "model": "SAFARI",
+    "count": 11,
+    "submodels": [
+      "ASTRA",
+      "Base"
+    ]
+  },
+  {
+    "model": "SIERRA",
+    "count": 10,
+    "submodels": [
+      "1500",
+      "2500",
+      "Base",
+      "C1500",
+      "GRANDE SUBURBAN",
+      "SLT 1500"
+    ]
+  },
+  {
+    "model": "TYPHOON",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "TYPHOON"
+    ]
+  },
+  {
+    "model": "1500",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SAVANA"
+    ]
+  },
+  {
+    "model": "C1500",
+    "count": 2,
+    "submodels": [
+      "SIERRA"
+    ]
+  },
+  {
+    "model": "C10",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "K1500",
+    "count": 1,
+    "submodels": [
+      "DENALI"
+    ]
+  },
+  {
+    "model": "SIERRA SUBURBAN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SUBURBAN PD",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

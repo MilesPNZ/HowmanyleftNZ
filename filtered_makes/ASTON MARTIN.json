@@ -1,0 +1,265 @@
+[
+  {
+    "model": "VANTAGE",
+    "count": 342,
+    "submodels": [
+      "4.0P/8AT",
+      "4.3L 6M",
+      "4.3L SPORTS SHIFT",
+      "4.7 V8 COUPE",
+      "4.7L 6M",
+      "AMR 4.0P/7MT",
+      "AMR 5.9P/7MT",
+      "Base",
+      "COUPE 4.0PT/8AT",
+      "COUPE SPORTSHIFT",
+      "DB7",
+      "F1 4.0P/8AT",
+      "F1 ROADSTER 4.0P",
+      "GT",
+      "GT12 5.9P/7AT/SP/2DR",
+      "GT8 4.7P/7AT",
+      "HATCHBACK 4.0PT",
+      "N430",
+      "RED BULL 5.9P/7MT",
+      "ROADSTAR",
+      "ROADSTER 4.0P",
+      "ROADSTER 4.0PT/8AT",
+      "ROADSTER 4.7P/7AT",
+      "ROADSTER CONVERTIBLE",
+      "ROADSTER SPORTSHIFT",
+      "ROADSTER V8",
+      "S",
+      "S AUTO 4.7P/7AT",
+      "S MANUAL 4.7P/6MT",
+      "S V8",
+      "V12",
+      "V12 5.2P/8AT",
+      "V12 ROADSTER",
+      "V12 ROADSTER 5.2P",
+      "V12 S",
+      "V12S 5.9P/7AT/SP/2DR",
+      "V600",
+      "V8",
+      "V8 AUTO",
+      "V8 COUPE",
+      "V8 COUPE SPORTSHIFT",
+      "V8 N430 ROADSTER 4.7",
+      "V8 ROADSTER",
+      "V8 ROADSTER AUTO",
+      "V8 S",
+      "V8 S/S",
+      "VOLANTE"
+    ]
+  },
+  {
+    "model": "DB9",
+    "count": 154,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "COUPE AUTO",
+      "GL",
+      "GT 5.9P/6AT/SP/2DR/4",
+      "GT VOLANTE 5.9P/6AT",
+      "V12",
+      "V12 AUTO",
+      "VIRAGE",
+      "VOLANTE",
+      "VOLANTE 5.9P6A/SP2D4",
+      "VOLANTE 6.0"
+    ]
+  },
+  {
+    "model": "DB11",
+    "count": 113,
+    "submodels": [
+      "5.2P/8AT",
+      "AMR 5.2P/8AT",
+      "Base",
+      "V12",
+      "V12 AUTO",
+      "V8 4.0P/8AT",
+      "V8 VOLANTE",
+      "V8 VOLANTE 4.0P/8AT"
+    ]
+  },
+  {
+    "model": "DBS",
+    "count": 83,
+    "submodels": [
+      "5.2P/8AT",
+      "770 ULTIMATE 5.2P",
+      "Base",
+      "COUPE",
+      "SUPERLEGGERA",
+      "SUPERLEGGERA 5.2P",
+      "SUPERLEGGERA V12 A",
+      "SUPERLEGGERA VOLANTE",
+      "V12",
+      "V12 2+2 AUTO",
+      "V12 VOLANTE",
+      "V8",
+      "VANTAGE",
+      "VOLANTE",
+      "VOLANTE V12 AUTO"
+    ]
+  },
+  {
+    "model": "VANQUISH",
+    "count": 66,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "COUPE 5.2PT/8AT",
+      "COUPE 5.9P/8AT/SP/2D",
+      "S",
+      "S 5.9P/8AT",
+      "V12",
+      "V12 AUTO",
+      "VOLANTE 5.2PT/8AT",
+      "VOLANTE 5.9P/6AT/SP/",
+      "VOLANTE 5.9P/8AT/SP",
+      "ZAGATO",
+      "ZAGATO 5.9P/8AT"
+    ]
+  },
+  {
+    "model": "RAPIDE",
+    "count": 53,
+    "submodels": [
+      "6.0 AT ABS D/AB 2WD",
+      "6.0 V12",
+      "AMR 5.9P/8AT",
+      "Base",
+      "S",
+      "S 5.9P/8AT/SP/2DR/4S",
+      "S V12",
+      "V12 AUTO"
+    ]
+  },
+  {
+    "model": "DB7",
+    "count": 31,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "COUPE AUTO",
+      "DB7 COUPE",
+      "GTA",
+      "LAGONDA",
+      "VANTAGE",
+      "VANTAGE CABRIO",
+      "VANTAGE COUPE",
+      "VOLANTE"
+    ]
+  },
+  {
+    "model": "DB2",
+    "count": 27,
+    "submodels": [
+      "/4",
+      "4.0P/8AT",
+      "Base",
+      "COUPE 4.0P/8AT",
+      "COUPE 4.0PT/8AT",
+      "DB2-4  MKII",
+      "DB2/3",
+      "VOLANTE 4.0P/8AT"
+    ]
+  },
+  {
+    "model": "VIRAGE",
+    "count": 14,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "V12",
+      "VOLANTE",
+      "VOLANTE CONV AUTO"
+    ]
+  },
+  {
+    "model": "DBX",
+    "count": 7,
+    "submodels": [
+      "707",
+      "Base"
+    ]
+  },
+  {
+    "model": "LAGONDA",
+    "count": 6,
+    "submodels": [
+      "AUTO",
+      "Base",
+      "V8 4DR",
+      "V8 SERIES III COUPE"
+    ]
+  },
+  {
+    "model": "DB5",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "COUPE"
+    ]
+  },
+  {
+    "model": "DB6",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "SUPERLEGGERA"
+    ]
+  },
+  {
+    "model": "V8 COUPE",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VALKYRIE",
+    "count": 2,
+    "submodels": [
+      "6.5P/7AT"
+    ]
+  },
+  {
+    "model": "15/98",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "AMV8",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DB4",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SPEEDSTER",
+    "count": 1,
+    "submodels": [
+      "V12"
+    ]
+  },
+  {
+    "model": "ZAGATO",
+    "count": 1,
+    "submodels": [
+      "SHOOTING BRAKE"
+    ]
+  }
+]

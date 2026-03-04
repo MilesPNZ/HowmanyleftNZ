@@ -1,0 +1,10 @@
+[
+  {
+    "model": "P1",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "ROADSTER"
+    ]
+  }
+]

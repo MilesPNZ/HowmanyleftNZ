@@ -1,0 +1,21 @@
+[
+  {
+    "model": "A110",
+    "count": 8,
+    "submodels": [
+      "1.8PT/7AM",
+      "Base",
+      "LEGENDE GT AUTO",
+      "S",
+      "S AUTO"
+    ]
+  },
+  {
+    "model": "RENAULT",
+    "count": 2,
+    "submodels": [
+      "A110 BERLINETTE",
+      "Base"
+    ]
+  }
+]

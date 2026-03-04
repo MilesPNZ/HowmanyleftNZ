@@ -1,0 +1,53 @@
+[
+  {
+    "model": "2.5 LITRE",
+    "count": 2,
+    "submodels": [
+      "2L LOW CHASSIS",
+      "Base"
+    ]
+  },
+  {
+    "model": "LG45",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SB"
+    ]
+  },
+  {
+    "model": "LG6",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LG35",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "M45",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "RAPIER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "V12",
+    "count": 1,
+    "submodels": [
+      "DHC 12/1"
+    ]
+  }
+]

@@ -1,0 +1,1048 @@
+[
+  {
+    "model": "IS250",
+    "count": 4232,
+    "submodels": [
+      "-C SE-I AUTO",
+      "2.5L PETROL",
+      "2.5L V6",
+      "2.5L-V6",
+      "2.5P F SPORT SDN 6A",
+      "2.5P LTD",
+      "2.5P LTD SEDAN 6A",
+      "2.5P SEDAN 4DR 6A",
+      "2.5P SEDAN 4DR 6M",
+      "2.5P SPORT SEDAN 6A",
+      "2.5P SPORT SEDAN 6M",
+      "2.5P6A/SL4D5S",
+      "2008",
+      "250",
+      "9/2006",
+      "`",
+      "ADVANCE AUTO",
+      "ADVANCED AUTO",
+      "AUTO LUXURY",
+      "AUTO PREMIUM",
+      "AUTO STANDARD HID",
+      "AUTO STD",
+      "AWD",
+      "Base",
+      "C",
+      "C AUTO LUX",
+      "C AUTO STD",
+      "CONVERTIBLE",
+      "F SPORT",
+      "F SPORT AUTO",
+      "F-SPORT",
+      "FSPORT 2.5P6A/SL4D5S",
+      "GEN 2 SPORTS LUXURY",
+      "HYBRID",
+      "IS",
+      "IS250",
+      "L",
+      "LEXUS",
+      "LIMITED",
+      "LIMITED 2.5P6A/SL4D5",
+      "LUXURY",
+      "LUXURY AUTO",
+      "LX",
+      "PRESTIGE",
+      "S",
+      "SE",
+      "SE AUTO",
+      "SE-I-AUTO",
+      "SE-L AUTO",
+      "SPORT",
+      "SPORTS LUXURY",
+      "SR",
+      "SR AUTO",
+      "V6",
+      "VERSION 5",
+      "VERSION I",
+      "VERSION L V6",
+      "VERSION S"
+    ]
+  },
+  {
+    "model": "CT200H",
+    "count": 2993,
+    "submodels": [
+      "1.8 HYBRID",
+      "1.8L HYBRID",
+      "1.8L PETROL HYBRID",
+      "1.8P F SP HATCH ECVT",
+      "1.8P HATCH ECVT",
+      "1.8P LTD ECVT",
+      "1.8P LTD HATCH ECVT",
+      "1.8PH/4WD/CVT/HA/4DR",
+      "1.8PH/CVT",
+      "1.8PH/CVT/HA/4DR/5S",
+      "200H",
+      "ADVANCE CVT",
+      "AUTO",
+      "AUTO HYBRID",
+      "AUTO PREMIUM",
+      "Base",
+      "CVT",
+      "CVT LUXURY",
+      "F SPORT",
+      "F SPORT 1.8PH/CVT",
+      "F SPORT 1.8PH/CVT/HA",
+      "F SPORT HYBRID",
+      "F-SPORT",
+      "F-SPORT HYBRID",
+      "FSPORT",
+      "FSPORT 1.8PH/CVT/HA/",
+      "HV",
+      "HYBRID",
+      "HYBRID CVT",
+      "HYBRID DRIVE",
+      "HYBRID F SPORT",
+      "LEXUS",
+      "LIMITED 1.8PH/CVT/HA",
+      "SE I",
+      "VERSION L"
+    ]
+  },
+  {
+    "model": "RX450H",
+    "count": 2242,
+    "submodels": [
+      "HYBRID LUXURY CVT",
+      "3.5 HYBRID",
+      "3.5 PETROL HYBRID",
+      "3.5L HYBRID",
+      "3.5L PETROL HYBRID",
+      "3.5P HYBRID WGN ECVT",
+      "3.5PH/4WD/CVT",
+      "3.5PH/4WD/CVT/SW/5DR",
+      "450 HYBRID",
+      "450H",
+      "450LXE",
+      "4WD",
+      "AUTO HYBRID",
+      "Base",
+      "CVT F SPORT",
+      "CVT LUXURY",
+      "CVT STANDARD",
+      "F SPORT",
+      "F SPORT 3.5PH/4WD",
+      "F SPORT 3.5PH/4WD/CV",
+      "F SPORT HYBRID",
+      "F SPORTS",
+      "F-SPORT",
+      "FSPORT",
+      "HIBRID",
+      "HYBIRD",
+      "HYBRID",
+      "HYBRID DRIVE",
+      "HYBRID F SPORT",
+      "HYBRID RX450H",
+      "HYBRID SNERGY DRIVE",
+      "HYBRID SYNERGY DRIVE",
+      "HYDRID",
+      "L HYBRID",
+      "L VERSION HYBRID",
+      "LIMITED 3.5PH/4WD",
+      "LIMITED 3.5PH/4WD/CV",
+      "SE CVT",
+      "SPORT CVT",
+      "SPORTS LUXURY HYBRID",
+      "VERSION L"
+    ]
+  },
+  {
+    "model": "IS350",
+    "count": 1507,
+    "submodels": [
+      "F SPORT EQUIPPED",
+      "3.5",
+      "3.5L",
+      "3.5L PETROL",
+      "3.5P F SPORT SDN 6A",
+      "3.5P LTD SEDAN 6A",
+      "3.5P8A/SL4D5S",
+      "Base",
+      "C",
+      "DOHC 6AT EFI DI",
+      "F",
+      "F SPORT",
+      "F SPORT 3.5P/8AT",
+      "F-SPORT",
+      "F-SPORT AUTO",
+      "FSPORT",
+      "FSPORT 3.5P8A/SL4D5S",
+      "IS",
+      "IS350 L",
+      "L",
+      "LIMITED 3.5P8A/SL4D5",
+      "PRESTIGE",
+      "S VERSION",
+      "VERSION L",
+      "VERSION S AERO",
+      "VERSIONS"
+    ]
+  },
+  {
+    "model": "IS300H",
+    "count": 1433,
+    "submodels": [
+      "F SPORT HYBRID",
+      "2.5 HYBRID",
+      "2.5 PETROL HYBRID",
+      "2.5 SE CVT",
+      "2.5L HYBRID CVT",
+      "2.5L PETROL HYBRID",
+      "2.5L-PETROL HYBRID",
+      "2.5PH/HD",
+      "2.5PHHD/SL4D5S",
+      "300H",
+      "ADVANCE CVT",
+      "AUTO HYBRID",
+      "Base",
+      "BLACK LINE 2.5PH",
+      "CVT",
+      "EXECUTIVE EDITION CV",
+      "F SPORT",
+      "F SPORT 2.5PH/HD",
+      "F-SPORT",
+      "F-SPORT HYBRID",
+      "FSPORT",
+      "FSPORT 2.5PHHD/SL4D5",
+      "HYBRID",
+      "HYBRID CVT",
+      "HYBRID DRIVE",
+      "HYBRID F SPORT",
+      "LIMITED 2.5PH/HD",
+      "LIMITED 2.5PHHD/SL4D",
+      "LUXURY",
+      "LUXURY AUTO",
+      "LUXURY CVT",
+      "PREMIUM 2.5PH/HD",
+      "SE CVT",
+      "SPORT",
+      "SPORT CVT"
+    ]
+  },
+  {
+    "model": "HS250H",
+    "count": 1390,
+    "submodels": [
+      "2.4L HYBRID",
+      "2.4L HYBRID CVT",
+      "2.4L PETROL HYBRID",
+      "250H",
+      "AUTO",
+      "AUTO HYBRID",
+      "Base",
+      "CVT",
+      "HIBRID",
+      "HS",
+      "HYBIRD",
+      "HYBRD",
+      "HYBRID",
+      "HYBRID F SPORT",
+      "HYBRID SNERGY DRIVE",
+      "HYBRID SYNERGY DRIVE",
+      "HYBRIRD",
+      "VRESION I"
+    ]
+  },
+  {
+    "model": "NX",
+    "count": 1260,
+    "submodels": [
+      "2.5PH/HD",
+      "200T",
+      "300H",
+      "350 F SPORT AWD",
+      "350H",
+      "350H 2.5PH/HD",
+      "350H AWD",
+      "350H F SPORT",
+      "350H HYBRID",
+      "350H LIMITED 2.5PH",
+      "350H PREMIUM 2.5PH",
+      "450H SPORT",
+      "450H+",
+      "450H+ AWD",
+      "450H+ F SPORT PHEV",
+      "450H+ LIMITED PHEV",
+      "Base",
+      "LIMITED 2.5PH/4WD/HD"
+    ]
+  },
+  {
+    "model": "NX300H",
+    "count": 1253,
+    "submodels": [
+      "F-SPORT",
+      "2.5L PETROL HYBRID",
+      "2.5PH LIMITED HYBRID",
+      "2.5PH/4WD/CVT",
+      "2.5PH/CVT",
+      "2.5PH/CVT/SW/5DR/5S",
+      "Base",
+      "F SPORT",
+      "F SPORT 2.5PH/4WD",
+      "F SPORT 2.5PH/4WD/CV",
+      "F SPORT HYBRID",
+      "HYBRID",
+      "HYBRID F SPORT",
+      "HYBRID LUXURY S/R",
+      "I PACK",
+      "L PACKAGE",
+      "LEATHER PACKAGE",
+      "LIMITED 2.5PH/4WD",
+      "LIMITED 2.5PH/4WD/CV",
+      "LUXURY S/R",
+      "NX 300H L PACK",
+      "PETROL HYBRID",
+      "VERSION L"
+    ]
+  },
+  {
+    "model": "UX250H",
+    "count": 1169,
+    "submodels": [
+      "2.0PH/4WD/HD",
+      "2.0PH/HD",
+      "Base",
+      "BLACK LINE 2.0PH/4WD",
+      "F SPORT",
+      "F SPORT 2.0PH/HD",
+      "F SPORT HYBRID",
+      "HYBRID",
+      "LIMITED 2.0PH/4WD/HD",
+      "LIMITED 2.0PH/HD"
+    ]
+  },
+  {
+    "model": "RX350",
+    "count": 1101,
+    "submodels": [
+      "3.5P/4WD/8AT",
+      "3.5P/4WD/8AT/SW/5DR",
+      "3.5P4WD6A/SW4D5S",
+      "AUTO",
+      "Base",
+      "F",
+      "F SPORT",
+      "F SPORT (AWD)",
+      "F SPORT 3.5P/4WD/8AT",
+      "FSPORT 3.5P4WD6A/SW4",
+      "LIMITED",
+      "LIMITED 3.5P/4WD/8AT",
+      "LIMITED 3.5P4WD6A/SW",
+      "LX MR",
+      "STD"
+    ]
+  },
+  {
+    "model": "GS350",
+    "count": 1051,
+    "submodels": [
+      "LUXURY AUTO",
+      "3.5 V6",
+      "3.5L PETROL",
+      "3.5L- V6",
+      "3.5L-V6",
+      "3.5P SDN 6A",
+      "3.5P8A/SL4D5S",
+      "AWD",
+      "Base",
+      "F",
+      "F SPORT",
+      "F SPORT 3.5P SDN 6A",
+      "F SPORT 3.5P/8AT/SL",
+      "F SPORT AUTO",
+      "FSPORT 3.5P8A/SL4D5S",
+      "H",
+      "LIMITED 3.5P/8AT/SL",
+      "LIMITED 3.5P8A/SL4D5",
+      "LUXURY",
+      "LUXURY AURO",
+      "V6",
+      "VERSION I"
+    ]
+  },
+  {
+    "model": "GS450H",
+    "count": 858,
+    "submodels": [
+      "3.5 HYBRID SDN ECVT",
+      "3.5 PETROL HYBRID",
+      "3.5L PETROL HYBRID",
+      "3.5P V6 HYBRID SEDAN",
+      "3.5PHCVT/SL4D5S",
+      "AUTO",
+      "Base",
+      "CVT LUXURY",
+      "CVT LUXURY HYBRID",
+      "F SPORT",
+      "F SPORT 3.5 HYBRID",
+      "F SPORT 3.5PH/CVT/SL",
+      "F SPORTS",
+      "F-SPORT",
+      "FSPORT 3.5L",
+      "FSPORT 3.5PHCVT/SL4D",
+      "HIBRID",
+      "HYBIRD",
+      "HYBRID",
+      "HYBRID CVT",
+      "HYBRID CVT LUXURY",
+      "HYBRID DRIVE",
+      "HYBRID SNERGY DRIVE",
+      "HYBRID SYNERGY DRIVE",
+      "LIMITED 3.5PH/CVT/SL",
+      "LIMITED 3.5PHCVT/SL4",
+      "LUXURY",
+      "LUXURY CVT",
+      "SPORT",
+      "SUPER",
+      "VERSION L"
+    ]
+  },
+  {
+    "model": "RX",
+    "count": 808,
+    "submodels": [
+      "200T",
+      "350H",
+      "350H 2.5PH/4WD/HD",
+      "350H LIMITED 2.5PH",
+      "350H PREMIUM 2.5PH",
+      "450H",
+      "450H+ LIMITED PHEV",
+      "500H",
+      "500H BLACK LINE 2.4P",
+      "500H F SPORT 2.4PHT",
+      "Base",
+      "HYBRID"
+    ]
+  },
+  {
+    "model": "LBX",
+    "count": 633,
+    "submodels": [
+      "ACTIVE 1.5PH/CVT",
+      "COOL 1.5PH/4WD/CVT",
+      "COOL 1.5PH/CVT",
+      "HYBRID",
+      "MORIZO RR 1.6PT/AWD",
+      "RELAX 1.5PH/4WD/CVT",
+      "RELAX 1.5PH/CVT"
+    ]
+  },
+  {
+    "model": "LS460",
+    "count": 582,
+    "submodels": [
+      "4.6L PETROL",
+      "4.6P SEDAN 8A",
+      "4.6P/8AT/SL/4DR/5S",
+      "460",
+      "AUTO",
+      "Base",
+      "F",
+      "F SPORT",
+      "F SPORT 4.6P SEDAN 8",
+      "I PACKAGE",
+      "L",
+      "L AUTO",
+      "LUXURY",
+      "LWB"
+    ]
+  },
+  {
+    "model": "ES300H",
+    "count": 551,
+    "submodels": [
+      "2.5PH/HD",
+      "2.5PH/HD/SL/4DR/5S",
+      "Base",
+      "CRAFTED EDITION 2.5P",
+      "CVT",
+      "F SPORT 2.5PH/HD",
+      "F-SPORT",
+      "HYBRID",
+      "LIMITED 2.5PH/HD",
+      "LIMITED 2.5PH/HD/SL",
+      "LIMITED 2.5PH/HD/SL/",
+      "LUXURY",
+      "LUXURY CVT",
+      "PREMIUM 2.5PH/HD"
+    ]
+  },
+  {
+    "model": "GS300",
+    "count": 448,
+    "submodels": [
+      "3.0",
+      "3.0P SEDAN 5A",
+      "300",
+      "AUTO",
+      "AUTO 3.0L",
+      "Base",
+      "L2 3.0P V6",
+      "L2 SEDAN 3.0P V6 6A",
+      "SE",
+      "SE AUTO",
+      "SEDAN 3.0P V6 6A"
+    ]
+  },
+  {
+    "model": "ES300",
+    "count": 419,
+    "submodels": [
+      "0",
+      "3.0P SEDAN 5A",
+      "3.0P SEDAN4 4A",
+      "Base",
+      "ES300",
+      "F"
+    ]
+  },
+  {
+    "model": "IS-F",
+    "count": 419,
+    "submodels": [
+      "5.0L",
+      "5.0L V8",
+      "5.0P SEDAN 4 8A",
+      "A8",
+      "Base",
+      "F",
+      "F FACELIFT LSD 5.0V8",
+      "F SPORT",
+      "SPORT",
+      "TOM'S",
+      "V8"
+    ]
+  },
+  {
+    "model": "GS430",
+    "count": 414,
+    "submodels": [
+      "Base",
+      "GS",
+      "GS430",
+      "SEDAN 4.3P V8 6A"
+    ]
+  },
+  {
+    "model": "UX",
+    "count": 387,
+    "submodels": [
+      "250H",
+      "300E LIMITED 73KWH",
+      "300E PREMIUM 73KWH",
+      "300H F SPORT 2.0PH",
+      "300H LIMITED 2.0PH",
+      "300H PREMIUM 2.0PH"
+    ]
+  },
+  {
+    "model": "UX300E",
+    "count": 379,
+    "submodels": [
+      "54KWH/EV/HD",
+      "73KWH/EV/HD",
+      "LIMITED 54KWH/EV/HD",
+      "LIMITED 73KWH/EV"
+    ]
+  },
+  {
+    "model": "IS300",
+    "count": 347,
+    "submodels": [
+      "2.0PT/8AT",
+      "3.0P SEDAN 5A",
+      "Base",
+      "BLACK LINE 2.0PT",
+      "F SPORT 2.0PT",
+      "F SPORT 2.0PT/8AT",
+      "H F SPORT CVT",
+      "HF SPORT",
+      "HYBRID",
+      "HYBRID SE CVT",
+      "LIMITED 2.0PT",
+      "LIMITED 2.0PT/8AT"
+    ]
+  },
+  {
+    "model": "NX200T",
+    "count": 330,
+    "submodels": [
+      "2.0P/4WD/6AT/SW/5DR",
+      "2.0P/6AT/SW/5DR/5S",
+      "2.0PT/4WD/6AT",
+      "2.0PT/6AT",
+      "Base",
+      "F SPORT",
+      "F SPORT 2.0P/4WD/6AT",
+      "LIMITED 2.0P/4WD/6AT"
+    ]
+  },
+  {
+    "model": "NX300",
+    "count": 283,
+    "submodels": [
+      "2.0PT/4WD/6AT",
+      "2.0PT/6AT",
+      "Base",
+      "CRAFTED EDITION 2.0P",
+      "F SPORT 2.0PT/4WD",
+      "LIMITED 2.0PT/4WD"
+    ]
+  },
+  {
+    "model": "IS200",
+    "count": 233,
+    "submodels": [
+      "2.0P SEDAN 4A",
+      "2.0P SEDAN 6M",
+      "ALTEZZA R",
+      "Base",
+      "IS",
+      "IS200",
+      "PLATINUM 2.0L",
+      "SE",
+      "SE AUTO",
+      "SPORTS",
+      "TRD"
+    ]
+  },
+  {
+    "model": "GS460",
+    "count": 193,
+    "submodels": [
+      "4.6L",
+      "4.6P SEDAN 8A",
+      "Base",
+      "L",
+      "V8 SEDAN 8A",
+      "VERSION L"
+    ]
+  },
+  {
+    "model": "IS200T",
+    "count": 188,
+    "submodels": [
+      "2.0P/8AT/SL/4DR/5S",
+      "2.0PT/8AT",
+      "Base",
+      "F SPORT",
+      "F SPORT 2.0P/8AT/SL",
+      "F SPORT 2.0PT/8AT",
+      "F SPORTS TURBO",
+      "F-SPORT",
+      "LIMITED 2.0P/8AT/SL",
+      "LIMITED 2.0PT/8AT"
+    ]
+  },
+  {
+    "model": "RX450HL",
+    "count": 176,
+    "submodels": [
+      "Base",
+      "HV",
+      "LIMITED 3.5PH/4WD"
+    ]
+  },
+  {
+    "model": "SC430",
+    "count": 174,
+    "submodels": [
+      "4.3P COUPE 5A",
+      "4.3P COUPE 6A",
+      "AUTO 4.3L",
+      "AUTO FL",
+      "Base",
+      "COUPE",
+      "SC430"
+    ]
+  },
+  {
+    "model": "RZ",
+    "count": 173,
+    "submodels": [
+      "450E CORE 71KWH/EV",
+      "450E DYNAMIC 71KWH",
+      "500E DYNAMIC 75KWH",
+      "550E F SPORT 77KWH"
+    ]
+  },
+  {
+    "model": "LS600H",
+    "count": 163,
+    "submodels": [
+      "Base",
+      "F SPORT 5.0P HYBRID",
+      "HYBRID",
+      "HYBRID SNERGY DRIVE",
+      "HYBRID SYNERGY DRIVE"
+    ]
+  },
+  {
+    "model": "LS430",
+    "count": 157,
+    "submodels": [
+      "0",
+      "4.3P SEDAN 5A",
+      "4.3P SEDAN 6A",
+      "Base"
+    ]
+  },
+  {
+    "model": "GS250",
+    "count": 148,
+    "submodels": [
+      "2.5P SDN 6A",
+      "AUTO",
+      "AUTO STANDARD",
+      "Base",
+      "F SPORT",
+      "F SPORT 2.5P SDN 6A",
+      "F SPORT AUTO",
+      "F-SPORT",
+      "LUXURY AUTO",
+      "PREMIUM",
+      "PREMIUM AUTO"
+    ]
+  },
+  {
+    "model": "UX200",
+    "count": 100,
+    "submodels": [
+      "2.0P/CVT",
+      "Base",
+      "F SPORT",
+      "F SPORT 2.0P/CVT"
+    ]
+  },
+  {
+    "model": "RX350L",
+    "count": 97,
+    "submodels": [
+      "LIMITED 3.5P/4WD/8AT"
+    ]
+  },
+  {
+    "model": "GS300H",
+    "count": 95,
+    "submodels": [
+      "2.5L PETROL HYBRID",
+      "Base",
+      "E 2.5PHCVT/SL4D5S",
+      "F SPORT",
+      "FSPORT 2.5PHCVT/SL4D",
+      "HYBRID",
+      "LIMITED 2.5PH/CVT/SL"
+    ]
+  },
+  {
+    "model": "IS250 C",
+    "count": 74,
+    "submodels": [
+      "2.5P CONV2 6A",
+      "2.5P CONV2 6A LTD",
+      "AUTO LUX",
+      "Base"
+    ]
+  },
+  {
+    "model": "RC F",
+    "count": 70,
+    "submodels": [
+      "5.0P/8AT",
+      "5.0P/8AT/SP/2DR/4S",
+      "Base",
+      "CARBON 5.0P/8AT/SP/2",
+      "F SPORT COUPE",
+      "F10 5.0P/8AT"
+    ]
+  },
+  {
+    "model": "RX270",
+    "count": 70,
+    "submodels": [
+      "Base",
+      "MA CLASS FWD"
+    ]
+  },
+  {
+    "model": "ES350",
+    "count": 66,
+    "submodels": [
+      "3.5P/6AT/SL/4DR/5S",
+      "Base",
+      "LIMITED 3.5P/6AT/SL",
+      "LIMITED 3.5P/6AT/SL/",
+      "LUXURY"
+    ]
+  },
+  {
+    "model": "LS400",
+    "count": 56,
+    "submodels": [
+      "4.0P SEDAN 4A",
+      "Base"
+    ]
+  },
+  {
+    "model": "GS F",
+    "count": 51,
+    "submodels": [
+      "5.0P/8AT/SL/4DR/5S",
+      "Base",
+      "F10 5.0P/8AT"
+    ]
+  },
+  {
+    "model": "RC350",
+    "count": 50,
+    "submodels": [
+      "Base",
+      "F SPORT",
+      "F SPORT 3.5P/8AT",
+      "F SPORT 3.5P/8AT/SP",
+      "F SPORT COUPE",
+      "LIMITED 3.5P/8AT/SP"
+    ]
+  },
+  {
+    "model": "LC500",
+    "count": 48,
+    "submodels": [
+      "5.0P/10AT",
+      "Base",
+      "BLACK LINE 5.0P/10AT",
+      "SPORT"
+    ]
+  },
+  {
+    "model": "RC 300H",
+    "count": 44,
+    "submodels": [
+      "2.5",
+      "Base",
+      "COUPE HYBRID",
+      "F SPORT",
+      "F SPORT HYBRID",
+      "HYBRID",
+      "HYBRID COUPE",
+      "RC300H"
+    ]
+  },
+  {
+    "model": "LS600HL",
+    "count": 39,
+    "submodels": [
+      "5.0 HYBRID SDN ECVT",
+      "5.0P HYBRID SDN CVT",
+      "AUTO",
+      "AUTO 5 SEATER",
+      "Base",
+      "CVT",
+      "HV HYBRID",
+      "HYBRID",
+      "LIMITED 5.0PH4WDCVT/"
+    ]
+  },
+  {
+    "model": "RC300",
+    "count": 37,
+    "submodels": [
+      "Base",
+      "F SPORT 2.0PT/8AT",
+      "H",
+      "H HYBRID",
+      "HYBRID"
+    ]
+  },
+  {
+    "model": "RX300",
+    "count": 36,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "IS500",
+    "count": 35,
+    "submodels": [
+      "Base",
+      "F SPORT",
+      "F-SPORT"
+    ]
+  },
+  {
+    "model": "RX400H",
+    "count": 35,
+    "submodels": [
+      "3.3P HYBRID 5DR ECVT",
+      "Base",
+      "HYBRID",
+      "LIMITED EDTN CVT"
+    ]
+  },
+  {
+    "model": "LS600",
+    "count": 30,
+    "submodels": [
+      "5.0P HYBRID SEDAN",
+      "600LL",
+      "Base",
+      "HL AUTO 4SEATER",
+      "HYBRID"
+    ]
+  },
+  {
+    "model": "HS250",
+    "count": 26,
+    "submodels": [
+      "AUTO",
+      "Base",
+      "H",
+      "HYBRID"
+    ]
+  },
+  {
+    "model": "ES250",
+    "count": 18,
+    "submodels": [
+      "2.5L AT",
+      "AUTO",
+      "Base",
+      "LUXURY AUTO"
+    ]
+  },
+  {
+    "model": "IS220D",
+    "count": 16,
+    "submodels": [
+      "Base",
+      "D SE",
+      "SE"
+    ]
+  },
+  {
+    "model": "LS500",
+    "count": 14,
+    "submodels": [
+      "Base",
+      "HYBRID",
+      "LIMITED 3.4PT/10AT",
+      "LIMITED 3.5PT",
+      "LIMITED 3.5PT/10AT"
+    ]
+  },
+  {
+    "model": "RC200T",
+    "count": 14,
+    "submodels": [
+      "Base",
+      "F SPORT",
+      "F SPORT 2.0P/8AT/SP"
+    ]
+  },
+  {
+    "model": "LS500H",
+    "count": 13,
+    "submodels": [
+      "Base",
+      "HYBRID",
+      "LIMITED 3.5PH MULTIS",
+      "LIMITED 3.5PH/10HD M"
+    ]
+  },
+  {
+    "model": "LC500H",
+    "count": 11,
+    "submodels": [
+      "3.5PH/10HD",
+      "Base",
+      "HYBRID",
+      "SPORTS"
+    ]
+  },
+  {
+    "model": "LM500H",
+    "count": 10,
+    "submodels": [
+      "Base",
+      "DIRECT 4",
+      "HYBRID"
+    ]
+  },
+  {
+    "model": "RX330",
+    "count": 7,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "HYBRID",
+    "count": 6,
+    "submodels": [
+      "IS300H",
+      "E-FOUR",
+      "GS 450H",
+      "GS450H",
+      "HS 250H",
+      "HS250"
+    ]
+  },
+  {
+    "model": "LX570",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "BLACK SEQUENCE"
+    ]
+  },
+  {
+    "model": "NX350H",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CELSIOR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LFA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "NX350",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "RC300H",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "RX450",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

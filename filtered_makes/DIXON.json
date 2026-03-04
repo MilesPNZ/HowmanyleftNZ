@@ -1,0 +1,10 @@
+[
+  {
+    "model": "SPORTS",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "SARACEN"
+    ]
+  }
+]

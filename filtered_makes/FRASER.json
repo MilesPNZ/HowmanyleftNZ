@@ -1,0 +1,20 @@
+[
+  {
+    "model": "CLUBMAN",
+    "count": 82,
+    "submodels": [
+      "Base",
+      "S",
+      "SP330",
+      "V6"
+    ]
+  },
+  {
+    "model": "7",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "CUSTOM BUILT"
+    ]
+  }
+]

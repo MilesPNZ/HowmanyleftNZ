@@ -1,0 +1,17 @@
+[
+  {
+    "model": "EQUIPE",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "GT4S"
+    ]
+  },
+  {
+    "model": "BUG",
+    "count": 1,
+    "submodels": [
+      "700 ES"
+    ]
+  }
+]

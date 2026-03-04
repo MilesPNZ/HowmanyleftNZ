@@ -1,0 +1,9 @@
+[
+  {
+    "model": "GRENADIER",
+    "count": 2,
+    "submodels": [
+      "3.0DT/4WD/8AT"
+    ]
+  }
+]

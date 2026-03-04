@@ -54,7 +54,7 @@
 </head>
 <body>
 
-  <!-- Navbar - now includes Browse link -->
+  <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark">
     <div class="container">
       <a class="navbar-brand" href="/">How Many Left?</a>
@@ -67,7 +67,7 @@
             <a class="nav-link" href="/">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/browse">Browse</a>
+            <a class="nav-link" href="/browse">Index</a>
           </li>
           <li class="nav-item">
             <a class="nav-link active" href="/advanced-search">Advanced Search</a>
@@ -80,7 +80,7 @@
     </div>
   </nav>
 
-  <!-- Content with restored spacing (mt-5.mb-5 like older version) -->
+  <!-- Content -->
   <div class="container mt-5 mb-5 form-section">
     <h2 class="mb-4">Advanced Search</h2>
 
@@ -152,7 +152,7 @@
     </form>
   </div>
 
-  <!-- Footer - same as home -->
+  <!-- Footer -->
   <footer class="bg-secondary text-white py-5">
     <div class="container">
       <div class="row text-center text-md-start">
@@ -206,7 +206,6 @@
 <script>
   document.addEventListener('DOMContentLoaded', function () {
 
-    // Make select (single)
     const makeSelect = document.getElementById('make');
 
     // Model multi-select (Tom Select)
@@ -215,20 +214,26 @@
       persist: false,
       create: false,
       maxOptions: null,
+      preload: true,
+      shouldLoad: () => true,
+      loadThrottle: 0,
+      virtualScroll: false,
       placeholder: 'Select Model(s) (multiple allowed)',
       searchField: ['text']
     });
 
-    // Sub-model / Variant - Tom Select
+    // Sub-model multi-select (Tom Select)
     const submodelTom = new TomSelect('#submodel', {
       plugins: ['remove_button'],
       persist: false,
       create: false,
       maxOptions: null,
-      maxItems: null,
+      preload: true,
+      shouldLoad: () => true,
+      loadThrottle: 0,
+      virtualScroll: false,
       placeholder: 'Select Variant(s) (multiple allowed)',
-      searchField: ['text'],
-      preload: false
+      searchField: ['text']
     });
 
     // Fuel Type multi-select (Tom Select)
@@ -241,19 +246,16 @@
       searchField: ['text']
     });
 
-    // --- Fix scroll reset for multi-select dropdowns ---
+    // Scroll fix function (your original)
     function fixMultiScroll(tomSelectInstance, name) {
       let lastUserScroll = 0;
       let scrollListener;
 
       tomSelectInstance.on('dropdown_open', () => {
         const content = tomSelectInstance.dropdown_content;
-
-        // Restore last scroll position on open (for re-opens)
         content.scrollTop = lastUserScroll;
         console.log(`[${name}] Dropdown opened, restored scroll:`, lastUserScroll);
 
-        // Add scroll event listener to capture user scrolling
         scrollListener = () => {
           lastUserScroll = content.scrollTop;
           console.log(`[${name}] User scrolled to:`, lastUserScroll);
@@ -270,44 +272,34 @@
 
       const restoreUserScroll = () => {
         const content = tomSelectInstance.dropdown_content;
-
-        // Double RAF for reliable restore after DOM updates
         requestAnimationFrame(() => {
           requestAnimationFrame(() => {
             content.scrollTop = lastUserScroll;
-            console.log(`[${name}] RAF restored to:`, lastUserScroll, 'actual:', content.scrollTop);
           });
         });
-
-        // Fallback timeout
         setTimeout(() => {
           content.scrollTop = lastUserScroll;
-          console.log(`[${name}] Timeout fallback restored to:`, lastUserScroll, 'actual:', content.scrollTop);
         }, 0);
       };
 
-      // Restore on selection events
       tomSelectInstance.on('item_add', restoreUserScroll);
       tomSelectInstance.on('item_remove', restoreUserScroll);
       tomSelectInstance.on('change', restoreUserScroll);
-      tomSelectInstance.on('option_add', restoreUserScroll); // For created options, if any
+      tomSelectInstance.on('option_add', restoreUserScroll);
 
-      // Prevent reset on input focus
       tomSelectInstance.control_input.addEventListener('focus', () => {
         requestAnimationFrame(() => {
           tomSelectInstance.dropdown_content.scrollTop = lastUserScroll;
-          console.log(`[${name}] Focus restored to:`, lastUserScroll);
         });
       });
     }
 
-    // Apply fix to both dropdowns
     fixMultiScroll(modelTom, 'MODEL');
     fixMultiScroll(submodelTom, 'SUBMODEL');
 
-    // Load models when make changes
+    // Load models and submodels from JSON when make changes
     makeSelect.addEventListener('change', function () {
-      const make = this.value;
+      const make = this.value.trim();
       if (!make) {
         modelTom.clearOptions();
         modelTom.disable();
@@ -316,37 +308,77 @@
         return;
       }
 
-      $.get('/models', { make: make }, function (data) {
-        modelTom.clearOptions();
-        const options = data.map(m => ({ value: m, text: m }));
-        modelTom.addOptions(options);
-        modelTom.refreshOptions(false);
-        modelTom.enable();
-        console.log('[MODEL] Models loaded, count:', data.length);
-      });
+      fetch(`/api/make/${encodeURIComponent(make)}`)
+        .then(response => {
+          if (!response.ok) throw new Error('Failed to load make data');
+          return response.json();
+        })
+        .then(data => {
+          // Populate models
+          modelTom.clearOptions();
+          const modelOptions = data.map(item => ({
+            value: item.model,
+            text: `${item.model} (${item.count.toLocaleString()})`
+          }));
+          modelTom.addOptions(modelOptions);
+          modelTom.refreshOptions(false);
+          modelTom.enable();
+
+          // Pre-populate submodels (but disable until models selected)
+          submodelTom.clearOptions();
+          submodelTom.disable();
+          console.log('Models loaded for', make, ':', modelOptions.length);
+        })
+        .catch(err => {
+          console.error('Error loading make data:', err);
+          modelTom.disable();
+          submodelTom.disable();
+        });
     });
 
-    // Load submodels when model changes
+    // Load submodels when model(s) change
     modelTom.on('change', function () {
-      const make = makeSelect.value;
-      const models = modelTom.getValue();
-      if (!make || !models.length) {
+      const selectedModels = modelTom.getValue(); // array of selected model names
+      if (!selectedModels.length) {
         submodelTom.clearOptions();
         submodelTom.disable();
         return;
       }
 
-      $.get('/submodels', { make: make, models: models }, function (data) {
-        submodelTom.clearOptions();
-        const options = data.map(item => ({
-          value: item || '',
-          text: item || 'Base / Standard Model'
-        }));
-        submodelTom.addOptions(options);
-        submodelTom.refreshOptions(false);
-        submodelTom.enable();
-        console.log('[SUBMODEL] Submodels loaded, count:', data.length);
-      });
+      // Since we already fetched the make data on make change, use cached data
+      // But for simplicity, we can re-fetch or use the last fetched data
+      // Here we assume currentMakeData is available from make change (you can store it globally)
+      // For now, we re-fetch to keep it simple and independent
+      const make = makeSelect.value.trim();
+      fetch(`/api/make/${encodeURIComponent(make)}`)
+        .then(response => response.json())
+        .then(data => {
+          const allSubmodels = new Set();
+
+          data.forEach(item => {
+            if (selectedModels.includes(item.model) && Array.isArray(item.submodels)) {
+              item.submodels.forEach(sub => {
+                if (sub && typeof sub === 'string') {
+                  allSubmodels.add(sub.trim());
+                }
+              });
+            }
+          });
+
+          submodelTom.clearOptions();
+          const subOptions = Array.from(allSubmodels)
+            .sort((a, b) => a.localeCompare(b))
+            .map(sub => ({ value: sub, text: sub }));
+
+          submodelTom.addOptions(subOptions);
+          submodelTom.refreshOptions(false);
+          submodelTom.enable();
+          console.log('Submodels loaded:', subOptions.length);
+        })
+        .catch(err => {
+          console.error('Error loading submodels:', err);
+          submodelTom.disable();
+        });
     });
   });
 </script>

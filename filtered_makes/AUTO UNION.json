@@ -1,0 +1,29 @@
+[
+  {
+    "model": "DKW",
+    "count": 10,
+    "submodels": [
+      "1000",
+      "1000S",
+      "3-6",
+      "3=6  F94",
+      "3=6 SONDERKLASSE",
+      "F11",
+      "F12"
+    ]
+  },
+  {
+    "model": "1000S",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1000SP",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "model": "SMART COUPE",
+    "count": 45,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SMART K",
+    "count": 33,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SMART CABRIO",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SMARK K",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SMART FORTWO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

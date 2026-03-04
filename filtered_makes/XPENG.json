@@ -1,0 +1,17 @@
+[
+  {
+    "model": "G6",
+    "count": 16,
+    "submodels": [
+      "AWD PERFORMANCE",
+      "RWD LONG RANGE 81KWH"
+    ]
+  },
+  {
+    "model": "X9",
+    "count": 1,
+    "submodels": [
+      "AWD LONG RANGE"
+    ]
+  }
+]

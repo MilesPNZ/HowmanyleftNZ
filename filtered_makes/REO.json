@@ -1,0 +1,17 @@
+[
+  {
+    "model": "FLYING CLOUD",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "COUPE"
+    ]
+  },
+  {
+    "model": "B",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

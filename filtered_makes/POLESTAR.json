@@ -1,0 +1,54 @@
+[
+  {
+    "model": "POLESTAR 2",
+    "count": 1923,
+    "submodels": [
+      "69KWH RWD 200KW",
+      "ELECTRIC",
+      "LRDM 78KWH/EV/4WD/FD",
+      "LRDM PLUS",
+      "LRDM PLUS 78KWH/EV",
+      "LRSM 78KWH/EV/FD",
+      "LRSM PLUS 78KWH/EV",
+      "SRSM",
+      "SRSM 69KWH/EV/FD",
+      "SRSM PLUS 69KWH/EV"
+    ]
+  },
+  {
+    "model": "2",
+    "count": 103,
+    "submodels": [
+      "LRDM PERFORMANCE EV",
+      "LRDM PLUS 82KWH/EV",
+      "LRSM 82KWH/EV/FD",
+      "LRSM PLUS 82KWH/EV"
+    ]
+  },
+  {
+    "model": "4",
+    "count": 49,
+    "submodels": [
+      "LRDM 100KWH/EV/AWD",
+      "LRSM 100KWH/EV",
+      "LRSM PLUS 100KWH/EV"
+    ]
+  },
+  {
+    "model": "3",
+    "count": 27,
+    "submodels": [
+      "LRDM 360KW 111KWH/EV",
+      "LRDM PERFORMANCE",
+      "LRDM PERFORMANCE 380",
+      "LRSM 111KWH/EV/FD"
+    ]
+  },
+  {
+    "model": "1",
+    "count": 1,
+    "submodels": [
+      "PK"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "model": "G",
+    "count": 2,
+    "submodels": [
+      "15"
+    ]
+  },
+  {
+    "model": "G4",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

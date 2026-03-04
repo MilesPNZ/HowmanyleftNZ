@@ -1,0 +1,9 @@
+[
+  {
+    "model": "STELVIO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

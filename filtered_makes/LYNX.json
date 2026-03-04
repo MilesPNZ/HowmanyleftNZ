@@ -1,0 +1,10 @@
+[
+  {
+    "model": "LYNX",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "KIT CAR"
+    ]
+  }
+]

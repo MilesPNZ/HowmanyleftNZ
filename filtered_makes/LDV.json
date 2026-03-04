@@ -1,0 +1,89 @@
+[
+  {
+    "model": "D90",
+    "count": 349,
+    "submodels": [
+      "2.0 TGI 4WD",
+      "2.0PT/6AT",
+      "2WD 2.0PT/8AT",
+      "2WD EXECUTIVE 2.0PT",
+      "4WD EXECUTIVE 2.0PT",
+      "Base",
+      "EXECUTIVE",
+      "EXECUTIVE 4WD",
+      "PREMIUM 2.0DT/4WD"
+    ]
+  },
+  {
+    "model": "G10",
+    "count": 246,
+    "submodels": [
+      "Base",
+      "CARGO 2.4 2.4P/5MT/L",
+      "SACI MOTOR",
+      "SAICMOTOR",
+      "SV7A",
+      "T 7 SEAT 2.0P/6AT/LV",
+      "T 9 SEAT 2.0P/6AT/LV",
+      "T CARGO 2.0P/6AT/LV",
+      "VAN"
+    ]
+  },
+  {
+    "model": "V80",
+    "count": 25,
+    "submodels": [
+      "11 SEAT AMT 2.5D/6AM",
+      "12 SEAT MAN 2.5D/5MT",
+      "12 SEAT MID ROOF AMT",
+      "12 SEAT MID ROOF MAN",
+      "14 SEAT AMT 2.5D/6AM",
+      "BIG AMT 2.5D/6AM",
+      "BIG MOBILITY 2.5D/6A",
+      "BIGGER AMT 2.5D/6AM",
+      "BIGGER MOBILITY 2.5D",
+      "BIGGEST AMT 2.5D/6AM",
+      "MINIBUS12 2.5D/5MT/L",
+      "MINIBUS12 2.5D/6AM/L"
+    ]
+  },
+  {
+    "model": "MIFA",
+    "count": 13,
+    "submodels": [
+      "90KWH/EV/AT",
+      "Base",
+      "PREMIUM 7ST 2.0PT"
+    ]
+  },
+  {
+    "model": "CONVOY",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DELIVER 9",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "BIGGER AUTO 2.0DT"
+    ]
+  },
+  {
+    "model": "EDELIVER 9",
+    "count": 2,
+    "submodels": [
+      "BIG 52KWH/EV/AT",
+      "BIGGER 52KWH/EV"
+    ]
+  },
+  {
+    "model": "T60",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

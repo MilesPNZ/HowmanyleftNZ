@@ -1,0 +1,17 @@
+[
+  {
+    "model": "RO80",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "1000C",
+    "count": 2,
+    "submodels": [
+      "1200TT",
+      "Base"
+    ]
+  }
+]

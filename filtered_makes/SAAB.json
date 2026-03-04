@@ -1,0 +1,473 @@
+[
+  {
+    "model": "9-3",
+    "count": 279,
+    "submodels": [
+      "1.8 T",
+      "1.8T",
+      "1.8T LINEAR",
+      "1.8T SPORT-LIMOUS",
+      "1.9 TDI",
+      "1.9 TID",
+      "2",
+      "2.0 T",
+      "2.0T",
+      "20T",
+      "4D 2.0 LPT",
+      "9-3S5D2.OLPT",
+      "AERO",
+      "AERO 2.0TS",
+      "AERO 9-3 210 BHP",
+      "AERO AUTO",
+      "AERO CABRIOLET",
+      "AERO TTID AUTO",
+      "AERO TURBO",
+      "AERO V6",
+      "AERO V6 S-A",
+      "AEROCONVERT2.0M",
+      "ANNIVERSARY 3DR",
+      "ANNIVERSARY CONV",
+      "ANNIVERSARY5DR",
+      "ARC4DOOR2.0A",
+      "Base",
+      "CAB 2.0 OLPT",
+      "CABRIOLET",
+      "CON2.0T",
+      "CONVERTABLE SE",
+      "CONVERTIBILE 2.0 M",
+      "CONVERTIBILE2.0A",
+      "CONVERTIBLE",
+      "CV 2.8TS",
+      "LINEAR",
+      "LINEAR 1.8T A",
+      "LINEAR 4DOOR 2.0 A",
+      "LINEAR CONVERT 2.0A",
+      "S",
+      "S TURBO",
+      "SCANIA TURBO",
+      "SE",
+      "SE CABRIOLET",
+      "SE TURBO",
+      "SPORT",
+      "SPORTS",
+      "V6 S-A",
+      "VECTOR",
+      "VECTOR 175 BHP AUTO",
+      "VECTOR SPORT",
+      "VECTOR4DOOR2.0T",
+      "X TURBO XWD"
+    ]
+  },
+  {
+    "model": "900",
+    "count": 133,
+    "submodels": [
+      "2.3",
+      "I AERO AUTO",
+      "AERO",
+      "AERO COUPE",
+      "Base",
+      "CABRIO",
+      "CABRIOLET",
+      "CONVERTABLE TURBO",
+      "CV",
+      "EMS",
+      "GLE",
+      "I",
+      "S",
+      "S  COUPE",
+      "S 16 VALVE",
+      "S 2.3 CONVA",
+      "S COUPE",
+      "SE",
+      "SE2",
+      "T CABRIOLET",
+      "TALLEDAGA",
+      "TURBO",
+      "TURBO 16 VALVE",
+      "TURBO 16V",
+      "TURBO S",
+      "TURBO S 16V",
+      "TURBO-S 16 VALVE",
+      "V6 2.5 AUTO"
+    ]
+  },
+  {
+    "model": "9-5",
+    "count": 128,
+    "submodels": [
+      "2.0 EST",
+      "2.0 T",
+      "2.0E",
+      "2.0T",
+      "2.3 T LINEAR",
+      "3.0T",
+      "4D  2.0 LPT",
+      "4D A",
+      "4D2.0 LPT",
+      "95GRIFFIN",
+      "AERO",
+      "AERO SEDAN AUTO",
+      "ARC4DOOR2.3A",
+      "Base",
+      "GRIFFIN",
+      "LINEAR ESTATE 2.3A",
+      "LINEAR SEDAN",
+      "LINEAR4DOOR2.3A",
+      "SE",
+      "SE 2.3LT",
+      "SE TURBO",
+      "VECTOR4DOOR2.3A"
+    ]
+  },
+  {
+    "model": "900S",
+    "count": 97,
+    "submodels": [
+      "16V",
+      "2",
+      "2.3",
+      "23",
+      "5D V6 A",
+      "Base",
+      "CABRIOLET",
+      "CON 2.3 M",
+      "CONVERTIBLE",
+      "COUP",
+      "S",
+      "SCV8752P",
+      "TALLADEGA",
+      "TURBO",
+      "TURBO 16V"
+    ]
+  },
+  {
+    "model": "9-3 LINEAR",
+    "count": 38,
+    "submodels": [
+      "4 DOOR 1.8T A",
+      "4 DOOR 1.8T M",
+      "4 DOOR 2.0T BP A",
+      "5 DOOR 2.0T BP A",
+      "Base",
+      "CONVERTIBLE 2.0T A",
+      "CONVERTIBLE 2.0T BP",
+      "CONVERTIBLE A",
+      "CONVERTIBLE2.0AT",
+      "CONVERTIBLE2.0MT",
+      "SPCOMBI1.9AT",
+      "SPCOMBI1.9MT",
+      "SPORT1.9AT",
+      "SPORTCOMBI A"
+    ]
+  },
+  {
+    "model": "9-3S",
+    "count": 32,
+    "submodels": [
+      "2.8 MONTECARLO",
+      "3D2.0A",
+      "5D 2.0 A",
+      "5D 2.0 M",
+      "CONV 2.0 A",
+      "CONV 2.3 A",
+      "CONV2.0M"
+    ]
+  },
+  {
+    "model": "9-3 AERO",
+    "count": 29,
+    "submodels": [
+      "4 DOOR 2.0T A",
+      "4 DOOR 2.8T A",
+      "4 DOOR 2.8T M",
+      "Base",
+      "CABRIOLET",
+      "CONV 2.0 A",
+      "CONVERTIBLE",
+      "CONVERTIBLE 2.8AT",
+      "CONVERTIBLE A",
+      "CONVERTIBLE M",
+      "CONVERTIBLE2.8AT",
+      "SPCOMBI2.8AT",
+      "SPORT2.8AT",
+      "SPORTCOMBI A"
+    ]
+  },
+  {
+    "model": "9-5AERO",
+    "count": 27,
+    "submodels": [
+      "4D 2.3M",
+      "4D2.3A",
+      "ESTATE2.3A",
+      "SEDAN AUTO"
+    ]
+  },
+  {
+    "model": "9-3 VECTOR",
+    "count": 25,
+    "submodels": [
+      "4 DOOR 1.9TID A",
+      "4 DOOR 2.0T A",
+      "4 DOOR 2.0T BP A",
+      "CONVERTIBLE 2.0T A",
+      "CONVERTIBLE 2.0T BP",
+      "CONVERTIBLE A",
+      "CONVERTIBLE2.0AT",
+      "SPCOMBI2.0AT"
+    ]
+  },
+  {
+    "model": "9000",
+    "count": 23,
+    "submodels": [
+      "3.0V6 GRIFFINA",
+      "AERO",
+      "Base",
+      "CD",
+      "CD TURBO",
+      "CDI 2.3 M",
+      "CS",
+      "CS 2.3 TURBO",
+      "CSE",
+      "CSE TURBO",
+      "CSI 2.3 TURBO",
+      "GRIFFEN",
+      "GRIFFIN"
+    ]
+  },
+  {
+    "model": "9-3AERO",
+    "count": 22,
+    "submodels": [
+      "4 DOOR 2.0 A",
+      "5D 2.0 A",
+      "5D2.0A",
+      "CONV 2.0 A"
+    ]
+  },
+  {
+    "model": "93",
+    "count": 22,
+    "submodels": [
+      "2.0L TURBO",
+      "2.0T",
+      "95 V4",
+      "Base",
+      "TOURER",
+      "TURBO",
+      "VECTOR 150 BHP",
+      "VECTOR SPORT",
+      "VECTRA"
+    ]
+  },
+  {
+    "model": "9-5 LINEAR",
+    "count": 15,
+    "submodels": [
+      "BIOPOWER SEDAN A",
+      "SEDAN A",
+      "SPORTESTATE A",
+      "SPORTESTATE M"
+    ]
+  },
+  {
+    "model": "900SE",
+    "count": 11,
+    "submodels": [
+      "2.0 T SR",
+      "2.0 TURBO",
+      "2.5 V6 AUTO.SOFT TOP",
+      "Base"
+    ]
+  },
+  {
+    "model": "900I",
+    "count": 10,
+    "submodels": [
+      "16 VALVE",
+      "AERO",
+      "Base",
+      "CABRIOLET",
+      "S900IH"
+    ]
+  },
+  {
+    "model": "9-5 AERO",
+    "count": 9,
+    "submodels": [
+      "Base",
+      "SEDAN A",
+      "SEDAN2.3AT",
+      "SPORTESTATE A"
+    ]
+  },
+  {
+    "model": "9-5S",
+    "count": 6,
+    "submodels": [
+      "ESTATE",
+      "ESTATE 2.3M"
+    ]
+  },
+  {
+    "model": "96",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "LV4",
+      "V4"
+    ]
+  },
+  {
+    "model": "9-3SE",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "CONV 2.0 A",
+      "CONV 2.0T",
+      "CONV 2.3 M"
+    ]
+  },
+  {
+    "model": "95",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "SE"
+    ]
+  },
+  {
+    "model": "99",
+    "count": 4,
+    "submodels": [
+      "E",
+      "L",
+      "TURBO"
+    ]
+  },
+  {
+    "model": "9-5SE",
+    "count": 3,
+    "submodels": [
+      "4 D A",
+      "Base"
+    ]
+  },
+  {
+    "model": "9000CDE",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "9-5 VECTOR",
+    "count": 2,
+    "submodels": [
+      "2.0 AT ABS D/AB",
+      "SEDAN A"
+    ]
+  },
+  {
+    "model": "9000CD",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "9000CDI",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "CDI 2.3 A"
+    ]
+  },
+  {
+    "model": "9000CS",
+    "count": 2,
+    "submodels": [
+      "2.0EP",
+      "Base"
+    ]
+  },
+  {
+    "model": "ESTATE",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "9-3 ARC",
+    "count": 1,
+    "submodels": [
+      "4 DOOR 2.0T A"
+    ]
+  },
+  {
+    "model": "9-3 TURBO",
+    "count": 1,
+    "submodels": [
+      "X"
+    ]
+  },
+  {
+    "model": "9-5 ARC",
+    "count": 1,
+    "submodels": [
+      "SEDAN AUTO"
+    ]
+  },
+  {
+    "model": "900 I CAB",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "900 TURBO CONVRTBLE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "9000CSE",
+    "count": 1,
+    "submodels": [
+      "23T"
+    ]
+  },
+  {
+    "model": "9000I",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "900I AERO A",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "900I CABROILET",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SONETT",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

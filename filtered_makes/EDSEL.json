@@ -1,0 +1,43 @@
+[
+  {
+    "model": "RANGER",
+    "count": 10,
+    "submodels": [
+      "Base",
+      "CORSAIR"
+    ]
+  },
+  {
+    "model": "VILLAGER",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "STATION WAGON",
+      "WAGON"
+    ]
+  },
+  {
+    "model": "CITATION",
+    "count": 2,
+    "submodels": [
+      "2 DOOR",
+      "Base"
+    ]
+  },
+  {
+    "model": "CORSAIR",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "CONVERTABLE"
+    ]
+  },
+  {
+    "model": "PACER",
+    "count": 2,
+    "submodels": [
+      "4 DOOR",
+      "Base"
+    ]
+  }
+]

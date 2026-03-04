@@ -1,0 +1,232 @@
+[
+  {
+    "model": "COUGAR",
+    "count": 86,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "ELIMINATOR",
+      "LS V-6",
+      "TIFFANNY",
+      "XR-7",
+      "XR-7 2DR HARDTOP COU",
+      "XR7",
+      "XR7 289",
+      "XR7 CONV",
+      "XR7-GT"
+    ]
+  },
+  {
+    "model": "MONTEREY",
+    "count": 50,
+    "submodels": [
+      "45",
+      "Base",
+      "BREEZEAWAY",
+      "COLONY PARK",
+      "COMMUTER",
+      "CUSTOM",
+      "MARAUDER S-55",
+      "PHAETON",
+      "SUN VALLEY"
+    ]
+  },
+  {
+    "model": "COMET",
+    "count": 34,
+    "submodels": [
+      "Base",
+      "CALIENCE",
+      "CALIENTE",
+      "CALIETE",
+      "CUSTOM",
+      "CYCLONE",
+      "S-22"
+    ]
+  },
+  {
+    "model": "EIGHT",
+    "count": 20,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "SEDAN COUPE"
+    ]
+  },
+  {
+    "model": "METEOR",
+    "count": 15,
+    "submodels": [
+      "2 DOOR CUSTOM",
+      "800",
+      "Base",
+      "CUSTOM",
+      "CUSTOM S 33",
+      "S 33",
+      "S33"
+    ]
+  },
+  {
+    "model": "MONTCLAIR",
+    "count": 15,
+    "submodels": [
+      "59",
+      "Base",
+      "MARAUDER",
+      "PHAETON",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "2DR HARDTOP",
+    "count": 10,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "METEOR",
+      "TIFFANY"
+    ]
+  },
+  {
+    "model": "PARKLANE",
+    "count": 10,
+    "submodels": [
+      "Base",
+      "CRUISER",
+      "MARAUDER"
+    ]
+  },
+  {
+    "model": "MARQUIS",
+    "count": 9,
+    "submodels": [
+      "Base",
+      "GRAND"
+    ]
+  },
+  {
+    "model": "MARAUDER",
+    "count": 8,
+    "submodels": [
+      "Base",
+      "MONTCLAIR",
+      "PARK LANE",
+      "S55"
+    ]
+  },
+  {
+    "model": "CYCLONE",
+    "count": 6,
+    "submodels": [
+      "390",
+      "Base",
+      "GT",
+      "SPOILER"
+    ]
+  },
+  {
+    "model": "GRAND MARQUIS",
+    "count": 5,
+    "submodels": [
+      "5L V8",
+      "Base",
+      "GS"
+    ]
+  },
+  {
+    "model": "COLONY",
+    "count": 4,
+    "submodels": [
+      "COLONY PARK",
+      "PARK"
+    ]
+  },
+  {
+    "model": "COMMUTER",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MONTCLAIRE",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "CRUISER",
+      "MARAUDER",
+      "SUNVALLEY"
+    ]
+  },
+  {
+    "model": "MONTEGO",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MEDALIST",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CALIENTE",
+    "count": 2,
+    "submodels": [
+      "289",
+      "Base"
+    ]
+  },
+  {
+    "model": "MONARCH",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VOYAGER",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "51S",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CAPRI",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CRUISER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CUSTOM CONVERTIBLE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "M",
+    "count": 1,
+    "submodels": [
+      "4DOOR"
+    ]
+  }
+]

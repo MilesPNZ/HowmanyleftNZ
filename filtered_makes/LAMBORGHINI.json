@@ -1,0 +1,163 @@
+[
+  {
+    "model": "HURACAN",
+    "count": 113,
+    "submodels": [
+      "Base",
+      "EVO 5.2P/4WD/7AT",
+      "EVO LP 640-4",
+      "EVO RWD 5.2P/7AT",
+      "EVO SPYDER 5.2P/4WD",
+      "LP 580-2 S-A",
+      "LP 610-4",
+      "LP 610-4 S-A",
+      "LP580-2 5.2P/7AT",
+      "LP580-2 SPYDER 5.2P",
+      "LP610-4 5.2P/4WD/7AT",
+      "LP610-4 SPYDER 5.2P",
+      "PERFORMANTE 5.2P/4WD",
+      "PERFORMANTE LP 640-4",
+      "PERFORMANTE SPYDER 5",
+      "STERRATO 5.2P/4WD",
+      "STO",
+      "STO 5.2P/7AT",
+      "TECNICA 5.2P/7AT"
+    ]
+  },
+  {
+    "model": "GALLARDO",
+    "count": 74,
+    "submodels": [
+      "140",
+      "140 SPYDER",
+      "Base",
+      "COUPE",
+      "COUPE LP560-4",
+      "E",
+      "G SPYDER",
+      "G.SPYDER",
+      "LP 550-2",
+      "LP550-2",
+      "LP550-2 SPYDER",
+      "LP560",
+      "LP560-2 5.2P/6AT/SP/",
+      "LP560-4",
+      "LP570-4",
+      "LP570-4 SPYDPERF S-A",
+      "LP570-4 SUPERLEGGERA",
+      "SPYDER",
+      "SUPER LEGGERA",
+      "SUPERLEGGERA",
+      "VALENTINO BALBONI"
+    ]
+  },
+  {
+    "model": "AVENTADOR",
+    "count": 55,
+    "submodels": [
+      "Base",
+      "COUNTACH 6.5P/4WD",
+      "LP 700-4",
+      "LP700-4",
+      "LP700-4 PIRELLI ED.",
+      "LP700-4ROADSTER 6.5P",
+      "LP720-4ANNIVERSARY 6",
+      "LP740 S 6.5P/4WD/7AT",
+      "LP750-4 ROADSTER 6.5",
+      "LP750-4 SV 6.5P/4WD",
+      "ROADSTER 6.5P/4WD",
+      "S",
+      "SV ROADSTER",
+      "SVJ",
+      "SVJ 6.5P/4WD/7AT",
+      "SVJ ROADSTER 6.5P",
+      "ULTIMAE 6.5P/4WD/7AT"
+    ]
+  },
+  {
+    "model": "URUS",
+    "count": 17,
+    "submodels": [
+      "Base",
+      "PERFOMANTE 4.0PT/4WD"
+    ]
+  },
+  {
+    "model": "DIABLO",
+    "count": 14,
+    "submodels": [
+      "6.0 SPECIAL",
+      "6.0 VT",
+      "Base",
+      "SE",
+      "SE30 SPECIAL EDITION",
+      "SV",
+      "VT",
+      "VT 4.W.D",
+      "VT ROADSTER"
+    ]
+  },
+  {
+    "model": "MURCIELAGO",
+    "count": 13,
+    "submodels": [
+      "Base",
+      "LP640"
+    ]
+  },
+  {
+    "model": "REVUELTO",
+    "count": 13,
+    "submodels": [
+      "744 REVUELTO PHEV"
+    ]
+  },
+  {
+    "model": "COUNTACH",
+    "count": 6,
+    "submodels": [
+      "5000 QV",
+      "5000S",
+      "Base",
+      "S 25TH ANNIVERSARY"
+    ]
+  },
+  {
+    "model": "ESPADA",
+    "count": 4,
+    "submodels": [
+      "400 GT2",
+      "Base",
+      "BERTONE"
+    ]
+  },
+  {
+    "model": "COUPE",
+    "count": 2,
+    "submodels": [
+      "350GT",
+      "400 GT 4+4"
+    ]
+  },
+  {
+    "model": "ISLERO",
+    "count": 1,
+    "submodels": [
+      "S"
+    ]
+  },
+  {
+    "model": "JALPA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MIURA",
+    "count": 1,
+    "submodels": [
+      "P400"
+    ]
+  }
+]

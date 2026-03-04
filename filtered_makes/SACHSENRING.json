@@ -1,0 +1,10 @@
+[
+  {
+    "model": "TRABANT",
+    "count": 2,
+    "submodels": [
+      "P601",
+      "P601L"
+    ]
+  }
+]

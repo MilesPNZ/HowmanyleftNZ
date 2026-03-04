@@ -1,0 +1,16 @@
+[
+  {
+    "model": "KALLISTA 2.8",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LIMA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

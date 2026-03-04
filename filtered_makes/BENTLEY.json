@@ -1,0 +1,386 @@
+[
+  {
+    "model": "CONTINENTAL",
+    "count": 575,
+    "submodels": [
+      "GT V8S",
+      "2019 GT CONVERTIBLE",
+      "4WD",
+      "6.0PT/4WD/8AT",
+      "Base",
+      "CONVERTIBLE 6.0P/4WD",
+      "FLYING SPUR",
+      "FLYING SPUR A",
+      "FLYING SPUR PHEV/4WD",
+      "FLYING SPUR SPEED",
+      "FLYING SUPR 6.0 W1",
+      "FS",
+      "GT",
+      "GT 6.0",
+      "GT 6.0  COUPE",
+      "GT 6.0P/4WD/8AT",
+      "GT 6.0P/4WD/8AT/SP/2",
+      "GT AUTO",
+      "GT AUTO COUPE",
+      "GT AZURE V8",
+      "GT AZURE V8 4.0P/4WD",
+      "GT CONVERTIBLE",
+      "GT CONVERTIBLE 6.0P",
+      "GT COUPE",
+      "GT MDS AUTO",
+      "GT MULLINER CON V8 C",
+      "GT MULLINER CON W12",
+      "GT MULLINER PHEV/4WD",
+      "GT MULLINER W12 6.0P",
+      "GT PHEV/4WD/8AT",
+      "GT S V8",
+      "GT S V8  AUTO",
+      "GT S V8  MDS AUTO",
+      "GT S V8 AUTO",
+      "GT S V8 MDS",
+      "GT S V8 MDS AUTO",
+      "GT SPEED",
+      "GT SPEED 6.0P/4WD/8A",
+      "GT SPEED A",
+      "GT SPEED AUTO",
+      "GT SPEED CONVERTIBLE",
+      "GT SPEED COUPE",
+      "GT SPEED PHEV/4WD",
+      "GT V8",
+      "GT V8 4.0P/4WD/8AT",
+      "GT V8 AUTO",
+      "GT V8 CONVERTIBLE 6.",
+      "GT V8 COUPE",
+      "GT V8 MULLINER 4.0P",
+      "GT V8 S",
+      "GT V8 S AUTO",
+      "GT V8 S COUPE",
+      "GT V8S 4.0P/4WD/8AT",
+      "GT V8S AUTO",
+      "GT V8S CONVERTIBLE 4",
+      "GT W12",
+      "GT W12 6.0P/4WD/8AT",
+      "GT-S-V8",
+      "GT3-R 4.0P/4WD/8AT/S",
+      "GTC",
+      "GTC AUCO",
+      "GTC AUTO",
+      "GTC AZURE V8 4.0P",
+      "GTC MULLINER PHEV",
+      "GTC PHEV/4WD/8AT",
+      "GTC S 4.0P/4WD/8AT",
+      "GTC SPEED",
+      "GTC SPEED 6.0",
+      "GTC V8",
+      "GTC V8 AUTO",
+      "GTCSPEED 6.0P/4WD/8A",
+      "GTCV8",
+      "GTS V8 MDS",
+      "GTS V8 MDS AUTO",
+      "MANSOARY",
+      "R",
+      "R COUPE",
+      "R-COUPE",
+      "S 4.0P/4WD/8AT",
+      "S3",
+      "SPEED 6.0P/4WD/8AT",
+      "SPEED CONVERTIBLE 6.",
+      "SPORTS A",
+      "SUPER SPORTS",
+      "SUPERSPORTS",
+      "SUPERSPORTS 6.0P/4WD",
+      "SUPERSPORTS A",
+      "SUPERSPORTS CONV",
+      "SUPERSPORTS ISR",
+      "V8-S CONVERTIBLE"
+    ]
+  },
+  {
+    "model": "FLYING SPUR",
+    "count": 66,
+    "submodels": [
+      "4.0P TT",
+      "AZURE HYBRID PHEV",
+      "Base",
+      "HYBRID PHEV/4WD/8AT",
+      "MULLINER PHEV/4WD",
+      "MULLINER W12",
+      "MULLINER W12 AUTO",
+      "NEW",
+      "S V8 4.0P/4WD/8AT",
+      "SPEED 6.0PT/AWD/8AT",
+      "SPEED PHEV/4WD/8AT",
+      "V8",
+      "V8   AUTO",
+      "V8 4.0AT",
+      "V8 4.0P/4WD/8AT",
+      "V8 4.0P/4WD/8AT/SL/4",
+      "V8 AUTO",
+      "V8 MULLINER AUTO",
+      "V8 S",
+      "W12",
+      "W12 6.0P/4WD/8AT",
+      "W12 6.0P/4WD/8AT/SL/",
+      "W12 AUTO"
+    ]
+  },
+  {
+    "model": "ARNAGE",
+    "count": 49,
+    "submodels": [
+      "Base",
+      "LE MANS",
+      "R",
+      "RBS",
+      "RED LABEL",
+      "RED LABEL 6.75 TURBO",
+      "RL",
+      "T",
+      "T AUTO",
+      "TURBO",
+      "TWIN TURBO"
+    ]
+  },
+  {
+    "model": "BENTAYGA",
+    "count": 47,
+    "submodels": [
+      "4.0DT/4WD/8AT ZF",
+      "6.0L W12 TWIN TURBO",
+      "6.0PT/4WD/8AT ZF",
+      "AZURE HYBRID PHEV",
+      "AZURE V8 4.0P/4WD",
+      "Base",
+      "S BLACK EDITION V8",
+      "S HYBRID PHEV/4WD",
+      "SPEED",
+      "V8 AUTO",
+      "W12",
+      "W12 AUTO"
+    ]
+  },
+  {
+    "model": "MULSANNE",
+    "count": 45,
+    "submodels": [
+      "Base",
+      "EWB 6.8P/8AT",
+      "L",
+      "S",
+      "SALOON",
+      "SPEED",
+      "SPEED 6.8P/8AT/SL/4D",
+      "SPEED V8",
+      "SPEED V8 AUTO",
+      "TURBO",
+      "TURBO R",
+      "V8",
+      "V8 AUTO",
+      "V8 MDS AUTO"
+    ]
+  },
+  {
+    "model": "TURBO R",
+    "count": 30,
+    "submodels": [
+      "R",
+      "Base",
+      "L",
+      "RL",
+      "RT"
+    ]
+  },
+  {
+    "model": "BROOKLANDS",
+    "count": 16,
+    "submodels": [
+      "4-DOOR SALOON",
+      "Base",
+      "COUPE",
+      "R MULLINER"
+    ]
+  },
+  {
+    "model": "AZURE",
+    "count": 11,
+    "submodels": [
+      "A",
+      "Base",
+      "CONVERTIBLE",
+      "T AUTO"
+    ]
+  },
+  {
+    "model": "3.5 LITRE",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "DERBY",
+      "DROP HEAD COUPE",
+      "SPORTS SALOON"
+    ]
+  },
+  {
+    "model": "S",
+    "count": 7,
+    "submodels": [
+      "1",
+      "2",
+      "Base",
+      "S2",
+      "SERIES 1"
+    ]
+  },
+  {
+    "model": "4 1/4",
+    "count": 6,
+    "submodels": [
+      "4 DOOR PILLARLESS",
+      "Base",
+      "DERBY",
+      "MK.VI",
+      "SALOON"
+    ]
+  },
+  {
+    "model": "3 LTR",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "RED LABEL SPEEDMODEL",
+      "SPEED"
+    ]
+  },
+  {
+    "model": "EIGHT",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "LITRE"
+    ]
+  },
+  {
+    "model": "MARK VI",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "COUPE"
+    ]
+  },
+  {
+    "model": "CONTINENTAL R",
+    "count": 4,
+    "submodels": [
+      "2-DOOR COUPE",
+      "Base"
+    ]
+  },
+  {
+    "model": "T SERIES",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "SERIES"
+    ]
+  },
+  {
+    "model": "S2",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "S3",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "CONTINENTAL"
+    ]
+  },
+  {
+    "model": "SPORTS",
+    "count": 2,
+    "submodels": [
+      "6.5L",
+      "DERBY"
+    ]
+  },
+  {
+    "model": "4.5 LITRE",
+    "count": 1,
+    "submodels": [
+      "TOURER"
+    ]
+  },
+  {
+    "model": "6.5 LITRE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CONTINENTAL T",
+    "count": 1,
+    "submodels": [
+      "TURBO RL"
+    ]
+  },
+  {
+    "model": "MARK",
+    "count": 1,
+    "submodels": [
+      "6"
+    ]
+  },
+  {
+    "model": "MK VI",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "NEW FLYING SPUR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "R TYPE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "S 1",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "S1",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SPEED SIX",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SS100",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

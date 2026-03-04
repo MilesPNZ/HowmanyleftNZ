@@ -1,0 +1,17 @@
+[
+  {
+    "model": "COUPE",
+    "count": 2,
+    "submodels": [
+      "6/14",
+      "SIX-66"
+    ]
+  },
+  {
+    "model": "RUGBY",
+    "count": 1,
+    "submodels": [
+      "M-2"
+    ]
+  }
+]

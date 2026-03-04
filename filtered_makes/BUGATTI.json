@@ -1,0 +1,70 @@
+[
+  {
+    "model": "TYPE 57",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "CABROLET",
+      "GANGLOFF ROADSTER",
+      "VENTOUX"
+    ]
+  },
+  {
+    "model": "TYPE 44",
+    "count": 3,
+    "submodels": [
+      "BODY BY GRABER",
+      "R35A",
+      "TORPEDO"
+    ]
+  },
+  {
+    "model": "BRESCIA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "T46",
+    "count": 1,
+    "submodels": [
+      "CABROLET"
+    ]
+  },
+  {
+    "model": "TYPE 43",
+    "count": 1,
+    "submodels": [
+      "GRAND SPORT"
+    ]
+  },
+  {
+    "model": "TYPE 49",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TYPE 51",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TYPE 55",
+    "count": 1,
+    "submodels": [
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "VEYRON",
+    "count": 1,
+    "submodels": [
+      "16.4"
+    ]
+  }
+]

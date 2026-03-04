@@ -1,0 +1,47 @@
+[
+  {
+    "model": "INTERCEPTOR",
+    "count": 29,
+    "submodels": [
+      "Base",
+      "CONVERTIBLE",
+      "II",
+      "III",
+      "MK III",
+      "SP"
+    ]
+  },
+  {
+    "model": "HEALEY",
+    "count": 16,
+    "submodels": [
+      "1143",
+      "Base",
+      "GT",
+      "SPORTS"
+    ]
+  },
+  {
+    "model": "541",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "R"
+    ]
+  },
+  {
+    "model": "CV8",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "MKIII"
+    ]
+  },
+  {
+    "model": "SV8",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

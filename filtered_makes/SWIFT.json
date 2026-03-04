@@ -1,0 +1,16 @@
+[
+  {
+    "model": "LIGHT CAR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "P-TYPE",
+    "count": 1,
+    "submodels": [
+      "TOURER"
+    ]
+  }
+]

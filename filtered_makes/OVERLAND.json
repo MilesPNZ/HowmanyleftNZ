@@ -1,0 +1,27 @@
+[
+  {
+    "model": "TOURER",
+    "count": 4,
+    "submodels": [
+      "49R",
+      "83B",
+      "Base",
+      "MODEL51"
+    ]
+  },
+  {
+    "model": "69",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "45",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

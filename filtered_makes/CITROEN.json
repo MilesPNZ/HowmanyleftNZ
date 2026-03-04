@@ -1,0 +1,848 @@
+[
+  {
+    "model": "C3",
+    "count": 1223,
+    "submodels": [
+      "1.4 SX 5DR 4SP A P",
+      "1.4 SX 5DR 5SP M D",
+      "1.4 SX 5DR 5SP M P",
+      "1.4 X 5DR 5SP M D",
+      "1.4P 5DR 5SP VT",
+      "1.6 5DR 5SPD",
+      "1.6 AUTO 5DR PLUS",
+      "1.6 AUTO 5DR VTR",
+      "1.6 HDI 5DR 5SPD",
+      "1.6 SX 5DR 4SP A P",
+      "1.6 SX 5DR 5SP A P",
+      "1.6P4A/HA5D5S",
+      "AIRCROSS SHINE 1.2PT",
+      "ATTRACTION MANUAL 1.",
+      "Base",
+      "BOATTAIL",
+      "ECLUSIVE",
+      "EXCLUSIVEAUTO 1.6P4A",
+      "FEEL 1.2PT/6AT",
+      "FEEL+ 1.2PT/6AT",
+      "HD1 SX",
+      "PICASSO",
+      "PICASSO VTR+",
+      "PLURIEN",
+      "SEDUCTION MANUAL 1.6",
+      "SEDUCTIONMANUAL 1.2P",
+      "SEDUCTIONMANUAL 1.6P",
+      "SHINE 1.2PT/6AT",
+      "VTR+"
+    ]
+  },
+  {
+    "model": "C4",
+    "count": 1089,
+    "submodels": [
+      "CACTUS 1.2",
+      "PICASSO 1.6I EHDI",
+      "1.6 HDI 6A EGS 5DR",
+      "1.6 SX 5DR 4SP A P",
+      "1.6 SX 5DR 5SP",
+      "1.6 SX 5DR 5SP M D",
+      "1.6 SX 5DR 5SP M P",
+      "1.6 TURBO AUTO",
+      "1.6 TURBO EXCL EGS",
+      "1.6 VTI AUTO 5DR",
+      "1.6 VTR COUPE MAN",
+      "2.0 EX 5DR 4SP A P",
+      "2.0 HDI AUTO 5DR",
+      "2.0 SX 5DR 4SP A P",
+      "2.0 SX 5DR 6SP A D",
+      "2.0 SX 5DR 6SP M D",
+      "2.0 VTS 3DR 5SP M P",
+      "2.0EX SX 5DR 6SP M D",
+      "AIRCROSS 2.0P/CVT",
+      "AIRCROSS 2.0PCVT/SW5",
+      "AIRCROSS 4X2",
+      "AIRCROSS 4X4",
+      "Base",
+      "BERLINE",
+      "CACTUS",
+      "CACTUS 1.2 PURETECH",
+      "CL1 VTS HDI",
+      "EHDI",
+      "EXCLUSIVE 1.6 AUTO",
+      "FEEL 1.2PT/8AT",
+      "GRAND",
+      "GRAND PICASSO",
+      "GRAND PICASSO 1.6I",
+      "GRAND PICASSO 1.6L",
+      "HDI TURBO EGS EXCL",
+      "NEW RANGE 1.2P/6AT/H",
+      "PACASSO",
+      "PICASSO",
+      "PICASSO VTR HDI",
+      "SEDUCTION 1.6 AUTO",
+      "SEDUCTION 1.6 MANUAL",
+      "SHINE",
+      "SHINE 1.2PT/8AT",
+      "SHINE 50KWH/EV",
+      "SX",
+      "SX AUTO",
+      "VTI 88KW",
+      "VTI MANUAL",
+      "VTR"
+    ]
+  },
+  {
+    "model": "C5",
+    "count": 452,
+    "submodels": [
+      "1.6 TI AUTO",
+      "2.0 EX 5DR 6SP A D",
+      "2.0 HDI",
+      "2.0 HDI 6SPD AUTO",
+      "2.0 HDI AUTO TOURER",
+      "2.0 HDI EXCL 6SPD AT",
+      "2.0 SX 5DR 4SP A D",
+      "2.0 SX 5DR 4SP A P",
+      "2.0 SX 5DR 5SP M D",
+      "2.0 SX 5DR 5SP M P",
+      "2.0 SX 5DR 6SP A D",
+      "2.0 SX 5DR 6SP M D",
+      "2.0 SX AUTO",
+      "2.0 SX EST 4SP A D",
+      "2.0 SX EST 6SP A D",
+      "2.0 SX EST 6SP M D",
+      "2.0EXCLUSIVETOURER 2",
+      "2.0HDIEXCLUSIVE 2.0D",
+      "2.2 HDI 6SPD AUTO",
+      "2.2 SX 5DR 4SP A D",
+      "2.2 SX EST 4SP A D",
+      "2.7 HDI 6SPD AUTO",
+      "2.7 HDI 6SPD TOURER",
+      "3.0 HDI 6SPD AUTO",
+      "3.0 HDI 6SPD TOURER",
+      "3.0 V6 EX 5DR 4SP A",
+      "3.0 V6 EX 5DR 6SP A",
+      "3.0 V6 EX EST 4SP A",
+      "3.0 V6 EX EST 6SP A",
+      "3.0EXCLUSIVETOURER 3",
+      "AIRCROSS",
+      "Base",
+      "EXCLUSIVE",
+      "EXCLUSIVE HDI 160 AU",
+      "EXCLUSIVE V6 HDI",
+      "HDI",
+      "HDI COMFORT 120KW SL",
+      "HDI COMFORT 120KW SW",
+      "HDI-EXCLUSIVE",
+      "SX",
+      "SX  2.0A",
+      "SX 2.0 IA",
+      "SX 2.0A",
+      "TURBO COMFORT 115KW",
+      "V6 V6 3.0A",
+      "VTR HDI"
+    ]
+  },
+  {
+    "model": "C5 AIRCROSS",
+    "count": 411,
+    "submodels": [
+      "1.6PT/6AT",
+      "1.6PT/8AT",
+      "2.0DT/8AT",
+      "FEEL 1.6PT/6AT",
+      "SHINE 1.6PT/6AT",
+      "SHINE 1.6PT/8AT",
+      "SHINE PHEV/8AT"
+    ]
+  },
+  {
+    "model": "C3 AIRCROSS",
+    "count": 265,
+    "submodels": [
+      "ORIGINS 1.2PT",
+      "SHINE 1.2PT/6AT"
+    ]
+  },
+  {
+    "model": "DS3",
+    "count": 234,
+    "submodels": [
+      "1.4 SMT ABS D/AB 2WD",
+      "1.4I EGS",
+      "Base",
+      "CABIO DSPORT 115KW",
+      "CABIODSTYLE88KW 1.6P",
+      "D SPORT",
+      "DSPORT",
+      "DSPORT 1.6 TB 3DR",
+      "DSPORT 115KW",
+      "DSPORT EGS 70KW",
+      "DSPORT MV THP165 1.6",
+      "DSPORT115KW 1.6P/6MT",
+      "DSTYLE 1.6 AUTO 3DR",
+      "DSTYLE 1.6P/4AT/HA",
+      "EP6 DTS",
+      "S10",
+      "SPORT",
+      "SPORT PURETECH 1.2P"
+    ]
+  },
+  {
+    "model": "C4 CACTUS",
+    "count": 155,
+    "submodels": [
+      "1.2 PURETECH 82",
+      "1.2P/6AT",
+      "110 MAN 1.2P/5MT/HA",
+      "E-HDI ETG 1.6D/6AM/H",
+      "FEEL 1.2P/6AT",
+      "ORIGINS 1.2P/6AT",
+      "SHINE 1.2P/6AT"
+    ]
+  },
+  {
+    "model": "DS4",
+    "count": 148,
+    "submodels": [
+      "1.6 I EGS",
+      "1.6 TURBO DIESEL EGS",
+      "1.6 TURBO EXCEL EGS",
+      "Base",
+      "CROSSBACK 2.0D/6AT/H",
+      "DSPORT HDI",
+      "DSPORT147KW 1.6P6M/H",
+      "DSTYLEPETROL 1.6P6A/",
+      "SO CHIC AUTOMATIC 12",
+      "SPORT BLUE HDI 180 2",
+      "SPORT CHIC 147KW"
+    ]
+  },
+  {
+    "model": "C4 GRAND PICASSO",
+    "count": 134,
+    "submodels": [
+      "2.0 4SP AUTO",
+      "2.0 HDI 6SPD AUTO",
+      "2.0 HDI 6SPD EGA",
+      "Base",
+      "HDI EGS 110KW",
+      "INTENSIVE 2.0D/6AT/H",
+      "SEDUCTION 2.0D/6AT/H"
+    ]
+  },
+  {
+    "model": "DS5",
+    "count": 105,
+    "submodels": [
+      "1.6 BLUEHDI",
+      "1.6 THP",
+      "1.6I",
+      "1.6I E-HDI",
+      "1.6I E-HDI ETG6",
+      "Base",
+      "DS5DSPORT20HDI",
+      "DSPORT 1.6 PETROL",
+      "DSPORT 2.0 HDI",
+      "HYBRID 4",
+      "SERIES D SPORT",
+      "SPORT BLUEHDI 180 2.",
+      "SPORT CHIC"
+    ]
+  },
+  {
+    "model": "XSARA",
+    "count": 86,
+    "submodels": [
+      "1.6 ESTATE",
+      "1.6 SX",
+      "1.6 SX 5DR 4SP A P",
+      "1.6 SX 5DR 5SP M P",
+      "1.6 SX EST 4SP A P",
+      "2.0 EX 5DR 4SP A P",
+      "2.0 EX EST 4SP A P",
+      "2.0 SX 5DR 4SP A D",
+      "2.0 SX 5DR 4SP A P",
+      "2.0 SX 5DR 5SP M D",
+      "2.0 SX 5DR 5SP M P",
+      "2.0 SX EST 4SP A D",
+      "2.0 SX EST 5SP M D",
+      "2.0 VTS 3DR 5SP M P",
+      "Base",
+      "PICASSO",
+      "PICASSO DESIRE 16V",
+      "PICASSO EXCLUSIVE",
+      "XD"
+    ]
+  },
+  {
+    "model": "C4 PICASSO",
+    "count": 79,
+    "submodels": [
+      "1.6I EHDI ETG6",
+      "Base",
+      "PICASSO",
+      "SEDUCTION 1.6P/6AT/H",
+      "VTR PLUS HDI A"
+    ]
+  },
+  {
+    "model": "XSARA PICASSO",
+    "count": 57,
+    "submodels": [
+      "1.8 SX 5DR 5SP M P",
+      "2.0 5DR 5SP M D",
+      "2.0 EX 5DR 4SP A P"
+    ]
+  },
+  {
+    "model": "L15",
+    "count": 53,
+    "submodels": [
+      "11 BL",
+      "11CL8",
+      "Base",
+      "LIGHT 15",
+      "LIGHT/15"
+    ]
+  },
+  {
+    "model": "2CV6",
+    "count": 49,
+    "submodels": [
+      "6 SPECIAL",
+      "Base",
+      "CHARLESTON",
+      "DOLLY",
+      "SPECIAL",
+      "SPECIAL DOLLY"
+    ]
+  },
+  {
+    "model": "C6",
+    "count": 41,
+    "submodels": [
+      "2.7 HDI SALOON AUTO",
+      "3.0L AT ABS HID",
+      "Base",
+      "EXCLUSIVE HDI",
+      "EXCLUSIVE HDI AUTO",
+      "EXCULSIVE HDI AUTO",
+      "HDI",
+      "LIGNAGE HD1",
+      "LIGNAGE HDI"
+    ]
+  },
+  {
+    "model": "2CV",
+    "count": 36,
+    "submodels": [
+      "2CV6",
+      "4",
+      "6",
+      "6 CHARESTON",
+      "6 DOLLY SPECIAL",
+      "6 SPECIAL",
+      "6DOLLY",
+      "Base",
+      "C DOLLY SPECIAL",
+      "CHARLESTON",
+      "DOLLY",
+      "LOMAX",
+      "SPECIAL"
+    ]
+  },
+  {
+    "model": "C3 PLURIEL",
+    "count": 31,
+    "submodels": [
+      "1.4 3DR 5SP M P",
+      "1.6 3DR 5SP A P"
+    ]
+  },
+  {
+    "model": "XANTIA",
+    "count": 31,
+    "submodels": [
+      "1.8A",
+      "1.9 TURBO D",
+      "2.0 EX 5DR 5SP M D",
+      "2.0 I",
+      "2.0 SX 5DR 4SP A P",
+      "2.0 SX 5DR 5SP M D",
+      "2.0 SX EST 4SP A P",
+      "2.0 TURBO ACTIVA",
+      "2.0I",
+      "3.0 V6 EX 5DR 4SP A",
+      "Base",
+      "EXCLUSIV",
+      "HD1",
+      "SX",
+      "TURBO D"
+    ]
+  },
+  {
+    "model": "C2",
+    "count": 18,
+    "submodels": [
+      "1.6 VTS 3DR 5SP M P",
+      "Base",
+      "VTR",
+      "VTR-SPORT",
+      "VTS"
+    ]
+  },
+  {
+    "model": "ZX",
+    "count": 17,
+    "submodels": [
+      "1.6I",
+      "1.8",
+      "1.8 AURA AUTO ESTATE",
+      "1.8 AURA AUTOMATIC",
+      "1.8I",
+      "1.9 TURBO DIESEL MAN",
+      "1.9I",
+      "Base",
+      "TURBO DIESEL"
+    ]
+  },
+  {
+    "model": "BERLINGO",
+    "count": 14,
+    "submodels": [
+      "1.6 HDI MANUAL",
+      "Base",
+      "MULTISPACE 1.6H",
+      "MULTISPACE XTR",
+      "XTR"
+    ]
+  },
+  {
+    "model": "DS",
+    "count": 14,
+    "submodels": [
+      "19",
+      "20MUZ",
+      "21",
+      "23",
+      "23 PALLAS",
+      "23 SERIE 2 EFI",
+      "Base",
+      "DSUPER 5",
+      "SAFARI",
+      "SAFARI 23"
+    ]
+  },
+  {
+    "model": "CX",
+    "count": 13,
+    "submodels": [
+      "2.5 GTI",
+      "20 ATHENA",
+      "2400 GTI",
+      "25 GTI CXA",
+      "25 GTI TURBO",
+      "25 GTI TURBO 2",
+      "25GT1",
+      "25GTI",
+      "Base",
+      "PALLA 2400",
+      "PALLAS"
+    ]
+  },
+  {
+    "model": "XM",
+    "count": 13,
+    "submodels": [
+      "2.0I TURBO AUTO",
+      "2L 16V A",
+      "Base",
+      "SEI",
+      "TURBO",
+      "V6",
+      "V6 SI"
+    ]
+  },
+  {
+    "model": "BIG 15",
+    "count": 12,
+    "submodels": [
+      "11C",
+      "Base"
+    ]
+  },
+  {
+    "model": "D",
+    "count": 11,
+    "submodels": [
+      "D SUPER 5",
+      "D20",
+      "ID19",
+      "S 23 SAFARI",
+      "S21",
+      "SPECIAL",
+      "SUPER",
+      "SUPER 5"
+    ]
+  },
+  {
+    "model": "PALLAS",
+    "count": 11,
+    "submodels": [
+      "Base",
+      "CX2400",
+      "DS 21",
+      "DS 23",
+      "DS21",
+      "DS23",
+      "GSA",
+      "GX"
+    ]
+  },
+  {
+    "model": "11C",
+    "count": 10,
+    "submodels": [
+      "11D",
+      "Base",
+      "L6 BIG 15",
+      "LIGHT",
+      "LIGHT 15",
+      "LIGHT FIFTEEN",
+      "TRACTION AVANT"
+    ]
+  },
+  {
+    "model": "LIGHT 15",
+    "count": 10,
+    "submodels": [
+      "195",
+      "Base"
+    ]
+  },
+  {
+    "model": "AX",
+    "count": 9,
+    "submodels": [
+      "1.4 TRS",
+      "10RE",
+      "14TRS",
+      "15D",
+      "AX15 DIESEL",
+      "GT"
+    ]
+  },
+  {
+    "model": "ID19",
+    "count": 9,
+    "submodels": [
+      "Base",
+      "SAFARI",
+      "SALOON"
+    ]
+  },
+  {
+    "model": "SM",
+    "count": 9,
+    "submodels": [
+      "Base",
+      "SB-SD"
+    ]
+  },
+  {
+    "model": "GS",
+    "count": 8,
+    "submodels": [
+      "BRIOTOR",
+      "1015",
+      "1220",
+      "1220 CLUB",
+      "1274A",
+      "Base",
+      "PALLAS",
+      "X"
+    ]
+  },
+  {
+    "model": "BX19",
+    "count": 7,
+    "submodels": [
+      "GT",
+      "GTI",
+      "RD",
+      "TRI",
+      "TZ1",
+      "TZI"
+    ]
+  },
+  {
+    "model": "DYANE",
+    "count": 6,
+    "submodels": [
+      "6",
+      "Base"
+    ]
+  },
+  {
+    "model": "E-C4",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LIGHT 12",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "SALOON"
+    ]
+  },
+  {
+    "model": "AVANT",
+    "count": 3,
+    "submodels": [
+      "11 B",
+      "11CL8",
+      "11CV"
+    ]
+  },
+  {
+    "model": "DS23",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "PALLAS",
+      "SAFARI"
+    ]
+  },
+  {
+    "model": "SAXO16VTS",
+    "count": 3,
+    "submodels": [
+      "SAXO 1.6 VTS 3DR"
+    ]
+  },
+  {
+    "model": "15-SIX",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BX",
+    "count": 2,
+    "submodels": [
+      "GTI 4X4",
+      "TZD"
+    ]
+  },
+  {
+    "model": "BX-16",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "TGS"
+    ]
+  },
+  {
+    "model": "C1",
+    "count": 2,
+    "submodels": [
+      "FEEL",
+      "RHYTHM 1.4 HDI"
+    ]
+  },
+  {
+    "model": "L12",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ROADSTER",
+    "count": 2,
+    "submodels": [
+      "12",
+      "7C TWELVE"
+    ]
+  },
+  {
+    "model": "SUPER",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VISA",
+    "count": 2,
+    "submodels": [
+      "11RE",
+      "GTI"
+    ]
+  },
+  {
+    "model": "11CL8",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "2CV DOLLY",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "2CV6 DOLLY",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "5CV",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "7C ROADSTER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "AX GT",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "B12",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BX 19 TRS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BX19 TRI",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "C6F",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "C8",
+    "count": 1,
+    "submodels": [
+      "SX HDI 173"
+    ]
+  },
+  {
+    "model": "CX 22 TRS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "D SERIES",
+    "count": 1,
+    "submodels": [
+      "DS23 SAFARI"
+    ]
+  },
+  {
+    "model": "D SPECIAL",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "E-BERLINGO",
+    "count": 1,
+    "submodels": [
+      "FLAIR XTR"
+    ]
+  },
+  {
+    "model": "GS CLUB",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GS1220 CLUB",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GSA PALLAS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MEHARI",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SAXO",
+    "count": 1,
+    "submodels": [
+      "1.4 SX 5DR 3SP A P"
+    ]
+  },
+  {
+    "model": "SAXO16VSX",
+    "count": 1,
+    "submodels": [
+      "SAXO 1.6 VSX AUTO"
+    ]
+  },
+  {
+    "model": "ZX19",
+    "count": 1,
+    "submodels": [
+      "TD ESTATE"
+    ]
+  },
+  {
+    "model": "ZX19 TURBO DIESEL",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

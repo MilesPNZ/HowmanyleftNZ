@@ -1,0 +1,169 @@
+[
+  {
+    "model": "720S",
+    "count": 51,
+    "submodels": [
+      "4.0P/7AT",
+      "P14 SPIDER",
+      "SPIDER",
+      "SPIDER 4.0P/7AT",
+      "V8 S-A"
+    ]
+  },
+  {
+    "model": "570S",
+    "count": 41,
+    "submodels": [
+      "3.8P/7AT/SP/2DR/2S",
+      "Base",
+      "COUPE",
+      "COUPE S-A",
+      "SPIDER",
+      "SPIDER 3.8P/7AT"
+    ]
+  },
+  {
+    "model": "650S",
+    "count": 33,
+    "submodels": [
+      "3.8P/7AT/SP/2DR/2S",
+      "Base",
+      "COUPE",
+      "SPIDER",
+      "SPIDER 3.8P/7AT/CV/2"
+    ]
+  },
+  {
+    "model": "MP4-12C",
+    "count": 33,
+    "submodels": [
+      "650S SPIDER",
+      "Base",
+      "COUPE 3.8P/7AT/SP/2D",
+      "SPIDER",
+      "SPIDER 3.8P/7AT/SP/2"
+    ]
+  },
+  {
+    "model": "GT",
+    "count": 17,
+    "submodels": [
+      "4",
+      "4.0P/7AT"
+    ]
+  },
+  {
+    "model": "600LT",
+    "count": 15,
+    "submodels": [
+      "3.8P/7AT",
+      "SPIDER",
+      "SPIDER 3.8P/7AT",
+      "V8",
+      "V8 S-A"
+    ]
+  },
+  {
+    "model": "765LT",
+    "count": 13,
+    "submodels": [
+      "4.0P/7AT",
+      "COUPE",
+      "SPIDER",
+      "SPIDER 4.0P/7AT"
+    ]
+  },
+  {
+    "model": "750S",
+    "count": 11,
+    "submodels": [
+      "4.0P/7AT",
+      "SPIDER 4.0P/7AT"
+    ]
+  },
+  {
+    "model": "ARTURA",
+    "count": 11,
+    "submodels": [
+      "PHEV/8AT",
+      "SPIDER PHEV/8AT",
+      "V6 PHEV S-A"
+    ]
+  },
+  {
+    "model": "570GT",
+    "count": 9,
+    "submodels": [
+      "3.8P/7AT"
+    ]
+  },
+  {
+    "model": "675LT",
+    "count": 9,
+    "submodels": [
+      "3.8P/7AT",
+      "3.8P/7AT/SP/2DR/2S",
+      "Base",
+      "SPIDER"
+    ]
+  },
+  {
+    "model": "SENNA",
+    "count": 8,
+    "submodels": [
+      "4.0P/7AT",
+      "Base",
+      "V8"
+    ]
+  },
+  {
+    "model": "540C",
+    "count": 6,
+    "submodels": [
+      "3.8P/7AT/SP/2DR/2S"
+    ]
+  },
+  {
+    "model": "620R",
+    "count": 3,
+    "submodels": [
+      "3.8P/7AT",
+      "Base"
+    ]
+  },
+  {
+    "model": "675 SPIDER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GTS",
+    "count": 1,
+    "submodels": [
+      "4.0PT/7AM"
+    ]
+  },
+  {
+    "model": "MP4",
+    "count": 1,
+    "submodels": [
+      "12C SPIDER"
+    ]
+  },
+  {
+    "model": "P1",
+    "count": 1,
+    "submodels": [
+      "3.8P/7AT/SP/2DR/2S"
+    ]
+  },
+  {
+    "model": "SPEEDTAIL",
+    "count": 1,
+    "submodels": [
+      "4.0PH/7AT"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "model": "96",
+    "count": 3,
+    "submodels": [
+      "ROADSTER COUPE",
+      "SEDAN 96",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "SIX",
+    "count": 1,
+    "submodels": [
+      "98A"
+    ]
+  }
+]

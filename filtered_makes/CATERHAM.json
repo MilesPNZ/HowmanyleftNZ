@@ -1,0 +1,25 @@
+[
+  {
+    "model": "SUPER SEVEN",
+    "count": 12,
+    "submodels": [
+      "420R",
+      "Base"
+    ]
+  },
+  {
+    "model": "SUPERLIGHT",
+    "count": 2,
+    "submodels": [
+      "CSR260",
+      "R400"
+    ]
+  },
+  {
+    "model": "SV150",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "model": "CHAMPION",
+    "count": 24,
+    "submodels": [
+      "1951",
+      "2D",
+      "50",
+      "9 G",
+      "Base",
+      "CONASTOGA",
+      "CONTESTOCA",
+      "COUPE",
+      "DELUX"
+    ]
+  },
+  {
+    "model": "HAWK",
+    "count": 22,
+    "submodels": [
+      "Base",
+      "GOLDEN",
+      "GOLDEN HAWK",
+      "GOLDENHAWKE HARDTOP",
+      "GRAN TURISMO",
+      "GT",
+      "R1"
+    ]
+  },
+  {
+    "model": "LARK",
+    "count": 20,
+    "submodels": [
+      "Base",
+      "CRUISER",
+      "DAYTONA",
+      "SIX",
+      "VIII"
+    ]
+  },
+  {
+    "model": "COMMANDER",
+    "count": 17,
+    "submodels": [
+      "Base",
+      "FD",
+      "REGAL",
+      "STARLIGHT COUPE"
+    ]
+  },
+  {
+    "model": "PRESIDENT",
+    "count": 14,
+    "submodels": [
+      "8",
+      "8 SUPERIORHEARSE",
+      "Base",
+      "BIG SIX",
+      "BROADMOOR",
+      "ROADSTER SPECIAL",
+      "V8"
+    ]
+  },
+  {
+    "model": "AVANTI",
+    "count": 12,
+    "submodels": [
+      "Base",
+      "II-1982"
+    ]
+  },
+  {
+    "model": "DICTATOR",
+    "count": 8,
+    "submodels": [
+      "Base",
+      "COUPE"
+    ]
+  },
+  {
+    "model": "CRUISER",
+    "count": 6,
+    "submodels": [
+      "8",
+      "Base"
+    ]
+  },
+  {
+    "model": "DUPLEX",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "PH",
+      "ROADSTER",
+      "SPECIAL SIX"
+    ]
+  },
+  {
+    "model": "ERSKINE",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SILVER HAWK",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "EM",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "ROADSTER LIGHT SIX"
+    ]
+  },
+  {
+    "model": "LIGHT SIX",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SPECIAL SIX",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "STANDARD SIX",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "ER"
+    ]
+  },
+  {
+    "model": "AMBULET",
+    "count": 1,
+    "submodels": [
+      "16G8D6"
+    ]
+  },
+  {
+    "model": "BIG 6",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DIRECTOR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DOCTORS COUPE",
+    "count": 1,
+    "submodels": [
+      "EJ LIGHT SIX"
+    ]
+  },
+  {
+    "model": "MODEL 18",
+    "count": 1,
+    "submodels": [
+      "LIGHT FOUR TOURER"
+    ]
+  },
+  {
+    "model": "MODEL 54",
+    "count": 1,
+    "submodels": [
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "SKY HAWK",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

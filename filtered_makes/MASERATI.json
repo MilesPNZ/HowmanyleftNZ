@@ -1,0 +1,341 @@
+[
+  {
+    "model": "LEVANTE",
+    "count": 314,
+    "submodels": [
+      "3.0DT/4WD/8AT",
+      "3.0PT/4WD/8AT",
+      "Base",
+      "D 3.0DT/4WD/8AT",
+      "D GRANLUSSO 3.0DT",
+      "D GRANSPORT 3.0DT",
+      "D V6",
+      "D V6 AUTO",
+      "F TRIBUTO 3.0PT/4WD",
+      "GRANLUSSO 3.0DT/4WD",
+      "GRANLUSSO 3.0PT/4WD",
+      "GRANLUSSO MA CLASS",
+      "GRANSPORT 3.0DT/4WD",
+      "GRANSPORT 3.0PT/4WD",
+      "GRANSPORT S 3.0PT",
+      "GT HYBRID 2.0PMHT",
+      "GTS 3.8P/4WD/8AT",
+      "MA CLASS",
+      "MODENA 3.0P/4WD/8AT",
+      "MODENA 3.0PT/4WD/8AT",
+      "MODENA S 3.0PT/4WD",
+      "S 3.0PT/4WD/8AT",
+      "S GRANLUSSO 3.0PT",
+      "S GRANSPORT 3.0PT",
+      "SQ4",
+      "TROFEO 3.8P/4WD/8AT",
+      "V6"
+    ]
+  },
+  {
+    "model": "GHIBLI",
+    "count": 289,
+    "submodels": [
+      "3.0 DV6 AUTO",
+      "3.0 V6",
+      "3.0P/8AT/SP/2DR/5S",
+      "3.0PT/8AT",
+      "Base",
+      "D V6",
+      "DAV6 AUTO",
+      "DIESEL 3.0D/8AT/SP/2",
+      "DV 6 AUTO",
+      "DV6",
+      "DV6 AUTO",
+      "GRANLUSSO 3.0A",
+      "GRANLUSSO 3.0PT/8AT",
+      "GRANSPORT 3.0PT",
+      "GRANSPORT 3.0PT/8AT",
+      "GRANSPORT HYBRID 2.0",
+      "GRANSPORT S 3.0PT",
+      "GT",
+      "GT HYBRID 2.0PMHT",
+      "HYBRID 2.0PHT",
+      "M156",
+      "MODENA 3.0PT/8AT",
+      "S",
+      "S 3.0P/8AT/SP/2DR/5S",
+      "S 3.0PT/8AT",
+      "S GRANSPORT 3.0PT",
+      "S V6",
+      "S V6 AUTO",
+      "TROFEO 3.8PT/8AT",
+      "V6",
+      "V6 AUTO"
+    ]
+  },
+  {
+    "model": "GRANTURISMO",
+    "count": 236,
+    "submodels": [
+      "4.2",
+      "4.2 AUTO",
+      "4.2 L AUTO",
+      "4.2L AUTO",
+      "4.7 AUTO",
+      "4.7 S AUTO",
+      "Base",
+      "CAMBIOCORSA",
+      "GT",
+      "MC",
+      "MC 4.7P/6AT",
+      "MC STRADALE",
+      "MC STRADALE 4.7L",
+      "MC STRADALE S-A",
+      "MCSHIFT 4.7P/6AT/SP/",
+      "MCSTRADALE 4.7P/6AT/",
+      "MODENA 3.0PT/8AT",
+      "S",
+      "S 4.7L",
+      "S 4.7L AUTO",
+      "S 4.7L SEMI AUTO",
+      "S AUTO",
+      "S AUTO 4.7",
+      "S AUTO 4.7P 3D 6SP",
+      "S AUTOMATIC 4.7L",
+      "S SEMI AUTO",
+      "S SEMI-AUTO",
+      "S-COUPE",
+      "SPA SPORT",
+      "SPORT",
+      "SPORT 4.7 MC",
+      "SPORT 4.7P/6AT",
+      "SPORT AUTO",
+      "SPORT AUTO 4.7L",
+      "SPORT MC 4.7",
+      "TROFEO 3.0PT/8AT",
+      "V8",
+      "V8 AUTO"
+    ]
+  },
+  {
+    "model": "QUATTROPORTE",
+    "count": 209,
+    "submodels": [
+      "DV6 AUTO",
+      "3.0P/8AT/SP/4DR/5S",
+      "3.8 GTS",
+      "4.2L 6SP AUTO SEDAN",
+      "4.2L AUTO",
+      "AB4 S",
+      "AB4 S-A",
+      "AUTO",
+      "AUTO SPORT GT",
+      "AUTOMATIC",
+      "Base",
+      "DIESEL 3.0D/8AT/SP/4",
+      "DV6",
+      "EXEC GT SA",
+      "GTS",
+      "GTS 3.8P/8AT/SP/4DR/",
+      "GTS GRANSPORT 3.8P",
+      "GTS V8",
+      "PININFARINA",
+      "Q P",
+      "S",
+      "S 3.0P/8AT/SP/4DR/5S",
+      "S 4.7L AUTO",
+      "S GRANSPORT 3.0P/8AT",
+      "S SPORTS",
+      "SPORT GT",
+      "SPORT GT S",
+      "SPORT GTS",
+      "SPORT GTS 4.7",
+      "SPORT GTS 4.7L AUTO",
+      "SPORT GTS A",
+      "SPORTS GTS A",
+      "TROFEO 3.8P/8AT",
+      "V6S",
+      "V8"
+    ]
+  },
+  {
+    "model": "GRECALE",
+    "count": 95,
+    "submodels": [
+      "2.0PMHT/4WD/8AT",
+      "GT HYBRID 2.0PMH/4WD",
+      "GT HYBRID 2.0PMHT",
+      "MODENA 2.0PMH/4WD",
+      "TROFEO 3.0P/4WD/8AT",
+      "TROFEO 3.0PT/4WD/8AT"
+    ]
+  },
+  {
+    "model": "GRANCABRIO",
+    "count": 39,
+    "submodels": [
+      "4.7 L",
+      "4.7P6A/CV2D4S",
+      "AUTO",
+      "Base",
+      "CONVERTIBLE",
+      "SPORT",
+      "SPORT 4.7 L",
+      "SPORT AUTO",
+      "SPORT CONVERTIBLE"
+    ]
+  },
+  {
+    "model": "4200 COUPE",
+    "count": 16,
+    "submodels": [
+      "Base",
+      "CAMBIO CORSA",
+      "CAMBIOCORSA",
+      "MANUAL",
+      "V8 SPORT"
+    ]
+  },
+  {
+    "model": "SPYDER",
+    "count": 15,
+    "submodels": [
+      "Base",
+      "CAMBIO CORSA",
+      "CAMBIOCORSA",
+      "CONVERTIBLE",
+      "GT",
+      "ZAGATO"
+    ]
+  },
+  {
+    "model": "GRANSPORT",
+    "count": 14,
+    "submodels": [
+      "Base",
+      "SPYDER"
+    ]
+  },
+  {
+    "model": "3200GT",
+    "count": 11,
+    "submodels": [
+      ".",
+      "AUTO",
+      "Base",
+      "COUPE",
+      "SHAMAL"
+    ]
+  },
+  {
+    "model": "BITURBO",
+    "count": 11,
+    "submodels": [
+      "220",
+      "420",
+      "Base",
+      "SPYDER",
+      "ZAGRTO"
+    ]
+  },
+  {
+    "model": "MC20",
+    "count": 7,
+    "submodels": [
+      "3.0P/8AT",
+      "CIELO 3.0P/8AT"
+    ]
+  },
+  {
+    "model": "MERAK",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "SS"
+    ]
+  },
+  {
+    "model": "430",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "BI TURBO"
+    ]
+  },
+  {
+    "model": "BORA",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CAMBIO CORSA",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "COUPE 4200 GT"
+    ]
+  },
+  {
+    "model": "3500",
+    "count": 2,
+    "submodels": [
+      "GT COUPE",
+      "GT-I"
+    ]
+  },
+  {
+    "model": "GRANSPORT SPYDER",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MEXICO",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "222E",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GRANSPORT MC VICTORY",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "KHAMSIN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "KYALAMI",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MISTRAL",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SEBRING",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

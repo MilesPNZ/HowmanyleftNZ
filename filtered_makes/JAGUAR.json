@@ -1,0 +1,1958 @@
+[
+  {
+    "model": "XF",
+    "count": 2122,
+    "submodels": [
+      "3.0",
+      "GTDI",
+      "14D 2.2 AUTO",
+      "2.0 GTDI",
+      "2.0 P TSS",
+      "2.0 TSS",
+      "2.0I LUXURY",
+      "2.0L GTDI",
+      "2.0L TSS",
+      "2.0P TSS",
+      "2.2",
+      "2.2 14D",
+      "2.2 14D AUTO",
+      "2.2 14D AUTO ABS",
+      "2.2 AUTO",
+      "2.2 D",
+      "2.2 I 4D AUTO",
+      "2.2 I4D",
+      "2.2 I4D 2WD",
+      "2.2 I4D ABS D/AB",
+      "2.2 I4D AUTO",
+      "2.2 I4D AUTO ABS",
+      "2.2 LUXURY",
+      "2.2 LUXURY D AUTO",
+      "2.2 PREMIUM LUXURY",
+      "2.2D 4DR 8A SEDAN",
+      "2.2D GK61 SLV",
+      "2.2D LUXURY",
+      "2.2D LUXURY SPORTBRA",
+      "2.2D PORTFOLIO SALOO",
+      "2.2SE D AUTO",
+      "2.7D 4D 6A SEDAN",
+      "202D LUXURY SEDAN",
+      "20D",
+      "20D AWD",
+      "20D PORTFOLIO 2.0D/8",
+      "20D PRESTIGE 2.0D",
+      "20D PRESTIGE 2.0D/8A",
+      "20D R-SPORT 2.0D/8AT",
+      "25D PORTFOLIO 2.0D",
+      "25D R-SPORT 2.0D/8AT",
+      "25T",
+      "25T PORTFOLIO 2.0P",
+      "25T PORTFOLIO 2.0P/8",
+      "25T PRESTIGE 2.0P/8A",
+      "25T R-SPORT 2.0P/8AT",
+      "2L PETROL",
+      "2L PETROL AUTO",
+      "2LTR GTDI",
+      "3.0 AT ABS",
+      "3.0 D",
+      "3.0 DIESEL",
+      "3.0 EXEC EDITION D",
+      "3.0 LUXURY",
+      "3.0 S PREMIUM LUXURY",
+      "3.0 SC TSS",
+      "3.0 TDV6",
+      "3.0 TDV6 S",
+      "3.0 V6",
+      "3.0 V6 AUTO",
+      "3.0 V6 LUXURY",
+      "3.0 V6 LUXURY AT",
+      "3.0 V6 LUXURY AT ABS",
+      "3.0 V6 LUXURY X250",
+      "3.0 V6 PREMIUM",
+      "3.0 V6PREMIUM LUXURY",
+      "3.0D",
+      "3.0D 4DR 6A SEDAN",
+      "3.0D LUXURY",
+      "3.0D S",
+      "3.0D S LUXURY",
+      "3.0D S LUXURY SPORTB",
+      "3.0DS",
+      "3.0L V6",
+      "3.0L V6 AUTO",
+      "3.0P 4D 6A SEDAN",
+      "3.0SC TSS",
+      "3.0V6 LUXURY 2WD 4DR",
+      "300 SPORT 2.0P/4WD",
+      "300 SPORT 2.0P/8AT",
+      "30T CHEQUERED FLAG",
+      "30T PRESTIGE 2.0P",
+      "30T R-SPORT 2.0P/8AT",
+      "35T R-SPORT 3.0P/8AT",
+      "4.2  V8",
+      "4.2 AT SC HID SR SV8",
+      "4.2 PREMIUM",
+      "4.2L S/C V8",
+      "4.2P 4D 6A SEDAN",
+      "4.2P SC 4D 6A SEDAN",
+      "5.0 V8",
+      "5.0 V8 4DR 6A SEDAN",
+      "5.0 V8 SC 4DR 6A SED",
+      "5L PETROL",
+      "Base",
+      "ESTATE",
+      "F-TYPE",
+      "I SE 2.0P/8AT/SL/4DR",
+      "LUXURY",
+      "LUXURY AERO DYNAMIC",
+      "LUXURY D  V6 A",
+      "LUXURY D AUTO",
+      "LUXURY D V6",
+      "LUXURY D V6 A",
+      "LUXURY SPORTBRAKE V6",
+      "LUXURY V6",
+      "LUXURY V6 A",
+      "LUXURY V6 AUTO",
+      "LUXURY V6 D AUTO",
+      "P250 PRESTIGE RWD",
+      "P250 R-DYNAMIC SE",
+      "P300 R-DYNAMIC HSE",
+      "P300 R-DYNAMIC SE",
+      "PORTFOLIO",
+      "PORTFOLIO D AUTO",
+      "PORTFOLIO ESTATE",
+      "PORTFOLIO SPORTBRAKE",
+      "PORTFOLIO V6 AUTO",
+      "PORTFOLIO V6 D AUTO",
+      "PREM LUX 3.0 V6",
+      "PREM LUX SPORT BRAKE",
+      "PREM LUX SPORTBRAKE",
+      "PREM LUX V6",
+      "PREM LUX.3.0 V6",
+      "PREM. LUX. 3.0 V6",
+      "PREM.LUX. 3.8  V6",
+      "PREM.LUX.3.0 V6",
+      "PREM.LUX.4.2 V8",
+      "PREMIER LUXURY",
+      "PREMIUM",
+      "PREMIUM 3.0 V6",
+      "PREMIUM LUX 3.0 V6",
+      "PREMIUM LUXURY",
+      "PREMIUM LUXURY 3.0",
+      "PREMIUM LUXURY 3.0V6",
+      "PREMIUM LUXURY AUTO",
+      "PREMIUM LUXURY D AUT",
+      "PREMIUM LUXURY V6",
+      "PREMIUM LUXURY V6 A",
+      "PREMIUM LUXURY V6 AU",
+      "PREMIUM LUXURY V6 D",
+      "PREMIUM LUXURY V8 AT",
+      "PREMUIM",
+      "PRESTIGE D",
+      "PRESTIGE D AUTO",
+      "R",
+      "R 4.2 V8 SC",
+      "R 5.0 SUPERCHARGED",
+      "R 50",
+      "R SPORT",
+      "R SUPERCHARGED",
+      "R V8 AUTO",
+      "R-S 5.0P/8AT/SL/4DR",
+      "R-SPORT",
+      "R-SPORT 20D",
+      "R-SPORT BLACK D AUTO",
+      "R-SPORT V6 D",
+      "R-SPORT V6 D AUTO",
+      "R-SPORT V6D AUTO",
+      "R-V8",
+      "RS",
+      "S",
+      "S 3.0 PREMIUM LUXURY",
+      "S 3.0P/8AT",
+      "S 3.0P/8AT/SL/4DR/5S",
+      "S LUXURY 3.0 V6",
+      "S LUXURY V6",
+      "S LUXURY V6 AUTO",
+      "S LUXURY V6 D AUTO",
+      "S PERM LUX SP BRAKE",
+      "S PORTFOLIO V6",
+      "S PORTFOLIO V6 AUTO",
+      "S PREM LUX SP-BRAKE",
+      "S PREM LUX V6",
+      "S PREMIUM",
+      "S PREMIUM LUXURY V6",
+      "S V6 3.0D",
+      "S V8",
+      "S-V8",
+      "SD 3.0D/8AT",
+      "SD 3.0D/8AT/SL/4DR/5",
+      "SE 2.2L TDI4",
+      "SE BUSINESS AUTO",
+      "SE BUSINESS D AUTO",
+      "SE BUSINESS SPORTBRA",
+      "SE D AUTO",
+      "SPORT BRAKE",
+      "SPORT D AUTO",
+      "SPORT SPORTBRAKE D A",
+      "SPORTFOLIO 3.0D/8AT/",
+      "SUPER V8",
+      "SUPERCHARGED",
+      "SUPERCHARGED V8",
+      "SV6",
+      "SV8",
+      "TSS",
+      "TURBO R-SPORT F-LIFT",
+      "TYPE",
+      "V6",
+      "V6 3.0",
+      "V6 4DR",
+      "V6 S",
+      "V6 S D AUTO",
+      "V6S",
+      "V8",
+      "V8  AUTO",
+      "X260",
+      "X260 2.0L GTDI",
+      "XF",
+      "XF 2.0P TSS",
+      "XF LUXURY D AUTO",
+      "XF PREM.LUX.4.2 V8",
+      "XFR SUPERCHARGED"
+    ]
+  },
+  {
+    "model": "X-TYPE",
+    "count": 960,
+    "submodels": [
+      "2.5 AWD",
+      "2.0",
+      "2.0 ESTATE",
+      "2.0 SE",
+      "2.0 V6",
+      "2.0 V6 ESTATE",
+      "2.0 V6 SE",
+      "2.0 V6 SE SD",
+      "2.0D",
+      "2.0L V6",
+      "2.0SE",
+      "2.1",
+      "2.1 V6",
+      "2.1 V6 4DR 5SP AP",
+      "2.1 V6 4DR 5SP MP",
+      "2.1 V6 4DR 6SP AP",
+      "2.1P 4D 5A SEDAN",
+      "2.1P 5A 4D SEDAN",
+      "2.2D 4D 6A SEDAN",
+      "2.5",
+      "2.5 EXECUTIVE",
+      "2.5 SE",
+      "2.5 V6",
+      "2.5 V6  4WD",
+      "2.5 V6 4DR 5SP AP",
+      "2.5 V6 SE 4DR 5SPA P",
+      "2.5 V6 SE 4DR SALOON",
+      "2.5L",
+      "2.5P 5A 4D SEDAN",
+      "2.5SE",
+      "2.5V6",
+      "2.5V6SP 4DR 5SP AP",
+      "20.L V6",
+      "3.0",
+      "3.0 SE",
+      "3.0 SOVEREIGN",
+      "3.0 SPORT",
+      "3.0 SPORT 4DR SALOON",
+      "3.0 V6",
+      "3.0 V6 AWD SPORT",
+      "3.0 V6 SE 4DR 5SP AP",
+      "3.0 V6 SE 4DR 5SPA",
+      "3.0 V6 SE 4DR SALOON",
+      "3.0 V6 SP 4DR 5SP AP",
+      "3.0 V6 SPORT",
+      "3.0P 4D 5A SEDAN",
+      "3.0P 5A 4D SEDAN",
+      "3.0P 5A 4D STATION W",
+      "3.0SE",
+      "4WD",
+      "AWD",
+      "AWD 2.5",
+      "Base",
+      "ESTATE",
+      "EXCUTIVE",
+      "EXECUTIVE",
+      "EXECUTIVE 2.5",
+      "R",
+      "SD",
+      "SE",
+      "SE AUTO",
+      "SOVEREIGN",
+      "SOVERIGN",
+      "SPORT",
+      "SPORT D",
+      "TYPE",
+      "V6",
+      "V6 2.5 AUTO",
+      "V6 SE",
+      "X-TYPE 2.0 ESTATE",
+      "X-TYPE 2.5SE",
+      "XTYPE 2.2"
+    ]
+  },
+  {
+    "model": "S-TYPE",
+    "count": 912,
+    "submodels": [
+      "4.0",
+      "2.5",
+      "2.5 SE",
+      "2.5 V6 SE 4DR 6SP AP",
+      "2.5E",
+      "2.5P 6A 4D SEDAN",
+      "2.5SE",
+      "2.7D 6A 4D SEDAN",
+      "3.0",
+      "3.0  SE",
+      "3.0  V6",
+      "3.0 EXECUTIVE",
+      "3.0 S.E",
+      "3.0 SE",
+      "3.0 SP",
+      "3.0 SPORT",
+      "3.0 V6",
+      "3.0 V6 4D 5M P",
+      "3.0 V6 SE",
+      "3.0 V6 SE 4DR 5SPA P",
+      "3.0 V6 SE 4DR 6SP AP",
+      "3.0 V6 SPORT",
+      "3.0L",
+      "3.0P 4D 6A SEDAN",
+      "3.0P 6A 4D SEDAN",
+      "3.0SE",
+      "3.8",
+      "3SE",
+      "4.0 V8 4DR 5SPA P",
+      "4.0 V8 AUTO",
+      "4.0 V8 S/C",
+      "4.0L SE V8",
+      "4.2 R",
+      "4.2 SE",
+      "4.2 SOVEREIGN",
+      "4.2 SP",
+      "4.2 V8",
+      "4.2 V8 SE 4DR 6SP AP",
+      "4.2 V8 SP 4DR 6SP AP",
+      "4.2P 6A 4D SEDAN",
+      "Base",
+      "EXE",
+      "EXECUTIVE",
+      "EXECUTIVE 3.0",
+      "EXECUTIVE 3.0 V6",
+      "EXECUTUIVE",
+      "R",
+      "R 4.2 V8 SP 4DR 6A",
+      "R AUTO",
+      "R V8",
+      "S",
+      "S-TYPE3.0VSE",
+      "SE",
+      "SE TD",
+      "SOVEREIGN",
+      "SOVEREIGN  4.2 V8",
+      "SOVEREIGN 3.0",
+      "SOVEREIGN V8",
+      "SOVEREION V8",
+      "SOVERIGN  3.0",
+      "SOVREIGN",
+      "SOVREIGN V8",
+      "SPORT",
+      "SPORT 200 3.0",
+      "TYPE",
+      "V-8",
+      "V6",
+      "V6 3.0",
+      "V6 SE",
+      "V6 SE AUTO",
+      "V8",
+      "V8 R",
+      "V8 R AUTO",
+      "V8 SPORT AUTO",
+      "XS V6"
+    ]
+  },
+  {
+    "model": "F-PACE",
+    "count": 730,
+    "submodels": [
+      "2.0 AWD",
+      "2.0D 180PS R-SPORT",
+      "2.0D AWD",
+      "20D AWD",
+      "20D AWD R-SPORT",
+      "20D PORTFOLIO 2.0D",
+      "20D PRESTIGE 2.0D",
+      "20D R-SPORT 2.0D/4WD",
+      "230D",
+      "25D",
+      "25D AWD R-SPORT",
+      "25D PRESTIGE 2.0D",
+      "25D R-SPORT 2.0D/4WD",
+      "25T PORTFOLIO 2.0P",
+      "25T PRESTIGE",
+      "25T PRESTIGE 2.0P",
+      "25T R-SPORT 2.0P/4WD",
+      "2LTRD AWD MA CLASS",
+      "30D PORTFOLIO 3.0D",
+      "30D PRESTIGE 3.0D",
+      "30D R-SPORT 3.0D/4WD",
+      "30T R-SPORT 2.0P/4WD",
+      "35T",
+      "35T AWD",
+      "35T PORTFOLIO 3.0P",
+      "35T PRESTIGE 3.0P",
+      "35T R-SPORT 3.0P/4WD",
+      "35T S/C AWD",
+      "Base",
+      "PORTFOLIO AWD D AUTO",
+      "PORTFOLIO D AUTO",
+      "PRESTIGE 3.0D/4WD",
+      "R SPORT",
+      "R-SPORT",
+      "R-SPORT AWD",
+      "R-SPORT AWD D",
+      "R-SPORT MA CLASS",
+      "S",
+      "S 3.0P/4WD/8AT",
+      "S AWD",
+      "S AWD D",
+      "S FIRST EDITION 3.0P",
+      "SD 3.0D/4WD/8AT",
+      "SVR",
+      "SVR 5.0P/4WD/8AT",
+      "V6",
+      "V6 R-DYNAMIC AUTO",
+      "V6 S AWD",
+      "V6 S AWD D AUTO"
+    ]
+  },
+  {
+    "model": "XJ",
+    "count": 698,
+    "submodels": [
+      "5.0L",
+      "12L",
+      "2.0 TSS SWB SR",
+      "2.7D 4D 6A SEDAN",
+      "3.0",
+      "3.0  DIESEL  LWB",
+      "3.0 D",
+      "3.0 DIESEL",
+      "3.0 DIESEL LWB",
+      "3.0 DIESEL LWB PL AT",
+      "3.0 DIESEL SWB",
+      "3.0 DIESEL SWB PL",
+      "3.0 EXECUTIVE",
+      "3.0 L DIESEL",
+      "3.0 PREMIUM LUXURY",
+      "3.0 S/C",
+      "3.0 S/C LWB",
+      "3.0 S/C LWB TSS",
+      "3.0 S/C PL",
+      "3.0 S/C PL LWB",
+      "3.0 S/C PL SWB",
+      "3.0 S/L PL LWB",
+      "3.0 SWB",
+      "3.0D",
+      "3.0D  L",
+      "3.0D 4DR 6A SEDAN",
+      "3.0D PREMIUM LUXURY",
+      "3.0L",
+      "3.0L D LWB",
+      "3.0L DIESAL",
+      "3.0L DIESEL",
+      "3.0L DIESEL LWB",
+      "3.0L DIESEL LWB PL",
+      "3.0L DIESEL SWB",
+      "3.0L LWB",
+      "3.0L LWB PT",
+      "3.0L TDV6 LWB",
+      "3.0L V6",
+      "3.0P 6A 4D SEDAN",
+      "3.0S",
+      "3.0S/C",
+      "3.0S/C LWB TSS",
+      "3.0S/C PL L WB",
+      "3.0S/C PL LWB",
+      "3.0S/C PL SWB",
+      "3.2",
+      "3.2 LWB",
+      "3.2 SPORT",
+      "3.5P 6A 4D SEDAN",
+      "30.L V6 SUPERCHARGED",
+      "3L PETROL",
+      "3T4XJ6",
+      "4.0 SPORT",
+      "4.2",
+      "4.2 EXECUTIVE",
+      "4.2C",
+      "4.2C AUTO",
+      "4.2P 4D 6A SEDAN",
+      "4.2P 6A 4D SEDAN",
+      "4.2SUPER V-8",
+      "5.0",
+      "5.0 AT ABS D/AB 2WD",
+      "5.0 AUTO",
+      "5.0 L",
+      "5.0 PORTFOLIO",
+      "5.0 SUPERSPORT",
+      "5.0 V8 4DR 6A SEDAN",
+      "5.0 V8 LUXURY SWB 5.",
+      "5.0 V8 PORTFOLIO",
+      "5.0 V8 SC 4DR 6A SED",
+      "5.0 V8 SC PORTFOLIO",
+      "5.0L AT ABS",
+      "5.0L AT ABS D/AB",
+      "5.0L AT ABS D/AB 2WD",
+      "5.0L AT ABS D/AB GAS",
+      "5.0L AUTO",
+      "5.0L SUPERSPORT SC",
+      "5.0SC",
+      "5.3C",
+      "6",
+      "6C",
+      "8 EXECUTIVE",
+      "8L SOVEREIGH",
+      "AUTO",
+      "Base",
+      "C",
+      "CV12",
+      "EXCUTIVE",
+      "EXECUTIVE",
+      "EXECUTIVE 8",
+      "EXECUTIVE V8",
+      "L",
+      "L 3.0",
+      "L 3.0L DIESEL",
+      "L AUTOBIOGRAPHY V6 D",
+      "L PREMIUM V6",
+      "L SUPERSPORT",
+      "L-V6D",
+      "LUXURY",
+      "LUXURY V6 D AUTO",
+      "LWB PL AT ABS EU4",
+      "MANUFD 2014",
+      "MFG 2015",
+      "PORTFOLIO",
+      "PORTFOLIO V6 D AUTO",
+      "PREMIUM",
+      "PREMIUM LUXURY",
+      "PREMIUM LUXURY LWB 3",
+      "PREMIUM LUXURY V6D",
+      "PREMIUM LUXURY V8 LB",
+      "PREMIUM LUXURYV6 D A",
+      "R",
+      "R 5.0P/8AT/SL/4DR/5S",
+      "R SOVEREIGN",
+      "R-SPORT V6 D AUTO",
+      "S-4.0 AUTO",
+      "S-V12",
+      "SC V12",
+      "SOVEREIGN",
+      "SOVEREIGN TDVI AUTO",
+      "SOVEREIGN V8",
+      "SPORT",
+      "SPORT 300",
+      "SUPER SPORT",
+      "SUPER SPORT R",
+      "SUPER V8",
+      "SUPER V8 PORTFOLIO",
+      "SUPERSPORT V8 AUTO",
+      "TDV6 PREMIUM LUXURY",
+      "V12",
+      "V6 3.0",
+      "V6 SPORT",
+      "V6 SUPERCHARGED PORT",
+      "V6-D",
+      "V8 SOVEREIGN 3.2",
+      "V8 SUPERCHARGED PORT",
+      "X351",
+      "XJ 4.2P 4D 6A LWB SE",
+      "XJ-S.3.6",
+      "XJ50 LWB 3.0D"
+    ]
+  },
+  {
+    "model": "XK",
+    "count": 568,
+    "submodels": [
+      "120",
+      "120 DROPHEAD",
+      "120 SE",
+      "120 SPORTS",
+      "140",
+      "140 3.4 DHC",
+      "140 DHC",
+      "140 FIXED HEAD COUPE",
+      "150",
+      "150 3.8S",
+      "150 DHC",
+      "150 FHC",
+      "150 ROADSTER",
+      "150S",
+      "150S FIXEDHEAD COUPE",
+      "1957",
+      "4.2",
+      "4.2 CONVERTIBLE",
+      "4.2 COUPE",
+      "4.2 COUPE AUTO",
+      "4.2COUPE",
+      "4.2L",
+      "4.2P 2D 6A CONVERTIB",
+      "4.2P 2D 6A COUPE",
+      "4.2P 6A 2D CONVERTIB",
+      "4.2P 6A 2D COUPE",
+      "4.2P SC 2D 6A CONVER",
+      "4.2P SC 2D 6A COUPE",
+      "5.0 SIGNATURE",
+      "5.0 V8 LUXURY",
+      "5.0 V8 SIGNATURE",
+      "5.0L PORTFOLIO",
+      "5.0P S/C 2D 6A COUPE",
+      "AUTO",
+      "Base",
+      "BASE",
+      "BASE AUTO",
+      "BASE AUTO 5.0 V8",
+      "CONVERTIBLE",
+      "COUPE",
+      "COUPE 4.2",
+      "DYNAMIC R",
+      "E TYPE ROADSTER",
+      "IR",
+      "MY13 V8 LUXURY",
+      "PORTFOLIO",
+      "PORTFOLIO 5.0 AT",
+      "PORTFOLIO AUTO",
+      "PORTOLIO AUTO",
+      "R",
+      "R AUTO",
+      "R CONVERTIBLE",
+      "R COUPE",
+      "R COUPE 5.0P/6AT/SP",
+      "R PORTFOLIO",
+      "R SUPERCHARGED",
+      "R-S",
+      "R-S 5.0 V8 SC COUPE",
+      "RS",
+      "RS SUPERCHARGED AUTO",
+      "S",
+      "SIGNATURE 5.0 V8",
+      "SIGNATURE AUTO",
+      "SUPERCHARGED",
+      "V8",
+      "V8 4.2L S/C",
+      "XK140",
+      "XK150"
+    ]
+  },
+  {
+    "model": "E-PACE",
+    "count": 567,
+    "submodels": [
+      "4WD",
+      "A250",
+      "AWD MA CLASS AWD",
+      "AWD PETROL",
+      "Base",
+      "D150 AWD",
+      "D150 AWD S 2.0DT/4WD",
+      "D150 MA CLASS",
+      "D150 S",
+      "D180",
+      "D180 AWD",
+      "D180 AWD R-DYNAMIC S",
+      "D180 AWD S",
+      "D180 AWD S 2.0DT/4WD",
+      "D200 AWD R-DYNAMIC S",
+      "FIRST EDITION 2.0PT",
+      "HSE",
+      "MA CLASS AWD",
+      "P200",
+      "P200 AWD",
+      "P200 AWD S 2.0PT/4WD",
+      "P250",
+      "P250 AWD R-DYN SE",
+      "P250 AWD R-DYN SE 2.",
+      "P250 AWD R-DYNAMIC S",
+      "P250 AWD S 2.0PT/4WD",
+      "P250 CHEQUERED FLAG",
+      "P250- AWD",
+      "P250-AWD",
+      "P250R AWD",
+      "P300 AWD R-DYN SE",
+      "R",
+      "R DYNAMIC",
+      "R-DYNAMIC HSE",
+      "R-DYNAMIC S D AUTO",
+      "S D150 AWD",
+      "X540"
+    ]
+  },
+  {
+    "model": "XE",
+    "count": 548,
+    "submodels": [
+      "SUPERCHARGED",
+      "2 0T",
+      "2.0",
+      "2.0 I4D TSS",
+      "2.0 I4P GTDI",
+      "2.0 I4P R-SPORT",
+      "2.0 I4P TSS",
+      "2.0 R SPORT",
+      "2.0 T",
+      "2.0D",
+      "2.0I 200PS PRESTIGE",
+      "2.0T",
+      "20 T",
+      "20D",
+      "20D FACELIFT",
+      "20D PORTFOLIO 2.0D",
+      "20D PRESTIGE",
+      "20D PRESTIGE 2.0D/8A",
+      "20D PURE 2.0D/8AT/SL",
+      "20D R SPORT",
+      "20D R-SPORT 2.0D/8AT",
+      "20T",
+      "20T PORTFOLIO 2.0P",
+      "20T PRESTIGE 2.0P",
+      "20T PRESTIGE 2.0P/8A",
+      "20T PURE 2.0P/8AT/SL",
+      "20T R-SPORT 2.0P/8AT",
+      "25T",
+      "25T PORTFOLIO 2.0P",
+      "25T PRESTIGE 2.0P",
+      "25T R-SPORT 2.0P/8AT",
+      "2L PETROL",
+      "300 SPORT 2.0P/8AT",
+      "300 SPORT AWD 2.0P",
+      "3L PETROL",
+      "Base",
+      "P250 R-DYNAMIC SE",
+      "P250 SE 2.0P/8AT",
+      "P300 R-DYNAMIC HSE",
+      "P300 SPORT AWD",
+      "PRESTIGE",
+      "R SPORT D",
+      "R-SPORT",
+      "R-SPORT 2.0D",
+      "R-SPORT D",
+      "R-SPORT D AUTO",
+      "R-SPORT I AUTO",
+      "S",
+      "S 3.0P/8AT",
+      "S 3.0P/8AT/SL/4DR/5S",
+      "S SUPER CHARGED",
+      "SV PROJECT 8 AWD",
+      "T",
+      "X790",
+      "XE PRESTIGE 2.0D"
+    ]
+  },
+  {
+    "model": "F-TYPE",
+    "count": 467,
+    "submodels": [
+      "S V8",
+      "3.0 S",
+      "3.0 V6 380PS COUPE",
+      "3.0 V6 S",
+      "3.0 V6 SC CONVERTIBL",
+      "3.0 V6 SC S CONVERTI",
+      "3.0 V6 SUPERCHARGED",
+      "3.0L V6",
+      "3.0SC",
+      "3.0SC CONVERTIBLE",
+      "3.0SC S ST2",
+      "3.0SC ST2",
+      "300PS R-DYNAMIC RWD",
+      "380PS RWD CONVERTBLE",
+      "380PS RWD CONVERTIBL",
+      "380PS RWD COUPE 3.0P",
+      "380PS RWD COUPE V6 S",
+      "3L PETROL AUTO",
+      "400 SPORT AWD COUPE",
+      "400 SPORT RWD CONVRT",
+      "400 SPORT RWD COUPE",
+      "5.0 V8 SC S CONVERTI",
+      "575PS R",
+      "AWD R",
+      "Base",
+      "CONVERTIBLE",
+      "COUPE",
+      "COUPE R 5.0P/8AT/SP",
+      "COUPE V6 SC 3.0P/8AT",
+      "COUPE V6 SC S 3.0P/8",
+      "COUPE V6 SC S BDE 3.",
+      "COUPE V6 SC S MANUAL",
+      "P300",
+      "P300 R-DYNAMIC BLACK",
+      "P300 R-DYNAMIC CONVT",
+      "P300 R-DYNAMIC COUPE",
+      "P340",
+      "P380 R-DYNAMIC COUPE",
+      "P450 75 RWD COUPE",
+      "P450 R-DYNAMIC RWD",
+      "P450 V8 AUTO",
+      "P575 R AWD COUPE 5.0",
+      "P575 R75 AWD COUPE",
+      "PROJECT 7",
+      "R",
+      "R       S/C      AWD",
+      "R  COUPE",
+      "R 5.0 V8",
+      "R 5.0 V8 COUPE",
+      "R AUTO",
+      "R AUTOMATIC AWD",
+      "R AWD COUPE 5.0P/4WD",
+      "R COUPE",
+      "R COUPE 2WD",
+      "R DYNAMIC V8",
+      "R-DYNAMIC",
+      "R-DYNAMIC AUTO",
+      "R-DYNAMIC P450 V8",
+      "R-DYNAMIC V8 AWD",
+      "S",
+      "S 3.0 V6",
+      "S CONVERTIBLE",
+      "S V6",
+      "S V6 AUTO",
+      "S V6 AWD COUPE",
+      "S V8 5.0L AUTO",
+      "SUPERCHARGED",
+      "SVR AWD CONVERTIBLE",
+      "SVR AWD COUPE 5.0P",
+      "SVR COUPE 5.0P/4WD",
+      "TYPE-S",
+      "V6",
+      "V6 3.0",
+      "V6 AUTO",
+      "V6 R-DYNAMIC",
+      "V6 SC MAN 3.0P/6MT/C",
+      "V6 SPORT AUTO",
+      "V8 COUPE",
+      "V8 R AWD AUTO"
+    ]
+  },
+  {
+    "model": "XJ6",
+    "count": 431,
+    "submodels": [
+      "-L-SERIES-2",
+      "3.0",
+      "3.0 CLSC",
+      "3.0 EXECUTIVE",
+      "3.0 SE",
+      "3.0 SOV SWB",
+      "3.0C",
+      "3.0C LWB",
+      "3.0SE",
+      "3.2",
+      "3.2  A",
+      "3.2  LWB",
+      "3.2 A",
+      "3.2 AUTO",
+      "3.2 EXECUTIVE",
+      "3.2 L",
+      "3.2 LWB",
+      "3.2 SALOON",
+      "3.2 SELECT",
+      "3.2 SPORT",
+      "3.2 SPORT X300",
+      "3.2 X300",
+      "3.2A",
+      "3.2L",
+      "3.2L AUTO",
+      "3.2LWB",
+      "3.2S",
+      "3.6",
+      "32",
+      "4.0",
+      "4.0 AUTO",
+      "4.0 SPORT.",
+      "4.2",
+      "4.2 AUTO",
+      "4.2 LITRE",
+      "4.2 LITRE SERIES 1",
+      "4.2AUTO",
+      "40 SPORT",
+      "Base",
+      "CENTENARY",
+      "CLSC",
+      "E-JLD",
+      "EXECUTIVE",
+      "HERITAGE 3.2",
+      "L",
+      "LWB",
+      "MAJESTIC",
+      "MAJESTIC 3.2",
+      "MAJESTIC 3.2L",
+      "MAJESTIC 3.2L AUTO",
+      "SERIES 1",
+      "SERIES 3",
+      "SERRIES III",
+      "SOVEREIGN",
+      "SPORT",
+      "SPORT AUTO",
+      "V6 SE",
+      "VANDEN PLAS",
+      "X300",
+      "XJ6L"
+    ]
+  },
+  {
+    "model": "XJ8",
+    "count": 413,
+    "submodels": [
+      "3.2",
+      "3.2  LWB",
+      "3.2  V8",
+      "3.2 4DR 5A P",
+      "3.2 EXECUTIVE",
+      "3.2 LWB",
+      "3.2 LWB EXECUTIVE",
+      "3.2 SWB",
+      "3.2 V8",
+      "3.2 V8 LWB",
+      "3.2L",
+      "3.2LWB",
+      "3.3 LWB",
+      "3.5",
+      "3.5 CLSC",
+      "3.5 SE",
+      "3.5 V8 SE 4DR 6SP AP",
+      "3.5C LWB",
+      "3.5SE",
+      "4.0 5 5A P",
+      "4.0 SWB 4DR 5SPA P",
+      "4.2",
+      "4.2 EXECUTIVE",
+      "4.2 SE",
+      "4.2 V8",
+      "4.2 V8 SE 4DR 6SP AP",
+      "4.2SE",
+      "AUTO",
+      "Base",
+      "CENTENARY",
+      "CENTENARY 3.2 LWB",
+      "EXCUTIVE",
+      "EXECTIVE",
+      "EXECUTIVE",
+      "EXERCUTIVE",
+      "L",
+      "L 3.5",
+      "L 4.2",
+      "L SOVEREIGN",
+      "MAJESTIC 3.2 L",
+      "MAJESTIC 3.2 L AUTO",
+      "MAJESTIC 3.2 LWB",
+      "MAJESTIC 3.2L",
+      "PORTFOLIO",
+      "SOVEREIGN",
+      "SOVREIGN",
+      "SPORT",
+      "SUPER 8",
+      "SUPER V8",
+      "SUPERSPORT",
+      "V8",
+      "V8 3.2 LWB X338"
+    ]
+  },
+  {
+    "model": "XKR",
+    "count": 345,
+    "submodels": [
+      "X 150",
+      "100",
+      "4.0",
+      "4.2",
+      "4.2 AUTO",
+      "4.2 S",
+      "4.2L",
+      "4.2L COUPE V8 S/C",
+      "4.2L PETROL",
+      "4.2L S/C V8 AUTO",
+      "4.2L V8",
+      "5.0",
+      "5.0 L",
+      "5.0 V8 SUPERCHARGED",
+      "5.0L",
+      "5.0L AT ABS D/AB 2WD",
+      "5.0P S/C 2D 6A CONVE",
+      "AUTO",
+      "Base",
+      "CONVERTIBLE",
+      "COUPE",
+      "DYNAMIC AUTO",
+      "PORTFOILO",
+      "PORTFOLIO",
+      "R 5.0LATABS D/AB 2WD",
+      "RS",
+      "S",
+      "SILVERSTONE",
+      "SUPER CHARGED",
+      "SUPERCHARGED"
+    ]
+  },
+  {
+    "model": "I-PACE",
+    "count": 339,
+    "submodels": [
+      "400PS BLACK EV/4WD",
+      "400PS HSE",
+      "400PS HSE EV/4WD/AT",
+      "400PS R-DYNAMIC HSE",
+      "400PS R-DYNAMIC SE E",
+      "400PS S EV/4WD/AT",
+      "400PS SE EV/4WD/AT",
+      "Base",
+      "EV 400",
+      "EV-400",
+      "EV-400 AWD ELECTRIC",
+      "EV-400 HSE AWD",
+      "EV400",
+      "EV400 4WD",
+      "EV400 AWD",
+      "EV400 ELECTRIC",
+      "EV400 FIRST EDITION",
+      "EV400 HSE",
+      "EV400 HSE AWD",
+      "EV400 SE",
+      "EV400S",
+      "EV400SE",
+      "HSE",
+      "INNOVATION EDITION",
+      "X-590",
+      "X590"
+    ]
+  },
+  {
+    "model": "XK8",
+    "count": 292,
+    "submodels": [
+      "4 LITRE",
+      "4.0",
+      "4.0 COUPE",
+      "4.0L CONVERTIBLE",
+      "4.0L COUPE",
+      "4.2",
+      "4.2 CPE",
+      "4.2S",
+      "4L",
+      "Base",
+      "CABRIOLET",
+      "CONVERTABLE",
+      "CONVERTIBLE",
+      "CONVERTIBLE AUTO",
+      "COUPE",
+      "JEDA",
+      "ROADSTER",
+      "V8",
+      "XK8 4.0 CONV 2DR",
+      "XK8 4.2 COUPE 2DR",
+      "XKR8 4.0 CONV 2DR 5S",
+      "XKR8 4.0 CPE 2DR 5SP",
+      "XKR8 4.2 COUPE 2DR"
+    ]
+  },
+  {
+    "model": "XJS",
+    "count": 235,
+    "submodels": [
+      "3.6",
+      "3.6 COUPE",
+      "3.6C",
+      "4.0",
+      "4.0 COUPE",
+      "5.3",
+      "5.3 COUPE",
+      "5.3C(A)",
+      "6L V12",
+      "AUTO",
+      "AUTO SPORTS",
+      "Base",
+      "C",
+      "C V12",
+      "CABRIOLET V12",
+      "CELEBRATION",
+      "CONVERTABLE",
+      "COUPE",
+      "H E",
+      "H.E. COUPE",
+      "HE",
+      "HE AUTO",
+      "HE AUTO SPORTS",
+      "LE MANS V12",
+      "LEMANS V12",
+      "LISTER",
+      "LISTER MK III",
+      "S",
+      "V-12 COUPE",
+      "V12",
+      "V12 CABRIOLET",
+      "V12 CABROLET",
+      "V12 CONVERTABLE",
+      "V12 CONVERTIBLE",
+      "V12 LEMANS",
+      "V12 TWR",
+      "V12-COUPE"
+    ]
+  },
+  {
+    "model": "SOVEREIGN",
+    "count": 214,
+    "submodels": [
+      "2.9",
+      "3.2",
+      "3.2  SWB",
+      "3.2 LWB",
+      "3.2AUTO",
+      "3.2L V8",
+      "302LWB",
+      "4.0",
+      "4.0 4D AP SWB 2000MY",
+      "4.0 AUTO",
+      "4.0 LITRE",
+      "4.0 LWB",
+      "4.0 SALOON",
+      "4.0 SALOON LWB",
+      "4.0 V8 4DR SALOON",
+      "4.0 V8 LWB",
+      "4.0 X 300",
+      "4.0 X300",
+      "4.0L",
+      "4.0L V8",
+      "4.0LT",
+      "4.0LWB",
+      "4.2",
+      "Base",
+      "LWB AUTO",
+      "MAJESTIC 4.0",
+      "MAJESTIC 4.0L",
+      "MAJESTIC-XJ8-LWB",
+      "V12",
+      "V6 XJ6",
+      "V8",
+      "V8  3.2  SWB",
+      "X300 4.0",
+      "XJ",
+      "XJ EXECUTIVE",
+      "XJ-8",
+      "XJ12",
+      "XJ40",
+      "XJ6",
+      "XJ6 4.OL",
+      "XJ8 3.2 SWB"
+    ]
+  },
+  {
+    "model": "E TYPE",
+    "count": 211,
+    "submodels": [
+      "1 SERIES",
+      "12",
+      "2 + 2 SALOON",
+      "2 PLUS 2",
+      "2+2",
+      "2+2 4.2",
+      "2+2 COUPE V12",
+      "2+2 SERIES 1 4.2",
+      "3-8",
+      "3.8",
+      "3.8 LITRE",
+      "4.2",
+      "4.2 SERIES 1",
+      "4.2L",
+      "Base",
+      "COUPE",
+      "E-TYPE SERIES",
+      "FHC",
+      "OTS",
+      "OTS V12",
+      "ROADSTER",
+      "ROADSTER V12",
+      "S1 4.2 FHC",
+      "S3",
+      "SERIES 1",
+      "SERIES 1 FHC",
+      "SERIES 1 ROADSTER",
+      "SERIES 11",
+      "SERIES 2",
+      "SERIES 3",
+      "SERIES 3 V12",
+      "SERIES II",
+      "SERIES1 4.2 ROADSTER",
+      "SERIES3 V12 ROADSTER",
+      "SPORTS",
+      "V12",
+      "V12 CONVERTIBLE",
+      "V12 FHC",
+      "X KE 11",
+      "XE",
+      "XK",
+      "XKE",
+      "XKE 4.2"
+    ]
+  },
+  {
+    "model": "XJR",
+    "count": 129,
+    "submodels": [
+      "-S",
+      "3.6",
+      "4",
+      "4.0",
+      "4.0 S C SEDAN",
+      "4.0 S/C",
+      "4.0 SC",
+      "4.0 SUPERCHARGED",
+      "4.0 V8",
+      "4.0 X300",
+      "4.2 S/C",
+      "4.2 SOVEREIGN",
+      "4.2P 6A 4D SEDAN",
+      "4.2S/C",
+      "6",
+      "6 SPORT",
+      "6 SUPERCHARGED",
+      "8",
+      "AUTO",
+      "Base",
+      "PORTFOLIO",
+      "SOVEREIGN",
+      "SOVERIGN",
+      "SPORT",
+      "SPORT 36A",
+      "SUPER 8",
+      "SUPER V8",
+      "SUPERCHARGED",
+      "V8",
+      "V8 AUTO"
+    ]
+  },
+  {
+    "model": "3.4",
+    "count": 49,
+    "submodels": [
+      "3.4S",
+      "3.4S  AUTO",
+      "Base",
+      "MARK 2",
+      "MK 11",
+      "MK 2",
+      "MK II",
+      "MK1",
+      "MK2",
+      "MKII",
+      "S",
+      "S TYPE",
+      "S-TYPE",
+      "SALOON"
+    ]
+  },
+  {
+    "model": "3.8",
+    "count": 47,
+    "submodels": [
+      "Base",
+      "E-TYPE",
+      "MARK II",
+      "MK 11",
+      "MK 2",
+      "MK II",
+      "MK-2",
+      "MK2",
+      "MKII",
+      "S",
+      "S TYPE"
+    ]
+  },
+  {
+    "model": "MARK II",
+    "count": 45,
+    "submodels": [
+      "2.4",
+      "3.4",
+      "3.8",
+      "340",
+      "Base"
+    ]
+  },
+  {
+    "model": "MK",
+    "count": 30,
+    "submodels": [
+      "1",
+      "10",
+      "11",
+      "1X",
+      "2",
+      "2.  3.4",
+      "3.8",
+      "4",
+      "7",
+      "8",
+      "Base",
+      "II",
+      "IX",
+      "MARK 7"
+    ]
+  },
+  {
+    "model": "DAIMLER",
+    "count": 26,
+    "submodels": [
+      "4.0",
+      "6.0 SEDAN LWB A",
+      "Base",
+      "DOUBLE SIX",
+      "DOUBLE-SIX",
+      "LWB 4.0 LWB X330",
+      "LWB 4.0LT A",
+      "MAJESTIC 4.0",
+      "MAJESTIC 6.0L AUTO",
+      "SOVREIGN 4.2",
+      "SUPER EIGHT",
+      "V8"
+    ]
+  },
+  {
+    "model": "XJR8",
+    "count": 25,
+    "submodels": [
+      "4.0",
+      "4.2 V8 SC 4DR 6SP AP",
+      "Base",
+      "R",
+      "SUPERCHARGED"
+    ]
+  },
+  {
+    "model": "XFR",
+    "count": 22,
+    "submodels": [
+      "5.0L AT ABS D/AB HID",
+      "5.0L AT ABS D/AB SC",
+      "Base",
+      "R V8 AUTO",
+      "S",
+      "SUPERCHARGED",
+      "V8 AUTO"
+    ]
+  },
+  {
+    "model": "S TYPE",
+    "count": 21,
+    "submodels": [
+      "3.0 V6 4D 5M P",
+      "3.0 V6 4DR 5A",
+      "3.0 V6 SE",
+      "3.8",
+      "4.0 V8",
+      "Base"
+    ]
+  },
+  {
+    "model": "XJ12",
+    "count": 20,
+    "submodels": [
+      "6.0 SEDAN AUTO",
+      "Base",
+      "L"
+    ]
+  },
+  {
+    "model": "XKR8",
+    "count": 18,
+    "submodels": [
+      "Base",
+      "CONVERTIBLE",
+      "COUPE S/C",
+      "XK8",
+      "XK8 40S/C 2D5SA HT",
+      "XK8 40S/C 2D5SA ST"
+    ]
+  },
+  {
+    "model": "420",
+    "count": 17,
+    "submodels": [
+      "Base",
+      "G"
+    ]
+  },
+  {
+    "model": "XK 150",
+    "count": 15,
+    "submodels": [
+      "3.8 S  F.H.C.",
+      "3.8S O.T.S.",
+      "Base",
+      "COUPE",
+      "OTS",
+      "ROADSTER",
+      "S",
+      "XK150 COUPE"
+    ]
+  },
+  {
+    "model": "2.4",
+    "count": 14,
+    "submodels": [
+      "240",
+      "Base",
+      "MK 2",
+      "MK II",
+      "MK2",
+      "MKII"
+    ]
+  },
+  {
+    "model": "XK 120",
+    "count": 14,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "DROPHEAD COUPE",
+      "OTS"
+    ]
+  },
+  {
+    "model": "XK 140",
+    "count": 13,
+    "submodels": [
+      "Base",
+      "DHC",
+      "MC"
+    ]
+  },
+  {
+    "model": "X-TYPE 2.1 V6",
+    "count": 11,
+    "submodels": [
+      "4DR SALOON"
+    ]
+  },
+  {
+    "model": "MARK IX",
+    "count": 9,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MK 10",
+    "count": 9,
+    "submodels": [
+      "4.2",
+      "Base"
+    ]
+  },
+  {
+    "model": "MARK V",
+    "count": 8,
+    "submodels": [
+      "3 1/2 LITRE DROPHEAD",
+      "Base"
+    ]
+  },
+  {
+    "model": "MARK VII",
+    "count": 8,
+    "submodels": [
+      "7M",
+      "Base",
+      "M",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "MK5",
+    "count": 8,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SS",
+    "count": 8,
+    "submodels": [
+      "100",
+      "100  ROADSTER",
+      "2 1/2 LITRE",
+      "Base"
+    ]
+  },
+  {
+    "model": "4.2",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "E TYPE",
+      "E-TYPE",
+      "E-TYPE SERIES II",
+      "ETYPE",
+      "XJ6",
+      "XJ6 AUTO"
+    ]
+  },
+  {
+    "model": "XJR575",
+    "count": 7,
+    "submodels": [
+      "5.0PS/8AT"
+    ]
+  },
+  {
+    "model": "340",
+    "count": 5,
+    "submodels": [
+      "3.4 LITRE",
+      "Base"
+    ]
+  },
+  {
+    "model": "MARK 1",
+    "count": 5,
+    "submodels": [
+      "2.4 SE",
+      "3.4",
+      "Base",
+      "SALOON"
+    ]
+  },
+  {
+    "model": "MK2",
+    "count": 5,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MK7",
+    "count": 5,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "240",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "420G",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "C TYPE",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "REPLICA"
+    ]
+  },
+  {
+    "model": "MARK IV",
+    "count": 3,
+    "submodels": [
+      "2.5 LITRE",
+      "Base"
+    ]
+  },
+  {
+    "model": "XKE E-TYPE",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "E-TYPE"
+    ]
+  },
+  {
+    "model": "4.2 XJ6",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "D TYPE",
+    "count": 2,
+    "submodels": [
+      "1957 REPLICA",
+      "REPLICA"
+    ]
+  },
+  {
+    "model": "MK IX",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MKIV",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "DROPHEAD COUPE"
+    ]
+  },
+  {
+    "model": "XJ6 4.2",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "XJ6 4.2 AUTO",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "XJR8 S/C",
+    "count": 2,
+    "submodels": [
+      "4DR 5 A P"
+    ]
+  },
+  {
+    "model": "XJS V12",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "XK120",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SE COUPE"
+    ]
+  },
+  {
+    "model": "1.5",
+    "count": 1,
+    "submodels": [
+      "1948"
+    ]
+  },
+  {
+    "model": "2.8",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "240F/O",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "3.4 MKII",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "3.4 S",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "3.5",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "3.6 SOVEREIGN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "3.8S",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "4.2 XJ6L",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "420 AUTO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "420G AUTO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CONVERTIBLE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MAJESTIC",
+    "count": 1,
+    "submodels": [
+      "XJ6"
+    ]
+  },
+  {
+    "model": "MARK 7",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MARK I",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MARK II 3.4",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MARK III",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MARK VIII",
+    "count": 1,
+    "submodels": [
+      "MARK 8"
+    ]
+  },
+  {
+    "model": "MK 7",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MK II",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MK VII M",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MK10",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MK2 3.4",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SOVEREIGN 3.6",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SOVEREIGN 4.0",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SOVERIGN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SPORTS SALOON",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "X TYPE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "XF-S",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "XJ12 AUTO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "XJ12C",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "XJ40",
+    "count": 1,
+    "submodels": [
+      "SOVEREIGN"
+    ]
+  },
+  {
+    "model": "XJ5CV12",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "XJ6 4.0 SPORT",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "XJ6 AUTO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "XJ8 SOV 3.2",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "XJL",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "XJS CABRIOLET",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "XJS HE AUTO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "XK140",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "XK150",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "XK150S",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "XKR 5.0",
+    "count": 1,
+    "submodels": [
+      "V8 SC CONVERTIBLE"
+    ]
+  },
+  {
+    "model": "XKR100",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

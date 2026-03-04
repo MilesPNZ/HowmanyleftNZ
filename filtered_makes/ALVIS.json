@@ -1,0 +1,117 @@
+[
+  {
+    "model": "TA21",
+    "count": 9,
+    "submodels": [
+      "3 LITRE",
+      "Base",
+      "SPORT",
+      "TA21"
+    ]
+  },
+  {
+    "model": "TC21",
+    "count": 7,
+    "submodels": [
+      "100",
+      "100 GREY LADY",
+      "Base",
+      "DROPHEAD COUPE"
+    ]
+  },
+  {
+    "model": "12/50",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "TE TOURER"
+    ]
+  },
+  {
+    "model": "SPEED",
+    "count": 3,
+    "submodels": [
+      "25",
+      "25 SA25.63"
+    ]
+  },
+  {
+    "model": "GREY LADY",
+    "count": 2,
+    "submodels": [
+      "TC21",
+      "TC21/100"
+    ]
+  },
+  {
+    "model": "SILVER EAGLE",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SPEED 20",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TD",
+    "count": 2,
+    "submodels": [
+      "21",
+      "TD21 DROPHEAD"
+    ]
+  },
+  {
+    "model": "TE21",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "12/40",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "FIREFLY",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SILVER CREST",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TA14",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TB21",
+    "count": 1,
+    "submodels": [
+      "TB21"
+    ]
+  },
+  {
+    "model": "TG1250",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

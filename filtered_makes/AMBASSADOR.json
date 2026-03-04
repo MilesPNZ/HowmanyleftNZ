@@ -1,0 +1,9 @@
+[
+  {
+    "model": "SST",
+    "count": 1,
+    "submodels": [
+      "360"
+    ]
+  }
+]

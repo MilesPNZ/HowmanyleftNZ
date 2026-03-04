@@ -1,0 +1,37 @@
+[
+  {
+    "model": "REGAL",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CHARGER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "REGAL 4D6A",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "REGAL V8",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

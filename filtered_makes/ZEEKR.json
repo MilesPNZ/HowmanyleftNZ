@@ -1,0 +1,27 @@
+[
+  {
+    "model": "7X",
+    "count": 96,
+    "submodels": [
+      "AWD PERFORMANCE",
+      "LR RWD 100KWH/EV/AT",
+      "RWD 75KWH/EV/AT"
+    ]
+  },
+  {
+    "model": "X",
+    "count": 37,
+    "submodels": [
+      "AWD 66KWH/EV/AWD/AT",
+      "RWD 66KWH/EV/AT"
+    ]
+  },
+  {
+    "model": "009",
+    "count": 16,
+    "submodels": [
+      "6-SEAT 116KWH/EV/AWD",
+      "7-SEAT 116KWH/EV/AWD"
+    ]
+  }
+]

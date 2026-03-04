@@ -1,0 +1,50 @@
+[
+  {
+    "model": "CLUBSPRINT",
+    "count": 10,
+    "submodels": [
+      "ALMAC",
+      "Base",
+      "XL"
+    ]
+  },
+  {
+    "model": "427",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "SC"
+    ]
+  },
+  {
+    "model": "COBRA",
+    "count": 7,
+    "submodels": [
+      "427 SC",
+      "427SC",
+      "Base",
+      "REPLICA"
+    ]
+  },
+  {
+    "model": "SABRE",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "COBRA 427",
+    "count": 1,
+    "submodels": [
+      "SC"
+    ]
+  },
+  {
+    "model": "TG",
+    "count": 1,
+    "submodels": [
+      "ROADSTER"
+    ]
+  }
+]

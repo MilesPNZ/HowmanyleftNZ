@@ -1,0 +1,16 @@
+[
+  {
+    "model": "SAKER",
+    "count": 2,
+    "submodels": [
+      "SV1"
+    ]
+  },
+  {
+    "model": "SAMBAR",
+    "count": 1,
+    "submodels": [
+      "4X4"
+    ]
+  }
+]

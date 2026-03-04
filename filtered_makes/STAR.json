@@ -1,0 +1,24 @@
+[
+  {
+    "model": "STAR",
+    "count": 2,
+    "submodels": [
+      "12/25",
+      "ORION12/25"
+    ]
+  },
+  {
+    "model": "2060",
+    "count": 1,
+    "submodels": [
+      "SPORTS TOURER"
+    ]
+  },
+  {
+    "model": "7",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

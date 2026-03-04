@@ -1,0 +1,86 @@
+[
+  {
+    "model": "SPEEDSTER",
+    "count": 4,
+    "submodels": [
+      "1930",
+      "88",
+      "898A",
+      "BOATAIL"
+    ]
+  },
+  {
+    "model": "851",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "PHAETON"
+    ]
+  },
+  {
+    "model": "653",
+    "count": 2,
+    "submodels": [
+      "PHAETON",
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "654",
+    "count": 2,
+    "submodels": [
+      "4 DR CONVERTIBLE",
+      "Base"
+    ]
+  },
+  {
+    "model": "CORD",
+    "count": 2,
+    "submodels": [
+      "810 WESTCHESTER",
+      "Base"
+    ]
+  },
+  {
+    "model": "8-90",
+    "count": 1,
+    "submodels": [
+      "PHAETON"
+    ]
+  },
+  {
+    "model": "8-98A",
+    "count": 1,
+    "submodels": [
+      "PHAETON"
+    ]
+  },
+  {
+    "model": "851 ROADSTER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "88 VICTORIA",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "898",
+    "count": 1,
+    "submodels": [
+      "CABRIOLET"
+    ]
+  },
+  {
+    "model": "980SD",
+    "count": 1,
+    "submodels": [
+      "980SD"
+    ]
+  }
+]

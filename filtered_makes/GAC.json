@@ -1,0 +1,23 @@
+[
+  {
+    "model": "GS3 EMZOOM",
+    "count": 25,
+    "submodels": [
+      "GL 1.5PT/7AT"
+    ]
+  },
+  {
+    "model": "AION V",
+    "count": 11,
+    "submodels": [
+      "LUXURY 75KWH/EV/AT"
+    ]
+  },
+  {
+    "model": "M8 PHEV",
+    "count": 6,
+    "submodels": [
+      "GX PHEV/2HD"
+    ]
+  }
+]

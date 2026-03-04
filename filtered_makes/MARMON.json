@@ -1,0 +1,16 @@
+[
+  {
+    "model": "ROOSEVELT",
+    "count": 1,
+    "submodels": [
+      "TYPE 70"
+    ]
+  },
+  {
+    "model": "ROSSEVELT",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

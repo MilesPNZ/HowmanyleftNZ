@@ -1,0 +1,70 @@
+[
+  {
+    "model": "SAPPHIRE",
+    "count": 13,
+    "submodels": [
+      "234",
+      "236",
+      "346",
+      "AUTOMATIC",
+      "Base",
+      "MK1"
+    ]
+  },
+  {
+    "model": "SAPPHIRE 346",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "WHITLEY",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "14/4",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "STAR SAPPHIRE",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "346 SAPPHIRE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SAPPHIRE 234",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SAPPHIRE 236",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TYPHOON",
+    "count": 1,
+    "submodels": [
+      "SIDDELEY"
+    ]
+  }
+]

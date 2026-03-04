@@ -1,0 +1,1089 @@
+[
+  {
+    "model": "SWIFT",
+    "count": 102907,
+    "submodels": [
+      "1.2L PETROL",
+      "1.4",
+      "1.6 SPORT",
+      "HYBRID",
+      "1-3",
+      "1.2",
+      "1.2 HYBRID",
+      "1.2 L",
+      "1.2 PETROL",
+      "1.2 PETROL CVT",
+      "1.2 X6",
+      "1.2 XG",
+      "1.2 XL",
+      "1.2 XS",
+      "1.2L",
+      "1.2L GL",
+      "1.2L PETOL HYBRID",
+      "1.2L PETROL CVT",
+      "1.2L PETROL HYBRID",
+      "1.2L XL",
+      "1.2L- AWD",
+      "1.2XL DJE",
+      "1.3",
+      "1.3 A",
+      "1.3 DDIS 5DR H/B MT",
+      "1.3 GS",
+      "1.3 MAN",
+      "1.3 SE-Z",
+      "1.3 SG",
+      "1.3 X G",
+      "1.3 X-G",
+      "1.3 XE STYLE",
+      "1.3G",
+      "1.3L",
+      "1.3L 4WD",
+      "1.3L SPORT",
+      "1.3L-4WD",
+      "1.3XG",
+      "1.4L",
+      "1.4L PETROL",
+      "1.5",
+      "1.5 MAN",
+      "1.5 XS",
+      "1.5 XS LTD",
+      "1.5L",
+      "1.5XS",
+      "1.6 M",
+      "1.6 MT",
+      "1.6 PETROL",
+      "1.6 SPORT LTD",
+      "1.6L",
+      "1.6L PETROL",
+      "1.6L SPORT",
+      "120",
+      "1200",
+      "1200  XG",
+      "1200 XG",
+      "1200 XG LTD AERO",
+      "1200`",
+      "13",
+      "1300",
+      "1300 XG L-PACKAGE",
+      "1300-4WD",
+      "1300/ VVT/5MT",
+      "1500",
+      "1600",
+      "1600  SPORT",
+      "1600 AUTO",
+      "1600 MANUEL",
+      "1600 SPORT",
+      "1600 SPORT  5MT",
+      "1600-SPORT",
+      "2012",
+      "320",
+      "4WD",
+      "4WD 1.3L",
+      "5 DOOR HATCH",
+      "5 DOOR VVT CVT",
+      "5 DOOR XS",
+      "5 DR DOHC CVT",
+      "5DOOR SPORT",
+      "5DR 4AT DOHC",
+      "5HAT DOHC VVT CVT",
+      "5MT",
+      "5SPD MT",
+      "`",
+      "AERO",
+      "AUTO",
+      "AWD",
+      "Base",
+      "BEAT",
+      "BLUE DOHC VVT CVT",
+      "CVT",
+      "DBA-ZC11S",
+      "DBA-ZC21S",
+      "DBA-ZC72S",
+      "DOHC VVT CVT",
+      "DOHC VVT CVT ABS AC",
+      "DOHC VVT CVT ABS SRS",
+      "ESPELIR",
+      "FWD 5DR AUTO ROFL 13",
+      "FZ",
+      "FZC82S",
+      "GL",
+      "GL 1.2P/5MT",
+      "GL 1.2P/CVT",
+      "GL 1.4 5DR",
+      "GL 1.4 5DR AT",
+      "GL 1.4L",
+      "GL FZ",
+      "GL NAVIGATOR",
+      "GL+ 1.4P/5MT/HA/5DR",
+      "GLA 1.4 5DR AT",
+      "GLA+ 1.4P/4AT/HA/5DR",
+      "GLAB 1.4P/4AT/HA/5DR",
+      "GLB 1.4P/5MT/HA/5DR/",
+      "GLC 1.2P/CVT",
+      "GLC 1.2P/CVT SR2",
+      "GLS 1.2PMH/5MT",
+      "GLSC 1.2PMH/CVT",
+      "GLX",
+      "GLX 1.2P/CVT",
+      "GLX 1.4 5DR",
+      "GLX 1.4 5DR AT",
+      "GLX 1.5",
+      "GLX 1.5 5DR",
+      "GLX 5DR",
+      "GLX HA 1.5 5DR",
+      "GLX HA2 1.5 5DR",
+      "GLX HS 1.5 5DR",
+      "GLX HYBRID 1.2PH",
+      "GLX-1.5",
+      "GLXA",
+      "GLXA 1.4",
+      "GLXA 1.4 5DR",
+      "GLXA 1.5 5DR",
+      "GLXAB 1.4P/4AT/HA/5D",
+      "GLXB 1.4P/5MT/HA/5DR",
+      "GLXC 1.2P/CVT",
+      "GLXH 1.5 5DR",
+      "GLXH2 1.5 5DR",
+      "GLXH2 1.5 5DR LTD",
+      "GLXHA 1.5 5DR",
+      "GLXHA2 1.5 5DR",
+      "GLXHA2 1.5 5DR LTD",
+      "GLXHAL 1.5 5DR",
+      "GLXHAS 1.5 5DR",
+      "GLXHL 1.5 5DR",
+      "GLXHS 1.5 5DR",
+      "GLZC 1.2PMH/CVT",
+      "GO 1.4P/4AT",
+      "GO 1.4P/5MT",
+      "GTI",
+      "HATCH 1.6 5DR SPORT",
+      "HKS",
+      "HV",
+      "HYBRID RS",
+      "HYBRID SG",
+      "HYRBID",
+      "I-STOP",
+      "IDLE STOP",
+      "IDLING STOP",
+      "IS",
+      "LIMITED",
+      "LTD 1.4 5DR",
+      "LTD 1.4 5DR AT",
+      "LTD HYBRID 1.2PH",
+      "LTDA 1.4 5DR",
+      "LTDAB 1.4P/4AT/HA/5D",
+      "LTDB 1.4P/5MT/HA/5DR",
+      "MANUAL 1.6L PETROL",
+      "ML HYBRID",
+      "PETROL HYBRID",
+      "PLUS 1.2P/5MT",
+      "PLUS 1.2P/CVT",
+      "PLUS 1.4P/4AT/HA/5DR",
+      "PLUS 1.4P/5MT/HA/5DR",
+      "Q",
+      "Q50",
+      "R",
+      "R/S",
+      "RE4",
+      "RECARO SPORT 5DR 4AT",
+      "RS",
+      "RS 1.0PT/6AT",
+      "RS 1.4 5DR AT",
+      "RS 1.4 5DR MT",
+      "RS AUTO",
+      "RS HYBRID",
+      "RS HYBRID 1.2PH",
+      "RS SPORT",
+      "RS-DJE",
+      "RS-HYBRID",
+      "RSAB 1.4P/4AT/HA/5DR",
+      "RSB 1.4P/5MT/HA/5DR",
+      "RSC 1.2PMH/CVT",
+      "RSCB 1.2PMH/CVT",
+      "RSXAB 1.4P/4AT/HA/5D",
+      "RSXAD 1.4P/4AT",
+      "RX-11",
+      "S",
+      "SE",
+      "SE 1.4 5DR AT",
+      "SE 1.4 5DR MT",
+      "SE 1.4P/4AT/HA/5DR/5",
+      "SEAD 1.4P/4AT",
+      "SG AERO",
+      "SL-DJE",
+      "SPORT",
+      "SPORT 1.4PT/6AT",
+      "SPORT 1.4PT/6MT",
+      "SPORT 1.5L",
+      "SPORT 1.6",
+      "SPORT 1.6  AUTO",
+      "SPORT 1.6 3DR 6MT",
+      "SPORT 1.6 5DR 6MT",
+      "SPORT 1.6 5DR CVT",
+      "SPORT 1.6L",
+      "SPORT 1.6L 5MT",
+      "SPORT 1.6L 5SPD MAN",
+      "SPORT 1.6L 6SPD MAN",
+      "SPORT 1.6L AUTO",
+      "SPORT 1.6L PETROL",
+      "SPORT 1.6P/6MT",
+      "SPORT 1.6P/6MT/HA/5D",
+      "SPORT 1.6P/CVT",
+      "SPORT 1.6P/CVT/HA/5D",
+      "SPORT 1500",
+      "SPORT 1600",
+      "SPORT 5MT",
+      "SPORT 5MT 1.6L",
+      "SPORT 6MT",
+      "SPORT `",
+      "SPORT BELLOF",
+      "SPORT LTD",
+      "SPORT STYLE",
+      "SPORTS",
+      "SPORTZ",
+      "SPRT",
+      "SS",
+      "SS SPORT",
+      "SS STYLE",
+      "STYLE",
+      "STYLE SERRIES 2",
+      "SW",
+      "SWIFT AUTO FWD",
+      "SWT",
+      "SX-4",
+      "SX4",
+      "SZ4 AUTO",
+      "VVT",
+      "VVT SPORT",
+      "X  G",
+      "X5 LTD",
+      "XG",
+      "XG 5MT",
+      "XG AERO",
+      "XG DJE",
+      "XG LIMITED",
+      "XG LTD",
+      "XG-DJE",
+      "XL",
+      "XL 1.2",
+      "XL DJE",
+      "XL SAFETY PACK",
+      "XL SAFETY PACKAGE",
+      "XL SAFETY PKG",
+      "XL SAFTEY PACK",
+      "XR LIMITED",
+      "XS",
+      "XS  AERO",
+      "XS 1.5",
+      "XS AERO",
+      "XS LTD 1.5",
+      "XS-DJE",
+      "XS5 1.4P/4AT",
+      "XS5 1.4P/5MT",
+      "YELLOW AUTO EFI DOHC",
+      "ZC32S"
+    ]
+  },
+  {
+    "model": "SX4",
+    "count": 13796,
+    "submodels": [
+      "1.5",
+      "1.5 AUTO",
+      "1.5 G",
+      "1.5 HELLY HANSEN LTD",
+      "1.5F",
+      "1.5G",
+      "1.5L 4WD",
+      "1.6L S-CROSS",
+      "1500",
+      "1500 G",
+      "1500 LIMITED",
+      "2.0",
+      "2.0 I-AWD",
+      "2.0 S",
+      "2.0 XS",
+      "2.0S",
+      "2000",
+      "4WD",
+      "4X4",
+      "AWD",
+      "Base",
+      "CROSS",
+      "DBA-YA11S",
+      "G",
+      "GLX",
+      "GLX 2.0 2WD 5DR 6MT",
+      "GLX 2.0 2WD 5DR CVT",
+      "GLX 2.0 AWD 5DR CVT",
+      "GLX AUTO",
+      "GLXF 1.6 5DR",
+      "GLXF 1.6P/5MT/HA/5DR",
+      "GLXF 2.0 5DR",
+      "GLXF2 1.6 5DR",
+      "GLXF2 2.0 5DR",
+      "GLXF2 2.0 5DR LTD",
+      "GLXFA 2.0 5DR",
+      "GLXFA2 2.0 5DR",
+      "GLXFA2 2.0 5DR LTD",
+      "GLXFB 2.0 5DR",
+      "GLXFB2 2.0 5DR LTD",
+      "GLXFC 1.6P/7CVT/HA/5",
+      "GLXFCB 2.0 5DR",
+      "GLXFCB2 2.0 5DR LTD",
+      "GLXH 1.6 5DR",
+      "GLXH 1.6P/4WD/5MT/HA",
+      "GLXH 2.0 5DR",
+      "GLXH2 2.0 5DR",
+      "GLXH2 2.0 5DR LTD",
+      "GLXHA 2.0 5DR",
+      "GLXHA2 2.0 5DR",
+      "GLXHA2 2.0 5DR LTD",
+      "GLXHB 2.0 5DR",
+      "GLXHB2 2.0 5DR",
+      "GLXHC 1.6P/4WD/7CVT/",
+      "GLXHCB 2.0 5DR",
+      "GLXHCB2 2.0 5DR LTD",
+      "GLXS 1.6 5DR",
+      "GLXS2 2.0 4DR",
+      "GLXSA 2.0 4DR",
+      "GLXSA2 2.0 4DR",
+      "GLXSA2 2.0 4DR LTD",
+      "GLXSCB2 2.0 4DR LTD",
+      "H/H",
+      "HELLY HANSEN",
+      "LIMITED",
+      "LTD",
+      "LTD 1.6P/4WD/6AT",
+      "LTD 1.6P/6AT",
+      "LTD 2.0 2WD 5DR CVT",
+      "LTD 2.0 AWD 5DR CVT",
+      "LTD 2.0P6M/HA5D5S",
+      "LTD TURBO 1.4PT/6AT",
+      "LTDFC 1.6P/7CVT/HA/5",
+      "LTDHC 1.6P/4WD/7CVT/",
+      "PRESTIGE 1.4PT/6AT",
+      "R",
+      "RESTIGE 1.4PT/6AT",
+      "S 4WD",
+      "S CROSS",
+      "S-CR0SS",
+      "S-CROSS",
+      "S-CROSS 1.6",
+      "S-CROSS 1.6L",
+      "S.CROSS",
+      "SALOMON",
+      "SCROSS",
+      "SOLOMAN",
+      "SOLOMON",
+      "SPORT",
+      "SPORT B",
+      "SWIFT",
+      "SX-4",
+      "SX4",
+      "XG",
+      "XS SPORT"
+    ]
+  },
+  {
+    "model": "VITARA",
+    "count": 11225,
+    "submodels": [
+      "1.4 2WD 5DR 6AT 2",
+      "1.6",
+      "1.6 JLXHA AWD 5DR 6A",
+      "1.6 LTDA 2WD 5DR 6AT",
+      "2WD GL MANUAL",
+      "Base",
+      "GRAND",
+      "JLX HYBRID 2WD 1.4PT",
+      "JLX HYBRID 2WD 1.5P",
+      "JLX HYBRID AWD 1.4PT",
+      "JLXF 1.6P/5MT",
+      "JLXF 1.6P/5MT/SW/5DR",
+      "JLXFA 1.6P/6AT/SW/5D",
+      "JLXFAB 1.6P/6AT",
+      "JLXFB 1.6P/5MT",
+      "JLXFN 1.6P/5MT",
+      "JLXHA 1.6P/4WD/6AT",
+      "JLXHAB 1.6P/4WD/6AT",
+      "JX HYBRID 2WD 1.4PT",
+      "LTDFA 1.6P/6AT",
+      "LTDFA 1.6P/6AT/SW/5D",
+      "LTDH 1.6P/4WD/5MT/SW",
+      "LTDHA 1.6P/4WD/6AT",
+      "RT-S",
+      "RT-S LY",
+      "S ALL GRIP",
+      "S TURBO",
+      "SPORT 1.4P/6AT",
+      "TURBO",
+      "TURBO 1.4PT/4WD/6AT",
+      "TURBO 1.4PT/6AT",
+      "TURBO ALL GRIP",
+      "VJLX 1.6 3DR",
+      "VJLX 2.0 3DR",
+      "VJLXA 1.6 3DR",
+      "VJLXA 2.0",
+      "VJX 1.6 3DR",
+      "WJLX 1.6 5DR",
+      "WJLX V6 5DR",
+      "WJLX1 V6 5DR",
+      "WJLXA 1.6 5DR",
+      "WJLXA2 V6 5DR"
+    ]
+  },
+  {
+    "model": "IGNIS",
+    "count": 7541,
+    "submodels": [
+      "HV",
+      "1.2 HYBRID",
+      "1.2 PETROL HYBRID",
+      "1.25 PETROL HYBRID",
+      "1.2L PETROL HYBRID",
+      "1.3",
+      "Base",
+      "F LTD HYBRID",
+      "GL",
+      "GLX",
+      "GLX 1.2P/5MT",
+      "GLX 1.2P/CVT",
+      "GLX VVT-S 4GRIP",
+      "GLXC 1.2P/CVT",
+      "GLXCN 1.2P/CVT",
+      "HATCH 1.3 5DR",
+      "HATCH 1.5 3DR",
+      "HVMG",
+      "HYBIRD",
+      "HYBRID",
+      "HYBRID 4WD",
+      "HYBRID F LIMITED",
+      "HYBRID HEV",
+      "HYBRID MG",
+      "HYBRID MZ",
+      "LTD 1.2P/CVT",
+      "LTDC 1.2P/CVT",
+      "MF SERIES II",
+      "MX HYBRID",
+      "MZ HYBRID",
+      "SPORT"
+    ]
+  },
+  {
+    "model": "BALENO",
+    "count": 4172,
+    "submodels": [
+      "1.2 PETROL",
+      "1.2L PETROL",
+      "1L PETROL",
+      "Base",
+      "GL",
+      "GLX 1.4P/4AT",
+      "GLX 1.4P/5MT",
+      "GLX 1.6",
+      "GLXA 1.4P/4AT",
+      "LTDA 1.4P/4AT",
+      "RS 1.0PT/6AT",
+      "SE 1.4P/4AT",
+      "SEDAN GLXA 1.6 4DR",
+      "WAGON GLX 1.6 5DR",
+      "WAGON GLXA 1.6 5DR",
+      "WAGON GTX 1.8 5DR",
+      "WAGON GTXA 1.8 5DR",
+      "XG",
+      "XS"
+    ]
+  },
+  {
+    "model": "SPLASH",
+    "count": 2133,
+    "submodels": [
+      "1.2L",
+      "1.2L PETROL",
+      "5DOOR 1.3 DDIS",
+      "Base",
+      "GLX 1.2 5DR H/B",
+      "GLXA 1.2 5DR H/B",
+      "GLXAB 1.2 5DR H/B",
+      "GLXB 1.2 5DR H/B MT",
+      "LIMITED",
+      "LTDA 1.2 5DR H/B",
+      "LTDAB 1.2 5DR H/B",
+      "RUSH"
+    ]
+  },
+  {
+    "model": "ALTO",
+    "count": 1391,
+    "submodels": [
+      "660",
+      "Base",
+      "GF",
+      "GL",
+      "GL AUTOMATIC",
+      "HATCH .66 5DR",
+      "HATCH 0.6 5DR",
+      "HATCH 1.0 5DR",
+      "HATCH GL 1.0 5DR",
+      "HATCH GLA 1.0 5DR",
+      "HATCH GLX 1.0 5DR",
+      "HATCHA .66 5DR",
+      "LAPIN",
+      "MAN",
+      "N",
+      "RS",
+      "TURBO RS",
+      "WORKS",
+      "WORKS RS-Z",
+      "WORKS SPORTS LTD"
+    ]
+  },
+  {
+    "model": "S-CROSS",
+    "count": 1343,
+    "submodels": [
+      "Base",
+      "JLX 1.4 2WD 5DR 6AT",
+      "JLX 1.4 AWD 5DR 6AT",
+      "JLX 1.4PT/4WD/6AT",
+      "JLX 1.4PT/6AT",
+      "JLX HYBRID 2WD 1.4P",
+      "JLX HYBRID 2WD 1.4PM",
+      "JLX HYBRID AWD 1.4P",
+      "JLX HYBRID AWD 1.4PM",
+      "JLX2 1.4 2WD 5DR 6AT",
+      "JX 1.4 2WD 5DR 6AT",
+      "JX 1.4PT/6AT",
+      "JX2 1.4 2WD 5DR 6AT",
+      "SX-4",
+      "SX4"
+    ]
+  },
+  {
+    "model": "KIZASHI",
+    "count": 1264,
+    "submodels": [
+      "Base",
+      "GLX 2.4 4DR",
+      "GLXC 2.4 4DR",
+      "GLXCSPORT 2.4P/6CVT/",
+      "LTD 2.4 4DR",
+      "LTDC 2.4 4DR",
+      "LTDC SPORT 2.4P/6CVT",
+      "SPORT",
+      "SPTC 2.4 4DR",
+      "XL",
+      "XLS"
+    ]
+  },
+  {
+    "model": "ESCUDO",
+    "count": 1120,
+    "submodels": [
+      "16 VALVE",
+      "16-V",
+      "16V",
+      "2.0 4WD",
+      "2.0L",
+      "2.7",
+      "2.7 XS",
+      "2.7L-V6-4WD",
+      "2000",
+      "2400",
+      "2400 AUTO",
+      "2700",
+      "2700 V6",
+      "302 XS 4WD",
+      "ALL GRIP",
+      "ARENA",
+      "Base",
+      "GOLDWIN",
+      "GRAND",
+      "GRAND V6",
+      "HELLY HANSEN",
+      "LAND BREEZE",
+      "NOMADE",
+      "NOMADE V6 2.0",
+      "PROCEED LEVANTE V6",
+      "SALAMON",
+      "SALOMON",
+      "SALOMON 4WD",
+      "SALOMON LIMITED",
+      "SALOMON LTD 2.0L",
+      "SOLOMON",
+      "V6",
+      "V6  2.O",
+      "V6 2.0",
+      "V6 3.2",
+      "V6 SPORT",
+      "X ADVENTURE",
+      "X-90",
+      "X-ADVENTURE"
+    ]
+  },
+  {
+    "model": "AERIO",
+    "count": 1097,
+    "submodels": [
+      "1.5L",
+      "1.5X",
+      "1.8",
+      "1500",
+      "1800",
+      "4WD",
+      "4X4",
+      "`",
+      "AERIO",
+      "Base",
+      "LIANA",
+      "SAVINI",
+      "SPORT",
+      "SPORT 1.8",
+      "TYPE X"
+    ]
+  },
+  {
+    "model": "FRONX",
+    "count": 1079,
+    "submodels": [
+      "GLX 1.5PMH/6AT"
+    ]
+  },
+  {
+    "model": "LIANA",
+    "count": 823,
+    "submodels": [
+      "AERIO",
+      "Base",
+      "GLXHA 1.8 5DR",
+      "GLXHA2 1.6 5DR",
+      "GLXHA2 1.8 5DR",
+      "GLXS2 1.6 4DR",
+      "GLXSA 1.6",
+      "GLXSA 1.6 4DR",
+      "GLXSA 1.6 5DR",
+      "GLXSA 1.8 4DR",
+      "HATCH 1.8 5DR",
+      "HATCH GLX 1.6 5DR",
+      "VVT",
+      "VVT 1.8L"
+    ]
+  },
+  {
+    "model": "CELERIO",
+    "count": 665,
+    "submodels": [
+      "Base",
+      "GLX 1.0P/5MT/HA/5DR",
+      "GLXC 1.0P/CVT/HA/5DR"
+    ]
+  },
+  {
+    "model": "SOLIO",
+    "count": 616,
+    "submodels": [
+      "BANDIT",
+      "1.2 PETROL HYBRID",
+      "1.2L PETROL",
+      "1300",
+      "AUTO",
+      "BANDIT  HYBRID",
+      "BANDIT HV",
+      "BANDIT HYBRID",
+      "Base",
+      "BIANTE",
+      "G SPEC",
+      "HYBRID",
+      "IDLING STOP",
+      "R",
+      "R SOLIO",
+      "R1000",
+      "SOLIO",
+      "WAGON",
+      "WAGON 1.3",
+      "WAGON R",
+      "WAGON R 1.3",
+      "WAGON-R"
+    ]
+  },
+  {
+    "model": "GRAND VITARA",
+    "count": 390,
+    "submodels": [
+      "Base",
+      "DJLX 1.9D 5DR",
+      "DVJLX 1.9D 3DR",
+      "JB SPORT",
+      "SE",
+      "SZ5 DDIS",
+      "URBAN",
+      "VJLX 1.6 3DR",
+      "VJLX 2.0 3DR",
+      "VJLXA 2.0 3DR",
+      "WA 2WD 2.4 5DR AT",
+      "WA2WDN 2.4P/4AT/SW/5",
+      "WJLX 2.0 5DR",
+      "WJLX2 2.5 5DR",
+      "WJLXA 2.0 5DR",
+      "WLTDAB 2.4 5DR AT"
+    ]
+  },
+  {
+    "model": "CULTUS",
+    "count": 213,
+    "submodels": [
+      "1.3 GT-I",
+      "1.3 GTI",
+      "1.3 I",
+      "1.3I",
+      "Base",
+      "CONVERTIABLE",
+      "CONVERTIBLE",
+      "CRECENT",
+      "CRESANT",
+      "CRESCENT",
+      "CRESCENT  C SPECIAL",
+      "CRESCENT 1.8",
+      "CRESENT",
+      "GT",
+      "S-TOURING",
+      "SUZUKI SPORTS",
+      "WAGON"
+    ]
+  },
+  {
+    "model": "WAGON R+",
+    "count": 178,
+    "submodels": [
+      "WIDE",
+      "XL LIMITED WIDE.",
+      "1.0 5DR",
+      "1.2 5DR",
+      "1.3 SOLIO",
+      "Base",
+      "HYBRID",
+      "LIMITED",
+      "R",
+      "R+",
+      "RR 4WD TURBO 5SPD",
+      "RT",
+      "SOLIO",
+      "SOLIO 1.3",
+      "STINGRAY",
+      "WAGON .66 4DR",
+      "WAGON .66 5DR"
+    ]
+  },
+  {
+    "model": "LANDY",
+    "count": 140,
+    "submodels": [
+      "2L",
+      "Base",
+      "EVERY",
+      "HYBRID"
+    ]
+  },
+  {
+    "model": "JIMNY",
+    "count": 85,
+    "submodels": [
+      "1.3 3DR",
+      "140",
+      "Base",
+      "JX2 1.3 3DR 4WD MT",
+      "JXD 1.3P/4WD/5MT/SW",
+      "JXE 1.3P/4WD/5MT",
+      "LAND VENTURE",
+      "SIERRA",
+      "SIERRA 1.3P/4WD/5MT",
+      "SIERRA WILD WIND LTD",
+      "TURBO 650",
+      "WIDE"
+    ]
+  },
+  {
+    "model": "HUSTLER",
+    "count": 64,
+    "submodels": [
+      "Base",
+      "CVT",
+      "HYBRID"
+    ]
+  },
+  {
+    "model": "XBEE",
+    "count": 55,
+    "submodels": [
+      "1L PETROL HYBRID",
+      "Base",
+      "HYBRID",
+      "HYBRID MZ"
+    ]
+  },
+  {
+    "model": "CAPPUCCINO",
+    "count": 29,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "EVERY",
+    "count": 27,
+    "submodels": [
+      "Base",
+      "LANDY",
+      "VAN",
+      "WAGON"
+    ]
+  },
+  {
+    "model": "BANDIT",
+    "count": 17,
+    "submodels": [
+      "Base",
+      "HYBRID",
+      "SOLIO",
+      "SOLIO HYBRID"
+    ]
+  },
+  {
+    "model": "CERVO",
+    "count": 15,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "X90",
+    "count": 13,
+    "submodels": [
+      "Base",
+      "JLX 1.6 2DR"
+    ]
+  },
+  {
+    "model": "SAMURAI",
+    "count": 9,
+    "submodels": [
+      "Base",
+      "QJX 1.3 3DR",
+      "SJ413",
+      "VJX 1.3 3DR"
+    ]
+  },
+  {
+    "model": "CARRY",
+    "count": 8,
+    "submodels": [
+      "Base",
+      "VAN 1.0 5DR"
+    ]
+  },
+  {
+    "model": "R",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "WAGON",
+      "WAGON-R"
+    ]
+  },
+  {
+    "model": "SX",
+    "count": 7,
+    "submodels": [
+      "4",
+      "Base"
+    ]
+  },
+  {
+    "model": "CRESCENT",
+    "count": 6,
+    "submodels": [
+      "CULTUS"
+    ]
+  },
+  {
+    "model": "SIERRA",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "JIMMY",
+      "JIMNY 1300"
+    ]
+  },
+  {
+    "model": "FRONTE",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "COUPE GX",
+      "GX"
+    ]
+  },
+  {
+    "model": "MR WAGON",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SC100",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "CX-G",
+      "CXG",
+      "CXG COUPE"
+    ]
+  },
+  {
+    "model": "SPACIA",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "HYBRID"
+    ]
+  },
+  {
+    "model": "APV",
+    "count": 3,
+    "submodels": [
+      "VAN 1.6 5DR"
+    ]
+  },
+  {
+    "model": "E VITARA",
+    "count": 3,
+    "submodels": [
+      "JLXF 61KWH/EV/FG",
+      "JLXH 61KWH/EV/AWD/FG"
+    ]
+  },
+  {
+    "model": "SC",
+    "count": 3,
+    "submodels": [
+      "100",
+      "100 CX-G"
+    ]
+  },
+  {
+    "model": "SK410V",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SS10",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "CUSTOM"
+    ]
+  },
+  {
+    "model": "5580",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "COUPE",
+    "count": 1,
+    "submodels": [
+      "CUSTOM"
+    ]
+  },
+  {
+    "model": "CULTAS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "K",
+    "count": 1,
+    "submodels": [
+      "EI"
+    ]
+  },
+  {
+    "model": "KEI",
+    "count": 1,
+    "submodels": [
+      "WORKS"
+    ]
+  },
+  {
+    "model": "MIGHTY",
+    "count": 1,
+    "submodels": [
+      "BOY"
+    ]
+  },
+  {
+    "model": "PALETTE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "RS WORKS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SJ410",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SJ413JY",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SJ413V",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SK410",
+    "count": 1,
+    "submodels": [
+      "V"
+    ]
+  },
+  {
+    "model": "SKULOV",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SS80G",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

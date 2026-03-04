@@ -1,0 +1,9 @@
+[
+  {
+    "model": "SV1",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "model": "HAVAL H6",
+    "count": 3403,
+    "submodels": [
+      "GT LUX 2WD 2.0PT",
+      "GT ULTRA 4WD 2.0PT",
+      "GT ULTRA PHEV 4WD",
+      "LUX 2WD 2.0PT",
+      "LUX 2WD HYBRID 1.5P",
+      "PREMIUM 2WD 2.0PT",
+      "ULTRA 2WD 2.0PT",
+      "ULTRA 2WD HYBRID 1.5",
+      "ULTRA 4WD HYBRID 1.5",
+      "ULTRA PHEV 2WD PHEV",
+      "ULTRA PHEV 4WD PHEV"
+    ]
+  },
+  {
+    "model": "HAVAL JOLION",
+    "count": 2123,
+    "submodels": [
+      "JOLION LUX 2WD HEV",
+      "LUX 1.5PT/7AM",
+      "LUX 2WD HYBRID 1.5PH",
+      "PREMIUM 1.5PT",
+      "PREMIUM 1.5PT/7AM",
+      "PREMIUM 2WD HYBRID",
+      "ULTRA 1.5PT/7AM",
+      "ULTRA 2WD HYBRID 1.5"
+    ]
+  },
+  {
+    "model": "TANK",
+    "count": 1055,
+    "submodels": [
+      "300 LUX DIESEL 2.4DT",
+      "300 LUX HYBRID 2.0PH",
+      "300 LUX PETROL 2.0P",
+      "300 ULTRA DIESEL 2.4",
+      "300 ULTRA HYBRID 2.0",
+      "300 ULTRA PETROL 2.0",
+      "300 ULTRA PHEV PHEV",
+      "500 LUX HYBRID 2.0PH",
+      "500 ULTRA HYBRID 2.0",
+      "500 ULTRA PHEV PHEV"
+    ]
+  },
+  {
+    "model": "ORA",
+    "count": 540,
+    "submodels": [
+      "25 ES11 ORA LUX E 58",
+      "GT 63 EV EV/FD",
+      "ORA 58 GT EV 4X2 EV",
+      "PREMIUM 48 48KWH/EV",
+      "PREMIUM 63 EV 63KWH",
+      "ULTRA 63 EV 63KWH/EV"
+    ]
+  },
+  {
+    "model": "H6",
+    "count": 130,
+    "submodels": [
+      "GT LUX 2WD 2.0PT",
+      "GT ULTRA 4WD 2.0PT",
+      "LUX 2WD HYBRID 1.5PH",
+      "ULTRA 2WD HYBRID 1.5"
+    ]
+  },
+  {
+    "model": "JOLION",
+    "count": 42,
+    "submodels": [
+      "LUX 2WD HYBRID 1.5PH",
+      "PREMIUM 1.5PT",
+      "PREMIUM 1.5PT/7AM"
+    ]
+  },
+  {
+    "model": "CANNON",
+    "count": 1,
+    "submodels": [
+      "LUXURY 4X2 2.0DT"
+    ]
+  }
+]

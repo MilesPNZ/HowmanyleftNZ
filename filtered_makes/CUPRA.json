@@ -1,0 +1,61 @@
+[
+  {
+    "model": "FORMENTOR",
+    "count": 869,
+    "submodels": [
+      "Base",
+      "PHEV/6AM",
+      "V 1.5P/7AM",
+      "V 1.5PMH/7AM",
+      "V 4DRIVE 2.0P/4WD",
+      "V E-HYBRID PHEV/6AM",
+      "VZ 2.0P/4WD/7AM"
+    ]
+  },
+  {
+    "model": "LEON",
+    "count": 428,
+    "submodels": [
+      "V 1.5PMH/7AM",
+      "V E-HYBRID ST PHEV",
+      "V SPORTSTOURER 1.5P",
+      "V SPORTSTOURER 1.5PM",
+      "VZ 2.0P/7AM",
+      "VZ SPORTSTOURER 2.0P",
+      "VZX"
+    ]
+  },
+  {
+    "model": "TERRAMAR",
+    "count": 186,
+    "submodels": [
+      "V 1.5PMH/7AM",
+      "V 4DRIVE 2.0P/AWD",
+      "V PHEV PHEV/6AM",
+      "VZ 2.0P/AWD/7AM"
+    ]
+  },
+  {
+    "model": "BORN",
+    "count": 159,
+    "submodels": [
+      "V+ 77KWH/EV/AT"
+    ]
+  },
+  {
+    "model": "ATECA",
+    "count": 122,
+    "submodels": [
+      "2.0P/4WD/7AM",
+      "VZ 2.0P/4WD/7AM"
+    ]
+  },
+  {
+    "model": "TAVASCAN",
+    "count": 14,
+    "submodels": [
+      "V 82KWH/EV/AT",
+      "VZ 82KWH/EV/4WD/AT"
+    ]
+  }
+]

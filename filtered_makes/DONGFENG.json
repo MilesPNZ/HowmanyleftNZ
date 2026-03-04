@@ -1,0 +1,24 @@
+[
+  {
+    "model": "BOX",
+    "count": 73,
+    "submodels": [
+      "44KWH/EV/AT"
+    ]
+  },
+  {
+    "model": "VIGO",
+    "count": 29,
+    "submodels": [
+      "52KWH/EV/AT"
+    ]
+  },
+  {
+    "model": "007",
+    "count": 11,
+    "submodels": [
+      "LONG RANGE 70KWH/EV",
+      "PERFORMANCE 70KWH/EV"
+    ]
+  }
+]

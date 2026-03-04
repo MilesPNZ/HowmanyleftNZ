@@ -1,0 +1,654 @@
+[
+  {
+    "model": "F430",
+    "count": 90,
+    "submodels": [
+      "Base",
+      "CHALLENGE",
+      "CHALLENGE GT3 SCUD",
+      "F1",
+      "F1 SPIDER",
+      "FI",
+      "FI SPIDER",
+      "SCUDERIA",
+      "SCUDERIA SPIDER 16M",
+      "SPIDER",
+      "SPIDER F1"
+    ]
+  },
+  {
+    "model": "488",
+    "count": 61,
+    "submodels": [
+      "F142 BBE GTB COUPE",
+      "GTB",
+      "GTB 3.9P/7AM/SP/2DR",
+      "GTB S-A",
+      "SPIDER 3.9P/7AM"
+    ]
+  },
+  {
+    "model": "812",
+    "count": 59,
+    "submodels": [
+      "COMPETIZIONE 6.5P",
+      "COMPETIZIONE A 6.5P",
+      "SUPERFAST",
+      "SUPERFAST 6.5P/7AM",
+      "SUPERFAST GTS",
+      "SUPERFAST GTS 6.5P"
+    ]
+  },
+  {
+    "model": "458",
+    "count": 55,
+    "submodels": [
+      "Base",
+      "ITALIA",
+      "ITALIA 4.5L",
+      "ITALIA DCT S-A",
+      "ITALIA DCTS-A",
+      "ITALIA DET  S-A",
+      "SPECIALE",
+      "SPECIALE 4.5P/7AM/SP",
+      "SPECIALE A 4.5P/7AM",
+      "SPECIALE SPIDER",
+      "SPIDER"
+    ]
+  },
+  {
+    "model": "CALIFORNIA",
+    "count": 41,
+    "submodels": [
+      "Base",
+      "F149",
+      "T",
+      "T F149"
+    ]
+  },
+  {
+    "model": "599",
+    "count": 40,
+    "submodels": [
+      "Base",
+      "F1",
+      "F1 HGTE",
+      "GTB",
+      "GTB FIORANO F1",
+      "GTO"
+    ]
+  },
+  {
+    "model": "308",
+    "count": 32,
+    "submodels": [
+      "Base",
+      "GT4",
+      "GT4 DINO",
+      "GTB",
+      "GTS",
+      "GTS I",
+      "GTS QUATTROVALVOLE",
+      "GTS QV",
+      "GTSI",
+      "GTSI QV",
+      "GTSIQV"
+    ]
+  },
+  {
+    "model": "F8 TRIBUTO",
+    "count": 32,
+    "submodels": [
+      "3.9PT/7AM",
+      "Base",
+      "S-A",
+      "SPIDER 3.9PT/7AM"
+    ]
+  },
+  {
+    "model": "458 ITALIA",
+    "count": 31,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "DCT S-A",
+      "F142"
+    ]
+  },
+  {
+    "model": "296",
+    "count": 30,
+    "submodels": [
+      "GTB PHEV/8AT",
+      "GTS PHEV/8AT F163BC"
+    ]
+  },
+  {
+    "model": "F12",
+    "count": 29,
+    "submodels": [
+      "BERLINETTA",
+      "TDF",
+      "TDF 6.3P/7AM"
+    ]
+  },
+  {
+    "model": "488 PISTA",
+    "count": 26,
+    "submodels": [
+      "3.9PT/7AM",
+      "Base",
+      "PILOTI 3.9PT/7AM",
+      "SPIDER 3.9PT/7AM"
+    ]
+  },
+  {
+    "model": "328",
+    "count": 24,
+    "submodels": [
+      "Base",
+      "GTB",
+      "GTS",
+      "GTS COUPE"
+    ]
+  },
+  {
+    "model": "348",
+    "count": 22,
+    "submodels": [
+      "348-TB",
+      "Base",
+      "GTB",
+      "SPIDER",
+      "SPIDER F119AS5.3",
+      "TB",
+      "TS"
+    ]
+  },
+  {
+    "model": "PORTOFINO",
+    "count": 21,
+    "submodels": [
+      "3.9PT/7AM",
+      "Base",
+      "BCB PORTOFINO M 3.9P",
+      "F164"
+    ]
+  },
+  {
+    "model": "360 SPIDER",
+    "count": 19,
+    "submodels": [
+      "Base",
+      "F1"
+    ]
+  },
+  {
+    "model": "CALIFORNIA T",
+    "count": 19,
+    "submodels": [
+      "3.9P/7AM/CV/2DR/4S",
+      "Base"
+    ]
+  },
+  {
+    "model": "ROMA",
+    "count": 19,
+    "submodels": [
+      "3.9PT/8AT",
+      "Base",
+      "ROMA 3.9PT/8AM F154B",
+      "ROMA SPIDER 3.9PT F1"
+    ]
+  },
+  {
+    "model": "360",
+    "count": 17,
+    "submodels": [
+      "Base",
+      "CHALLENGE STRADALE",
+      "F1 SPIDER",
+      "MODENA",
+      "MODENA F1",
+      "MODENA SPIDER",
+      "SPIDER",
+      "SPIDER F1"
+    ]
+  },
+  {
+    "model": "12CILINDRI",
+    "count": 16,
+    "submodels": [
+      "6.5P/8AM",
+      "SPIDER 6.5P/8AM"
+    ]
+  },
+  {
+    "model": "365",
+    "count": 16,
+    "submodels": [
+      "Base",
+      "GT4",
+      "GT4 2+2",
+      "GT4 BB",
+      "GT4BB",
+      "GTB/4",
+      "GTB/4  DAYTONA",
+      "GTB4",
+      "GTC4",
+      "REPLICA GTO",
+      "SB GTB4"
+    ]
+  },
+  {
+    "model": "DINO",
+    "count": 16,
+    "submodels": [
+      "246 GT",
+      "246 GTS",
+      "246GT",
+      "308 GT",
+      "308 GT4",
+      "308 GT4 LEMANS",
+      "308GT4",
+      "Base"
+    ]
+  },
+  {
+    "model": "550",
+    "count": 14,
+    "submodels": [
+      "BARCHETTA",
+      "Base",
+      "F MARANELLO",
+      "MARANELL",
+      "MARANELLO",
+      "MARENELLO"
+    ]
+  },
+  {
+    "model": "SF90",
+    "count": 14,
+    "submodels": [
+      "HGA SPIDER PHEV/4WD",
+      "SPIDER XX PHEV/4WD",
+      "STRADALE XX PHEV/4WD"
+    ]
+  },
+  {
+    "model": "TESTAROSSA",
+    "count": 14,
+    "submodels": [
+      "Base",
+      "F512M"
+    ]
+  },
+  {
+    "model": "355",
+    "count": 12,
+    "submodels": [
+      "BELINETTA",
+      "BERLINETTA",
+      "F1",
+      "F1 BERLINETTA",
+      "F1 SPIDER",
+      "GTB",
+      "GTS",
+      "SPIDER",
+      "SPYDER"
+    ]
+  },
+  {
+    "model": "SF90 STRADALE",
+    "count": 12,
+    "submodels": [
+      "Base",
+      "STRADALE PHEV/4WD"
+    ]
+  },
+  {
+    "model": "360 MODENA F1",
+    "count": 11,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "612",
+    "count": 11,
+    "submodels": [
+      "SCAGLIETTI",
+      "SCAGLIETTI F1"
+    ]
+  },
+  {
+    "model": "F355",
+    "count": 11,
+    "submodels": [
+      "B",
+      "Base",
+      "BERLINETTA",
+      "GTS",
+      "SPIDER"
+    ]
+  },
+  {
+    "model": "MONDIAL",
+    "count": 11,
+    "submodels": [
+      "308",
+      "Base",
+      "CABRIOLET",
+      "QUATTROVALVOLE",
+      "QUATTROVAVOLE",
+      "T"
+    ]
+  },
+  {
+    "model": "GTC4 LUSSO",
+    "count": 10,
+    "submodels": [
+      "T V8",
+      "6.3P/4WD/7AM",
+      "V12"
+    ]
+  },
+  {
+    "model": "456",
+    "count": 8,
+    "submodels": [
+      "Base",
+      "GT",
+      "GTA",
+      "M-GT"
+    ]
+  },
+  {
+    "model": "FF",
+    "count": 8,
+    "submodels": [
+      "Base",
+      "SMT"
+    ]
+  },
+  {
+    "model": "360 MODENA",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "F1"
+    ]
+  },
+  {
+    "model": "430",
+    "count": 7,
+    "submodels": [
+      "F1 SPIDER",
+      "F1 SPYDER",
+      "Base",
+      "SCUDERIA"
+    ]
+  },
+  {
+    "model": "512",
+    "count": 7,
+    "submodels": [
+      "Base",
+      "BB",
+      "F512M",
+      "M",
+      "TR"
+    ]
+  },
+  {
+    "model": "400",
+    "count": 5,
+    "submodels": [
+      "GT",
+      "I",
+      "I GT"
+    ]
+  },
+  {
+    "model": "456 GT",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "GT"
+    ]
+  },
+  {
+    "model": "575M MARANELLO",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "COUPE"
+    ]
+  },
+  {
+    "model": "550 MARANELLO",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "575M MARANELLO F1",
+    "count": 4,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DAYTONA",
+    "count": 4,
+    "submodels": [
+      "6.5P/7AM"
+    ]
+  },
+  {
+    "model": "GTC4 LUSSO T",
+    "count": 4,
+    "submodels": [
+      "3.9PT/7AM"
+    ]
+  },
+  {
+    "model": "275",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "GTB",
+      "GTB/4A"
+    ]
+  },
+  {
+    "model": "GTC330",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LAFERRARI",
+    "count": 3,
+    "submodels": [
+      "6.3PH/7AM/SP/2DR/2S",
+      "F150"
+    ]
+  },
+  {
+    "model": "SUPERAMERICA",
+    "count": 3,
+    "submodels": [
+      "F1"
+    ]
+  },
+  {
+    "model": "166",
+    "count": 2,
+    "submodels": [
+      "COUPE",
+      "MM/53 S2 SCAGLIETTI"
+    ]
+  },
+  {
+    "model": "400 I",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "GT"
+    ]
+  },
+  {
+    "model": "456GTA",
+    "count": 2,
+    "submodels": [
+      "456GTA",
+      "Base"
+    ]
+  },
+  {
+    "model": "575M MARANELLO MAN",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BERLINETTA",
+    "count": 2,
+    "submodels": [
+      "F1 355",
+      "V12"
+    ]
+  },
+  {
+    "model": "F40",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "ROSSO CORSA"
+    ]
+  },
+  {
+    "model": "MONZA",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SP2"
+    ]
+  },
+  {
+    "model": "212",
+    "count": 1,
+    "submodels": [
+      "INTER"
+    ]
+  },
+  {
+    "model": "246GT",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "250",
+    "count": 1,
+    "submodels": [
+      "GT EUROPA"
+    ]
+  },
+  {
+    "model": "328 GTS",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "412",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "512 TR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "AMALFI",
+    "count": 1,
+    "submodels": [
+      "3.9PT/8AM"
+    ]
+  },
+  {
+    "model": "F 355",
+    "count": 1,
+    "submodels": [
+      "BERLINETTA"
+    ]
+  },
+  {
+    "model": "F12 BERLINETTA",
+    "count": 1,
+    "submodels": [
+      "V12"
+    ]
+  },
+  {
+    "model": "F12TDF",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "F355BERLINETTA",
+    "count": 1,
+    "submodels": [
+      "."
+    ]
+  },
+  {
+    "model": "F355SP",
+    "count": 1,
+    "submodels": [
+      "."
+    ]
+  },
+  {
+    "model": "F8",
+    "count": 1,
+    "submodels": [
+      "SPIDER"
+    ]
+  },
+  {
+    "model": "GT330",
+    "count": 1,
+    "submodels": [
+      "2+2"
+    ]
+  },
+  {
+    "model": "GTS1",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "PUROSANGUE",
+    "count": 1,
+    "submodels": [
+      "SUV F175"
+    ]
+  }
+]

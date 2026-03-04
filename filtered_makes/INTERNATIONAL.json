@@ -1,0 +1,37 @@
+[
+  {
+    "model": "B-100",
+    "count": 1,
+    "submodels": [
+      "TRAVELALL"
+    ]
+  },
+  {
+    "model": "BUGGY",
+    "count": 1,
+    "submodels": [
+      "AUTO"
+    ]
+  },
+  {
+    "model": "C",
+    "count": 1,
+    "submodels": [
+      "1"
+    ]
+  },
+  {
+    "model": "D2",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TRAVELALL",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

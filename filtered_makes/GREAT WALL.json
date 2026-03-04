@@ -1,0 +1,31 @@
+[
+  {
+    "model": "H6-SERIES",
+    "count": 2,
+    "submodels": [
+      "1.5P/6MT/SW/4DR/5S",
+      "2.0D/6MT/SW/4DR/5S"
+    ]
+  },
+  {
+    "model": "X200",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "H6",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "X240",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

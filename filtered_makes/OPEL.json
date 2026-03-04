@@ -1,0 +1,264 @@
+[
+  {
+    "model": "MOKKA",
+    "count": 335,
+    "submodels": [
+      "Base",
+      "EDITION 1.2PT",
+      "SRI 1.2PT/8AT/SV",
+      "SRI 50KWH/EV/AT"
+    ]
+  },
+  {
+    "model": "ASTRA",
+    "count": 322,
+    "submodels": [
+      "1.4 5DR HA",
+      "1.4 TURBO",
+      "1.4AT TURBO",
+      "1.8",
+      "1.8 16V",
+      "1.8 16V CD",
+      "1.8 CD",
+      "1.8-16VCD",
+      "1.8_16V",
+      "1.8CD",
+      "160I E",
+      "2.0",
+      "2.0 16V",
+      "2.0 I",
+      "2.0 TURBO",
+      "2.0I",
+      "2.2",
+      "2.2 16V",
+      "2.2 BERTONE",
+      "2000 EDITION",
+      "Base",
+      "BERTONE",
+      "BERTONE CABRIOLET",
+      "CABRIOLET",
+      "CD",
+      "COUPE",
+      "COUPE 2.2",
+      "G COUPE",
+      "GSE PHEV/8AT/HA/5DR",
+      "GTC",
+      "GTC 1.4",
+      "GTC TURBO",
+      "H",
+      "LS",
+      "RS",
+      "SPORT",
+      "SPORT TURBO",
+      "SRI 1.2PT/8AT/HA",
+      "TURBO",
+      "TURBO SPORT TOURER",
+      "VAUXHALL",
+      "WAGON"
+    ]
+  },
+  {
+    "model": "CORSA",
+    "count": 135,
+    "submodels": [
+      "1.4",
+      "5DR 1.4 A/T",
+      "Base",
+      "SPORT",
+      "SRI 1.2PT/8AT/HA",
+      "SRI 50KWH/EV/AT"
+    ]
+  },
+  {
+    "model": "GRANDLAND",
+    "count": 62,
+    "submodels": [
+      "MHEV 1.2PMHT/6AT/SV",
+      "SRI 1.2PT/8AT/SV",
+      "SRI PHEV/8AT/SV/5DR"
+    ]
+  },
+  {
+    "model": "VITA",
+    "count": 23,
+    "submodels": [
+      "1.4",
+      "1.4 16V",
+      "104 GL",
+      "Base",
+      "GLS",
+      "SWING"
+    ]
+  },
+  {
+    "model": "OMEGA",
+    "count": 21,
+    "submodels": [
+      "2.5 V6",
+      "2.5 V6 CD",
+      "3000",
+      "3000 24V",
+      "Base",
+      "GSI",
+      "MV6"
+    ]
+  },
+  {
+    "model": "VECTRA",
+    "count": 18,
+    "submodels": [
+      "2.0",
+      "2.0I",
+      "2.0I CD",
+      "2.0L SEDAN 5SPD",
+      "2.2",
+      "3.2 V6 WAGON",
+      "Base",
+      "GTS",
+      "V6"
+    ]
+  },
+  {
+    "model": "ZAFIRA",
+    "count": 13,
+    "submodels": [
+      "1.8 16V",
+      "1.8-16V",
+      "Base",
+      "CDX",
+      "TOURER"
+    ]
+  },
+  {
+    "model": "CALIBRA",
+    "count": 11,
+    "submodels": [
+      "16V",
+      "20I",
+      "Base"
+    ]
+  },
+  {
+    "model": "INSIGNIA",
+    "count": 6,
+    "submodels": [
+      "2.0 AT",
+      "2.0L AT ABS",
+      "Base",
+      "OPC"
+    ]
+  },
+  {
+    "model": "SENATOR",
+    "count": 4,
+    "submodels": [
+      "3.0I",
+      "Base",
+      "CD"
+    ]
+  },
+  {
+    "model": "GT",
+    "count": 3,
+    "submodels": [
+      "1900",
+      "Base"
+    ]
+  },
+  {
+    "model": "KADETT",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "GSI",
+      "REPLICA GT/E"
+    ]
+  },
+  {
+    "model": "MANTA",
+    "count": 3,
+    "submodels": [
+      "1900 SR BERLINETTA",
+      "Base",
+      "GT/E EXECLUSIVE"
+    ]
+  },
+  {
+    "model": "MONZA",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "GSE"
+    ]
+  },
+  {
+    "model": "SIGNUM",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SPEEDSTER",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "TIGRA",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CALIBRA 16V",
+    "count": 1,
+    "submodels": [
+      "2.0L L/BACK 5SP"
+    ]
+  },
+  {
+    "model": "COMBO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "KAPITAN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MANTA GSI",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MERIVA",
+    "count": 1,
+    "submodels": [
+      "1.6"
+    ]
+  },
+  {
+    "model": "REKORD",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ROADSTER",
+    "count": 1,
+    "submodels": [
+      "6"
+    ]
+  }
+]

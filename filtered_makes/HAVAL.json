@@ -1,0 +1,50 @@
+[
+  {
+    "model": "H6",
+    "count": 2559,
+    "submodels": [
+      "4WD",
+      "Base",
+      "GT",
+      "GT 4WD",
+      "GT LUX 2WD 2.0PT",
+      "GT ULTRA 4WD 2.0PT",
+      "HEV",
+      "LUX 2.0PT/6AT",
+      "LUX 2WD 2.0PT",
+      "LUX 2WD HYBRID 1.5PH",
+      "PREMIUM 2.0PT/6AT",
+      "PREMIUM 2WD 2.0PT",
+      "ULTRA 2WD 2.0PT",
+      "ULTRA 2WD HYBRID 1.5",
+      "ULTRA 4WD 2.0PT/4WD"
+    ]
+  },
+  {
+    "model": "H2",
+    "count": 1788,
+    "submodels": [
+      "1.5T",
+      "Base",
+      "LUX 1.5PT/6AT",
+      "LUX 2WD",
+      "LUXURY 1.5PT/6AT",
+      "PREMIUM 1.5PT",
+      "PREMIUM 1.5PT/6AT"
+    ]
+  },
+  {
+    "model": "JOLION",
+    "count": 1367,
+    "submodels": [
+      "Base",
+      "LUX 1.5PT/7AM",
+      "LUX 2WD HYBRID 1.5PH",
+      "PREMIUM 1.5PT",
+      "ULTRA",
+      "ULTRA 1.5PT/7AM",
+      "ULTRA 2WD HYBRID 1.5",
+      "ULTRA HYBRID"
+    ]
+  }
+]

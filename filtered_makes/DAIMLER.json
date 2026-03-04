@@ -1,0 +1,407 @@
+[
+  {
+    "model": "SOVEREIGN",
+    "count": 69,
+    "submodels": [
+      "3.6",
+      "4.0",
+      "4.0 LWB",
+      "4.2",
+      "4.2 LWB",
+      "420",
+      "Base",
+      "COUPE",
+      "SERIES 1   4.2",
+      "SIX"
+    ]
+  },
+  {
+    "model": "V8",
+    "count": 59,
+    "submodels": [
+      "2.5",
+      "2.5 SALOON",
+      "25",
+      "250",
+      "250 SALOON",
+      "4.0 LWB",
+      "AUTOMATIC",
+      "Base",
+      "MK II",
+      "MK11",
+      "MK2",
+      "MKII",
+      "SALOON",
+      "SUPER",
+      "V8 250"
+    ]
+  },
+  {
+    "model": "DOUBLE-SIX",
+    "count": 32,
+    "submodels": [
+      "A",
+      "AUTO",
+      "Base",
+      "COUPE",
+      "INSIGNIA",
+      "V12",
+      "VANDEN PLAS"
+    ]
+  },
+  {
+    "model": "SP250",
+    "count": 21,
+    "submodels": [
+      "Base",
+      "DART",
+      "SPORTS"
+    ]
+  },
+  {
+    "model": "DOUBLE 6",
+    "count": 20,
+    "submodels": [
+      "6.0",
+      "Base",
+      "DOUBLE SIX",
+      "V12",
+      "V12 X300",
+      "VANDEN PLAS",
+      "XJ12"
+    ]
+  },
+  {
+    "model": "2.5",
+    "count": 17,
+    "submodels": [
+      "Base",
+      "L",
+      "MARK II",
+      "SALOON",
+      "V8"
+    ]
+  },
+  {
+    "model": "CONQUEST",
+    "count": 15,
+    "submodels": [
+      "Base",
+      "DJ 250",
+      "DJ250"
+    ]
+  },
+  {
+    "model": "4.0 AUTO",
+    "count": 14,
+    "submodels": [
+      "A",
+      "Base",
+      "LWB"
+    ]
+  },
+  {
+    "model": "SIX",
+    "count": 12,
+    "submodels": [
+      "4.0",
+      "4.0 LWB",
+      "4.0 X300",
+      "Base",
+      "MAJESTIC 4.0LT LWB"
+    ]
+  },
+  {
+    "model": "CONSORT",
+    "count": 9,
+    "submodels": [
+      "Base",
+      "DB18"
+    ]
+  },
+  {
+    "model": "DART",
+    "count": 9,
+    "submodels": [
+      "Base",
+      "SP250"
+    ]
+  },
+  {
+    "model": "MAJESTIC",
+    "count": 9,
+    "submodels": [
+      "4.0",
+      "4.0 L AUTO",
+      "4.0L V8",
+      "6.0 L AUTO",
+      "Base"
+    ]
+  },
+  {
+    "model": "SUPER V8",
+    "count": 9,
+    "submodels": [
+      "Base",
+      "SUPER",
+      "V8",
+      "V8 4.0",
+      "V8 4.0 LWB"
+    ]
+  },
+  {
+    "model": "CENTURY",
+    "count": 8,
+    "submodels": [
+      "Base",
+      "COUP",
+      "DJ260",
+      "MK 2"
+    ]
+  },
+  {
+    "model": "LIMOUSINE",
+    "count": 8,
+    "submodels": [
+      "Base",
+      "DS420",
+      "HEARSE",
+      "LQ3-20",
+      "V 4.5"
+    ]
+  },
+  {
+    "model": "DB18",
+    "count": 7,
+    "submodels": [
+      "EMPRESS SALOON",
+      "Base",
+      "CONSORT",
+      "COUPE",
+      "SPORTS SALOON"
+    ]
+  },
+  {
+    "model": "SUPER EIGHT",
+    "count": 7,
+    "submodels": [
+      "4.0 L AUTO",
+      "Base"
+    ]
+  },
+  {
+    "model": "XJ6",
+    "count": 7,
+    "submodels": [
+      "4.0",
+      "Base"
+    ]
+  },
+  {
+    "model": "3.6A",
+    "count": 5,
+    "submodels": [
+      "AUTO",
+      "Base"
+    ]
+  },
+  {
+    "model": "SUPER 8",
+    "count": 4,
+    "submodels": [
+      "4.2",
+      "Base"
+    ]
+  },
+  {
+    "model": "XJ40",
+    "count": 4,
+    "submodels": [
+      "3.6 AUTO",
+      "Base"
+    ]
+  },
+  {
+    "model": "250",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "3.6 AUTO",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "CENTURY II",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ONE O FOUR",
+    "count": 2,
+    "submodels": [
+      "DF310",
+      "SPORTSMAN"
+    ]
+  },
+  {
+    "model": "SEDAN",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "2.5 V8",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "4.2 AUTO",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "4.2 SOV",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "BENZ",
+    "count": 1,
+    "submodels": [
+      "180"
+    ]
+  },
+  {
+    "model": "CENTENARY",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DE36",
+    "count": 1,
+    "submodels": [
+      "DROPHEAD COUPE"
+    ]
+  },
+  {
+    "model": "DOUBLE SIX",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DS 420 LIMOUSINE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "DS420",
+    "count": 1,
+    "submodels": [
+      "VANDEN PLAS"
+    ]
+  },
+  {
+    "model": "FERRET",
+    "count": 1,
+    "submodels": [
+      "MK1"
+    ]
+  },
+  {
+    "model": "LIGHT 15",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LIMO 400",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MK 2",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MKII",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "REGENCY",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "S2 DOUBLE SIX",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SOVEREIGN LIMOUSINE",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SPECIAL",
+    "count": 1,
+    "submodels": [
+      "2.5 SPORT"
+    ]
+  },
+  {
+    "model": "V8 250",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "V8-250",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "V8250",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "model": "VOGUE",
+    "count": 20,
+    "submodels": [
+      "Base",
+      "MKV",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "GAZELLE",
+    "count": 13,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "ROADSTER",
+    "count": 9,
+    "submodels": [
+      "9 HP",
+      "Base",
+      "JUNIOR",
+      "NINE R.SERIES"
+    ]
+  },
+  {
+    "model": "HUNTER",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "S",
+      "SALOON"
+    ]
+  },
+  {
+    "model": "JUNIOR",
+    "count": 5,
+    "submodels": [
+      "8",
+      "Base",
+      "PORLOCK SPORTS"
+    ]
+  },
+  {
+    "model": "SM",
+    "count": 5,
+    "submodels": [
+      "1500 SALOON",
+      "CONVERTIBLE",
+      "HUNTER",
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "BANTAM",
+    "count": 4,
+    "submodels": [
+      "9",
+      "Base",
+      "SPECIAL"
+    ]
+  },
+  {
+    "model": "LE MANS",
+    "count": 4,
+    "submodels": [
+      "9",
+      "Base"
+    ]
+  },
+  {
+    "model": "SPORT",
+    "count": 3,
+    "submodels": [
+      "9HP",
+      "Base",
+      "C87"
+    ]
+  },
+  {
+    "model": "CHAMOIS",
+    "count": 1,
+    "submodels": [
+      "SPORT"
+    ]
+  }
+]

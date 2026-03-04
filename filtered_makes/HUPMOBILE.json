@@ -1,0 +1,72 @@
+[
+  {
+    "model": "R",
+    "count": 9,
+    "submodels": [
+      "14",
+      "Base",
+      "TOURER 12R"
+    ]
+  },
+  {
+    "model": "20",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "RUNABOUT",
+      "SERIES D"
+    ]
+  },
+  {
+    "model": "SIX",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "E822",
+      "SKYLARK"
+    ]
+  },
+  {
+    "model": "MODEL A",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "CENTURY 6"
+    ]
+  },
+  {
+    "model": "E1",
+    "count": 1,
+    "submodels": [
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "EIGHT",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "HA.32",
+    "count": 1,
+    "submodels": [
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "HUAMOBLI MOD",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "MODEL K",
+    "count": 1,
+    "submodels": [
+      "TOURER"
+    ]
+  }
+]

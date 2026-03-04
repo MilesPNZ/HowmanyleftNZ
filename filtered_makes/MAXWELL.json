@@ -1,0 +1,25 @@
+[
+  {
+    "model": "25",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "ROADSTER",
+      "TOWN CAR"
+    ]
+  },
+  {
+    "model": "1922",
+    "count": 1,
+    "submodels": [
+      "25C TOURER"
+    ]
+  },
+  {
+    "model": "FIFTY-SIX",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

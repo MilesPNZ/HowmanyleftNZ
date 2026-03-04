@@ -1,0 +1,162 @@
+[
+  {
+    "model": "SUPER",
+    "count": 22,
+    "submodels": [
+      "6",
+      "6 MODEL O",
+      "8",
+      "Base",
+      "BROUGHAM",
+      "COUPE",
+      "EIGHT",
+      "GREAT EIGHT",
+      "SIX",
+      "SIX ROADSTER",
+      "SIX SEDAN",
+      "SUPER SIX",
+      "SUPERSIX",
+      "TERRAPLANE",
+      "WASP"
+    ]
+  },
+  {
+    "model": "TERRAPLANE",
+    "count": 14,
+    "submodels": [
+      "71 DELUXE 6",
+      "Base",
+      "DELUXE-SIX MODEL K"
+    ]
+  },
+  {
+    "model": "HORNET",
+    "count": 5,
+    "submodels": [
+      "Base",
+      "TWIN H POWER"
+    ]
+  },
+  {
+    "model": "COMMODORE",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "EIGHT",
+      "HORNET"
+    ]
+  },
+  {
+    "model": "ESSEX",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "SUPER 6 COUPE",
+      "SUPER SIX SALOON"
+    ]
+  },
+  {
+    "model": "TOURER",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "SUPER 6 ROADSTER",
+      "TERRAPLANE"
+    ]
+  },
+  {
+    "model": "112",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "COUPE"
+    ]
+  },
+  {
+    "model": "8",
+    "count": 2,
+    "submodels": [
+      "DELUXE",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "CLUB",
+    "count": 2,
+    "submodels": [
+      "8",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "STRAIGHT EIGHT",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "DELUXE SEDAN"
+    ]
+  },
+  {
+    "model": "1929",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "74",
+    "count": 1,
+    "submodels": [
+      "DELUXE SEDAN"
+    ]
+  },
+  {
+    "model": "GENTLEMANS ROADSTER",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GREAT 8",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "GT8",
+    "count": 1,
+    "submodels": [
+      "COUPE"
+    ]
+  },
+  {
+    "model": "SERIES 92",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SUPER 6",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SUPER SIX",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "WASP",
+    "count": 1,
+    "submodels": [
+      "1952"
+    ]
+  }
+]

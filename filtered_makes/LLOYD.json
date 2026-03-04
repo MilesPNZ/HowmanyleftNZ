@@ -1,0 +1,23 @@
+[
+  {
+    "model": "350",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "600",
+    "count": 1,
+    "submodels": [
+      "LP"
+    ]
+  },
+  {
+    "model": "ALEXANDER",
+    "count": 1,
+    "submodels": [
+      "600"
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "model": "OVERLAND",
+    "count": 21,
+    "submodels": [
+      "93",
+      "96 WHIPPET",
+      "98B SEDAN",
+      "Base",
+      "COUPE",
+      "HOLDEN BODIED",
+      "SEDAN",
+      "TOURER",
+      "WHIPPET",
+      "WIPPET",
+      "WIPPET 4"
+    ]
+  },
+  {
+    "model": "WHIPPET",
+    "count": 12,
+    "submodels": [
+      "96-A",
+      "96A",
+      "Base",
+      "FOUR",
+      "FOUR 96A",
+      "ROADSTER",
+      "SEDAN"
+    ]
+  },
+  {
+    "model": "JEEP",
+    "count": 8,
+    "submodels": [
+      "1/4 TON",
+      "Base",
+      "M B WILLEYS",
+      "M38A1",
+      "MB",
+      "STATIONWAGON"
+    ]
+  },
+  {
+    "model": "KNIGHT",
+    "count": 8,
+    "submodels": [
+      "20A",
+      "66A",
+      "66B",
+      "Base",
+      "GREAT SIX",
+      "PICKUP",
+      "ROADSTER"
+    ]
+  },
+  {
+    "model": "CUSTOM",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "DELUX",
+      "REPLICA"
+    ]
+  },
+  {
+    "model": "37",
+    "count": 2,
+    "submodels": [
+      "4 DOOR SEDAN",
+      "Base"
+    ]
+  },
+  {
+    "model": "77",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "77SEDAN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "S W",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "SW",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "WHIPPET 96A",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

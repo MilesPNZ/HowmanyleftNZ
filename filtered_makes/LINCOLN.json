@@ -1,0 +1,148 @@
+[
+  {
+    "model": "CONTINENTAL",
+    "count": 195,
+    "submodels": [
+      "12",
+      "1V",
+      "AGNEW",
+      "Base",
+      "CONTINENTIAL",
+      "COUPE",
+      "MARK",
+      "MARK  V",
+      "MARK 5",
+      "MARK III",
+      "MARK IV",
+      "MARK V",
+      "MARK VI",
+      "MARKIV",
+      "MARKV",
+      "MK 4",
+      "MK 7 LSC",
+      "MK V",
+      "MK3",
+      "MK4 2T",
+      "PREMIERE",
+      "TOWN CAR",
+      "TOWN COUPE",
+      "TOWNCAR",
+      "TOWNCAR STRECH LIMO"
+    ]
+  },
+  {
+    "model": "TOWNCAR",
+    "count": 53,
+    "submodels": [
+      "Base",
+      "K",
+      "LIMO",
+      "SIGNATURE",
+      "SIGNATURE SERIES",
+      "STRETCH LIMO",
+      "STRETCH LIMOUSINE"
+    ]
+  },
+  {
+    "model": "PREMIERE",
+    "count": 8,
+    "submodels": [
+      "Base",
+      "COUPE",
+      "LANDAU"
+    ]
+  },
+  {
+    "model": "CAPRI",
+    "count": 6,
+    "submodels": [
+      "120",
+      "1955",
+      "Base",
+      "COUPE"
+    ]
+  },
+  {
+    "model": "NAVIGATOR",
+    "count": 6,
+    "submodels": [
+      "Base",
+      "L"
+    ]
+  },
+  {
+    "model": "ZEPHYR",
+    "count": 4,
+    "submodels": [
+      "Base",
+      "V12"
+    ]
+  },
+  {
+    "model": "MARK VIII",
+    "count": 3,
+    "submodels": [
+      "32V INTECH V8",
+      "Base"
+    ]
+  },
+  {
+    "model": "BLACKWOOD",
+    "count": 2,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "COSMOPOLITAN",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "SPORT SEDAN"
+    ]
+  },
+  {
+    "model": "KB",
+    "count": 2,
+    "submodels": [
+      "7 PASSENGER LIMOSINE",
+      "DIETRICH CONV SEDAN"
+    ]
+  },
+  {
+    "model": "MARK VII",
+    "count": 2,
+    "submodels": [
+      "LSC",
+      "MKVII  COUPE"
+    ]
+  },
+  {
+    "model": "7 PASSENGER SEDAN",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LS",
+    "count": 1,
+    "submodels": [
+      "400"
+    ]
+  },
+  {
+    "model": "TOWN CAR",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "VERSAILLES",
+    "count": 1,
+    "submodels": [
+      "Base"
+    ]
+  }
+]

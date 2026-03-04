@@ -1,0 +1,10 @@
+[
+  {
+    "model": "CROWN",
+    "count": 2,
+    "submodels": [
+      "Base",
+      "CROWN"
+    ]
+  }
+]

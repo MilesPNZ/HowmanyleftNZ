@@ -1,0 +1,52 @@
+[
+  {
+    "model": "G70",
+    "count": 25,
+    "submodels": [
+      "2.0PT/8AT",
+      "SPORT 3.3PT/8AT",
+      "ULTIMATE 2.0PT",
+      "ULTIMATE 3.3PT",
+      "ULTIMATE SPORT 3.3PT"
+    ]
+  },
+  {
+    "model": "GV70",
+    "count": 11,
+    "submodels": [
+      "3.5T",
+      "77KWH/EV/4WD/AT",
+      "Base",
+      "ELECTRIFIED",
+      "ELECTRIFLIED"
+    ]
+  },
+  {
+    "model": "G80",
+    "count": 8,
+    "submodels": [
+      "2.5PT/8AT",
+      "3.5PT/4WD/8AT",
+      "87KWH/EV/AT",
+      "Base",
+      "SPORT DESIGN 3.8P",
+      "ULTIMATE SPORT 3.8P"
+    ]
+  },
+  {
+    "model": "GV60",
+    "count": 3,
+    "submodels": [
+      "77KWH/EV/4WD/AT",
+      "Base"
+    ]
+  },
+  {
+    "model": "GV80",
+    "count": 3,
+    "submodels": [
+      "3.5 T-GDI AWD (6P)",
+      "3.5T AWD"
+    ]
+  }
+]

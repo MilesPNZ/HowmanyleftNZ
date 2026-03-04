@@ -1,0 +1,17 @@
+[
+  {
+    "model": "LD10",
+    "count": 3,
+    "submodels": [
+      "Base"
+    ]
+  },
+  {
+    "model": "LEDA",
+    "count": 3,
+    "submodels": [
+      "Base",
+      "LJ200"
+    ]
+  }
+]

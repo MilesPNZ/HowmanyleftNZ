@@ -1,0 +1,96 @@
+[
+  {
+    "model": "TARRACO",
+    "count": 211,
+    "submodels": [
+      "FR 1.4P/6AM",
+      "FR 4DRIVE 2.0P/4WD",
+      "STYLE 1.4P/6AM",
+      "STYLE 4DRIVE 2.0P",
+      "XCELLENCE 1.4P",
+      "XCELLENCE 4DRIVE 2.0"
+    ]
+  },
+  {
+    "model": "ATECA",
+    "count": 192,
+    "submodels": [
+      "Base",
+      "EXCELLANCE TDI",
+      "FR 1.4P/7AM",
+      "FR 1.4P/8AT",
+      "FR 4DRIVE 2.0P/4WD",
+      "SE TSI",
+      "STYLE 1.4P/7AM",
+      "STYLE 1.4P/8AT",
+      "XCELLENCE 1.4P/7AM",
+      "XCELLENCE 4DRIVE 2.0",
+      "XPERIENCE 1.4P"
+    ]
+  },
+  {
+    "model": "ARONA",
+    "count": 176,
+    "submodels": [
+      "FR 1.0P/7AM",
+      "FR 1.6P/6AT",
+      "FR 110 1.5P/7AM",
+      "STYLE 1.0P/7AM",
+      "STYLE 1.6P/6AT"
+    ]
+  },
+  {
+    "model": "LEON",
+    "count": 120,
+    "submodels": [
+      "2.0V TURBO CUPRA",
+      "Base",
+      "CUPRA 2.0P/6AM",
+      "CUPRA 2.0P/7AM",
+      "CUPRA DSG 2.0P/6AM",
+      "CUPRA MANUAL 2.0P",
+      "CUPRA TSI",
+      "FR 1.4P/7AM",
+      "FR 1.5PMH/7AM",
+      "FR SPORTSTOURER 1.5P",
+      "SE TECHNOLOGY TSI",
+      "TFSI FR"
+    ]
+  },
+  {
+    "model": "CUPRA",
+    "count": 75,
+    "submodels": [
+      "ATECA 2.0P/4WD/7AM"
+    ]
+  },
+  {
+    "model": "IBIZA",
+    "count": 37,
+    "submodels": [
+      "Base",
+      "FR 110 1.5P/7AM",
+      "STYLE 1.0P/7AM",
+      "TOCA",
+      "TSI"
+    ]
+  },
+  {
+    "model": "CORDOBA",
+    "count": 7,
+    "submodels": [
+      "1.6 MANUAL",
+      "1.8 AUTO",
+      "VARIO"
+    ]
+  },
+  {
+    "model": "ALHAMBRA",
+    "count": 3,
+    "submodels": [
+      "STYLANCE TDI",
+      "TDI",
+      "XCELLENCE TDI"
+    ]
+  }
+]
